@@ -1,11 +1,11 @@
 [
   {
     "id": "q001",
-    "chapter": "उत्तराखण्ड - राजनीतिक व प्रशासनिक ढाँचा",
-    "topic": "विधानसभा व लोकसभा",
+    "chapter": "Uttarakhand - Political & Administrative Structure",
+    "topic": "Legislative Assembly & Lok Sabha",
     "difficulty": "easy",
     "type": "direct",
-    "question": "उत्तराखण्ड विधानसभा में कुल आरक्षित (SC + ST) सीटों की संख्या कितनी है?",
+    "question": "What is the total number of reserved (SC + ST) seats in the Uttarakhand Legislative Assembly?",
     "options": [
       "16",
       "14",
@@ -13,16 +13,16 @@
       "18"
     ],
     "correct_option": 0,
-    "explanation": "कुल 16 आरक्षित सीटें: 14 SC + 2 ST।",
+    "explanation": "A total of 16 reserved seats: 14 SC + 2 ST.",
     "source_page": 9
   },
   {
     "id": "q002",
-    "chapter": "उत्तराखण्ड - राजनीतिक व प्रशासनिक ढाँचा",
-    "topic": "विधानसभा व लोकसभा",
+    "chapter": "Uttarakhand - Political & Administrative Structure",
+    "topic": "Legislative Assembly & Lok Sabha",
     "difficulty": "easy",
     "type": "direct",
-    "question": "उत्तराखण्ड विधानसभा में अनुसूचित जाति (SC) के लिए कितनी सीटें आरक्षित हैं?",
+    "question": "How many seats are reserved for Scheduled Castes (SC) in the Uttarakhand Legislative Assembly?",
     "options": [
       "16",
       "14",
@@ -30,135 +30,135 @@
       "10"
     ],
     "correct_option": 1,
-    "explanation": "SC के लिए 14 विधानसभा सीटें आरक्षित हैं।",
+    "explanation": "14 Assembly seats are reserved for SC.",
     "source_page": 9
   },
   {
     "id": "q003",
-    "chapter": "उत्तराखण्ड - राजनीतिक व प्रशासनिक ढाँचा",
-    "topic": "विधानसभा व लोकसभा",
+    "chapter": "Uttarakhand - Political & Administrative Structure",
+    "topic": "Legislative Assembly & Lok Sabha",
     "difficulty": "medium",
     "type": "direct",
-    "question": "SC के लिए आरक्षित 14 विधानसभा सीटों में से सर्वाधिक सीटें किस जिले में हैं?",
+    "question": "Among the 14 Assembly seats reserved for SC, which district has the highest number of such seats?",
     "options": [
-      "देहरादून (3 सीटें)",
-      "ऊधमसिंह नगर (3 सीटें)",
-      "हरिद्वार (3 सीटें)",
-      "टिहरी गढ़वाल (2 सीटें)"
+      "Dehradun (3 seats)",
+      "Udham Singh Nagar (3 seats)",
+      "Haridwar (3 seats)",
+      "Tehri Garhwal (2 seats)"
     ],
     "correct_option": 2,
-    "explanation": "हरिद्वार में 3 तथा अन्य जिलों में 1-1 सीट आरक्षित है।",
+    "explanation": "Haridwar has 3 reserved seats, while the other districts have 1 each.",
     "source_page": 9
   },
   {
     "id": "q004",
-    "chapter": "उत्तराखण्ड - राजनीतिक व प्रशासनिक ढाँचा",
-    "topic": "विधानसभा व लोकसभा",
+    "chapter": "Uttarakhand - Political & Administrative Structure",
+    "topic": "Legislative Assembly & Lok Sabha",
     "difficulty": "medium",
     "type": "direct",
-    "question": "अनुसूचित जनजाति (ST) के लिए आरक्षित दो विधानसभा सीटें कौन-सी हैं?",
+    "question": "Which are the two Assembly seats reserved for Scheduled Tribes (ST)?",
     "options": [
-      "चकराता (देहरादून) व खटीमा (ऊ.सि.नगर)",
-      "पुरोला (उत्तरकाशी) व नानकमत्ता (ऊ.सि.नगर)",
-      "चकराता (देहरादून) व रुड़की (हरिद्वार)",
-      "चकराता (देहरादून) व नानकमत्ता (ऊ.सि.नगर)"
+      "Chakrata (Dehradun) and Khatima (U.S. Nagar)",
+      "Puraula (Uttarkashi) and Nanakmatta (U.S. Nagar)",
+      "Chakrata (Dehradun) and Roorkee (Haridwar)",
+      "Chakrata (Dehradun) and Nanakmatta (U.S. Nagar)"
     ],
     "correct_option": 3,
-    "explanation": "ST के लिए चकराता (देहरादून) और नानकमत्ता (ऊ.सि.नगर) आरक्षित हैं।",
+    "explanation": "The ST-reserved seats are Chakrata (Dehradun) and Nanakmatta (U.S. Nagar).",
     "source_page": 9
   },
   {
     "id": "q005",
-    "chapter": "उत्तराखण्ड - राजनीतिक व प्रशासनिक ढाँचा",
-    "topic": "विधानसभा व लोकसभा",
+    "chapter": "Uttarakhand - Political & Administrative Structure",
+    "topic": "Legislative Assembly & Lok Sabha",
     "difficulty": "easy",
     "type": "direct",
-    "question": "उत्तराखण्ड में सर्वाधिक विधानसभा सीटें किस जिले में हैं?",
+    "question": "Which district of Uttarakhand has the highest number of Assembly seats?",
     "options": [
-      "हरिद्वार (11)",
-      "देहरादून (11)",
-      "ऊधमसिंह नगर (11)",
-      "नैनीताल (11)"
+      "Haridwar (11)",
+      "Dehradun (11)",
+      "Udham Singh Nagar (11)",
+      "Nainital (11)"
     ],
     "correct_option": 0,
-    "explanation": "हरिद्वार में सर्वाधिक 11 विधानसभा सीटें हैं।",
+    "explanation": "Haridwar has the highest number of Assembly seats, 11.",
     "source_page": 9
   },
   {
     "id": "q006",
-    "chapter": "उत्तराखण्ड - राजनीतिक व प्रशासनिक ढाँचा",
-    "topic": "विधानसभा व लोकसभा",
+    "chapter": "Uttarakhand - Political & Administrative Structure",
+    "topic": "Legislative Assembly & Lok Sabha",
     "difficulty": "hard",
     "type": "direct",
-    "question": "सबसे कम (2-2) विधानसभा सीटों वाले जिले कौन-से हैं?",
+    "question": "Which districts have the lowest number (2 each) of Assembly seats?",
     "options": [
-      "बागेश्वर, रुद्रप्रयाग व चमोली",
-      "बागेश्वर, रुद्रप्रयाग व चम्पावत",
-      "रुद्रप्रयाग, चम्पावत व उत्तरकाशी",
-      "बागेश्वर, चम्पावत व पिथौरागढ़"
+      "Bageshwar, Rudraprayag and Chamoli",
+      "Bageshwar, Rudraprayag and Champawat",
+      "Rudraprayag, Champawat and Uttarkashi",
+      "Bageshwar, Champawat and Pithoragarh"
     ],
     "correct_option": 1,
-    "explanation": "बागेश्वर, रुद्रप्रयाग व चम्पावत में 2-2 सीटें हैं।",
+    "explanation": "Bageshwar, Rudraprayag and Champawat have 2 seats each.",
     "source_page": 9
   },
   {
     "id": "q007",
-    "chapter": "उत्तराखण्ड - राजनीतिक व प्रशासनिक ढाँचा",
-    "topic": "विधानसभा व लोकसभा",
+    "chapter": "Uttarakhand - Political & Administrative Structure",
+    "topic": "Legislative Assembly & Lok Sabha",
     "difficulty": "easy",
     "type": "direct",
-    "question": "उत्तराखण्ड में प्रथम विधानसभा चुनाव कब हुए?",
+    "question": "When was the first Legislative Assembly election held in Uttarakhand?",
     "options": [
-      "14 मार्च 2002",
-      "9 नवम्बर 2000",
-      "14 फरवरी 2002",
-      "1 मार्च 2002"
+      "14 March 2002",
+      "9 November 2000",
+      "14 February 2002",
+      "1 March 2002"
     ],
     "correct_option": 2,
-    "explanation": "प्रथम चुनाव 14 फरवरी 2002 को हुआ।",
+    "explanation": "The first election was held on 14 February 2002.",
     "source_page": 9
   },
   {
     "id": "q008",
-    "chapter": "उत्तराखण्ड - राजनीतिक व प्रशासनिक ढाँचा",
-    "topic": "विधानसभा व लोकसभा",
+    "chapter": "Uttarakhand - Political & Administrative Structure",
+    "topic": "Legislative Assembly & Lok Sabha",
     "difficulty": "medium",
     "type": "direct",
-    "question": "उत्तराखण्ड की प्रथम विधानसभा का गठन कब हुआ?",
+    "question": "When was the first Legislative Assembly of Uttarakhand constituted?",
     "options": [
-      "14 फरवरी 2002",
-      "1 मार्च 2002",
-      "9 नवम्बर 2000",
-      "14-15 मार्च 2002"
+      "14 February 2002",
+      "1 March 2002",
+      "9 November 2000",
+      "14-15 March 2002"
     ],
     "correct_option": 3,
-    "explanation": "प्रथम विधानसभा का गठन 14-15 मार्च 2002 को हुआ।",
+    "explanation": "The first Assembly was constituted on 14-15 March 2002.",
     "source_page": 9
   },
   {
     "id": "q009",
-    "chapter": "उत्तराखण्ड - राजनीतिक व प्रशासनिक ढाँचा",
-    "topic": "विधानसभा व लोकसभा",
+    "chapter": "Uttarakhand - Political & Administrative Structure",
+    "topic": "Legislative Assembly & Lok Sabha",
     "difficulty": "hard",
     "type": "direct",
-    "question": "प्रथम से पंचम विधानसभा चुनाव में विजयी महिलाओं की संख्या क्रमशः कितनी रही?",
+    "question": "What was the number of women elected from the first to the fifth Assembly elections respectively?",
     "options": [
-      "4, 4, 5, 5 व 8",
-      "4, 5, 5, 6 व 8",
-      "3, 4, 5, 5 व 8",
-      "4, 4, 5, 8 व 5"
+      "4, 4, 5, 5 and 8",
+      "4, 5, 5, 6 and 8",
+      "3, 4, 5, 5 and 8",
+      "4, 4, 5, 8 and 5"
     ],
     "correct_option": 0,
-    "explanation": "पुस्तक के अनुसार क्रमशः 4, 4, 5, 5 व 8 महिलाएँ विजयी रहीं।",
+    "explanation": "According to the book, 4, 4, 5, 5 and 8 women were elected respectively.",
     "source_page": 9
   },
   {
     "id": "q010",
-    "chapter": "उत्तराखण्ड - राजनीतिक व प्रशासनिक ढाँचा",
-    "topic": "विधानसभा व लोकसभा",
+    "chapter": "Uttarakhand - Political & Administrative Structure",
+    "topic": "Legislative Assembly & Lok Sabha",
     "difficulty": "easy",
     "type": "direct",
-    "question": "उत्तराखण्ड में लोकसभा सीटों की संख्या कितनी है?",
+    "question": "What is the number of Lok Sabha seats of Uttarakhand?",
     "options": [
       "3",
       "5",
@@ -166,67 +166,67 @@
       "6"
     ],
     "correct_option": 1,
-    "explanation": "5 लोकसभा सीटें: टिहरी, पौड़ी, अल्मोड़ा, नैनीताल व हरिद्वार।",
+    "explanation": "5 Lok Sabha seats: Tehri, Pauri, Almora, Nainital and Haridwar.",
     "source_page": 9
   },
   {
     "id": "q011",
-    "chapter": "उत्तराखण्ड - राजनीतिक व प्रशासनिक ढाँचा",
-    "topic": "विधानसभा व लोकसभा",
+    "chapter": "Uttarakhand - Political & Administrative Structure",
+    "topic": "Legislative Assembly & Lok Sabha",
     "difficulty": "medium",
     "type": "direct",
-    "question": "क्षेत्रफल की दृष्टि से सबसे छोटी लेकिन मतदाताओं की दृष्टि से सबसे बड़ी लोकसभा सीट कौन-सी है?",
+    "question": "Which Lok Sabha seat is the smallest in area but the largest in terms of voters?",
     "options": [
-      "पौड़ी गढ़वाल",
-      "टिहरी गढ़वाल",
-      "हरिद्वार",
-      "नैनीताल-ऊधमसिंह नगर"
+      "Pauri Garhwal",
+      "Tehri Garhwal",
+      "Haridwar",
+      "Nainital-Udham Singh Nagar"
     ],
     "correct_option": 2,
-    "explanation": "क्षेत्रफल में सबसे छोटी पर मतदाताओं में सबसे बड़ी सीट हरिद्वार है।",
+    "explanation": "Smallest in area but largest in voters, the seat is Haridwar.",
     "source_page": 9
   },
   {
     "id": "q012",
-    "chapter": "उत्तराखण्ड - राजनीतिक व प्रशासनिक ढाँचा",
-    "topic": "विधानसभा व लोकसभा",
+    "chapter": "Uttarakhand - Political & Administrative Structure",
+    "topic": "Legislative Assembly & Lok Sabha",
     "difficulty": "medium",
     "type": "direct",
-    "question": "क्षेत्रफल की दृष्टि से सबसे बड़ी लेकिन मतदाताओं की दृष्टि से सबसे छोटी लोकसभा सीट कौन-सी है?",
+    "question": "Which Lok Sabha seat is the largest in area but the smallest in terms of voters?",
     "options": [
-      "हरिद्वार",
-      "अल्मोड़ा",
-      "टिहरी गढ़वाल",
-      "पौड़ी गढ़वाल"
+      "Haridwar",
+      "Almora",
+      "Tehri Garhwal",
+      "Pauri Garhwal"
     ],
     "correct_option": 3,
-    "explanation": "क्षेत्रफल में सबसे बड़ी पर मतदाताओं में सबसे छोटी सीट पौड़ी गढ़वाल है।",
+    "explanation": "Largest in area but smallest in voters, the seat is Pauri Garhwal.",
     "source_page": 9
   },
   {
     "id": "q013",
-    "chapter": "उत्तराखण्ड - राजनीतिक व प्रशासनिक ढाँचा",
-    "topic": "विधानसभा व लोकसभा",
+    "chapter": "Uttarakhand - Political & Administrative Structure",
+    "topic": "Legislative Assembly & Lok Sabha",
     "difficulty": "easy",
     "type": "direct",
-    "question": "उत्तराखण्ड की कौन-सी लोकसभा सीट SC वर्ग के लिए आरक्षित है?",
+    "question": "Which Lok Sabha seat of Uttarakhand is reserved for the SC category?",
     "options": [
-      "अल्मोड़ा",
-      "हरिद्वार",
-      "पौड़ी गढ़वाल",
-      "नैनीताल"
+      "Almora",
+      "Haridwar",
+      "Pauri Garhwal",
+      "Nainital"
     ],
     "correct_option": 0,
-    "explanation": "SC हेतु आरक्षित लोकसभा सीट: 1 (अल्मोड़ा)।",
+    "explanation": "The SC-reserved Lok Sabha seat: 1 (Almora).",
     "source_page": 9
   },
   {
     "id": "q014",
-    "chapter": "उत्तराखण्ड - राजनीतिक व प्रशासनिक ढाँचा",
-    "topic": "विधानसभा व लोकसभा",
+    "chapter": "Uttarakhand - Political & Administrative Structure",
+    "topic": "Legislative Assembly & Lok Sabha",
     "difficulty": "easy",
     "type": "direct",
-    "question": "उत्तराखण्ड से राज्यसभा की कुल कितनी सीटें हैं?",
+    "question": "How many Rajya Sabha seats does Uttarakhand have in total?",
     "options": [
       "2",
       "3",
@@ -234,67 +234,67 @@
       "5"
     ],
     "correct_option": 1,
-    "explanation": "राज्यसभा सीटों की संख्या 3 है।",
+    "explanation": "The number of Rajya Sabha seats is 3.",
     "source_page": 9
   },
   {
     "id": "q015",
-    "chapter": "उत्तराखण्ड - राजनीतिक व प्रशासनिक ढाँचा",
-    "topic": "न्यायपालिका",
+    "chapter": "Uttarakhand - Political & Administrative Structure",
+    "topic": "Judiciary",
     "difficulty": "medium",
     "type": "direct",
-    "question": "संविधान के किस अनुच्छेद में प्रत्येक राज्य हेतु एक-एक उच्च न्यायालय की व्यवस्था है?",
+    "question": "In which Article of the Constitution is provision made for one High Court for each state?",
     "options": [
-      "अनुच्छेद 124",
-      "अनुच्छेद 226",
-      "अनुच्छेद 214",
-      "अनुच्छेद 231"
+      "Article 124",
+      "Article 226",
+      "Article 214",
+      "Article 231"
     ],
     "correct_option": 2,
-    "explanation": "अनुच्छेद 214 राज्यों हेतु एक-एक उच्च न्यायालय की व्यवस्था करता है।",
+    "explanation": "Article 214 provides for one High Court for each state.",
     "source_page": 9
   },
   {
     "id": "q016",
-    "chapter": "उत्तराखण्ड - राजनीतिक व प्रशासनिक ढाँचा",
-    "topic": "न्यायपालिका",
+    "chapter": "Uttarakhand - Political & Administrative Structure",
+    "topic": "Judiciary",
     "difficulty": "easy",
     "type": "direct",
-    "question": "उत्तराखण्ड उच्च न्यायालय की स्थापना कब हुई?",
+    "question": "When was the Uttarakhand High Court established?",
     "options": [
-      "1 मार्च 2002",
-      "14 फरवरी 2002",
-      "8 अगस्त 2001",
-      "9 नवम्बर 2000"
+      "1 March 2002",
+      "14 February 2002",
+      "8 August 2001",
+      "9 November 2000"
     ],
     "correct_option": 3,
-    "explanation": "स्थापना 9 नवम्बर 2000 को नैनीताल में हुई।",
+    "explanation": "It was established on 9 November 2000 at Nainital.",
     "source_page": 9
   },
   {
     "id": "q017",
-    "chapter": "उत्तराखण्ड - राजनीतिक व प्रशासनिक ढाँचा",
-    "topic": "न्यायपालिका",
+    "chapter": "Uttarakhand - Political & Administrative Structure",
+    "topic": "Judiciary",
     "difficulty": "medium",
     "type": "direct",
-    "question": "उत्तराखण्ड उच्च न्यायालय देश का कौन-सा उच्च न्यायालय है?",
+    "question": "The Uttarakhand High Court is which High Court of the country?",
     "options": [
-      "18वाँ",
-      "16वाँ",
-      "17वाँ",
-      "19वाँ"
+      "18th",
+      "16th",
+      "17th",
+      "19th"
     ],
     "correct_option": 0,
-    "explanation": "यह देश का 18वाँ उच्च न्यायालय है, जो नैनीताल में स्थित है।",
+    "explanation": "It is the 18th High Court of the country, located at Nainital.",
     "source_page": 9
   },
   {
     "id": "q018",
-    "chapter": "उत्तराखण्ड - राजनीतिक व प्रशासनिक ढाँचा",
-    "topic": "न्यायपालिका",
+    "chapter": "Uttarakhand - Political & Administrative Structure",
+    "topic": "Judiciary",
     "difficulty": "hard",
     "type": "direct",
-    "question": "पुस्तक के अनुसार उत्तराखण्ड उच्च न्यायालय में मुख्य न्यायाधीश सहित कुल न्यायाधीशों की संख्या कितनी है?",
+    "question": "According to the book, what is the total number of judges, including the Chief Justice, in the Uttarakhand High Court?",
     "options": [
       "9",
       "11",
@@ -302,16 +302,16 @@
       "13"
     ],
     "correct_option": 1,
-    "explanation": "पुस्तक में मुख्य न्यायाधीश सहित कुल 11 न्यायाधीश दिए गए हैं।",
+    "explanation": "The book lists a total of 11 judges including the Chief Justice.",
     "source_page": 9
   },
   {
     "id": "q019",
-    "chapter": "उत्तराखण्ड - राजनीतिक व प्रशासनिक ढाँचा",
-    "topic": "न्यायपालिका",
+    "chapter": "Uttarakhand - Political & Administrative Structure",
+    "topic": "Judiciary",
     "difficulty": "hard",
     "type": "direct",
-    "question": "सितम्बर 2024 तक राज्य में कितनी स्थायी लोक अदालतें गठित की जा चुकी थीं?",
+    "question": "By September 2024, how many permanent Lok Adalats had been constituted in the state?",
     "options": [
       "05",
       "06",
@@ -319,101 +319,101 @@
       "09"
     ],
     "correct_option": 2,
-    "explanation": "पुस्तक के अनुसार 07 स्थायी लोक अदालतें गठित हुईं (सितम्बर 2024)।",
+    "explanation": "According to the book, 07 permanent Lok Adalats had been constituted (September 2024).",
     "source_page": 9
   },
   {
     "id": "q020",
-    "chapter": "उत्तराखण्ड - राजनीतिक व प्रशासनिक ढाँचा",
-    "topic": "न्यायपालिका",
+    "chapter": "Uttarakhand - Political & Administrative Structure",
+    "topic": "Judiciary",
     "difficulty": "hard",
     "type": "direct",
-    "question": "राज्य की क्रियाशील (04) स्थायी लोक अदालतें किन जिलों में हैं?",
+    "question": "In which districts are the active (04) permanent Lok Adalats of the state?",
     "options": [
-      "अल्मोड़ा, पौड़ी गढ़वाल, टिहरी गढ़वाल व देहरादून",
-      "देहरादून, हरिद्वार, पौड़ी गढ़वाल व टिहरी गढ़वाल",
-      "हरिद्वार, नैनीताल, अल्मोड़ा व ऊधमसिंह नगर",
-      "देहरादून, हरिद्वार, नैनीताल व ऊधमसिंह नगर"
+      "Almora, Pauri Garhwal, Tehri Garhwal and Dehradun",
+      "Dehradun, Haridwar, Pauri Garhwal and Tehri Garhwal",
+      "Haridwar, Nainital, Almora and Udham Singh Nagar",
+      "Dehradun, Haridwar, Nainital and Udham Singh Nagar"
     ],
     "correct_option": 3,
-    "explanation": "क्रियाशील 04: देहरादून, हरिद्वार, नैनीताल व उ.सि.नगर।",
+    "explanation": "The active 4: Dehradun, Haridwar, Nainital and U.S. Nagar.",
     "source_page": 9
   },
   {
     "id": "q021",
-    "chapter": "उत्तराखण्ड - राजनीतिक व प्रशासनिक ढाँचा",
-    "topic": "न्यायपालिका",
+    "chapter": "Uttarakhand - Political & Administrative Structure",
+    "topic": "Judiciary",
     "difficulty": "medium",
     "type": "direct",
-    "question": "उत्तराखण्ड में औद्योगिक न्यायाधिकरण कहाँ स्थित है?",
+    "question": "Where is the Industrial Tribunal of Uttarakhand located?",
     "options": [
-      "हल्द्वानी",
-      "देहरादून",
-      "हरिद्वार",
-      "काशीपुर"
+      "Haldwani",
+      "Dehradun",
+      "Haridwar",
+      "Kashipur"
     ],
     "correct_option": 0,
-    "explanation": "प्रदेश में एक औद्योगिक न्यायाधिकरण हल्द्वानी में है।",
+    "explanation": "The state has one Industrial Tribunal, located at Haldwani.",
     "source_page": 9
   },
   {
     "id": "q022",
-    "chapter": "उत्तराखण्ड - राजनीतिक व प्रशासनिक ढाँचा",
-    "topic": "न्यायपालिका",
+    "chapter": "Uttarakhand - Political & Administrative Structure",
+    "topic": "Judiciary",
     "difficulty": "hard",
     "type": "direct",
-    "question": "उत्तराखण्ड में तीन श्रम न्यायालय कहाँ-कहाँ स्थित हैं?",
+    "question": "Where are the three Labour Courts of Uttarakhand located?",
     "options": [
-      "देहरादून, हल्द्वानी व काशीपुर",
-      "देहरादून, हरिद्वार व काशीपुर",
-      "हरिद्वार, रुद्रपुर व हल्द्वानी",
-      "देहरादून, हरिद्वार व हल्द्वानी"
+      "Dehradun, Haldwani and Kashipur",
+      "Dehradun, Haridwar and Kashipur",
+      "Haridwar, Rudrapur and Haldwani",
+      "Dehradun, Haridwar and Haldwani"
     ],
     "correct_option": 1,
-    "explanation": "तीन श्रम न्यायालय: देहरादून, हरिद्वार व काशीपुर।",
+    "explanation": "The three Labour Courts: Dehradun, Haridwar and Kashipur.",
     "source_page": 9
   },
   {
     "id": "q023",
-    "chapter": "उत्तराखण्ड - राजनीतिक व प्रशासनिक ढाँचा",
-    "topic": "प्रशासनिक इकाइयाँ",
+    "chapter": "Uttarakhand - Political & Administrative Structure",
+    "topic": "Administrative Units",
     "difficulty": "easy",
     "type": "direct",
-    "question": "उत्तराखण्ड में सम्भागों (मण्डलों) की संख्या कितनी है?",
+    "question": "How many divisions are there in Uttarakhand?",
     "options": [
-      "3 (गढ़वाल, कुमाऊँ व तराई)",
+      "3 (Garhwal, Kumaun and Terai)",
       "4",
-      "2 (गढ़वाल व कुमाऊँ)",
+      "2 (Garhwal and Kumaun)",
       "1"
     ],
     "correct_option": 2,
-    "explanation": "2 मण्डल: गढ़वाल व कुमाऊँ।",
+    "explanation": "There are 2 divisions: Garhwal and Kumaun.",
     "source_page": 9
   },
   {
     "id": "q024",
-    "chapter": "उत्तराखण्ड - राजनीतिक व प्रशासनिक ढाँचा",
-    "topic": "प्रशासनिक इकाइयाँ",
+    "chapter": "Uttarakhand - Political & Administrative Structure",
+    "topic": "Administrative Units",
     "difficulty": "easy",
     "type": "direct",
-    "question": "सर्वाधिक जिलों वाला मण्डल कौन-सा है?",
+    "question": "Which division has the highest number of districts?",
     "options": [
-      "कुमाऊँ मण्डल (7 जिले)",
-      "गढ़वाल मण्डल (6 जिले)",
-      "कुमाऊँ मण्डल (6 जिले)",
-      "गढ़वाल मण्डल (7 जिले)"
+      "Kumaun Division (7 districts)",
+      "Garhwal Division (6 districts)",
+      "Kumaun Division (6 districts)",
+      "Garhwal Division (7 districts)"
     ],
     "correct_option": 3,
-    "explanation": "गढ़वाल मण्डल में 7 जिले हैं।",
+    "explanation": "Garhwal Division has 7 districts.",
     "source_page": 9
   },
   {
     "id": "q025",
-    "chapter": "उत्तराखण्ड - राजनीतिक व प्रशासनिक ढाँचा",
-    "topic": "प्रशासनिक इकाइयाँ",
+    "chapter": "Uttarakhand - Political & Administrative Structure",
+    "topic": "Administrative Units",
     "difficulty": "easy",
     "type": "direct",
-    "question": "उत्तराखण्ड में कुल जिलों की संख्या कितनी है?",
+    "question": "What is the total number of districts in Uttarakhand?",
     "options": [
       "13",
       "11",
@@ -421,33 +421,33 @@
       "14"
     ],
     "correct_option": 0,
-    "explanation": "राज्य में कुल 13 जिले हैं।",
+    "explanation": "The state has a total of 13 districts.",
     "source_page": 9
   },
   {
     "id": "q026",
-    "chapter": "उत्तराखण्ड - राजनीतिक व प्रशासनिक ढाँचा",
-    "topic": "प्रशासनिक इकाइयाँ",
+    "chapter": "Uttarakhand - Political & Administrative Structure",
+    "topic": "Administrative Units",
     "difficulty": "easy",
     "type": "direct",
-    "question": "उत्तराखण्ड के मैदानी जिले कौन-से हैं?",
+    "question": "Which are the plains districts of Uttarakhand?",
     "options": [
-      "देहरादून व हरिद्वार",
-      "हरिद्वार व ऊधमसिंह नगर",
-      "ऊधमसिंह नगर व नैनीताल",
-      "हरिद्वार व नैनीताल"
+      "Dehradun and Haridwar",
+      "Haridwar and Udham Singh Nagar",
+      "Udham Singh Nagar and Nainital",
+      "Haridwar and Nainital"
     ],
     "correct_option": 1,
-    "explanation": "कुल जिलों में 2 मैदानी जिले हैं: हरिद्वार व ऊधमसिंह नगर।",
+    "explanation": "Out of all the districts, 2 are in the plains: Haridwar and Udham Singh Nagar.",
     "source_page": 9
   },
   {
     "id": "q027",
-    "chapter": "उत्तराखण्ड - राजनीतिक व प्रशासनिक ढाँचा",
-    "topic": "प्रशासनिक इकाइयाँ",
+    "chapter": "Uttarakhand - Political & Administrative Structure",
+    "topic": "Administrative Units",
     "difficulty": "medium",
     "type": "direct",
-    "question": "पुस्तक के अनुसार (2025) उत्तराखण्ड में उप-जिलों (तहसीलों) की संख्या कितनी है?",
+    "question": "According to the book (2025), how many sub-districts (tehsils) are there in Uttarakhand?",
     "options": [
       "70",
       "95",
@@ -455,50 +455,50 @@
       "123"
     ],
     "correct_option": 2,
-    "explanation": "पुस्तक में तहसीलों की संख्या 110 (2025) दी गई है।",
+    "explanation": "The number of tehsils is given as 110 (2025) in the book.",
     "source_page": 9
   },
   {
     "id": "q028",
-    "chapter": "उत्तराखण्ड - राजनीतिक व प्रशासनिक ढाँचा",
-    "topic": "प्रशासनिक इकाइयाँ",
+    "chapter": "Uttarakhand - Political & Administrative Structure",
+    "topic": "Administrative Units",
     "difficulty": "medium",
     "type": "direct",
-    "question": "सर्वाधिक तहसीलों वाला जिला कौन-सा है?",
+    "question": "Which district has the highest number of tehsils?",
     "options": [
-      "अल्मोड़ा (13 तहसीलें)",
-      "पौड़ी गढ़वाल (13 तहसीलें)",
-      "चमोली (13 तहसीलें)",
-      "पिथौरागढ़ (13 तहसीलें)"
+      "Almora (13 tehsils)",
+      "Pauri Garhwal (13 tehsils)",
+      "Chamoli (13 tehsils)",
+      "Pithoragarh (13 tehsils)"
     ],
     "correct_option": 3,
-    "explanation": "सर्वाधिक तहसीलें पिथौरागढ़ में (13) हैं।",
+    "explanation": "The highest number of tehsils (13) is in Pithoragarh.",
     "source_page": 9
   },
   {
     "id": "q029",
-    "chapter": "उत्तराखण्ड - राजनीतिक व प्रशासनिक ढाँचा",
-    "topic": "प्रशासनिक इकाइयाँ",
+    "chapter": "Uttarakhand - Political & Administrative Structure",
+    "topic": "Administrative Units",
     "difficulty": "hard",
     "type": "direct",
-    "question": "सबसे कम तहसीलों (4-4) वाले जिले कौन-से हैं?",
+    "question": "Which districts have the lowest number (4 each) of tehsils?",
     "options": [
-      "रुद्रप्रयाग व हरिद्वार",
-      "रुद्रप्रयाग व बागेश्वर",
-      "हरिद्वार व चम्पावत",
-      "बागेश्वर व चम्पावत"
+      "Rudraprayag and Haridwar",
+      "Rudraprayag and Bageshwar",
+      "Haridwar and Champawat",
+      "Bageshwar and Champawat"
     ],
     "correct_option": 0,
-    "explanation": "रुद्रप्रयाग व हरिद्वार में 4-4 तहसीलें हैं।",
+    "explanation": "Rudraprayag and Haridwar have 4 tehsils each.",
     "source_page": 9
   },
   {
     "id": "q030",
-    "chapter": "उत्तराखण्ड - राजनीतिक व प्रशासनिक ढाँचा",
-    "topic": "प्रशासनिक इकाइयाँ",
+    "chapter": "Uttarakhand - Political & Administrative Structure",
+    "topic": "Administrative Units",
     "difficulty": "hard",
     "type": "direct",
-    "question": "पुस्तक के अनुसार (2025) उप तहसीलों की संख्या कितनी है?",
+    "question": "According to the book (2025), what is the number of sub-tehsils?",
     "options": [
       "12",
       "18",
@@ -506,152 +506,152 @@
       "110"
     ],
     "correct_option": 1,
-    "explanation": "उप तहसीलों की संख्या 18 (2025) दी गई है।",
+    "explanation": "The number of sub-tehsils is given as 18 (2025).",
     "source_page": 9
   },
   {
     "id": "q031",
-    "chapter": "उत्तराखण्ड - राजनीतिक व प्रशासनिक ढाँचा",
-    "topic": "प्रशासनिक इकाइयाँ",
+    "chapter": "Uttarakhand - Political & Administrative Structure",
+    "topic": "Administrative Units",
     "difficulty": "hard",
     "type": "direct",
-    "question": "अंग्रेजों के समय कुमाऊँ क्षेत्र में कुल परगने व पट्टियाँ क्रमशः कितनी थीं?",
+    "question": "During the British period, how many parganas and pattis did the Kumaon region have respectively?",
     "options": [
-      "11 व 86",
-      "19 व 86",
-      "19 व 125",
-      "11 व 125"
+      "11 and 86",
+      "19 and 86",
+      "19 and 125",
+      "11 and 125"
     ],
     "correct_option": 2,
-    "explanation": "कुमाऊँ में 19 परगने और 125 पट्टियाँ थीं।",
+    "explanation": "Kumaon had 19 parganas and 125 pattis.",
     "source_page": 9
   },
   {
     "id": "q032",
-    "chapter": "उत्तराखण्ड - राजनीतिक व प्रशासनिक ढाँचा",
-    "topic": "प्रशासनिक इकाइयाँ",
+    "chapter": "Uttarakhand - Political & Administrative Structure",
+    "topic": "Administrative Units",
     "difficulty": "hard",
     "type": "direct",
-    "question": "अंग्रेजों के समय गढ़वाल क्षेत्र में कुल परगने व पट्टियाँ क्रमशः कितनी थीं?",
+    "question": "During the British period, how many parganas and pattis did the Garhwal region have respectively?",
     "options": [
-      "19 व 125",
-      "11 व 125",
-      "19 व 86",
-      "11 व 86"
+      "19 and 125",
+      "11 and 125",
+      "19 and 86",
+      "11 and 86"
     ],
     "correct_option": 3,
-    "explanation": "गढ़वाल में 11 परगने और 86 पट्टियाँ थीं।",
+    "explanation": "Garhwal had 11 parganas and 86 pattis.",
     "source_page": 9
   },
   {
     "id": "q033",
-    "chapter": "उत्तराखण्ड - राजनीतिक व प्रशासनिक ढाँचा",
-    "topic": "प्रशासनिक इकाइयाँ",
+    "chapter": "Uttarakhand - Political & Administrative Structure",
+    "topic": "Administrative Units",
     "difficulty": "medium",
     "type": "direct",
-    "question": "सांख्यिकी डायरी 2022-23 के अनुसार राज्य में विकासखण्डों (ब्लॉकों) की कुल संख्या कितनी है?",
+    "question": "According to the Statistical Diary 2022-23, what is the total number of development blocks in the state?",
     "options": [
-      "95 (82 पर्वतीय + 13 मैदानी)",
-      "95 (80 पर्वतीय + 15 मैदानी)",
-      "85 (72 पर्वतीय + 13 मैदानी)",
-      "97 (82 पर्वतीय + 15 मैदानी)"
+      "95 (82 hilly + 13 plains)",
+      "95 (80 hilly + 15 plains)",
+      "85 (72 hilly + 13 plains)",
+      "97 (82 hilly + 15 plains)"
     ],
     "correct_option": 0,
-    "explanation": "कुल 95 विकासखण्ड: 82 पर्वतीय व 13 मैदानी।",
+    "explanation": "A total of 95 development blocks: 82 hilly and 13 plains.",
     "source_page": 9
   },
   {
     "id": "q034",
-    "chapter": "उत्तराखण्ड - राजनीतिक व प्रशासनिक ढाँचा",
-    "topic": "प्रशासनिक इकाइयाँ",
+    "chapter": "Uttarakhand - Political & Administrative Structure",
+    "topic": "Administrative Units",
     "difficulty": "medium",
     "type": "direct",
-    "question": "सर्वाधिक विकासखण्डों वाला जिला कौन-सा है?",
+    "question": "Which district has the highest number of development blocks?",
     "options": [
-      "टिहरी गढ़वाल (15 ब्लॉक)",
-      "पौड़ी गढ़वाल (15 ब्लॉक)",
-      "अल्मोड़ा (15 ब्लॉक)",
-      "पिथौरागढ़ (15 ब्लॉक)"
+      "Tehri Garhwal (15 blocks)",
+      "Pauri Garhwal (15 blocks)",
+      "Almora (15 blocks)",
+      "Pithoragarh (15 blocks)"
     ],
     "correct_option": 1,
-    "explanation": "सर्वाधिक विकासखण्ड पौड़ी (15) में हैं।",
+    "explanation": "The highest number of development blocks (15) is in Pauri.",
     "source_page": 9
   },
   {
     "id": "q035",
-    "chapter": "उत्तराखण्ड - राजनीतिक व प्रशासनिक ढाँचा",
-    "topic": "प्रशासनिक इकाइयाँ",
+    "chapter": "Uttarakhand - Political & Administrative Structure",
+    "topic": "Administrative Units",
     "difficulty": "hard",
     "type": "direct",
-    "question": "सबसे कम (3-3) विकासखण्डों वाले जिले कौन-से हैं?",
+    "question": "Which districts have the lowest (3 each) number of development blocks?",
     "options": [
-      "रुद्रप्रयाग व चम्पावत",
-      "बागेश्वर व चम्पावत",
-      "रुद्रप्रयाग व बागेश्वर",
-      "रुद्रप्रयाग व हरिद्वार"
+      "Rudraprayag and Champawat",
+      "Bageshwar and Champawat",
+      "Rudraprayag and Bageshwar",
+      "Rudraprayag and Haridwar"
     ],
     "correct_option": 2,
-    "explanation": "रुद्रप्रयाग व बागेश्वर में 3-3 ब्लॉक हैं।",
+    "explanation": "Rudraprayag and Bageshwar have 3 blocks each.",
     "source_page": 9
   },
   {
     "id": "q036",
-    "chapter": "उत्तराखण्ड - राजनीतिक व प्रशासनिक ढाँचा",
-    "topic": "प्रशासनिक इकाइयाँ",
+    "chapter": "Uttarakhand - Political & Administrative Structure",
+    "topic": "Administrative Units",
     "difficulty": "medium",
     "type": "statement",
-    "question": "निम्न कथनों पर विचार कीजिए:\n1. राज्य में कुल विकासखण्ड 95 हैं।\n2. इनमें 82 पर्वतीय व 13 मैदानी हैं।\n3. सबसे कम विकासखण्डों वाले जिले बागेश्वर व चम्पावत हैं।\nउपर्युक्त में कौन-से कथन सही हैं?",
+    "question": "Consider the following statements:\n1. The state has a total of 95 development blocks.\n2. Of these, 82 are hilly and 13 are in the plains.\n3. The districts with the fewest development blocks are Bageshwar and Champawat.\nWhich of the above statements are correct?",
     "options": [
-      "केवल 1 व 3",
-      "केवल 2 व 3",
-      "1, 2 व 3 तीनों",
-      "केवल 1 व 2"
+      "Only 1 and 3",
+      "Only 2 and 3",
+      "All three, 1, 2 and 3",
+      "Only 1 and 2"
     ],
     "correct_option": 3,
-    "explanation": "कथन 3 गलत: सबसे कम ब्लॉक रुद्रप्रयाग व बागेश्वर (3-3) में हैं।",
+    "explanation": "Statement 3 is wrong: the fewest blocks (3 each) are in Rudraprayag and Bageshwar.",
     "source_page": 9
   },
   {
     "id": "q037",
-    "chapter": "उत्तराखण्ड - राजनीतिक व प्रशासनिक ढाँचा",
-    "topic": "प्रशासनिक इकाइयाँ",
+    "chapter": "Uttarakhand - Political & Administrative Structure",
+    "topic": "Administrative Units",
     "difficulty": "medium",
     "type": "statement",
-    "question": "निम्न कथनों पर विचार कीजिए:\n1. उत्तराखण्ड में कुल 13 जिले हैं।\n2. मैदानी जिले हरिद्वार व ऊधमसिंह नगर हैं।\n3. सर्वाधिक जिलों वाला मण्डल कुमाऊँ है।\nउपर्युक्त में कौन-से कथन सही हैं?",
+    "question": "Consider the following statements:\n1. Uttarakhand has a total of 13 districts.\n2. The plains districts are Haridwar and Udham Singh Nagar.\n3. The division with the highest number of districts is Kumaun.\nWhich of the above statements are correct?",
     "options": [
-      "केवल 1 व 2",
-      "केवल 2 व 3",
-      "केवल 1 व 3",
-      "1, 2 व 3 तीनों"
+      "Only 1 and 2",
+      "Only 2 and 3",
+      "Only 1 and 3",
+      "All three, 1, 2 and 3"
     ],
     "correct_option": 0,
-    "explanation": "कथन 3 गलत: सर्वाधिक (7) जिले गढ़वाल मण्डल में हैं।",
+    "explanation": "Statement 3 is wrong: the highest number (7) of districts is in the Garhwal Division.",
     "source_page": 9
   },
   {
     "id": "q038",
-    "chapter": "उत्तराखण्ड - राजनीतिक व प्रशासनिक ढाँचा",
-    "topic": "पुलिस व्यवस्था",
+    "chapter": "Uttarakhand - Political & Administrative Structure",
+    "topic": "Police System",
     "difficulty": "medium",
     "type": "direct",
-    "question": "राज्य के लगभग 60 प्रतिशत ग्रामीण क्षेत्रों में कौन-सी पुलिस व्यवस्था लागू है?",
+    "question": "Which police system is in force in about 60 percent of the rural areas of the state?",
     "options": [
-      "सिविल पुलिस व्यवस्था",
-      "राजस्व पुलिस व्यवस्था",
-      "ग्राम रक्षक व्यवस्था",
-      "कमिश्नरी पुलिस व्यवस्था"
+      "Civil Police system",
+      "Revenue Police system",
+      "Village Guard (Gram Rakshak) system",
+      "Commissionerate Police system"
     ],
     "correct_option": 1,
-    "explanation": "लगभग 60% ग्रामीण क्षेत्रों में राजस्व पुलिस व्यवस्था लागू है।",
+    "explanation": "The Revenue Police system is in force in about 60% of the rural areas.",
     "source_page": 9
   },
   {
     "id": "q039",
-    "chapter": "उत्तराखण्ड - राजनीतिक व प्रशासनिक ढाँचा",
-    "topic": "पुलिस व्यवस्था",
+    "chapter": "Uttarakhand - Political & Administrative Structure",
+    "topic": "Police System",
     "difficulty": "hard",
     "type": "direct",
-    "question": "पुस्तक के अनुसार (2022-23) राज्य में कुल पुलिस स्टेशनों की संख्या कितनी है?",
+    "question": "According to the book (2022-23), what is the total number of police stations in the state?",
     "options": [
       "160",
       "157",
@@ -659,33 +659,33 @@
       "170"
     ],
     "correct_option": 2,
-    "explanation": "कुल 166 पुलिस स्टेशन: 160 राजकीय + 4 GRP + 2 साइबर।",
+    "explanation": "A total of 166 police stations: 160 government + 4 GRP + 2 cyber.",
     "source_page": 9
   },
   {
     "id": "q040",
-    "chapter": "उत्तराखण्ड - राजनीतिक व प्रशासनिक ढाँचा",
-    "topic": "पुलिस व्यवस्था",
+    "chapter": "Uttarakhand - Political & Administrative Structure",
+    "topic": "Police System",
     "difficulty": "hard",
     "type": "direct",
-    "question": "राज्य में सर्वाधिक व सबसे कम पुलिस थाने किन जिलों में हैं?",
+    "question": "In which districts are the highest and the lowest numbers of police stations in the state?",
     "options": [
-      "हरिद्वार (21) व रुद्रप्रयाग (5)",
-      "देहरादून (21) व चम्पावत (5)",
-      "नैनीताल (21) व बागेश्वर (5)",
-      "देहरादून (21) व रुद्रप्रयाग (5)"
+      "Haridwar (21) and Rudraprayag (5)",
+      "Dehradun (21) and Champawat (5)",
+      "Nainital (21) and Bageshwar (5)",
+      "Dehradun (21) and Rudraprayag (5)"
     ],
     "correct_option": 3,
-    "explanation": "सर्वाधिक: देहरादून (21); सबसे कम: रुद्रप्रयाग (5)।",
+    "explanation": "Highest: Dehradun (21); lowest: Rudraprayag (5).",
     "source_page": 9
   },
   {
     "id": "q041",
-    "chapter": "उत्तराखण्ड - राजनीतिक व प्रशासनिक ढाँचा",
-    "topic": "पुलिस व्यवस्था",
+    "chapter": "Uttarakhand - Political & Administrative Structure",
+    "topic": "Police System",
     "difficulty": "hard",
     "type": "direct",
-    "question": "राज्य में कुल पुलिस चौकियों की संख्या कितनी है?",
+    "question": "What is the total number of police outposts (chowkis) in the state?",
     "options": [
       "257",
       "166",
@@ -693,84 +693,84 @@
       "275"
     ],
     "correct_option": 0,
-    "explanation": "पुस्तक के अनुसार कुल पुलिस चौकियाँ 257 हैं।",
+    "explanation": "According to the book, the total number of police outposts is 257.",
     "source_page": 9
   },
   {
     "id": "q042",
-    "chapter": "उत्तराखण्ड - राजनीतिक व प्रशासनिक ढाँचा",
-    "topic": "पुलिस व्यवस्था",
+    "chapter": "Uttarakhand - Political & Administrative Structure",
+    "topic": "Police System",
     "difficulty": "medium",
     "type": "direct",
-    "question": "राज्य का प्रथम साइबर थाना कहाँ स्थापित हुआ (25 मार्च 2015 से)?",
+    "question": "Where was the first cyber police station of the state established (from 25 March 2015)?",
     "options": [
-      "हल्द्वानी",
-      "देहरादून",
-      "हरिद्वार",
-      "रुद्रपुर"
+      "Haldwani",
+      "Dehradun",
+      "Haridwar",
+      "Rudrapur"
     ],
     "correct_option": 1,
-    "explanation": "प्रथम साइबर थाना देहरादून में (25 मार्च 2015 से)।",
+    "explanation": "The first cyber police station: Dehradun (from 25 March 2015).",
     "source_page": 9
   },
   {
     "id": "q043",
-    "chapter": "उत्तराखण्ड - राजनीतिक व प्रशासनिक ढाँचा",
-    "topic": "पुलिस व्यवस्था",
+    "chapter": "Uttarakhand - Political & Administrative Structure",
+    "topic": "Police System",
     "difficulty": "medium",
     "type": "direct",
-    "question": "राज्य का दूसरा साइबर थाना (1 जनवरी 2021 से) कहाँ है?",
+    "question": "Where is the second cyber police station of the state (from 1 January 2021)?",
     "options": [
-      "देहरादून",
-      "हल्द्वानी",
-      "रुद्रपुर",
-      "काशीपुर"
+      "Dehradun",
+      "Haldwani",
+      "Rudrapur",
+      "Kashipur"
     ],
     "correct_option": 2,
-    "explanation": "दूसरा साइबर थाना रुद्रपुर में (1 जन. 2021 से)।",
+    "explanation": "The second cyber police station: Rudrapur (from 1 Jan 2021).",
     "source_page": 9
   },
   {
     "id": "q044",
-    "chapter": "उत्तराखण्ड - राजनीतिक व प्रशासनिक ढाँचा",
-    "topic": "पुलिस व्यवस्था",
+    "chapter": "Uttarakhand - Political & Administrative Structure",
+    "topic": "Police System",
     "difficulty": "hard",
     "type": "direct",
-    "question": "राज्य का प्रथम बाल मित्र थाना कहाँ स्थापित हुआ (जनवरी 2021)?",
+    "question": "Where was the first Child-Friendly police station of the state established (January 2021)?",
     "options": [
-      "कोतवाली, हल्द्वानी",
-      "कोतवाली, देहरादून",
-      "नेहरू कॉलोनी थाना, देहरादून",
-      "डालनवाला थाना, देहरादून"
+      "Kotwali, Haldwani",
+      "Kotwali, Dehradun",
+      "Nehru Colony police station, Dehradun",
+      "Dalanwala police station, Dehradun"
     ],
     "correct_option": 3,
-    "explanation": "प्रथम बाल मित्र थाना: डालनवाला थाना, देहरादून।",
+    "explanation": "The first Child-Friendly police station: Dalanwala police station, Dehradun.",
     "source_page": 9
   },
   {
     "id": "q045",
-    "chapter": "उत्तराखण्ड - राजनीतिक व प्रशासनिक ढाँचा",
-    "topic": "पुलिस व्यवस्था",
+    "chapter": "Uttarakhand - Political & Administrative Structure",
+    "topic": "Police System",
     "difficulty": "hard",
     "type": "direct",
-    "question": "राज्य का दूसरा बाल मित्र थाना (अक्टूबर 2021) कहाँ है?",
+    "question": "Where is the second Child-Friendly police station of the state (October 2021)?",
     "options": [
-      "कोतवाली, हल्द्वानी (नैनीताल)",
-      "डालनवाला, देहरादून",
-      "कोतवाली, रुद्रपुर",
-      "कोतवाली, हरिद्वार"
+      "Kotwali, Haldwani (Nainital)",
+      "Dalanwala, Dehradun",
+      "Kotwali, Rudrapur",
+      "Kotwali, Haridwar"
     ],
     "correct_option": 0,
-    "explanation": "दूसरा बाल मित्र थाना: कोतवाली, हल्द्वानी।",
+    "explanation": "The second Child-Friendly police station: Kotwali, Haldwani.",
     "source_page": 9
   },
   {
     "id": "q046",
-    "chapter": "उत्तराखण्ड - राजनीतिक व प्रशासनिक ढाँचा",
-    "topic": "ग्राम (2011)",
+    "chapter": "Uttarakhand - Political & Administrative Structure",
+    "topic": "Villages (2011)",
     "difficulty": "medium",
     "type": "direct",
-    "question": "2011 के अनुसार उत्तराखण्ड में कुल ग्रामों की संख्या कितनी थी?",
+    "question": "According to 2011, what was the total number of villages in Uttarakhand?",
     "options": [
       "15745",
       "16793",
@@ -778,16 +778,16 @@
       "17613"
     ],
     "correct_option": 1,
-    "explanation": "कुल ग्राम 16793: 15745 आबाद + 1048 गैर आबाद।",
+    "explanation": "Total villages 16793: 15745 inhabited + 1048 uninhabited.",
     "source_page": 9
   },
   {
     "id": "q047",
-    "chapter": "उत्तराखण्ड - राजनीतिक व प्रशासनिक ढाँचा",
-    "topic": "ग्राम (2011)",
+    "chapter": "Uttarakhand - Political & Administrative Structure",
+    "topic": "Villages (2011)",
     "difficulty": "medium",
     "type": "direct",
-    "question": "2011 के अनुसार आबाद ग्रामों की संख्या कितनी थी?",
+    "question": "According to 2011, what was the number of inhabited villages?",
     "options": [
       "16793",
       "15501",
@@ -795,16 +795,16 @@
       "1048"
     ],
     "correct_option": 2,
-    "explanation": "आबाद ग्राम 15745 (15501 गैर वन + 244 वन ग्राम)।",
+    "explanation": "Inhabited villages 15745 (15501 non-forest + 244 forest villages).",
     "source_page": 9
   },
   {
     "id": "q048",
-    "chapter": "उत्तराखण्ड - राजनीतिक व प्रशासनिक ढाँचा",
-    "topic": "ग्राम (2011)",
+    "chapter": "Uttarakhand - Political & Administrative Structure",
+    "topic": "Villages (2011)",
     "difficulty": "hard",
     "type": "direct",
-    "question": "2011 के अनुसार गैर आबाद ग्रामों की संख्या कितनी थी?",
+    "question": "According to 2011, what was the number of uninhabited villages?",
     "options": [
       "244",
       "15501",
@@ -812,16 +812,16 @@
       "1048"
     ],
     "correct_option": 3,
-    "explanation": "गैर आबाद ग्राम 1048 थे।",
+    "explanation": "The number of uninhabited villages was 1048.",
     "source_page": 9
   },
   {
     "id": "q049",
-    "chapter": "उत्तराखण्ड - राजनीतिक व प्रशासनिक ढाँचा",
-    "topic": "ग्राम (2011)",
+    "chapter": "Uttarakhand - Political & Administrative Structure",
+    "topic": "Villages (2011)",
     "difficulty": "hard",
     "type": "direct",
-    "question": "2011 में आबाद ग्रामों में वन ग्रामों की संख्या कितनी थी?",
+    "question": "In 2011, what was the number of forest villages among the inhabited villages?",
     "options": [
       "244",
       "1048",
@@ -829,653 +829,653 @@
       "442"
     ],
     "correct_option": 0,
-    "explanation": "आबाद 15745 = 15501 गैर वन + 244 वन ग्राम।",
+    "explanation": "Inhabited 15745 = 15501 non-forest + 244 forest villages.",
     "source_page": 9
   },
   {
     "id": "q050",
-    "chapter": "उत्तराखण्ड - राजनीतिक व प्रशासनिक ढाँचा",
-    "topic": "ग्राम (2011)",
+    "chapter": "Uttarakhand - Political & Administrative Structure",
+    "topic": "Villages (2011)",
     "difficulty": "hard",
     "type": "direct",
-    "question": "2011 में सर्वाधिक आबाद ग्राम (7846) किस आबादी वर्ग के थे?",
+    "question": "In 2011, which population category had the highest number (7846) of inhabited villages?",
     "options": [
-      "201 से 500 आबादी वाले",
-      "1 से 200 आबादी वाले",
-      "501 से 1000 आबादी वाले",
-      "5001 से अधिक आबादी वाले"
+      "Those with a population of 201 to 500",
+      "Those with a population of 1 to 200",
+      "Those with a population of 501 to 1000",
+      "Those with a population above 5001"
     ],
     "correct_option": 1,
-    "explanation": "सर्वाधिक (7846) ग्राम 1 से 200 आबादी वाले थे।",
+    "explanation": "The highest number (7846) of villages had a population of 1 to 200.",
     "source_page": 9
   },
   {
     "id": "q051",
-    "chapter": "उत्तराखण्ड - राजनीतिक व प्रशासनिक ढाँचा",
-    "topic": "ग्राम (2011)",
+    "chapter": "Uttarakhand - Political & Administrative Structure",
+    "topic": "Villages (2011)",
     "difficulty": "hard",
     "type": "direct",
-    "question": "2011 में सबसे कम (117) आबाद ग्राम किस आबादी वर्ग के थे?",
+    "question": "In 2011, which population category had the lowest (117) number of inhabited villages?",
     "options": [
-      "1 से 200 आबादी वाले",
-      "201 से 500 आबादी वाले",
-      "5001 से अधिक आबादी वाले",
-      "2001 से 5000 आबादी वाले"
+      "Those with a population of 1 to 200",
+      "Those with a population of 201 to 500",
+      "Those with a population above 5001",
+      "Those with a population of 2001 to 5000"
     ],
     "correct_option": 2,
-    "explanation": "सबसे कम (117) ग्राम 5001 से अधिक आबादी वाले थे।",
+    "explanation": "The lowest number (117) of villages had a population above 5001.",
     "source_page": 9
   },
   {
     "id": "q052",
-    "chapter": "उत्तराखण्ड - राजनीतिक व प्रशासनिक ढाँचा",
-    "topic": "ग्राम (2011)",
+    "chapter": "Uttarakhand - Political & Administrative Structure",
+    "topic": "Villages (2011)",
     "difficulty": "hard",
     "type": "direct",
-    "question": "2011 में सर्वाधिक व सबसे कम आबाद गाँवों वाले जिले क्रमशः कौन-से थे?",
+    "question": "In 2011, which districts had the highest and the lowest numbers of inhabited villages respectively?",
     "options": [
-      "अल्मोड़ा (3142) व हरिद्वार (518)",
-      "पौड़ी (3142) व ऊ.सि.नगर (518)",
-      "टिहरी (3142) व बागेश्वर (518)",
-      "पौड़ी (3142) व हरिद्वार (518)"
+      "Almora (3142) and Haridwar (518)",
+      "Pauri (3142) and U.S. Nagar (518)",
+      "Tehri (3142) and Bageshwar (518)",
+      "Pauri (3142) and Haridwar (518)"
     ],
     "correct_option": 3,
-    "explanation": "सर्वाधिक: पौड़ी (3142); सबसे कम: हरिद्वार (518)।",
+    "explanation": "Highest: Pauri (3142); lowest: Haridwar (518).",
     "source_page": 9
   },
   {
     "id": "q053",
-    "chapter": "उत्तराखण्ड - प्रमुख नियुक्तियाँ",
-    "topic": "राज्यपाल",
+    "chapter": "Uttarakhand - Major Appointments",
+    "topic": "Governor",
     "difficulty": "easy",
     "type": "direct",
-    "question": "उत्तराखण्ड के प्रथम राज्यपाल कौन थे?",
+    "question": "Who was the first Governor of Uttarakhand?",
     "options": [
-      "सुरजीत सिंह बरनाला",
-      "सुदर्शन अग्रवाल",
-      "बी.एल. जोशी",
-      "मार्गरेट अल्वा"
+      "Surjit Singh Barnala",
+      "Sudarshan Agarwal",
+      "B.L. Joshi",
+      "Margaret Alva"
     ],
     "correct_option": 0,
-    "explanation": "प्रथम राज्यपाल: सुरजीत सिंह बरनाला (9 नव. 2000 से 7 जन. 2003)।",
+    "explanation": "First Governor: Surjit Singh Barnala (9 Nov 2000 to 7 Jan 2003).",
     "source_page": 11
   },
   {
     "id": "q054",
-    "chapter": "उत्तराखण्ड - प्रमुख नियुक्तियाँ",
-    "topic": "राज्यपाल",
+    "chapter": "Uttarakhand - Major Appointments",
+    "topic": "Governor",
     "difficulty": "medium",
     "type": "direct",
-    "question": "उत्तराखण्ड के द्वितीय राज्यपाल कौन थे?",
+    "question": "Who was the second Governor of Uttarakhand?",
     "options": [
-      "सुरजीत सिंह बरनाला",
-      "सुदर्शन अग्रवाल",
-      "बी.एल. जोशी",
-      "डॉ. अजीज कुरैशी"
+      "Surjit Singh Barnala",
+      "Sudarshan Agarwal",
+      "B.L. Joshi",
+      "Dr. Aziz Qureshi"
     ],
     "correct_option": 1,
-    "explanation": "द्वितीय राज्यपाल: सुदर्शन अग्रवाल (8 जन. 2003 से 28 अक्टू. 2007)।",
+    "explanation": "Second Governor: Sudarshan Agarwal (8 Jan 2003 to 28 Oct 2007).",
     "source_page": 11
   },
   {
     "id": "q055",
-    "chapter": "उत्तराखण्ड - प्रमुख नियुक्तियाँ",
-    "topic": "राज्यपाल",
+    "chapter": "Uttarakhand - Major Appointments",
+    "topic": "Governor",
     "difficulty": "medium",
     "type": "direct",
-    "question": "बी.एल. जोशी उत्तराखण्ड के कौन-से राज्यपाल थे?",
+    "question": "B.L. Joshi was which Governor of Uttarakhand?",
     "options": [
-      "द्वितीय",
-      "चतुर्थ",
-      "तृतीय",
-      "पंचम"
+      "Second",
+      "Fourth",
+      "Third",
+      "Fifth"
     ],
     "correct_option": 2,
-    "explanation": "बी.एल. जोशी: तृतीय राज्यपाल (29 अक्टू. 2007 से 5 अग. 2009)।",
+    "explanation": "B.L. Joshi: third Governor (29 Oct 2007 to 5 Aug 2009).",
     "source_page": 11
   },
   {
     "id": "q056",
-    "chapter": "उत्तराखण्ड - प्रमुख नियुक्तियाँ",
-    "topic": "राज्यपाल",
+    "chapter": "Uttarakhand - Major Appointments",
+    "topic": "Governor",
     "difficulty": "medium",
     "type": "direct",
-    "question": "उत्तराखण्ड की चतुर्थ राज्यपाल कौन थीं?",
+    "question": "Who was the fourth Governor of Uttarakhand?",
     "options": [
-      "बेबी रानी मौर्या",
-      "कृष्णकांत पाल",
-      "सुदर्शन अग्रवाल",
-      "मार्गरेट अल्वा"
+      "Baby Rani Maurya",
+      "Krishna Kant Paul",
+      "Sudarshan Agarwal",
+      "Margaret Alva"
     ],
     "correct_option": 3,
-    "explanation": "मार्गरेट अल्वा: 6 अगस्त 2009 से 14 मई 2012।",
+    "explanation": "Margaret Alva: 6 August 2009 to 14 May 2012.",
     "source_page": 11
   },
   {
     "id": "q057",
-    "chapter": "उत्तराखण्ड - प्रमुख नियुक्तियाँ",
-    "topic": "राज्यपाल",
+    "chapter": "Uttarakhand - Major Appointments",
+    "topic": "Governor",
     "difficulty": "hard",
     "type": "direct",
-    "question": "डॉ. अजीज कुरैशी उत्तराखण्ड के राज्यपाल किस अवधि में रहे?",
+    "question": "During which period was Dr. Aziz Qureshi the Governor of Uttarakhand?",
     "options": [
-      "15 मई 2012 से 7 जनवरी 2015",
-      "6 अगस्त 2009 से 14 मई 2012",
-      "8 जनवरी 2015 से 25 अगस्त 2018",
-      "29 अक्टूबर 2007 से 5 अगस्त 2009"
+      "15 May 2012 to 7 January 2015",
+      "6 August 2009 to 14 May 2012",
+      "8 January 2015 to 25 August 2018",
+      "29 October 2007 to 5 August 2009"
     ],
     "correct_option": 0,
-    "explanation": "पंचम राज्यपाल डॉ. अजीज कुरैशी: 15 मई 2012 – 7 जन. 2015।",
+    "explanation": "Fifth Governor Dr. Aziz Qureshi: 15 May 2012 - 7 Jan 2015.",
     "source_page": 11
   },
   {
     "id": "q058",
-    "chapter": "उत्तराखण्ड - प्रमुख नियुक्तियाँ",
-    "topic": "राज्यपाल",
+    "chapter": "Uttarakhand - Major Appointments",
+    "topic": "Governor",
     "difficulty": "medium",
     "type": "direct",
-    "question": "डॉ. कृष्णकांत पाल उत्तराखण्ड के कौन-से राज्यपाल थे?",
+    "question": "Dr. Krishna Kant Paul was which Governor of Uttarakhand?",
     "options": [
-      "पंचम",
-      "षष्ठम",
-      "सप्तम",
-      "अष्टम"
+      "Fifth",
+      "Sixth",
+      "Seventh",
+      "Eighth"
     ],
     "correct_option": 1,
-    "explanation": "डॉ. कृष्णकांत पाल: षष्ठम (8 जन. 2015 से 25 अग. 2018)।",
+    "explanation": "Dr. Krishna Kant Paul: sixth (8 Jan 2015 to 25 Aug 2018).",
     "source_page": 11
   },
   {
     "id": "q059",
-    "chapter": "उत्तराखण्ड - प्रमुख नियुक्तियाँ",
-    "topic": "राज्यपाल",
+    "chapter": "Uttarakhand - Major Appointments",
+    "topic": "Governor",
     "difficulty": "medium",
     "type": "direct",
-    "question": "उत्तराखण्ड की सप्तम राज्यपाल कौन थीं, जिनका कार्यकाल 26 अगस्त 2018 से 8 सितम्बर 2021 तक रहा?",
+    "question": "Who was the seventh Governor of Uttarakhand, whose term ran from 26 August 2018 to 8 September 2021?",
     "options": [
-      "मार्गरेट अल्वा",
-      "कृष्णकांत पाल",
-      "बेबी रानी मौर्या",
-      "अजीज कुरैशी"
+      "Margaret Alva",
+      "Krishna Kant Paul",
+      "Baby Rani Maurya",
+      "Aziz Qureshi"
     ],
     "correct_option": 2,
-    "explanation": "सप्तम राज्यपाल: बेबी रानी मौर्या।",
+    "explanation": "Seventh Governor: Baby Rani Maurya.",
     "source_page": 11
   },
   {
     "id": "q060",
-    "chapter": "उत्तराखण्ड - प्रमुख नियुक्तियाँ",
-    "topic": "राज्यपाल",
+    "chapter": "Uttarakhand - Major Appointments",
+    "topic": "Governor",
     "difficulty": "medium",
     "type": "direct",
-    "question": "पुस्तक के अनुसार 15 सितम्बर 2021 से उत्तराखण्ड के (अष्टम) राज्यपाल कौन हैं?",
+    "question": "According to the book, who is the (eighth) Governor of Uttarakhand from 15 September 2021?",
     "options": [
-      "ले. जन. भुवनचन्द्र खण्डूरी",
-      "बेबी रानी मौर्या",
-      "सुरजीत सिंह बरनाला",
-      "ले. जन. गुरमीत सिंह"
+      "Lt. Gen. Bhuwan Chandra Khanduri",
+      "Baby Rani Maurya",
+      "Surjit Singh Barnala",
+      "Lt. Gen. Gurmit Singh"
     ],
     "correct_option": 3,
-    "explanation": "अष्टम राज्यपाल: ले. जन. गुरमीत सिंह (15 सितम्बर 2021 से)।",
+    "explanation": "Eighth Governor: Lt. Gen. Gurmit Singh (from 15 September 2021).",
     "source_page": 11
   },
   {
     "id": "q061",
-    "chapter": "उत्तराखण्ड - प्रमुख नियुक्तियाँ",
-    "topic": "राज्यपाल",
+    "chapter": "Uttarakhand - Major Appointments",
+    "topic": "Governor",
     "difficulty": "hard",
     "type": "direct",
-    "question": "उत्तराखण्ड के राज्यपालों का सही कालक्रम कौन-सा है?",
+    "question": "Which is the correct chronological order of the Governors of Uttarakhand?",
     "options": [
-      "बरनाला → सुदर्शन अग्रवाल → बी.एल. जोशी → मार्गरेट अल्वा",
-      "सुदर्शन अग्रवाल → बरनाला → बी.एल. जोशी → मार्गरेट अल्वा",
-      "बरनाला → बी.एल. जोशी → सुदर्शन अग्रवाल → मार्गरेट अल्वा",
-      "बरनाला → सुदर्शन अग्रवाल → मार्गरेट अल्वा → बी.एल. जोशी"
+      "Barnala → Sudarshan Agarwal → B.L. Joshi → Margaret Alva",
+      "Sudarshan Agarwal → Barnala → B.L. Joshi → Margaret Alva",
+      "Barnala → B.L. Joshi → Sudarshan Agarwal → Margaret Alva",
+      "Barnala → Sudarshan Agarwal → Margaret Alva → B.L. Joshi"
     ],
     "correct_option": 0,
-    "explanation": "क्रम: बरनाला, सुदर्शन अग्रवाल, बी.एल. जोशी, मार्गरेट अल्वा।",
+    "explanation": "Order: Barnala, Sudarshan Agarwal, B.L. Joshi, Margaret Alva.",
     "source_page": 11
   },
   {
     "id": "q062",
-    "chapter": "उत्तराखण्ड - प्रमुख नियुक्तियाँ",
-    "topic": "मुख्यमंत्री",
+    "chapter": "Uttarakhand - Major Appointments",
+    "topic": "Chief Minister",
     "difficulty": "easy",
     "type": "direct",
-    "question": "उत्तराखण्ड के प्रथम (अंतरिम) मुख्यमंत्री कौन थे?",
+    "question": "Who was the first (interim) Chief Minister of Uttarakhand?",
     "options": [
-      "भगत सिंह कोश्यारी",
-      "नित्यानंद स्वामी",
-      "नारायण दत्त तिवारी",
-      "भुवनचन्द्र खण्डूरी"
+      "Bhagat Singh Koshyari",
+      "Nityanand Swami",
+      "Narayan Dutt Tiwari",
+      "Bhuwan Chandra Khanduri"
     ],
     "correct_option": 1,
-    "explanation": "नित्यानंद स्वामी: 9 नवम्बर 2000 से 29 अक्टूबर 2001।",
+    "explanation": "Nityanand Swami: 9 November 2000 to 29 October 2001.",
     "source_page": 11
   },
   {
     "id": "q063",
-    "chapter": "उत्तराखण्ड - प्रमुख नियुक्तियाँ",
-    "topic": "मुख्यमंत्री",
+    "chapter": "Uttarakhand - Major Appointments",
+    "topic": "Chief Minister",
     "difficulty": "medium",
     "type": "direct",
-    "question": "उत्तराखण्ड के द्वितीय (अंतरिम) मुख्यमंत्री कौन थे?",
+    "question": "Who was the second (interim) Chief Minister of Uttarakhand?",
     "options": [
-      "नित्यानंद स्वामी",
-      "नारायण दत्त तिवारी",
-      "भगत सिंह कोश्यारी",
-      "रमेश पोखरियाल निशंक"
+      "Nityanand Swami",
+      "Narayan Dutt Tiwari",
+      "Bhagat Singh Koshyari",
+      "Ramesh Pokhriyal Nishank"
     ],
     "correct_option": 2,
-    "explanation": "भगत सिंह कोश्यारी: 30 अक्टू. 2001 से 1 मार्च 2002।",
+    "explanation": "Bhagat Singh Koshyari: 30 Oct 2001 to 1 March 2002.",
     "source_page": 11
   },
   {
     "id": "q064",
-    "chapter": "उत्तराखण्ड - प्रमुख नियुक्तियाँ",
-    "topic": "मुख्यमंत्री",
+    "chapter": "Uttarakhand - Major Appointments",
+    "topic": "Chief Minister",
     "difficulty": "easy",
     "type": "direct",
-    "question": "उत्तराखण्ड के प्रथम निर्वाचित मुख्यमंत्री कौन थे?",
+    "question": "Who was the first elected Chief Minister of Uttarakhand?",
     "options": [
-      "भगत सिंह कोश्यारी",
-      "भुवनचन्द्र खण्डूरी",
-      "विजय बहुगुणा",
-      "नारायण दत्त तिवारी"
+      "Bhagat Singh Koshyari",
+      "Bhuwan Chandra Khanduri",
+      "Vijay Bahuguna",
+      "Narayan Dutt Tiwari"
     ],
     "correct_option": 3,
-    "explanation": "एन.डी. तिवारी: 1 मार्च 2002 से 7 मार्च 2007 (कांग्रेस)।",
+    "explanation": "N.D. Tiwari: 1 March 2002 to 7 March 2007 (Congress).",
     "source_page": 11
   },
   {
     "id": "q065",
-    "chapter": "उत्तराखण्ड - प्रमुख नियुक्तियाँ",
-    "topic": "मुख्यमंत्री",
+    "chapter": "Uttarakhand - Major Appointments",
+    "topic": "Chief Minister",
     "difficulty": "medium",
     "type": "direct",
-    "question": "उत्तराखण्ड के चतुर्थ मुख्यमंत्री कौन थे (8 मार्च 2007 से 26 जून 2009)?",
+    "question": "Who was the fourth Chief Minister of Uttarakhand (8 March 2007 to 26 June 2009)?",
     "options": [
-      "मे. जन. भुवनचन्द्र खण्डूरी",
-      "डॉ. रमेश पोखरियाल निशंक",
-      "विजय बहुगुणा",
-      "हरीश रावत"
+      "Maj. Gen. Bhuwan Chandra Khanduri",
+      "Dr. Ramesh Pokhriyal Nishank",
+      "Vijay Bahuguna",
+      "Harish Rawat"
     ],
     "correct_option": 0,
-    "explanation": "चतुर्थ मुख्यमंत्री: भुवनचन्द्र खण्डूरी (भाजपा)।",
+    "explanation": "Fourth Chief Minister: Bhuwan Chandra Khanduri (BJP).",
     "source_page": 11
   },
   {
     "id": "q066",
-    "chapter": "उत्तराखण्ड - प्रमुख नियुक्तियाँ",
-    "topic": "मुख्यमंत्री",
+    "chapter": "Uttarakhand - Major Appointments",
+    "topic": "Chief Minister",
     "difficulty": "medium",
     "type": "direct",
-    "question": "डॉ. रमेश पोखरियाल निशंक उत्तराखण्ड के कौन-से मुख्यमंत्री थे?",
+    "question": "Dr. Ramesh Pokhriyal Nishank was which Chief Minister of Uttarakhand?",
     "options": [
-      "चतुर्थ",
-      "पंचम",
-      "षष्ठम",
-      "सप्तम"
+      "Fourth",
+      "Fifth",
+      "Sixth",
+      "Seventh"
     ],
     "correct_option": 1,
-    "explanation": "निशंक: पंचम (27 जून 2009 से 10 सितम्बर 2011)।",
+    "explanation": "Nishank: fifth (27 June 2009 to 10 September 2011).",
     "source_page": 11
   },
   {
     "id": "q067",
-    "chapter": "उत्तराखण्ड - प्रमुख नियुक्तियाँ",
-    "topic": "मुख्यमंत्री",
+    "chapter": "Uttarakhand - Major Appointments",
+    "topic": "Chief Minister",
     "difficulty": "hard",
     "type": "direct",
-    "question": "उत्तराखण्ड के षष्ठम मुख्यमंत्री कौन थे (11 सितम्बर 2011 से 13 मार्च 2012)?",
+    "question": "Who was the sixth Chief Minister of Uttarakhand (11 September 2011 to 13 March 2012)?",
     "options": [
-      "डॉ. रमेश पोखरियाल निशंक",
-      "विजय बहुगुणा",
-      "मे. जन. भुवनचन्द्र खण्डूरी",
-      "हरीश रावत"
+      "Dr. Ramesh Pokhriyal Nishank",
+      "Vijay Bahuguna",
+      "Maj. Gen. Bhuwan Chandra Khanduri",
+      "Harish Rawat"
     ],
     "correct_option": 2,
-    "explanation": "खण्डूरी दो बार मुख्यमंत्री रहे: चतुर्थ व षष्ठम।",
+    "explanation": "Khanduri was Chief Minister twice: fourth and sixth.",
     "source_page": 11
   },
   {
     "id": "q068",
-    "chapter": "उत्तराखण्ड - प्रमुख नियुक्तियाँ",
-    "topic": "मुख्यमंत्री",
+    "chapter": "Uttarakhand - Major Appointments",
+    "topic": "Chief Minister",
     "difficulty": "medium",
     "type": "direct",
-    "question": "विजय बहुगुणा उत्तराखण्ड के कौन-से मुख्यमंत्री थे?",
+    "question": "Vijay Bahuguna was which Chief Minister of Uttarakhand?",
     "options": [
-      "षष्ठम",
-      "अष्टम",
-      "नवम",
-      "सप्तम"
+      "Sixth",
+      "Eighth",
+      "Ninth",
+      "Seventh"
     ],
     "correct_option": 3,
-    "explanation": "विजय बहुगुणा: सप्तम (13 मार्च 2012 से 31 जन. 2014)।",
+    "explanation": "Vijay Bahuguna: seventh (13 March 2012 to 31 Jan 2014).",
     "source_page": 11
   },
   {
     "id": "q069",
-    "chapter": "उत्तराखण्ड - प्रमुख नियुक्तियाँ",
-    "topic": "मुख्यमंत्री",
+    "chapter": "Uttarakhand - Major Appointments",
+    "topic": "Chief Minister",
     "difficulty": "medium",
     "type": "direct",
-    "question": "हरीश रावत उत्तराखण्ड के कौन-से मुख्यमंत्री थे?",
+    "question": "Harish Rawat was which Chief Minister of Uttarakhand?",
     "options": [
-      "अष्टम",
-      "सप्तम",
-      "नवम",
-      "दशम"
+      "Eighth",
+      "Seventh",
+      "Ninth",
+      "Tenth"
     ],
     "correct_option": 0,
-    "explanation": "हरीश रावत: अष्टम (1 फरवरी 2014 से 18 मार्च 2017)।",
+    "explanation": "Harish Rawat: eighth (1 February 2014 to 18 March 2017).",
     "source_page": 11
   },
   {
     "id": "q070",
-    "chapter": "उत्तराखण्ड - प्रमुख नियुक्तियाँ",
-    "topic": "मुख्यमंत्री",
+    "chapter": "Uttarakhand - Major Appointments",
+    "topic": "Chief Minister",
     "difficulty": "medium",
     "type": "direct",
-    "question": "त्रिवेन्द्र सिंह रावत उत्तराखण्ड के कौन-से मुख्यमंत्री थे?",
+    "question": "Trivendra Singh Rawat was which Chief Minister of Uttarakhand?",
     "options": [
-      "अष्टम",
-      "नवम",
-      "दशम",
-      "एकादश"
+      "Eighth",
+      "Ninth",
+      "Tenth",
+      "Eleventh"
     ],
     "correct_option": 1,
-    "explanation": "त्रिवेन्द्र सिंह रावत: नवम (18 मार्च 2017 से 9 मार्च 2021)।",
+    "explanation": "Trivendra Singh Rawat: ninth (18 March 2017 to 9 March 2021).",
     "source_page": 11
   },
   {
     "id": "q071",
-    "chapter": "उत्तराखण्ड - प्रमुख नियुक्तियाँ",
-    "topic": "मुख्यमंत्री",
+    "chapter": "Uttarakhand - Major Appointments",
+    "topic": "Chief Minister",
     "difficulty": "medium",
     "type": "direct",
-    "question": "तीरथ सिंह रावत उत्तराखण्ड के कौन-से मुख्यमंत्री थे?",
+    "question": "Tirath Singh Rawat was which Chief Minister of Uttarakhand?",
     "options": [
-      "नवम",
-      "एकादश",
-      "दशम",
-      "द्वादश"
+      "Ninth",
+      "Eleventh",
+      "Tenth",
+      "Twelfth"
     ],
     "correct_option": 2,
-    "explanation": "तीरथ सिंह रावत: दशम (10 मार्च 2021 से 4 जुलाई 2021)।",
+    "explanation": "Tirath Singh Rawat: tenth (10 March 2021 to 4 July 2021).",
     "source_page": 11
   },
   {
     "id": "q072",
-    "chapter": "उत्तराखण्ड - प्रमुख नियुक्तियाँ",
-    "topic": "मुख्यमंत्री",
+    "chapter": "Uttarakhand - Major Appointments",
+    "topic": "Chief Minister",
     "difficulty": "hard",
     "type": "direct",
-    "question": "तीरथ सिंह रावत का मुख्यमंत्री कार्यकाल कब से कब तक रहा?",
+    "question": "Tirath Singh Rawat's tenure as Chief Minister ran from which date to which date?",
     "options": [
-      "18 मार्च 2017 से 9 मार्च 2021",
-      "4 जुलाई 2021 से 22 मार्च 2022",
-      "1 फरवरी 2014 से 18 मार्च 2017",
-      "10 मार्च 2021 से 4 जुलाई 2021"
+      "18 March 2017 to 9 March 2021",
+      "4 July 2021 to 22 March 2022",
+      "1 February 2014 to 18 March 2017",
+      "10 March 2021 to 4 July 2021"
     ],
     "correct_option": 3,
-    "explanation": "तीरथ सिंह रावत: 10 मार्च 2021 – 4 जुलाई 2021।",
+    "explanation": "Tirath Singh Rawat: 10 March 2021 - 4 July 2021.",
     "source_page": 11
   },
   {
     "id": "q073",
-    "chapter": "उत्तराखण्ड - प्रमुख नियुक्तियाँ",
-    "topic": "मुख्यमंत्री",
+    "chapter": "Uttarakhand - Major Appointments",
+    "topic": "Chief Minister",
     "difficulty": "medium",
     "type": "direct",
-    "question": "पुष्कर सिंह धामी का एकादश मुख्यमंत्री के रूप में कार्यकाल कब रहा?",
+    "question": "When was Pushkar Singh Dhami's tenure as the eleventh Chief Minister?",
     "options": [
-      "4 जुलाई 2021 से 22 मार्च 2022",
-      "10 मार्च 2021 से 4 जुलाई 2021",
-      "23 मार्च 2022 से",
-      "18 मार्च 2017 से 9 मार्च 2021"
+      "4 July 2021 to 22 March 2022",
+      "10 March 2021 to 4 July 2021",
+      "From 23 March 2022",
+      "18 March 2017 to 9 March 2021"
     ],
     "correct_option": 0,
-    "explanation": "धामी: एकादश (4 जुलाई 2021 – 22 मार्च 2022); पुनः नियुक्ति 23 मार्च 2022 से द्वादश।",
+    "explanation": "Dhami: eleventh (4 July 2021 - 22 March 2022); reappointed as twelfth from 23 March 2022.",
     "source_page": 11
   },
   {
     "id": "q074",
-    "chapter": "उत्तराखण्ड - प्रमुख नियुक्तियाँ",
-    "topic": "मुख्यमंत्री",
+    "chapter": "Uttarakhand - Major Appointments",
+    "topic": "Chief Minister",
     "difficulty": "hard",
     "type": "direct",
-    "question": "पुस्तक की सूची के अनुसार कौन-से दो व्यक्ति उत्तराखण्ड के मुख्यमंत्री पद पर दो बार रहे?",
+    "question": "According to the book's list, which two persons served as Chief Minister of Uttarakhand twice?",
     "options": [
-      "भुवनचन्द्र खण्डूरी व हरीश रावत",
-      "भुवनचन्द्र खण्डूरी व पुष्कर सिंह धामी",
-      "पुष्कर सिंह धामी व त्रिवेन्द्र सिंह रावत",
-      "भगत सिंह कोश्यारी व पुष्कर सिंह धामी"
+      "Bhuwan Chandra Khanduri and Harish Rawat",
+      "Bhuwan Chandra Khanduri and Pushkar Singh Dhami",
+      "Pushkar Singh Dhami and Trivendra Singh Rawat",
+      "Bhagat Singh Koshyari and Pushkar Singh Dhami"
     ],
     "correct_option": 1,
-    "explanation": "खण्डूरी (चतुर्थ व षष्ठम) तथा धामी (एकादश व द्वादश)।",
+    "explanation": "Khanduri (fourth and sixth) and Dhami (eleventh and twelfth).",
     "source_page": 11
   },
   {
     "id": "q075",
-    "chapter": "उत्तराखण्ड - प्रमुख नियुक्तियाँ",
-    "topic": "मुख्यमंत्री",
+    "chapter": "Uttarakhand - Major Appointments",
+    "topic": "Chief Minister",
     "difficulty": "hard",
     "type": "direct",
-    "question": "निम्न में से कौन-सा मुख्यमंत्री-क्रम सही है?",
+    "question": "Which of the following orders of Chief Ministers is correct?",
     "options": [
-      "नारायण दत्त तिवारी → रमेश पोखरियाल निशंक → भुवनचन्द्र खण्डूरी → विजय बहुगुणा",
-      "भुवनचन्द्र खण्डूरी → नारायण दत्त तिवारी → रमेश पोखरियाल निशंक → विजय बहुगुणा",
-      "नारायण दत्त तिवारी → भुवनचन्द्र खण्डूरी → रमेश पोखरियाल निशंक → विजय बहुगुणा",
-      "नारायण दत्त तिवारी → भुवनचन्द्र खण्डूरी → विजय बहुगुणा → रमेश पोखरियाल निशंक"
+      "Narayan Dutt Tiwari → Ramesh Pokhriyal Nishank → Bhuwan Chandra Khanduri → Vijay Bahuguna",
+      "Bhuwan Chandra Khanduri → Narayan Dutt Tiwari → Ramesh Pokhriyal Nishank → Vijay Bahuguna",
+      "Narayan Dutt Tiwari → Bhuwan Chandra Khanduri → Ramesh Pokhriyal Nishank → Vijay Bahuguna",
+      "Narayan Dutt Tiwari → Bhuwan Chandra Khanduri → Vijay Bahuguna → Ramesh Pokhriyal Nishank"
     ],
     "correct_option": 2,
-    "explanation": "सूची के क्रम में: तिवारी (3), खण्डूरी (4), निशंक (5), बहुगुणा (7)।",
+    "explanation": "In the order of the list: Tiwari (3), Khanduri (4), Nishank (5), Bahuguna (7).",
     "source_page": 11
   },
   {
     "id": "q076",
-    "chapter": "उत्तराखण्ड - प्रमुख नियुक्तियाँ",
-    "topic": "विधानसभा अध्यक्ष व अन्य पद",
+    "chapter": "Uttarakhand - Major Appointments",
+    "topic": "Assembly Speaker & Other Posts",
     "difficulty": "medium",
     "type": "direct",
-    "question": "उत्तराखण्ड विधानसभा के प्रथम (अंतरिम) अध्यक्ष कौन थे?",
+    "question": "Who was the first (interim) Speaker of the Uttarakhand Legislative Assembly?",
     "options": [
-      "यशपाल आर्य",
-      "हरबंश कपूर",
-      "गोविन्द सिंह कुंजवाल",
-      "प्रकाश पंत"
+      "Yashpal Arya",
+      "Harbans Kapoor",
+      "Govind Singh Kunjwal",
+      "Prakash Pant"
     ],
     "correct_option": 3,
-    "explanation": "प्रकाश पंत: 2000 से 2002 तक (अंतरिम सत्र)।",
+    "explanation": "Prakash Pant: from 2000 to 2002 (interim session).",
     "source_page": 11
   },
   {
     "id": "q077",
-    "chapter": "उत्तराखण्ड - प्रमुख नियुक्तियाँ",
-    "topic": "विधानसभा अध्यक्ष व अन्य पद",
+    "chapter": "Uttarakhand - Major Appointments",
+    "topic": "Assembly Speaker & Other Posts",
     "difficulty": "medium",
     "type": "direct",
-    "question": "उत्तराखण्ड विधानसभा के प्रथम सत्र (2002-2007) के अध्यक्ष कौन थे?",
+    "question": "Who was the Speaker during the first session (2002-2007) of the Uttarakhand Legislative Assembly?",
     "options": [
-      "यशपाल आर्य",
-      "प्रकाश पंत",
-      "हरबंश कपूर",
-      "प्रेमचन्द्र अग्रवाल"
+      "Yashpal Arya",
+      "Prakash Pant",
+      "Harbans Kapoor",
+      "Premchand Agarwal"
     ],
     "correct_option": 0,
-    "explanation": "यशपाल आर्य (कांग्रेस): 2002 से 2007 तक।",
+    "explanation": "Yashpal Arya (Congress): from 2002 to 2007.",
     "source_page": 11
   },
   {
     "id": "q078",
-    "chapter": "उत्तराखण्ड - प्रमुख नियुक्तियाँ",
-    "topic": "विधानसभा अध्यक्ष व अन्य पद",
+    "chapter": "Uttarakhand - Major Appointments",
+    "topic": "Assembly Speaker & Other Posts",
     "difficulty": "medium",
     "type": "direct",
-    "question": "उत्तराखण्ड विधानसभा के द्वितीय अध्यक्ष कौन थे (2007-2012)?",
+    "question": "Who was the second Speaker of the Uttarakhand Legislative Assembly (2007-2012)?",
     "options": [
-      "यशपाल आर्य",
-      "हरबंश कपूर",
-      "गोविन्द सिंह कुंजवाल",
-      "प्रेमचन्द्र अग्रवाल"
+      "Yashpal Arya",
+      "Harbans Kapoor",
+      "Govind Singh Kunjwal",
+      "Premchand Agarwal"
     ],
     "correct_option": 1,
-    "explanation": "हरबंश कपूर (भाजपा): 2007 से 2012 तक।",
+    "explanation": "Harbans Kapoor (BJP): from 2007 to 2012.",
     "source_page": 11
   },
   {
     "id": "q079",
-    "chapter": "उत्तराखण्ड - प्रमुख नियुक्तियाँ",
-    "topic": "विधानसभा अध्यक्ष व अन्य पद",
+    "chapter": "Uttarakhand - Major Appointments",
+    "topic": "Assembly Speaker & Other Posts",
     "difficulty": "medium",
     "type": "direct",
-    "question": "गोविन्द सिंह कुंजवाल उत्तराखण्ड विधानसभा के कौन-से अध्यक्ष थे?",
+    "question": "Govind Singh Kunjwal was which Speaker of the Uttarakhand Legislative Assembly?",
     "options": [
-      "द्वितीय",
-      "चतुर्थ",
-      "तृतीय",
-      "पंचम"
+      "Second",
+      "Fourth",
+      "Third",
+      "Fifth"
     ],
     "correct_option": 2,
-    "explanation": "कुंजवाल (कांग्रेस): तृतीय अध्यक्ष, 2012 से 2017 तक।",
+    "explanation": "Kunjwal (Congress): third Speaker, from 2012 to 2017.",
     "source_page": 11
   },
   {
     "id": "q080",
-    "chapter": "उत्तराखण्ड - प्रमुख नियुक्तियाँ",
-    "topic": "विधानसभा अध्यक्ष व अन्य पद",
+    "chapter": "Uttarakhand - Major Appointments",
+    "topic": "Assembly Speaker & Other Posts",
     "difficulty": "medium",
     "type": "direct",
-    "question": "उत्तराखण्ड विधानसभा के चतुर्थ अध्यक्ष कौन थे (2017-2022)?",
+    "question": "Who was the fourth Speaker of the Uttarakhand Legislative Assembly (2017-2022)?",
     "options": [
-      "गोविन्द सिंह कुंजवाल",
-      "ऋतु खण्डूरी",
-      "हरबंश कपूर",
-      "प्रेमचन्द्र अग्रवाल"
+      "Govind Singh Kunjwal",
+      "Ritu Khanduri",
+      "Harbans Kapoor",
+      "Premchand Agarwal"
     ],
     "correct_option": 3,
-    "explanation": "प्रेमचन्द्र अग्रवाल: चतुर्थ अध्यक्ष (2017 से 2022)।",
+    "explanation": "Premchand Agarwal: fourth Speaker (2017 to 2022).",
     "source_page": 11
   },
   {
     "id": "q081",
-    "chapter": "उत्तराखण्ड - प्रमुख नियुक्तियाँ",
-    "topic": "विधानसभा अध्यक्ष व अन्य पद",
+    "chapter": "Uttarakhand - Major Appointments",
+    "topic": "Assembly Speaker & Other Posts",
     "difficulty": "easy",
     "type": "direct",
-    "question": "उत्तराखण्ड विधानसभा की प्रथम महिला अध्यक्ष कौन हैं?",
+    "question": "Who is the first woman Speaker of the Uttarakhand Legislative Assembly?",
     "options": [
-      "ऋतु खण्डूरी",
-      "यशपाल आर्य",
-      "कल्पना सैनी",
-      "बेबी रानी मौर्या"
+      "Ritu Khanduri",
+      "Yashpal Arya",
+      "Kalpana Saini",
+      "Baby Rani Maurya"
     ],
     "correct_option": 0,
-    "explanation": "ऋतु खण्डूरी: पंचम अध्यक्ष (2022 से), प्रथम महिला।",
+    "explanation": "Ritu Khanduri: fifth Speaker (from 2022), the first woman.",
     "source_page": 11
   },
   {
     "id": "q082",
-    "chapter": "उत्तराखण्ड - प्रमुख नियुक्तियाँ",
-    "topic": "विधानसभा अध्यक्ष व अन्य पद",
+    "chapter": "Uttarakhand - Major Appointments",
+    "topic": "Assembly Speaker & Other Posts",
     "difficulty": "hard",
     "type": "direct",
-    "question": "उत्तराखण्ड विधानसभा के प्रथम उपाध्यक्ष कौन थे?",
+    "question": "Who was the first Deputy Speaker of the Uttarakhand Legislative Assembly?",
     "options": [
-      "प्रकाश पंत (मार्च 2007 से मार्च 2012)",
-      "विजय बड़थ्वाल (मार्च 2007 से मार्च 2012)",
-      "हरबंश कपूर (2002 से 2007)",
-      "विजय बड़थ्वाल (2012 से 2017)"
+      "Prakash Pant (March 2007 to March 2012)",
+      "Vijay Barthwal (March 2007 to March 2012)",
+      "Harbans Kapoor (2002 to 2007)",
+      "Vijay Barthwal (2012 to 2017)"
     ],
     "correct_option": 1,
-    "explanation": "प्रथम उपाध्यक्ष: विजय बड़थ्वाल (मार्च 2007 – मार्च 2012)।",
+    "explanation": "First Deputy Speaker: Vijay Barthwal (March 2007 - March 2012).",
     "source_page": 11
   },
   {
     "id": "q083",
-    "chapter": "उत्तराखण्ड - प्रमुख नियुक्तियाँ",
-    "topic": "विधानसभा अध्यक्ष व अन्य पद",
+    "chapter": "Uttarakhand - Major Appointments",
+    "topic": "Assembly Speaker & Other Posts",
     "difficulty": "medium",
     "type": "direct",
-    "question": "उत्तराखण्ड उच्च न्यायालय के प्रथम मुख्य न्यायाधीश कौन थे?",
+    "question": "Who was the first Chief Justice of the Uttarakhand High Court?",
     "options": [
-      "गुहानाथन नरेन्द्र",
-      "एल.पी. नैथानी",
-      "अशोक अभेन्द्र देसाई",
-      "मेहरबान सिंह नेगी"
+      "Guhanathan Narendra",
+      "L.P. Nathani",
+      "Ashok Abhendra Desai",
+      "Meharban Singh Negi"
     ],
     "correct_option": 2,
-    "explanation": "अशोक अभेन्द्र देसाई: 9 नवम्बर 2000 से 5 दिसम्बर 2000।",
+    "explanation": "Ashok Abhendra Desai: 9 November 2000 to 5 December 2000.",
     "source_page": 11
   },
   {
     "id": "q084",
-    "chapter": "उत्तराखण्ड - प्रमुख नियुक्तियाँ",
-    "topic": "विधानसभा अध्यक्ष व अन्य पद",
+    "chapter": "Uttarakhand - Major Appointments",
+    "topic": "Assembly Speaker & Other Posts",
     "difficulty": "hard",
     "type": "direct",
-    "question": "पुस्तक के अनुसार (2025) उत्तराखण्ड उच्च न्यायालय के वर्तमान (14वें) मुख्य न्यायाधीश कौन हैं?",
+    "question": "According to the book (2025), who is the current (14th) Chief Justice of the Uttarakhand High Court?",
     "options": [
-      "न्यायमूर्ति अशोक अभेन्द्र देसाई",
-      "न्यायमूर्ति सूर्य नारायण बाबुलकर",
-      "न्यायमूर्ति मेहरबान सिंह नेगी",
-      "न्यायमूर्ति गुहानाथन नरेन्द्र"
+      "Justice Ashok Abhendra Desai",
+      "Justice Surya Narayan Babulkar",
+      "Justice Meharban Singh Negi",
+      "Justice Guhanathan Narendra"
     ],
     "correct_option": 3,
-    "explanation": "पुस्तक के अनुसार 14वें मुख्य न्यायाधीश: न्यायमूर्ति गुहानाथन नरेन्द्र (2025)।",
+    "explanation": "According to the book, the 14th Chief Justice: Justice Guhanathan Narendra (2025).",
     "source_page": 11
   },
   {
     "id": "q085",
-    "chapter": "उत्तराखण्ड - प्रमुख नियुक्तियाँ",
-    "topic": "विधानसभा अध्यक्ष व अन्य पद",
+    "chapter": "Uttarakhand - Major Appointments",
+    "topic": "Assembly Speaker & Other Posts",
     "difficulty": "hard",
     "type": "direct",
-    "question": "अंतरिम सरकार में उत्तराखण्ड के प्रथम महाधिवक्ता कौन थे?",
+    "question": "Who was the first Advocate General of Uttarakhand in the interim government?",
     "options": [
-      "एल.पी. नैथानी",
-      "मेहरबान सिंह नेगी",
-      "सूर्य नारायण बाबुलकर",
-      "अशोक अभेन्द्र देसाई"
+      "L.P. Nathani",
+      "Meharban Singh Negi",
+      "Surya Narayan Babulkar",
+      "Ashok Abhendra Desai"
     ],
     "correct_option": 0,
-    "explanation": "अंतरिम सरकार में प्रथम महाधिवक्ता: एल.पी. नैथानी।",
+    "explanation": "First Advocate General in the interim government: L.P. Nathani.",
     "source_page": 11
   },
   {
     "id": "q086",
-    "chapter": "उत्तराखण्ड - प्रमुख नियुक्तियाँ",
-    "topic": "विधानसभा अध्यक्ष व अन्य पद",
+    "chapter": "Uttarakhand - Major Appointments",
+    "topic": "Assembly Speaker & Other Posts",
     "difficulty": "hard",
     "type": "direct",
-    "question": "निर्वाचित सरकार में उत्तराखण्ड के प्रथम महाधिवक्ता कौन थे?",
+    "question": "Who was the first Advocate General of Uttarakhand in the elected government?",
     "options": [
-      "एल.पी. नैथानी",
-      "मेहरबान सिंह नेगी",
-      "सूर्य नारायण बाबुलकर",
-      "विजय बड़थ्वाल"
+      "L.P. Nathani",
+      "Meharban Singh Negi",
+      "Surya Narayan Babulkar",
+      "Vijay Barthwal"
     ],
     "correct_option": 1,
-    "explanation": "निर्वाचित सरकार में प्रथम महाधिवक्ता: मेहरबान सिंह नेगी।",
+    "explanation": "First Advocate General in the elected government: Meharban Singh Negi.",
     "source_page": 11
   },
   {
     "id": "q087",
-    "chapter": "उत्तराखण्ड - प्रमुख नियुक्तियाँ",
-    "topic": "विधानसभा अध्यक्ष व अन्य पद",
+    "chapter": "Uttarakhand - Major Appointments",
+    "topic": "Assembly Speaker & Other Posts",
     "difficulty": "hard",
     "type": "direct",
-    "question": "पुस्तक के अनुसार मार्च 2017 से उत्तराखण्ड के महाधिवक्ता कौन हैं?",
+    "question": "According to the book, who is the Advocate General of Uttarakhand from March 2017?",
     "options": [
-      "एल.पी. नैथानी",
-      "मेहरबान सिंह नेगी",
-      "सूर्य नारायण बाबुलकर",
-      "गुहानाथन नरेन्द्र"
+      "L.P. Nathani",
+      "Meharban Singh Negi",
+      "Surya Narayan Babulkar",
+      "Guhanathan Narendra"
     ],
     "correct_option": 2,
-    "explanation": "पुस्तक में वर्तमान महाधिवक्ता: सूर्य नारायण बाबुलकर (मार्च 2017 से)।",
+    "explanation": "The current Advocate General in the book: Surya Narayan Babulkar (from March 2017).",
     "source_page": 11
   }
 ]

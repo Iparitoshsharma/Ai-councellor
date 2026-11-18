@@ -78,8 +78,8 @@ Rules:
 - Every `id` must be unique.
 - `source_page` is optional (use `null` if not needed).
 
-The built-in sample set is current affairs — replace it with your real
-questions whenever you're ready.
+The built-in question bank is Uttarakhand General Knowledge (87 questions,
+in English), with every test made up of a random set of 25 questions.
 
 ## Publishing online (later stage)
 

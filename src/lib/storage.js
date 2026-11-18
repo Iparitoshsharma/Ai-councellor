@@ -2,12 +2,12 @@
 // localStorage is a small storage area inside the browser that survives
 // closing the app. No server involved.
 
-// v2: bumped when the defaults changed to the 25-question Uttarakhand bank,
-// so older saved settings are ignored and the new defaults apply.
-const SETTINGS_KEY = 'examprep.settings.v2'
+// v3: bumped when the exam content was switched from Hindi to English,
+// so older saved settings (with the Hindi exam name) are ignored.
+const SETTINGS_KEY = 'examprep.settings.v3'
 
 export const DEFAULT_SETTINGS = {
-  examName: 'उत्तराखण्ड सामान्य ज्ञान मॉक टेस्ट',
+  examName: 'Uttarakhand General Knowledge Mock Test',
   questionsPerTest: 25,
   timerEnabled: true,
   durationMinutes: 25,
