@@ -1,222 +1,1481 @@
 [
   {
-    "id": "ca001",
-    "topic": "Sports",
+    "id": "q001",
+    "chapter": "उत्तराखण्ड - राजनीतिक व प्रशासनिक ढाँचा",
+    "topic": "विधानसभा व लोकसभा",
     "difficulty": "easy",
     "type": "direct",
-    "question": "Which city hosted the Summer Olympic Games in 2024?",
-    "options": ["Tokyo", "Paris", "Los Angeles", "Brisbane"],
-    "correct_option": 1,
-    "explanation": "Paris, France hosted the 2024 Summer Olympics — its third time as host after 1900 and 1924.",
-    "source_page": null
-  },
-  {
-    "id": "ca002",
-    "topic": "Sports",
-    "difficulty": "medium",
-    "type": "direct",
-    "question": "India won the ICC Men's T20 World Cup 2024 by defeating which team in the final?",
-    "options": ["Australia", "England", "South Africa", "Pakistan"],
-    "correct_option": 2,
-    "explanation": "India beat South Africa by 7 runs in the final at Barbados, winning their second T20 World Cup after 2007.",
-    "source_page": null
-  },
-  {
-    "id": "ca003",
-    "topic": "Sports",
-    "difficulty": "easy",
-    "type": "direct",
-    "question": "Which Indian athlete won the silver medal in javelin throw at the Paris 2024 Olympics?",
-    "options": ["Neeraj Chopra", "Arshad Nadeem", "Davinder Singh Kang", "Shivpal Singh"],
+    "question": "उत्तराखण्ड विधानसभा में कुल आरक्षित (SC + ST) सीटों की संख्या कितनी है?",
+    "options": [
+      "16",
+      "14",
+      "12",
+      "18"
+    ],
     "correct_option": 0,
-    "explanation": "Neeraj Chopra won silver behind Pakistan's Arshad Nadeem, adding to his Tokyo 2020 gold.",
-    "source_page": null
+    "explanation": "कुल 16 आरक्षित सीटें: 14 SC + 2 ST।",
+    "source_page": 9
   },
   {
-    "id": "ca004",
-    "topic": "Sports",
+    "id": "q002",
+    "chapter": "उत्तराखण्ड - राजनीतिक व प्रशासनिक ढाँचा",
+    "topic": "विधानसभा व लोकसभा",
+    "difficulty": "easy",
+    "type": "direct",
+    "question": "उत्तराखण्ड विधानसभा में अनुसूचित जाति (SC) के लिए कितनी सीटें आरक्षित हैं?",
+    "options": [
+      "16",
+      "14",
+      "12",
+      "10"
+    ],
+    "correct_option": 1,
+    "explanation": "SC के लिए 14 विधानसभा सीटें आरक्षित हैं।",
+    "source_page": 9
+  },
+  {
+    "id": "q003",
+    "chapter": "उत्तराखण्ड - राजनीतिक व प्रशासनिक ढाँचा",
+    "topic": "विधानसभा व लोकसभा",
     "difficulty": "medium",
     "type": "direct",
-    "question": "Which Indian shooter won two bronze medals at the Paris 2024 Olympics?",
-    "options": ["Manu Bhaker", "Sift Kaur Samra", "Elavenil Valarivan", "Apurvi Chandela"],
+    "question": "SC के लिए आरक्षित 14 विधानसभा सीटों में से सर्वाधिक सीटें किस जिले में हैं?",
+    "options": [
+      "देहरादून (3 सीटें)",
+      "ऊधमसिंह नगर (3 सीटें)",
+      "हरिद्वार (3 सीटें)",
+      "टिहरी गढ़वाल (2 सीटें)"
+    ],
+    "correct_option": 2,
+    "explanation": "हरिद्वार में 3 तथा अन्य जिलों में 1-1 सीट आरक्षित है।",
+    "source_page": 9
+  },
+  {
+    "id": "q004",
+    "chapter": "उत्तराखण्ड - राजनीतिक व प्रशासनिक ढाँचा",
+    "topic": "विधानसभा व लोकसभा",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "अनुसूचित जनजाति (ST) के लिए आरक्षित दो विधानसभा सीटें कौन-सी हैं?",
+    "options": [
+      "चकराता (देहरादून) व खटीमा (ऊ.सि.नगर)",
+      "पुरोला (उत्तरकाशी) व नानकमत्ता (ऊ.सि.नगर)",
+      "चकराता (देहरादून) व रुड़की (हरिद्वार)",
+      "चकराता (देहरादून) व नानकमत्ता (ऊ.सि.नगर)"
+    ],
+    "correct_option": 3,
+    "explanation": "ST के लिए चकराता (देहरादून) और नानकमत्ता (ऊ.सि.नगर) आरक्षित हैं।",
+    "source_page": 9
+  },
+  {
+    "id": "q005",
+    "chapter": "उत्तराखण्ड - राजनीतिक व प्रशासनिक ढाँचा",
+    "topic": "विधानसभा व लोकसभा",
+    "difficulty": "easy",
+    "type": "direct",
+    "question": "उत्तराखण्ड में सर्वाधिक विधानसभा सीटें किस जिले में हैं?",
+    "options": [
+      "हरिद्वार (11)",
+      "देहरादून (11)",
+      "ऊधमसिंह नगर (11)",
+      "नैनीताल (11)"
+    ],
     "correct_option": 0,
-    "explanation": "Manu Bhaker won bronze in the 10m air pistol and then in the 10m air pistol mixed team event with Sarabjot Singh.",
-    "source_page": null
+    "explanation": "हरिद्वार में सर्वाधिक 11 विधानसभा सीटें हैं।",
+    "source_page": 9
   },
   {
-    "id": "ca005",
-    "topic": "Science and Technology",
-    "difficulty": "easy",
-    "type": "direct",
-    "question": "Chandrayaan-3 made India the first country to soft-land near which region of the Moon?",
-    "options": ["The north pole", "The south pole", "The far side", "The Apollo 11 site"],
-    "correct_option": 1,
-    "explanation": "On 23 August 2023, Chandrayaan-3's Vikram lander touched down near the lunar south pole — a world first.",
-    "source_page": null
-  },
-  {
-    "id": "ca006",
-    "topic": "Science and Technology",
-    "difficulty": "easy",
-    "type": "direct",
-    "question": "Aditya-L1, launched by ISRO, is India's first mission dedicated to studying what?",
-    "options": ["Mars", "The Sun", "Venus", "Asteroids"],
-    "correct_option": 1,
-    "explanation": "Aditya-L1 observes the Sun from a point in space (L1) where it has a continuous view of the Sun.",
-    "source_page": null
-  },
-  {
-    "id": "ca007",
-    "topic": "Science and Technology",
-    "difficulty": "easy",
-    "type": "direct",
-    "question": "What is the aim of ISRO's Gaganyaan programme?",
-    "options": ["To launch military satellites", "To send Indian astronauts into space", "To build a moon base", "To mine asteroids"],
-    "correct_option": 1,
-    "explanation": "Gaganyaan is India's first human spaceflight programme, aiming to carry Indian astronauts to low Earth orbit.",
-    "source_page": null
-  },
-  {
-    "id": "ca008",
-    "topic": "International",
-    "difficulty": "easy",
-    "type": "direct",
-    "question": "Which Indian city hosted the G20 Leaders' Summit in September 2023?",
-    "options": ["Mumbai", "Hyderabad", "New Delhi", "Bengaluru"],
-    "correct_option": 2,
-    "explanation": "New Delhi hosted the G20 Summit in September 2023, with the theme 'Vasudhaiva Kutumbakam — One Earth, One Family, One Future'.",
-    "source_page": null
-  },
-  {
-    "id": "ca009",
-    "topic": "International",
-    "difficulty": "medium",
-    "type": "direct",
-    "question": "Which organisation was admitted as a new permanent member of the G20 at the 2023 New Delhi Summit?",
-    "options": ["ASEAN", "The African Union", "SAARC", "The Arab League"],
-    "correct_option": 1,
-    "explanation": "The African Union joined the G20 as a permanent member, taking representation from 55 African countries.",
-    "source_page": null
-  },
-  {
-    "id": "ca010",
-    "topic": "International",
-    "difficulty": "medium",
-    "type": "direct",
-    "question": "In which city was the COP29 United Nations climate conference held in November 2024?",
-    "options": ["Dubai", "Glasgow", "Baku", "Bonn"],
-    "correct_option": 2,
-    "explanation": "COP29 was held in Baku, Azerbaijan; the previous COP28 was in Dubai, UAE.",
-    "source_page": null
-  },
-  {
-    "id": "ca011",
-    "topic": "International",
-    "difficulty": "medium",
-    "type": "direct",
-    "question": "Which bloc passed the world's first comprehensive law regulating artificial intelligence in 2024?",
-    "options": ["The United States Congress", "The United Nations", "The European Union", "The G7"],
-    "correct_option": 2,
-    "explanation": "The EU AI Act, adopted in 2024, is the world's first comprehensive law governing artificial intelligence.",
-    "source_page": null
-  },
-  {
-    "id": "ca012",
-    "topic": "Awards",
-    "difficulty": "medium",
-    "type": "direct",
-    "question": "The Nobel Peace Prize 2024 was awarded to Nihon Hidankyo, an organisation from which country?",
-    "options": ["South Korea", "Japan", "Norway", "China"],
-    "correct_option": 1,
-    "explanation": "Nihon Hidankyo is a Japanese organisation of atomic-bomb survivors working against nuclear weapons.",
-    "source_page": null
-  },
-  {
-    "id": "ca013",
-    "topic": "Awards",
-    "difficulty": "medium",
-    "type": "direct",
-    "question": "Who won the Nobel Prize in Literature in 2024?",
-    "options": ["Han Kang", "Haruki Murakami", "Annie Ernaux", "Jon Fosse"],
-    "correct_option": 0,
-    "explanation": "South Korean author Han Kang won the 2024 Literature Nobel for her 'intense poetic prose', including the novel 'The Vegetarian'.",
-    "source_page": null
-  },
-  {
-    "id": "ca014",
-    "topic": "Sports",
-    "difficulty": "medium",
-    "type": "direct",
-    "question": "Who became the youngest ever World Chess Champion by winning the title in December 2024?",
-    "options": ["Magnus Carlsen", "D Gukesh", "Ding Liren", "R Praggnanandhaa"],
-    "correct_option": 1,
-    "explanation": "India's D Gukesh beat defending champion Ding Liren in Singapore at the age of 18 to become the youngest world champion.",
-    "source_page": null
-  },
-  {
-    "id": "ca015",
-    "topic": "International",
-    "difficulty": "medium",
-    "type": "direct",
-    "question": "After the change of government in Bangladesh in August 2024, who became the Chief Adviser of the interim government?",
-    "options": ["Sheikh Hasina", "Muhammad Yunus", "Khaleda Zia", "General Waker-uz-Zaman"],
-    "correct_option": 1,
-    "explanation": "Nobel laureate Muhammad Yunus was appointed Chief Adviser of Bangladesh's interim government after Sheikh Hasina resigned and left the country.",
-    "source_page": null
-  },
-  {
-    "id": "ca016",
-    "topic": "Economy",
+    "id": "q006",
+    "chapter": "उत्तराखण्ड - राजनीतिक व प्रशासनिक ढाँचा",
+    "topic": "विधानसभा व लोकसभा",
     "difficulty": "hard",
     "type": "direct",
-    "question": "Who took charge as the Governor of the Reserve Bank of India in December 2024?",
-    "options": ["Shaktikanta Das", "Sanjay Malhotra", "Urjit Patel", "Michael Patra"],
+    "question": "सबसे कम (2-2) विधानसभा सीटों वाले जिले कौन-से हैं?",
+    "options": [
+      "बागेश्वर, रुद्रप्रयाग व चमोली",
+      "बागेश्वर, रुद्रप्रयाग व चम्पावत",
+      "रुद्रप्रयाग, चम्पावत व उत्तरकाशी",
+      "बागेश्वर, चम्पावत व पिथौरागढ़"
+    ],
     "correct_option": 1,
-    "explanation": "Sanjay Malhotra, earlier Revenue Secretary, succeeded Shaktikanta Das as the 26th RBI Governor in December 2024.",
-    "source_page": null
+    "explanation": "बागेश्वर, रुद्रप्रयाग व चम्पावत में 2-2 सीटें हैं।",
+    "source_page": 9
   },
   {
-    "id": "ca017",
-    "topic": "Economy",
-    "difficulty": "medium",
-    "type": "direct",
-    "question": "UPI (Unified Payments Interface), India's real-time payment system, is developed and operated by which organisation?",
-    "options": ["RBI", "NPCI", "SEBI", "SBI"],
-    "correct_option": 1,
-    "explanation": "UPI was launched in 2016 and is run by the National Payments Corporation of India (NPCI), under RBI oversight.",
-    "source_page": null
-  },
-  {
-    "id": "ca018",
-    "topic": "Economy",
+    "id": "q007",
+    "chapter": "उत्तराखण्ड - राजनीतिक व प्रशासनिक ढाँचा",
+    "topic": "विधानसभा व लोकसभा",
     "difficulty": "easy",
     "type": "direct",
-    "question": "UPI payments made international news when they went live at the Eiffel Tower. In which country is the Eiffel Tower?",
-    "options": ["United Kingdom", "France", "Germany", "Italy"],
-    "correct_option": 1,
-    "explanation": "In 2024 India and France announced UPI acceptance in France, with the Eiffel Tower becoming a landmark example.",
-    "source_page": null
+    "question": "उत्तराखण्ड में प्रथम विधानसभा चुनाव कब हुए?",
+    "options": [
+      "14 मार्च 2002",
+      "9 नवम्बर 2000",
+      "14 फरवरी 2002",
+      "1 मार्च 2002"
+    ],
+    "correct_option": 2,
+    "explanation": "प्रथम चुनाव 14 फरवरी 2002 को हुआ।",
+    "source_page": 9
   },
   {
-    "id": "ca019",
-    "topic": "Science and Technology",
+    "id": "q008",
+    "chapter": "उत्तराखण्ड - राजनीतिक व प्रशासनिक ढाँचा",
+    "topic": "विधानसभा व लोकसभा",
     "difficulty": "medium",
     "type": "direct",
-    "question": "In 2024, which country became the first to bring back rock samples from the far side of the Moon?",
-    "options": ["China", "USA", "India", "Japan"],
-    "correct_option": 0,
-    "explanation": "China's Chang'e-6 mission returned samples from the Moon's far side in June 2024, a historic first.",
-    "source_page": null
+    "question": "उत्तराखण्ड की प्रथम विधानसभा का गठन कब हुआ?",
+    "options": [
+      "14 फरवरी 2002",
+      "1 मार्च 2002",
+      "9 नवम्बर 2000",
+      "14-15 मार्च 2002"
+    ],
+    "correct_option": 3,
+    "explanation": "प्रथम विधानसभा का गठन 14-15 मार्च 2002 को हुआ।",
+    "source_page": 9
   },
   {
-    "id": "ca020",
-    "topic": "Sports",
+    "id": "q009",
+    "chapter": "उत्तराखण्ड - राजनीतिक व प्रशासनिक ढाँचा",
+    "topic": "विधानसभा व लोकसभा",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "प्रथम से पंचम विधानसभा चुनाव में विजयी महिलाओं की संख्या क्रमशः कितनी रही?",
+    "options": [
+      "4, 4, 5, 5 व 8",
+      "4, 5, 5, 6 व 8",
+      "3, 4, 5, 5 व 8",
+      "4, 4, 5, 8 व 5"
+    ],
+    "correct_option": 0,
+    "explanation": "पुस्तक के अनुसार क्रमशः 4, 4, 5, 5 व 8 महिलाएँ विजयी रहीं।",
+    "source_page": 9
+  },
+  {
+    "id": "q010",
+    "chapter": "उत्तराखण्ड - राजनीतिक व प्रशासनिक ढाँचा",
+    "topic": "विधानसभा व लोकसभा",
+    "difficulty": "easy",
+    "type": "direct",
+    "question": "उत्तराखण्ड में लोकसभा सीटों की संख्या कितनी है?",
+    "options": [
+      "3",
+      "5",
+      "4",
+      "6"
+    ],
+    "correct_option": 1,
+    "explanation": "5 लोकसभा सीटें: टिहरी, पौड़ी, अल्मोड़ा, नैनीताल व हरिद्वार।",
+    "source_page": 9
+  },
+  {
+    "id": "q011",
+    "chapter": "उत्तराखण्ड - राजनीतिक व प्रशासनिक ढाँचा",
+    "topic": "विधानसभा व लोकसभा",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "क्षेत्रफल की दृष्टि से सबसे छोटी लेकिन मतदाताओं की दृष्टि से सबसे बड़ी लोकसभा सीट कौन-सी है?",
+    "options": [
+      "पौड़ी गढ़वाल",
+      "टिहरी गढ़वाल",
+      "हरिद्वार",
+      "नैनीताल-ऊधमसिंह नगर"
+    ],
+    "correct_option": 2,
+    "explanation": "क्षेत्रफल में सबसे छोटी पर मतदाताओं में सबसे बड़ी सीट हरिद्वार है।",
+    "source_page": 9
+  },
+  {
+    "id": "q012",
+    "chapter": "उत्तराखण्ड - राजनीतिक व प्रशासनिक ढाँचा",
+    "topic": "विधानसभा व लोकसभा",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "क्षेत्रफल की दृष्टि से सबसे बड़ी लेकिन मतदाताओं की दृष्टि से सबसे छोटी लोकसभा सीट कौन-सी है?",
+    "options": [
+      "हरिद्वार",
+      "अल्मोड़ा",
+      "टिहरी गढ़वाल",
+      "पौड़ी गढ़वाल"
+    ],
+    "correct_option": 3,
+    "explanation": "क्षेत्रफल में सबसे बड़ी पर मतदाताओं में सबसे छोटी सीट पौड़ी गढ़वाल है।",
+    "source_page": 9
+  },
+  {
+    "id": "q013",
+    "chapter": "उत्तराखण्ड - राजनीतिक व प्रशासनिक ढाँचा",
+    "topic": "विधानसभा व लोकसभा",
+    "difficulty": "easy",
+    "type": "direct",
+    "question": "उत्तराखण्ड की कौन-सी लोकसभा सीट SC वर्ग के लिए आरक्षित है?",
+    "options": [
+      "अल्मोड़ा",
+      "हरिद्वार",
+      "पौड़ी गढ़वाल",
+      "नैनीताल"
+    ],
+    "correct_option": 0,
+    "explanation": "SC हेतु आरक्षित लोकसभा सीट: 1 (अल्मोड़ा)।",
+    "source_page": 9
+  },
+  {
+    "id": "q014",
+    "chapter": "उत्तराखण्ड - राजनीतिक व प्रशासनिक ढाँचा",
+    "topic": "विधानसभा व लोकसभा",
+    "difficulty": "easy",
+    "type": "direct",
+    "question": "उत्तराखण्ड से राज्यसभा की कुल कितनी सीटें हैं?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correct_option": 1,
+    "explanation": "राज्यसभा सीटों की संख्या 3 है।",
+    "source_page": 9
+  },
+  {
+    "id": "q015",
+    "chapter": "उत्तराखण्ड - राजनीतिक व प्रशासनिक ढाँचा",
+    "topic": "न्यायपालिका",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "संविधान के किस अनुच्छेद में प्रत्येक राज्य हेतु एक-एक उच्च न्यायालय की व्यवस्था है?",
+    "options": [
+      "अनुच्छेद 124",
+      "अनुच्छेद 226",
+      "अनुच्छेद 214",
+      "अनुच्छेद 231"
+    ],
+    "correct_option": 2,
+    "explanation": "अनुच्छेद 214 राज्यों हेतु एक-एक उच्च न्यायालय की व्यवस्था करता है।",
+    "source_page": 9
+  },
+  {
+    "id": "q016",
+    "chapter": "उत्तराखण्ड - राजनीतिक व प्रशासनिक ढाँचा",
+    "topic": "न्यायपालिका",
+    "difficulty": "easy",
+    "type": "direct",
+    "question": "उत्तराखण्ड उच्च न्यायालय की स्थापना कब हुई?",
+    "options": [
+      "1 मार्च 2002",
+      "14 फरवरी 2002",
+      "8 अगस्त 2001",
+      "9 नवम्बर 2000"
+    ],
+    "correct_option": 3,
+    "explanation": "स्थापना 9 नवम्बर 2000 को नैनीताल में हुई।",
+    "source_page": 9
+  },
+  {
+    "id": "q017",
+    "chapter": "उत्तराखण्ड - राजनीतिक व प्रशासनिक ढाँचा",
+    "topic": "न्यायपालिका",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "उत्तराखण्ड उच्च न्यायालय देश का कौन-सा उच्च न्यायालय है?",
+    "options": [
+      "18वाँ",
+      "16वाँ",
+      "17वाँ",
+      "19वाँ"
+    ],
+    "correct_option": 0,
+    "explanation": "यह देश का 18वाँ उच्च न्यायालय है, जो नैनीताल में स्थित है।",
+    "source_page": 9
+  },
+  {
+    "id": "q018",
+    "chapter": "उत्तराखण्ड - राजनीतिक व प्रशासनिक ढाँचा",
+    "topic": "न्यायपालिका",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "पुस्तक के अनुसार उत्तराखण्ड उच्च न्यायालय में मुख्य न्यायाधीश सहित कुल न्यायाधीशों की संख्या कितनी है?",
+    "options": [
+      "9",
+      "11",
+      "10",
+      "13"
+    ],
+    "correct_option": 1,
+    "explanation": "पुस्तक में मुख्य न्यायाधीश सहित कुल 11 न्यायाधीश दिए गए हैं।",
+    "source_page": 9
+  },
+  {
+    "id": "q019",
+    "chapter": "उत्तराखण्ड - राजनीतिक व प्रशासनिक ढाँचा",
+    "topic": "न्यायपालिका",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "सितम्बर 2024 तक राज्य में कितनी स्थायी लोक अदालतें गठित की जा चुकी थीं?",
+    "options": [
+      "05",
+      "06",
+      "07",
+      "09"
+    ],
+    "correct_option": 2,
+    "explanation": "पुस्तक के अनुसार 07 स्थायी लोक अदालतें गठित हुईं (सितम्बर 2024)।",
+    "source_page": 9
+  },
+  {
+    "id": "q020",
+    "chapter": "उत्तराखण्ड - राजनीतिक व प्रशासनिक ढाँचा",
+    "topic": "न्यायपालिका",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "राज्य की क्रियाशील (04) स्थायी लोक अदालतें किन जिलों में हैं?",
+    "options": [
+      "अल्मोड़ा, पौड़ी गढ़वाल, टिहरी गढ़वाल व देहरादून",
+      "देहरादून, हरिद्वार, पौड़ी गढ़वाल व टिहरी गढ़वाल",
+      "हरिद्वार, नैनीताल, अल्मोड़ा व ऊधमसिंह नगर",
+      "देहरादून, हरिद्वार, नैनीताल व ऊधमसिंह नगर"
+    ],
+    "correct_option": 3,
+    "explanation": "क्रियाशील 04: देहरादून, हरिद्वार, नैनीताल व उ.सि.नगर।",
+    "source_page": 9
+  },
+  {
+    "id": "q021",
+    "chapter": "उत्तराखण्ड - राजनीतिक व प्रशासनिक ढाँचा",
+    "topic": "न्यायपालिका",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "उत्तराखण्ड में औद्योगिक न्यायाधिकरण कहाँ स्थित है?",
+    "options": [
+      "हल्द्वानी",
+      "देहरादून",
+      "हरिद्वार",
+      "काशीपुर"
+    ],
+    "correct_option": 0,
+    "explanation": "प्रदेश में एक औद्योगिक न्यायाधिकरण हल्द्वानी में है।",
+    "source_page": 9
+  },
+  {
+    "id": "q022",
+    "chapter": "उत्तराखण्ड - राजनीतिक व प्रशासनिक ढाँचा",
+    "topic": "न्यायपालिका",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "उत्तराखण्ड में तीन श्रम न्यायालय कहाँ-कहाँ स्थित हैं?",
+    "options": [
+      "देहरादून, हल्द्वानी व काशीपुर",
+      "देहरादून, हरिद्वार व काशीपुर",
+      "हरिद्वार, रुद्रपुर व हल्द्वानी",
+      "देहरादून, हरिद्वार व हल्द्वानी"
+    ],
+    "correct_option": 1,
+    "explanation": "तीन श्रम न्यायालय: देहरादून, हरिद्वार व काशीपुर।",
+    "source_page": 9
+  },
+  {
+    "id": "q023",
+    "chapter": "उत्तराखण्ड - राजनीतिक व प्रशासनिक ढाँचा",
+    "topic": "प्रशासनिक इकाइयाँ",
+    "difficulty": "easy",
+    "type": "direct",
+    "question": "उत्तराखण्ड में सम्भागों (मण्डलों) की संख्या कितनी है?",
+    "options": [
+      "3 (गढ़वाल, कुमाऊँ व तराई)",
+      "4",
+      "2 (गढ़वाल व कुमाऊँ)",
+      "1"
+    ],
+    "correct_option": 2,
+    "explanation": "2 मण्डल: गढ़वाल व कुमाऊँ।",
+    "source_page": 9
+  },
+  {
+    "id": "q024",
+    "chapter": "उत्तराखण्ड - राजनीतिक व प्रशासनिक ढाँचा",
+    "topic": "प्रशासनिक इकाइयाँ",
+    "difficulty": "easy",
+    "type": "direct",
+    "question": "सर्वाधिक जिलों वाला मण्डल कौन-सा है?",
+    "options": [
+      "कुमाऊँ मण्डल (7 जिले)",
+      "गढ़वाल मण्डल (6 जिले)",
+      "कुमाऊँ मण्डल (6 जिले)",
+      "गढ़वाल मण्डल (7 जिले)"
+    ],
+    "correct_option": 3,
+    "explanation": "गढ़वाल मण्डल में 7 जिले हैं।",
+    "source_page": 9
+  },
+  {
+    "id": "q025",
+    "chapter": "उत्तराखण्ड - राजनीतिक व प्रशासनिक ढाँचा",
+    "topic": "प्रशासनिक इकाइयाँ",
+    "difficulty": "easy",
+    "type": "direct",
+    "question": "उत्तराखण्ड में कुल जिलों की संख्या कितनी है?",
+    "options": [
+      "13",
+      "11",
+      "12",
+      "14"
+    ],
+    "correct_option": 0,
+    "explanation": "राज्य में कुल 13 जिले हैं।",
+    "source_page": 9
+  },
+  {
+    "id": "q026",
+    "chapter": "उत्तराखण्ड - राजनीतिक व प्रशासनिक ढाँचा",
+    "topic": "प्रशासनिक इकाइयाँ",
+    "difficulty": "easy",
+    "type": "direct",
+    "question": "उत्तराखण्ड के मैदानी जिले कौन-से हैं?",
+    "options": [
+      "देहरादून व हरिद्वार",
+      "हरिद्वार व ऊधमसिंह नगर",
+      "ऊधमसिंह नगर व नैनीताल",
+      "हरिद्वार व नैनीताल"
+    ],
+    "correct_option": 1,
+    "explanation": "कुल जिलों में 2 मैदानी जिले हैं: हरिद्वार व ऊधमसिंह नगर।",
+    "source_page": 9
+  },
+  {
+    "id": "q027",
+    "chapter": "उत्तराखण्ड - राजनीतिक व प्रशासनिक ढाँचा",
+    "topic": "प्रशासनिक इकाइयाँ",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "पुस्तक के अनुसार (2025) उत्तराखण्ड में उप-जिलों (तहसीलों) की संख्या कितनी है?",
+    "options": [
+      "70",
+      "95",
+      "110",
+      "123"
+    ],
+    "correct_option": 2,
+    "explanation": "पुस्तक में तहसीलों की संख्या 110 (2025) दी गई है।",
+    "source_page": 9
+  },
+  {
+    "id": "q028",
+    "chapter": "उत्तराखण्ड - राजनीतिक व प्रशासनिक ढाँचा",
+    "topic": "प्रशासनिक इकाइयाँ",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "सर्वाधिक तहसीलों वाला जिला कौन-सा है?",
+    "options": [
+      "अल्मोड़ा (13 तहसीलें)",
+      "पौड़ी गढ़वाल (13 तहसीलें)",
+      "चमोली (13 तहसीलें)",
+      "पिथौरागढ़ (13 तहसीलें)"
+    ],
+    "correct_option": 3,
+    "explanation": "सर्वाधिक तहसीलें पिथौरागढ़ में (13) हैं।",
+    "source_page": 9
+  },
+  {
+    "id": "q029",
+    "chapter": "उत्तराखण्ड - राजनीतिक व प्रशासनिक ढाँचा",
+    "topic": "प्रशासनिक इकाइयाँ",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "सबसे कम तहसीलों (4-4) वाले जिले कौन-से हैं?",
+    "options": [
+      "रुद्रप्रयाग व हरिद्वार",
+      "रुद्रप्रयाग व बागेश्वर",
+      "हरिद्वार व चम्पावत",
+      "बागेश्वर व चम्पावत"
+    ],
+    "correct_option": 0,
+    "explanation": "रुद्रप्रयाग व हरिद्वार में 4-4 तहसीलें हैं।",
+    "source_page": 9
+  },
+  {
+    "id": "q030",
+    "chapter": "उत्तराखण्ड - राजनीतिक व प्रशासनिक ढाँचा",
+    "topic": "प्रशासनिक इकाइयाँ",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "पुस्तक के अनुसार (2025) उप तहसीलों की संख्या कितनी है?",
+    "options": [
+      "12",
+      "18",
+      "24",
+      "110"
+    ],
+    "correct_option": 1,
+    "explanation": "उप तहसीलों की संख्या 18 (2025) दी गई है।",
+    "source_page": 9
+  },
+  {
+    "id": "q031",
+    "chapter": "उत्तराखण्ड - राजनीतिक व प्रशासनिक ढाँचा",
+    "topic": "प्रशासनिक इकाइयाँ",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "अंग्रेजों के समय कुमाऊँ क्षेत्र में कुल परगने व पट्टियाँ क्रमशः कितनी थीं?",
+    "options": [
+      "11 व 86",
+      "19 व 86",
+      "19 व 125",
+      "11 व 125"
+    ],
+    "correct_option": 2,
+    "explanation": "कुमाऊँ में 19 परगने और 125 पट्टियाँ थीं।",
+    "source_page": 9
+  },
+  {
+    "id": "q032",
+    "chapter": "उत्तराखण्ड - राजनीतिक व प्रशासनिक ढाँचा",
+    "topic": "प्रशासनिक इकाइयाँ",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "अंग्रेजों के समय गढ़वाल क्षेत्र में कुल परगने व पट्टियाँ क्रमशः कितनी थीं?",
+    "options": [
+      "19 व 125",
+      "11 व 125",
+      "19 व 86",
+      "11 व 86"
+    ],
+    "correct_option": 3,
+    "explanation": "गढ़वाल में 11 परगने और 86 पट्टियाँ थीं।",
+    "source_page": 9
+  },
+  {
+    "id": "q033",
+    "chapter": "उत्तराखण्ड - राजनीतिक व प्रशासनिक ढाँचा",
+    "topic": "प्रशासनिक इकाइयाँ",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "सांख्यिकी डायरी 2022-23 के अनुसार राज्य में विकासखण्डों (ब्लॉकों) की कुल संख्या कितनी है?",
+    "options": [
+      "95 (82 पर्वतीय + 13 मैदानी)",
+      "95 (80 पर्वतीय + 15 मैदानी)",
+      "85 (72 पर्वतीय + 13 मैदानी)",
+      "97 (82 पर्वतीय + 15 मैदानी)"
+    ],
+    "correct_option": 0,
+    "explanation": "कुल 95 विकासखण्ड: 82 पर्वतीय व 13 मैदानी।",
+    "source_page": 9
+  },
+  {
+    "id": "q034",
+    "chapter": "उत्तराखण्ड - राजनीतिक व प्रशासनिक ढाँचा",
+    "topic": "प्रशासनिक इकाइयाँ",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "सर्वाधिक विकासखण्डों वाला जिला कौन-सा है?",
+    "options": [
+      "टिहरी गढ़वाल (15 ब्लॉक)",
+      "पौड़ी गढ़वाल (15 ब्लॉक)",
+      "अल्मोड़ा (15 ब्लॉक)",
+      "पिथौरागढ़ (15 ब्लॉक)"
+    ],
+    "correct_option": 1,
+    "explanation": "सर्वाधिक विकासखण्ड पौड़ी (15) में हैं।",
+    "source_page": 9
+  },
+  {
+    "id": "q035",
+    "chapter": "उत्तराखण्ड - राजनीतिक व प्रशासनिक ढाँचा",
+    "topic": "प्रशासनिक इकाइयाँ",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "सबसे कम (3-3) विकासखण्डों वाले जिले कौन-से हैं?",
+    "options": [
+      "रुद्रप्रयाग व चम्पावत",
+      "बागेश्वर व चम्पावत",
+      "रुद्रप्रयाग व बागेश्वर",
+      "रुद्रप्रयाग व हरिद्वार"
+    ],
+    "correct_option": 2,
+    "explanation": "रुद्रप्रयाग व बागेश्वर में 3-3 ब्लॉक हैं।",
+    "source_page": 9
+  },
+  {
+    "id": "q036",
+    "chapter": "उत्तराखण्ड - राजनीतिक व प्रशासनिक ढाँचा",
+    "topic": "प्रशासनिक इकाइयाँ",
     "difficulty": "medium",
     "type": "statement",
-    "question": "Consider the statements about the Paris 2024 Paralympics: (1) India won 7 gold medals. (2) It was India's best-ever Paralympics performance. Which is correct?",
-    "options": ["Only 1", "Only 2", "Both 1 and 2", "Neither 1 nor 2"],
+    "question": "निम्न कथनों पर विचार कीजिए:\n1. राज्य में कुल विकासखण्ड 95 हैं।\n2. इनमें 82 पर्वतीय व 13 मैदानी हैं।\n3. सबसे कम विकासखण्डों वाले जिले बागेश्वर व चम्पावत हैं।\nउपर्युक्त में कौन-से कथन सही हैं?",
+    "options": [
+      "केवल 1 व 3",
+      "केवल 2 व 3",
+      "1, 2 व 3 तीनों",
+      "केवल 1 व 2"
+    ],
+    "correct_option": 3,
+    "explanation": "कथन 3 गलत: सबसे कम ब्लॉक रुद्रप्रयाग व बागेश्वर (3-3) में हैं।",
+    "source_page": 9
+  },
+  {
+    "id": "q037",
+    "chapter": "उत्तराखण्ड - राजनीतिक व प्रशासनिक ढाँचा",
+    "topic": "प्रशासनिक इकाइयाँ",
+    "difficulty": "medium",
+    "type": "statement",
+    "question": "निम्न कथनों पर विचार कीजिए:\n1. उत्तराखण्ड में कुल 13 जिले हैं।\n2. मैदानी जिले हरिद्वार व ऊधमसिंह नगर हैं।\n3. सर्वाधिक जिलों वाला मण्डल कुमाऊँ है।\nउपर्युक्त में कौन-से कथन सही हैं?",
+    "options": [
+      "केवल 1 व 2",
+      "केवल 2 व 3",
+      "केवल 1 व 3",
+      "1, 2 व 3 तीनों"
+    ],
+    "correct_option": 0,
+    "explanation": "कथन 3 गलत: सर्वाधिक (7) जिले गढ़वाल मण्डल में हैं।",
+    "source_page": 9
+  },
+  {
+    "id": "q038",
+    "chapter": "उत्तराखण्ड - राजनीतिक व प्रशासनिक ढाँचा",
+    "topic": "पुलिस व्यवस्था",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "राज्य के लगभग 60 प्रतिशत ग्रामीण क्षेत्रों में कौन-सी पुलिस व्यवस्था लागू है?",
+    "options": [
+      "सिविल पुलिस व्यवस्था",
+      "राजस्व पुलिस व्यवस्था",
+      "ग्राम रक्षक व्यवस्था",
+      "कमिश्नरी पुलिस व्यवस्था"
+    ],
+    "correct_option": 1,
+    "explanation": "लगभग 60% ग्रामीण क्षेत्रों में राजस्व पुलिस व्यवस्था लागू है।",
+    "source_page": 9
+  },
+  {
+    "id": "q039",
+    "chapter": "उत्तराखण्ड - राजनीतिक व प्रशासनिक ढाँचा",
+    "topic": "पुलिस व्यवस्था",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "पुस्तक के अनुसार (2022-23) राज्य में कुल पुलिस स्टेशनों की संख्या कितनी है?",
+    "options": [
+      "160",
+      "157",
+      "166",
+      "170"
+    ],
     "correct_option": 2,
-    "explanation": "India won 29 medals including 7 golds at Paris 2024 — its best-ever Paralympic tally, better than Tokyo 2020's 19.",
-    "source_page": null
+    "explanation": "कुल 166 पुलिस स्टेशन: 160 राजकीय + 4 GRP + 2 साइबर।",
+    "source_page": 9
+  },
+  {
+    "id": "q040",
+    "chapter": "उत्तराखण्ड - राजनीतिक व प्रशासनिक ढाँचा",
+    "topic": "पुलिस व्यवस्था",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "राज्य में सर्वाधिक व सबसे कम पुलिस थाने किन जिलों में हैं?",
+    "options": [
+      "हरिद्वार (21) व रुद्रप्रयाग (5)",
+      "देहरादून (21) व चम्पावत (5)",
+      "नैनीताल (21) व बागेश्वर (5)",
+      "देहरादून (21) व रुद्रप्रयाग (5)"
+    ],
+    "correct_option": 3,
+    "explanation": "सर्वाधिक: देहरादून (21); सबसे कम: रुद्रप्रयाग (5)।",
+    "source_page": 9
+  },
+  {
+    "id": "q041",
+    "chapter": "उत्तराखण्ड - राजनीतिक व प्रशासनिक ढाँचा",
+    "topic": "पुलिस व्यवस्था",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "राज्य में कुल पुलिस चौकियों की संख्या कितनी है?",
+    "options": [
+      "257",
+      "166",
+      "225",
+      "275"
+    ],
+    "correct_option": 0,
+    "explanation": "पुस्तक के अनुसार कुल पुलिस चौकियाँ 257 हैं।",
+    "source_page": 9
+  },
+  {
+    "id": "q042",
+    "chapter": "उत्तराखण्ड - राजनीतिक व प्रशासनिक ढाँचा",
+    "topic": "पुलिस व्यवस्था",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "राज्य का प्रथम साइबर थाना कहाँ स्थापित हुआ (25 मार्च 2015 से)?",
+    "options": [
+      "हल्द्वानी",
+      "देहरादून",
+      "हरिद्वार",
+      "रुद्रपुर"
+    ],
+    "correct_option": 1,
+    "explanation": "प्रथम साइबर थाना देहरादून में (25 मार्च 2015 से)।",
+    "source_page": 9
+  },
+  {
+    "id": "q043",
+    "chapter": "उत्तराखण्ड - राजनीतिक व प्रशासनिक ढाँचा",
+    "topic": "पुलिस व्यवस्था",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "राज्य का दूसरा साइबर थाना (1 जनवरी 2021 से) कहाँ है?",
+    "options": [
+      "देहरादून",
+      "हल्द्वानी",
+      "रुद्रपुर",
+      "काशीपुर"
+    ],
+    "correct_option": 2,
+    "explanation": "दूसरा साइबर थाना रुद्रपुर में (1 जन. 2021 से)।",
+    "source_page": 9
+  },
+  {
+    "id": "q044",
+    "chapter": "उत्तराखण्ड - राजनीतिक व प्रशासनिक ढाँचा",
+    "topic": "पुलिस व्यवस्था",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "राज्य का प्रथम बाल मित्र थाना कहाँ स्थापित हुआ (जनवरी 2021)?",
+    "options": [
+      "कोतवाली, हल्द्वानी",
+      "कोतवाली, देहरादून",
+      "नेहरू कॉलोनी थाना, देहरादून",
+      "डालनवाला थाना, देहरादून"
+    ],
+    "correct_option": 3,
+    "explanation": "प्रथम बाल मित्र थाना: डालनवाला थाना, देहरादून।",
+    "source_page": 9
+  },
+  {
+    "id": "q045",
+    "chapter": "उत्तराखण्ड - राजनीतिक व प्रशासनिक ढाँचा",
+    "topic": "पुलिस व्यवस्था",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "राज्य का दूसरा बाल मित्र थाना (अक्टूबर 2021) कहाँ है?",
+    "options": [
+      "कोतवाली, हल्द्वानी (नैनीताल)",
+      "डालनवाला, देहरादून",
+      "कोतवाली, रुद्रपुर",
+      "कोतवाली, हरिद्वार"
+    ],
+    "correct_option": 0,
+    "explanation": "दूसरा बाल मित्र थाना: कोतवाली, हल्द्वानी।",
+    "source_page": 9
+  },
+  {
+    "id": "q046",
+    "chapter": "उत्तराखण्ड - राजनीतिक व प्रशासनिक ढाँचा",
+    "topic": "ग्राम (2011)",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "2011 के अनुसार उत्तराखण्ड में कुल ग्रामों की संख्या कितनी थी?",
+    "options": [
+      "15745",
+      "16793",
+      "16739",
+      "17613"
+    ],
+    "correct_option": 1,
+    "explanation": "कुल ग्राम 16793: 15745 आबाद + 1048 गैर आबाद।",
+    "source_page": 9
+  },
+  {
+    "id": "q047",
+    "chapter": "उत्तराखण्ड - राजनीतिक व प्रशासनिक ढाँचा",
+    "topic": "ग्राम (2011)",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "2011 के अनुसार आबाद ग्रामों की संख्या कितनी थी?",
+    "options": [
+      "16793",
+      "15501",
+      "15745",
+      "1048"
+    ],
+    "correct_option": 2,
+    "explanation": "आबाद ग्राम 15745 (15501 गैर वन + 244 वन ग्राम)।",
+    "source_page": 9
+  },
+  {
+    "id": "q048",
+    "chapter": "उत्तराखण्ड - राजनीतिक व प्रशासनिक ढाँचा",
+    "topic": "ग्राम (2011)",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "2011 के अनुसार गैर आबाद ग्रामों की संख्या कितनी थी?",
+    "options": [
+      "244",
+      "15501",
+      "1084",
+      "1048"
+    ],
+    "correct_option": 3,
+    "explanation": "गैर आबाद ग्राम 1048 थे।",
+    "source_page": 9
+  },
+  {
+    "id": "q049",
+    "chapter": "उत्तराखण्ड - राजनीतिक व प्रशासनिक ढाँचा",
+    "topic": "ग्राम (2011)",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "2011 में आबाद ग्रामों में वन ग्रामों की संख्या कितनी थी?",
+    "options": [
+      "244",
+      "1048",
+      "15501",
+      "442"
+    ],
+    "correct_option": 0,
+    "explanation": "आबाद 15745 = 15501 गैर वन + 244 वन ग्राम।",
+    "source_page": 9
+  },
+  {
+    "id": "q050",
+    "chapter": "उत्तराखण्ड - राजनीतिक व प्रशासनिक ढाँचा",
+    "topic": "ग्राम (2011)",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "2011 में सर्वाधिक आबाद ग्राम (7846) किस आबादी वर्ग के थे?",
+    "options": [
+      "201 से 500 आबादी वाले",
+      "1 से 200 आबादी वाले",
+      "501 से 1000 आबादी वाले",
+      "5001 से अधिक आबादी वाले"
+    ],
+    "correct_option": 1,
+    "explanation": "सर्वाधिक (7846) ग्राम 1 से 200 आबादी वाले थे।",
+    "source_page": 9
+  },
+  {
+    "id": "q051",
+    "chapter": "उत्तराखण्ड - राजनीतिक व प्रशासनिक ढाँचा",
+    "topic": "ग्राम (2011)",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "2011 में सबसे कम (117) आबाद ग्राम किस आबादी वर्ग के थे?",
+    "options": [
+      "1 से 200 आबादी वाले",
+      "201 से 500 आबादी वाले",
+      "5001 से अधिक आबादी वाले",
+      "2001 से 5000 आबादी वाले"
+    ],
+    "correct_option": 2,
+    "explanation": "सबसे कम (117) ग्राम 5001 से अधिक आबादी वाले थे।",
+    "source_page": 9
+  },
+  {
+    "id": "q052",
+    "chapter": "उत्तराखण्ड - राजनीतिक व प्रशासनिक ढाँचा",
+    "topic": "ग्राम (2011)",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "2011 में सर्वाधिक व सबसे कम आबाद गाँवों वाले जिले क्रमशः कौन-से थे?",
+    "options": [
+      "अल्मोड़ा (3142) व हरिद्वार (518)",
+      "पौड़ी (3142) व ऊ.सि.नगर (518)",
+      "टिहरी (3142) व बागेश्वर (518)",
+      "पौड़ी (3142) व हरिद्वार (518)"
+    ],
+    "correct_option": 3,
+    "explanation": "सर्वाधिक: पौड़ी (3142); सबसे कम: हरिद्वार (518)।",
+    "source_page": 9
+  },
+  {
+    "id": "q053",
+    "chapter": "उत्तराखण्ड - प्रमुख नियुक्तियाँ",
+    "topic": "राज्यपाल",
+    "difficulty": "easy",
+    "type": "direct",
+    "question": "उत्तराखण्ड के प्रथम राज्यपाल कौन थे?",
+    "options": [
+      "सुरजीत सिंह बरनाला",
+      "सुदर्शन अग्रवाल",
+      "बी.एल. जोशी",
+      "मार्गरेट अल्वा"
+    ],
+    "correct_option": 0,
+    "explanation": "प्रथम राज्यपाल: सुरजीत सिंह बरनाला (9 नव. 2000 से 7 जन. 2003)।",
+    "source_page": 11
+  },
+  {
+    "id": "q054",
+    "chapter": "उत्तराखण्ड - प्रमुख नियुक्तियाँ",
+    "topic": "राज्यपाल",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "उत्तराखण्ड के द्वितीय राज्यपाल कौन थे?",
+    "options": [
+      "सुरजीत सिंह बरनाला",
+      "सुदर्शन अग्रवाल",
+      "बी.एल. जोशी",
+      "डॉ. अजीज कुरैशी"
+    ],
+    "correct_option": 1,
+    "explanation": "द्वितीय राज्यपाल: सुदर्शन अग्रवाल (8 जन. 2003 से 28 अक्टू. 2007)।",
+    "source_page": 11
+  },
+  {
+    "id": "q055",
+    "chapter": "उत्तराखण्ड - प्रमुख नियुक्तियाँ",
+    "topic": "राज्यपाल",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "बी.एल. जोशी उत्तराखण्ड के कौन-से राज्यपाल थे?",
+    "options": [
+      "द्वितीय",
+      "चतुर्थ",
+      "तृतीय",
+      "पंचम"
+    ],
+    "correct_option": 2,
+    "explanation": "बी.एल. जोशी: तृतीय राज्यपाल (29 अक्टू. 2007 से 5 अग. 2009)।",
+    "source_page": 11
+  },
+  {
+    "id": "q056",
+    "chapter": "उत्तराखण्ड - प्रमुख नियुक्तियाँ",
+    "topic": "राज्यपाल",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "उत्तराखण्ड की चतुर्थ राज्यपाल कौन थीं?",
+    "options": [
+      "बेबी रानी मौर्या",
+      "कृष्णकांत पाल",
+      "सुदर्शन अग्रवाल",
+      "मार्गरेट अल्वा"
+    ],
+    "correct_option": 3,
+    "explanation": "मार्गरेट अल्वा: 6 अगस्त 2009 से 14 मई 2012।",
+    "source_page": 11
+  },
+  {
+    "id": "q057",
+    "chapter": "उत्तराखण्ड - प्रमुख नियुक्तियाँ",
+    "topic": "राज्यपाल",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "डॉ. अजीज कुरैशी उत्तराखण्ड के राज्यपाल किस अवधि में रहे?",
+    "options": [
+      "15 मई 2012 से 7 जनवरी 2015",
+      "6 अगस्त 2009 से 14 मई 2012",
+      "8 जनवरी 2015 से 25 अगस्त 2018",
+      "29 अक्टूबर 2007 से 5 अगस्त 2009"
+    ],
+    "correct_option": 0,
+    "explanation": "पंचम राज्यपाल डॉ. अजीज कुरैशी: 15 मई 2012 – 7 जन. 2015।",
+    "source_page": 11
+  },
+  {
+    "id": "q058",
+    "chapter": "उत्तराखण्ड - प्रमुख नियुक्तियाँ",
+    "topic": "राज्यपाल",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "डॉ. कृष्णकांत पाल उत्तराखण्ड के कौन-से राज्यपाल थे?",
+    "options": [
+      "पंचम",
+      "षष्ठम",
+      "सप्तम",
+      "अष्टम"
+    ],
+    "correct_option": 1,
+    "explanation": "डॉ. कृष्णकांत पाल: षष्ठम (8 जन. 2015 से 25 अग. 2018)।",
+    "source_page": 11
+  },
+  {
+    "id": "q059",
+    "chapter": "उत्तराखण्ड - प्रमुख नियुक्तियाँ",
+    "topic": "राज्यपाल",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "उत्तराखण्ड की सप्तम राज्यपाल कौन थीं, जिनका कार्यकाल 26 अगस्त 2018 से 8 सितम्बर 2021 तक रहा?",
+    "options": [
+      "मार्गरेट अल्वा",
+      "कृष्णकांत पाल",
+      "बेबी रानी मौर्या",
+      "अजीज कुरैशी"
+    ],
+    "correct_option": 2,
+    "explanation": "सप्तम राज्यपाल: बेबी रानी मौर्या।",
+    "source_page": 11
+  },
+  {
+    "id": "q060",
+    "chapter": "उत्तराखण्ड - प्रमुख नियुक्तियाँ",
+    "topic": "राज्यपाल",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "पुस्तक के अनुसार 15 सितम्बर 2021 से उत्तराखण्ड के (अष्टम) राज्यपाल कौन हैं?",
+    "options": [
+      "ले. जन. भुवनचन्द्र खण्डूरी",
+      "बेबी रानी मौर्या",
+      "सुरजीत सिंह बरनाला",
+      "ले. जन. गुरमीत सिंह"
+    ],
+    "correct_option": 3,
+    "explanation": "अष्टम राज्यपाल: ले. जन. गुरमीत सिंह (15 सितम्बर 2021 से)।",
+    "source_page": 11
+  },
+  {
+    "id": "q061",
+    "chapter": "उत्तराखण्ड - प्रमुख नियुक्तियाँ",
+    "topic": "राज्यपाल",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "उत्तराखण्ड के राज्यपालों का सही कालक्रम कौन-सा है?",
+    "options": [
+      "बरनाला → सुदर्शन अग्रवाल → बी.एल. जोशी → मार्गरेट अल्वा",
+      "सुदर्शन अग्रवाल → बरनाला → बी.एल. जोशी → मार्गरेट अल्वा",
+      "बरनाला → बी.एल. जोशी → सुदर्शन अग्रवाल → मार्गरेट अल्वा",
+      "बरनाला → सुदर्शन अग्रवाल → मार्गरेट अल्वा → बी.एल. जोशी"
+    ],
+    "correct_option": 0,
+    "explanation": "क्रम: बरनाला, सुदर्शन अग्रवाल, बी.एल. जोशी, मार्गरेट अल्वा।",
+    "source_page": 11
+  },
+  {
+    "id": "q062",
+    "chapter": "उत्तराखण्ड - प्रमुख नियुक्तियाँ",
+    "topic": "मुख्यमंत्री",
+    "difficulty": "easy",
+    "type": "direct",
+    "question": "उत्तराखण्ड के प्रथम (अंतरिम) मुख्यमंत्री कौन थे?",
+    "options": [
+      "भगत सिंह कोश्यारी",
+      "नित्यानंद स्वामी",
+      "नारायण दत्त तिवारी",
+      "भुवनचन्द्र खण्डूरी"
+    ],
+    "correct_option": 1,
+    "explanation": "नित्यानंद स्वामी: 9 नवम्बर 2000 से 29 अक्टूबर 2001।",
+    "source_page": 11
+  },
+  {
+    "id": "q063",
+    "chapter": "उत्तराखण्ड - प्रमुख नियुक्तियाँ",
+    "topic": "मुख्यमंत्री",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "उत्तराखण्ड के द्वितीय (अंतरिम) मुख्यमंत्री कौन थे?",
+    "options": [
+      "नित्यानंद स्वामी",
+      "नारायण दत्त तिवारी",
+      "भगत सिंह कोश्यारी",
+      "रमेश पोखरियाल निशंक"
+    ],
+    "correct_option": 2,
+    "explanation": "भगत सिंह कोश्यारी: 30 अक्टू. 2001 से 1 मार्च 2002।",
+    "source_page": 11
+  },
+  {
+    "id": "q064",
+    "chapter": "उत्तराखण्ड - प्रमुख नियुक्तियाँ",
+    "topic": "मुख्यमंत्री",
+    "difficulty": "easy",
+    "type": "direct",
+    "question": "उत्तराखण्ड के प्रथम निर्वाचित मुख्यमंत्री कौन थे?",
+    "options": [
+      "भगत सिंह कोश्यारी",
+      "भुवनचन्द्र खण्डूरी",
+      "विजय बहुगुणा",
+      "नारायण दत्त तिवारी"
+    ],
+    "correct_option": 3,
+    "explanation": "एन.डी. तिवारी: 1 मार्च 2002 से 7 मार्च 2007 (कांग्रेस)।",
+    "source_page": 11
+  },
+  {
+    "id": "q065",
+    "chapter": "उत्तराखण्ड - प्रमुख नियुक्तियाँ",
+    "topic": "मुख्यमंत्री",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "उत्तराखण्ड के चतुर्थ मुख्यमंत्री कौन थे (8 मार्च 2007 से 26 जून 2009)?",
+    "options": [
+      "मे. जन. भुवनचन्द्र खण्डूरी",
+      "डॉ. रमेश पोखरियाल निशंक",
+      "विजय बहुगुणा",
+      "हरीश रावत"
+    ],
+    "correct_option": 0,
+    "explanation": "चतुर्थ मुख्यमंत्री: भुवनचन्द्र खण्डूरी (भाजपा)।",
+    "source_page": 11
+  },
+  {
+    "id": "q066",
+    "chapter": "उत्तराखण्ड - प्रमुख नियुक्तियाँ",
+    "topic": "मुख्यमंत्री",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "डॉ. रमेश पोखरियाल निशंक उत्तराखण्ड के कौन-से मुख्यमंत्री थे?",
+    "options": [
+      "चतुर्थ",
+      "पंचम",
+      "षष्ठम",
+      "सप्तम"
+    ],
+    "correct_option": 1,
+    "explanation": "निशंक: पंचम (27 जून 2009 से 10 सितम्बर 2011)।",
+    "source_page": 11
+  },
+  {
+    "id": "q067",
+    "chapter": "उत्तराखण्ड - प्रमुख नियुक्तियाँ",
+    "topic": "मुख्यमंत्री",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "उत्तराखण्ड के षष्ठम मुख्यमंत्री कौन थे (11 सितम्बर 2011 से 13 मार्च 2012)?",
+    "options": [
+      "डॉ. रमेश पोखरियाल निशंक",
+      "विजय बहुगुणा",
+      "मे. जन. भुवनचन्द्र खण्डूरी",
+      "हरीश रावत"
+    ],
+    "correct_option": 2,
+    "explanation": "खण्डूरी दो बार मुख्यमंत्री रहे: चतुर्थ व षष्ठम।",
+    "source_page": 11
+  },
+  {
+    "id": "q068",
+    "chapter": "उत्तराखण्ड - प्रमुख नियुक्तियाँ",
+    "topic": "मुख्यमंत्री",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "विजय बहुगुणा उत्तराखण्ड के कौन-से मुख्यमंत्री थे?",
+    "options": [
+      "षष्ठम",
+      "अष्टम",
+      "नवम",
+      "सप्तम"
+    ],
+    "correct_option": 3,
+    "explanation": "विजय बहुगुणा: सप्तम (13 मार्च 2012 से 31 जन. 2014)।",
+    "source_page": 11
+  },
+  {
+    "id": "q069",
+    "chapter": "उत्तराखण्ड - प्रमुख नियुक्तियाँ",
+    "topic": "मुख्यमंत्री",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "हरीश रावत उत्तराखण्ड के कौन-से मुख्यमंत्री थे?",
+    "options": [
+      "अष्टम",
+      "सप्तम",
+      "नवम",
+      "दशम"
+    ],
+    "correct_option": 0,
+    "explanation": "हरीश रावत: अष्टम (1 फरवरी 2014 से 18 मार्च 2017)।",
+    "source_page": 11
+  },
+  {
+    "id": "q070",
+    "chapter": "उत्तराखण्ड - प्रमुख नियुक्तियाँ",
+    "topic": "मुख्यमंत्री",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "त्रिवेन्द्र सिंह रावत उत्तराखण्ड के कौन-से मुख्यमंत्री थे?",
+    "options": [
+      "अष्टम",
+      "नवम",
+      "दशम",
+      "एकादश"
+    ],
+    "correct_option": 1,
+    "explanation": "त्रिवेन्द्र सिंह रावत: नवम (18 मार्च 2017 से 9 मार्च 2021)।",
+    "source_page": 11
+  },
+  {
+    "id": "q071",
+    "chapter": "उत्तराखण्ड - प्रमुख नियुक्तियाँ",
+    "topic": "मुख्यमंत्री",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "तीरथ सिंह रावत उत्तराखण्ड के कौन-से मुख्यमंत्री थे?",
+    "options": [
+      "नवम",
+      "एकादश",
+      "दशम",
+      "द्वादश"
+    ],
+    "correct_option": 2,
+    "explanation": "तीरथ सिंह रावत: दशम (10 मार्च 2021 से 4 जुलाई 2021)।",
+    "source_page": 11
+  },
+  {
+    "id": "q072",
+    "chapter": "उत्तराखण्ड - प्रमुख नियुक्तियाँ",
+    "topic": "मुख्यमंत्री",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "तीरथ सिंह रावत का मुख्यमंत्री कार्यकाल कब से कब तक रहा?",
+    "options": [
+      "18 मार्च 2017 से 9 मार्च 2021",
+      "4 जुलाई 2021 से 22 मार्च 2022",
+      "1 फरवरी 2014 से 18 मार्च 2017",
+      "10 मार्च 2021 से 4 जुलाई 2021"
+    ],
+    "correct_option": 3,
+    "explanation": "तीरथ सिंह रावत: 10 मार्च 2021 – 4 जुलाई 2021।",
+    "source_page": 11
+  },
+  {
+    "id": "q073",
+    "chapter": "उत्तराखण्ड - प्रमुख नियुक्तियाँ",
+    "topic": "मुख्यमंत्री",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "पुष्कर सिंह धामी का एकादश मुख्यमंत्री के रूप में कार्यकाल कब रहा?",
+    "options": [
+      "4 जुलाई 2021 से 22 मार्च 2022",
+      "10 मार्च 2021 से 4 जुलाई 2021",
+      "23 मार्च 2022 से",
+      "18 मार्च 2017 से 9 मार्च 2021"
+    ],
+    "correct_option": 0,
+    "explanation": "धामी: एकादश (4 जुलाई 2021 – 22 मार्च 2022); पुनः नियुक्ति 23 मार्च 2022 से द्वादश।",
+    "source_page": 11
+  },
+  {
+    "id": "q074",
+    "chapter": "उत्तराखण्ड - प्रमुख नियुक्तियाँ",
+    "topic": "मुख्यमंत्री",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "पुस्तक की सूची के अनुसार कौन-से दो व्यक्ति उत्तराखण्ड के मुख्यमंत्री पद पर दो बार रहे?",
+    "options": [
+      "भुवनचन्द्र खण्डूरी व हरीश रावत",
+      "भुवनचन्द्र खण्डूरी व पुष्कर सिंह धामी",
+      "पुष्कर सिंह धामी व त्रिवेन्द्र सिंह रावत",
+      "भगत सिंह कोश्यारी व पुष्कर सिंह धामी"
+    ],
+    "correct_option": 1,
+    "explanation": "खण्डूरी (चतुर्थ व षष्ठम) तथा धामी (एकादश व द्वादश)।",
+    "source_page": 11
+  },
+  {
+    "id": "q075",
+    "chapter": "उत्तराखण्ड - प्रमुख नियुक्तियाँ",
+    "topic": "मुख्यमंत्री",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "निम्न में से कौन-सा मुख्यमंत्री-क्रम सही है?",
+    "options": [
+      "नारायण दत्त तिवारी → रमेश पोखरियाल निशंक → भुवनचन्द्र खण्डूरी → विजय बहुगुणा",
+      "भुवनचन्द्र खण्डूरी → नारायण दत्त तिवारी → रमेश पोखरियाल निशंक → विजय बहुगुणा",
+      "नारायण दत्त तिवारी → भुवनचन्द्र खण्डूरी → रमेश पोखरियाल निशंक → विजय बहुगुणा",
+      "नारायण दत्त तिवारी → भुवनचन्द्र खण्डूरी → विजय बहुगुणा → रमेश पोखरियाल निशंक"
+    ],
+    "correct_option": 2,
+    "explanation": "सूची के क्रम में: तिवारी (3), खण्डूरी (4), निशंक (5), बहुगुणा (7)।",
+    "source_page": 11
+  },
+  {
+    "id": "q076",
+    "chapter": "उत्तराखण्ड - प्रमुख नियुक्तियाँ",
+    "topic": "विधानसभा अध्यक्ष व अन्य पद",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "उत्तराखण्ड विधानसभा के प्रथम (अंतरिम) अध्यक्ष कौन थे?",
+    "options": [
+      "यशपाल आर्य",
+      "हरबंश कपूर",
+      "गोविन्द सिंह कुंजवाल",
+      "प्रकाश पंत"
+    ],
+    "correct_option": 3,
+    "explanation": "प्रकाश पंत: 2000 से 2002 तक (अंतरिम सत्र)।",
+    "source_page": 11
+  },
+  {
+    "id": "q077",
+    "chapter": "उत्तराखण्ड - प्रमुख नियुक्तियाँ",
+    "topic": "विधानसभा अध्यक्ष व अन्य पद",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "उत्तराखण्ड विधानसभा के प्रथम सत्र (2002-2007) के अध्यक्ष कौन थे?",
+    "options": [
+      "यशपाल आर्य",
+      "प्रकाश पंत",
+      "हरबंश कपूर",
+      "प्रेमचन्द्र अग्रवाल"
+    ],
+    "correct_option": 0,
+    "explanation": "यशपाल आर्य (कांग्रेस): 2002 से 2007 तक।",
+    "source_page": 11
+  },
+  {
+    "id": "q078",
+    "chapter": "उत्तराखण्ड - प्रमुख नियुक्तियाँ",
+    "topic": "विधानसभा अध्यक्ष व अन्य पद",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "उत्तराखण्ड विधानसभा के द्वितीय अध्यक्ष कौन थे (2007-2012)?",
+    "options": [
+      "यशपाल आर्य",
+      "हरबंश कपूर",
+      "गोविन्द सिंह कुंजवाल",
+      "प्रेमचन्द्र अग्रवाल"
+    ],
+    "correct_option": 1,
+    "explanation": "हरबंश कपूर (भाजपा): 2007 से 2012 तक।",
+    "source_page": 11
+  },
+  {
+    "id": "q079",
+    "chapter": "उत्तराखण्ड - प्रमुख नियुक्तियाँ",
+    "topic": "विधानसभा अध्यक्ष व अन्य पद",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "गोविन्द सिंह कुंजवाल उत्तराखण्ड विधानसभा के कौन-से अध्यक्ष थे?",
+    "options": [
+      "द्वितीय",
+      "चतुर्थ",
+      "तृतीय",
+      "पंचम"
+    ],
+    "correct_option": 2,
+    "explanation": "कुंजवाल (कांग्रेस): तृतीय अध्यक्ष, 2012 से 2017 तक।",
+    "source_page": 11
+  },
+  {
+    "id": "q080",
+    "chapter": "उत्तराखण्ड - प्रमुख नियुक्तियाँ",
+    "topic": "विधानसभा अध्यक्ष व अन्य पद",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "उत्तराखण्ड विधानसभा के चतुर्थ अध्यक्ष कौन थे (2017-2022)?",
+    "options": [
+      "गोविन्द सिंह कुंजवाल",
+      "ऋतु खण्डूरी",
+      "हरबंश कपूर",
+      "प्रेमचन्द्र अग्रवाल"
+    ],
+    "correct_option": 3,
+    "explanation": "प्रेमचन्द्र अग्रवाल: चतुर्थ अध्यक्ष (2017 से 2022)।",
+    "source_page": 11
+  },
+  {
+    "id": "q081",
+    "chapter": "उत्तराखण्ड - प्रमुख नियुक्तियाँ",
+    "topic": "विधानसभा अध्यक्ष व अन्य पद",
+    "difficulty": "easy",
+    "type": "direct",
+    "question": "उत्तराखण्ड विधानसभा की प्रथम महिला अध्यक्ष कौन हैं?",
+    "options": [
+      "ऋतु खण्डूरी",
+      "यशपाल आर्य",
+      "कल्पना सैनी",
+      "बेबी रानी मौर्या"
+    ],
+    "correct_option": 0,
+    "explanation": "ऋतु खण्डूरी: पंचम अध्यक्ष (2022 से), प्रथम महिला।",
+    "source_page": 11
+  },
+  {
+    "id": "q082",
+    "chapter": "उत्तराखण्ड - प्रमुख नियुक्तियाँ",
+    "topic": "विधानसभा अध्यक्ष व अन्य पद",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "उत्तराखण्ड विधानसभा के प्रथम उपाध्यक्ष कौन थे?",
+    "options": [
+      "प्रकाश पंत (मार्च 2007 से मार्च 2012)",
+      "विजय बड़थ्वाल (मार्च 2007 से मार्च 2012)",
+      "हरबंश कपूर (2002 से 2007)",
+      "विजय बड़थ्वाल (2012 से 2017)"
+    ],
+    "correct_option": 1,
+    "explanation": "प्रथम उपाध्यक्ष: विजय बड़थ्वाल (मार्च 2007 – मार्च 2012)।",
+    "source_page": 11
+  },
+  {
+    "id": "q083",
+    "chapter": "उत्तराखण्ड - प्रमुख नियुक्तियाँ",
+    "topic": "विधानसभा अध्यक्ष व अन्य पद",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "उत्तराखण्ड उच्च न्यायालय के प्रथम मुख्य न्यायाधीश कौन थे?",
+    "options": [
+      "गुहानाथन नरेन्द्र",
+      "एल.पी. नैथानी",
+      "अशोक अभेन्द्र देसाई",
+      "मेहरबान सिंह नेगी"
+    ],
+    "correct_option": 2,
+    "explanation": "अशोक अभेन्द्र देसाई: 9 नवम्बर 2000 से 5 दिसम्बर 2000।",
+    "source_page": 11
+  },
+  {
+    "id": "q084",
+    "chapter": "उत्तराखण्ड - प्रमुख नियुक्तियाँ",
+    "topic": "विधानसभा अध्यक्ष व अन्य पद",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "पुस्तक के अनुसार (2025) उत्तराखण्ड उच्च न्यायालय के वर्तमान (14वें) मुख्य न्यायाधीश कौन हैं?",
+    "options": [
+      "न्यायमूर्ति अशोक अभेन्द्र देसाई",
+      "न्यायमूर्ति सूर्य नारायण बाबुलकर",
+      "न्यायमूर्ति मेहरबान सिंह नेगी",
+      "न्यायमूर्ति गुहानाथन नरेन्द्र"
+    ],
+    "correct_option": 3,
+    "explanation": "पुस्तक के अनुसार 14वें मुख्य न्यायाधीश: न्यायमूर्ति गुहानाथन नरेन्द्र (2025)।",
+    "source_page": 11
+  },
+  {
+    "id": "q085",
+    "chapter": "उत्तराखण्ड - प्रमुख नियुक्तियाँ",
+    "topic": "विधानसभा अध्यक्ष व अन्य पद",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "अंतरिम सरकार में उत्तराखण्ड के प्रथम महाधिवक्ता कौन थे?",
+    "options": [
+      "एल.पी. नैथानी",
+      "मेहरबान सिंह नेगी",
+      "सूर्य नारायण बाबुलकर",
+      "अशोक अभेन्द्र देसाई"
+    ],
+    "correct_option": 0,
+    "explanation": "अंतरिम सरकार में प्रथम महाधिवक्ता: एल.पी. नैथानी।",
+    "source_page": 11
+  },
+  {
+    "id": "q086",
+    "chapter": "उत्तराखण्ड - प्रमुख नियुक्तियाँ",
+    "topic": "विधानसभा अध्यक्ष व अन्य पद",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "निर्वाचित सरकार में उत्तराखण्ड के प्रथम महाधिवक्ता कौन थे?",
+    "options": [
+      "एल.पी. नैथानी",
+      "मेहरबान सिंह नेगी",
+      "सूर्य नारायण बाबुलकर",
+      "विजय बड़थ्वाल"
+    ],
+    "correct_option": 1,
+    "explanation": "निर्वाचित सरकार में प्रथम महाधिवक्ता: मेहरबान सिंह नेगी।",
+    "source_page": 11
+  },
+  {
+    "id": "q087",
+    "chapter": "उत्तराखण्ड - प्रमुख नियुक्तियाँ",
+    "topic": "विधानसभा अध्यक्ष व अन्य पद",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "पुस्तक के अनुसार मार्च 2017 से उत्तराखण्ड के महाधिवक्ता कौन हैं?",
+    "options": [
+      "एल.पी. नैथानी",
+      "मेहरबान सिंह नेगी",
+      "सूर्य नारायण बाबुलकर",
+      "गुहानाथन नरेन्द्र"
+    ],
+    "correct_option": 2,
+    "explanation": "पुस्तक में वर्तमान महाधिवक्ता: सूर्य नारायण बाबुलकर (मार्च 2017 से)।",
+    "source_page": 11
   }
 ]
