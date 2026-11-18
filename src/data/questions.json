@@ -1,0 +1,222 @@
+[
+  {
+    "id": "ca001",
+    "topic": "Sports",
+    "difficulty": "easy",
+    "type": "direct",
+    "question": "Which city hosted the Summer Olympic Games in 2024?",
+    "options": ["Tokyo", "Paris", "Los Angeles", "Brisbane"],
+    "correct_option": 1,
+    "explanation": "Paris, France hosted the 2024 Summer Olympics — its third time as host after 1900 and 1924.",
+    "source_page": null
+  },
+  {
+    "id": "ca002",
+    "topic": "Sports",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "India won the ICC Men's T20 World Cup 2024 by defeating which team in the final?",
+    "options": ["Australia", "England", "South Africa", "Pakistan"],
+    "correct_option": 2,
+    "explanation": "India beat South Africa by 7 runs in the final at Barbados, winning their second T20 World Cup after 2007.",
+    "source_page": null
+  },
+  {
+    "id": "ca003",
+    "topic": "Sports",
+    "difficulty": "easy",
+    "type": "direct",
+    "question": "Which Indian athlete won the silver medal in javelin throw at the Paris 2024 Olympics?",
+    "options": ["Neeraj Chopra", "Arshad Nadeem", "Davinder Singh Kang", "Shivpal Singh"],
+    "correct_option": 0,
+    "explanation": "Neeraj Chopra won silver behind Pakistan's Arshad Nadeem, adding to his Tokyo 2020 gold.",
+    "source_page": null
+  },
+  {
+    "id": "ca004",
+    "topic": "Sports",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which Indian shooter won two bronze medals at the Paris 2024 Olympics?",
+    "options": ["Manu Bhaker", "Sift Kaur Samra", "Elavenil Valarivan", "Apurvi Chandela"],
+    "correct_option": 0,
+    "explanation": "Manu Bhaker won bronze in the 10m air pistol and then in the 10m air pistol mixed team event with Sarabjot Singh.",
+    "source_page": null
+  },
+  {
+    "id": "ca005",
+    "topic": "Science and Technology",
+    "difficulty": "easy",
+    "type": "direct",
+    "question": "Chandrayaan-3 made India the first country to soft-land near which region of the Moon?",
+    "options": ["The north pole", "The south pole", "The far side", "The Apollo 11 site"],
+    "correct_option": 1,
+    "explanation": "On 23 August 2023, Chandrayaan-3's Vikram lander touched down near the lunar south pole — a world first.",
+    "source_page": null
+  },
+  {
+    "id": "ca006",
+    "topic": "Science and Technology",
+    "difficulty": "easy",
+    "type": "direct",
+    "question": "Aditya-L1, launched by ISRO, is India's first mission dedicated to studying what?",
+    "options": ["Mars", "The Sun", "Venus", "Asteroids"],
+    "correct_option": 1,
+    "explanation": "Aditya-L1 observes the Sun from a point in space (L1) where it has a continuous view of the Sun.",
+    "source_page": null
+  },
+  {
+    "id": "ca007",
+    "topic": "Science and Technology",
+    "difficulty": "easy",
+    "type": "direct",
+    "question": "What is the aim of ISRO's Gaganyaan programme?",
+    "options": ["To launch military satellites", "To send Indian astronauts into space", "To build a moon base", "To mine asteroids"],
+    "correct_option": 1,
+    "explanation": "Gaganyaan is India's first human spaceflight programme, aiming to carry Indian astronauts to low Earth orbit.",
+    "source_page": null
+  },
+  {
+    "id": "ca008",
+    "topic": "International",
+    "difficulty": "easy",
+    "type": "direct",
+    "question": "Which Indian city hosted the G20 Leaders' Summit in September 2023?",
+    "options": ["Mumbai", "Hyderabad", "New Delhi", "Bengaluru"],
+    "correct_option": 2,
+    "explanation": "New Delhi hosted the G20 Summit in September 2023, with the theme 'Vasudhaiva Kutumbakam — One Earth, One Family, One Future'.",
+    "source_page": null
+  },
+  {
+    "id": "ca009",
+    "topic": "International",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which organisation was admitted as a new permanent member of the G20 at the 2023 New Delhi Summit?",
+    "options": ["ASEAN", "The African Union", "SAARC", "The Arab League"],
+    "correct_option": 1,
+    "explanation": "The African Union joined the G20 as a permanent member, taking representation from 55 African countries.",
+    "source_page": null
+  },
+  {
+    "id": "ca010",
+    "topic": "International",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "In which city was the COP29 United Nations climate conference held in November 2024?",
+    "options": ["Dubai", "Glasgow", "Baku", "Bonn"],
+    "correct_option": 2,
+    "explanation": "COP29 was held in Baku, Azerbaijan; the previous COP28 was in Dubai, UAE.",
+    "source_page": null
+  },
+  {
+    "id": "ca011",
+    "topic": "International",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which bloc passed the world's first comprehensive law regulating artificial intelligence in 2024?",
+    "options": ["The United States Congress", "The United Nations", "The European Union", "The G7"],
+    "correct_option": 2,
+    "explanation": "The EU AI Act, adopted in 2024, is the world's first comprehensive law governing artificial intelligence.",
+    "source_page": null
+  },
+  {
+    "id": "ca012",
+    "topic": "Awards",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "The Nobel Peace Prize 2024 was awarded to Nihon Hidankyo, an organisation from which country?",
+    "options": ["South Korea", "Japan", "Norway", "China"],
+    "correct_option": 1,
+    "explanation": "Nihon Hidankyo is a Japanese organisation of atomic-bomb survivors working against nuclear weapons.",
+    "source_page": null
+  },
+  {
+    "id": "ca013",
+    "topic": "Awards",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Who won the Nobel Prize in Literature in 2024?",
+    "options": ["Han Kang", "Haruki Murakami", "Annie Ernaux", "Jon Fosse"],
+    "correct_option": 0,
+    "explanation": "South Korean author Han Kang won the 2024 Literature Nobel for her 'intense poetic prose', including the novel 'The Vegetarian'.",
+    "source_page": null
+  },
+  {
+    "id": "ca014",
+    "topic": "Sports",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Who became the youngest ever World Chess Champion by winning the title in December 2024?",
+    "options": ["Magnus Carlsen", "D Gukesh", "Ding Liren", "R Praggnanandhaa"],
+    "correct_option": 1,
+    "explanation": "India's D Gukesh beat defending champion Ding Liren in Singapore at the age of 18 to become the youngest world champion.",
+    "source_page": null
+  },
+  {
+    "id": "ca015",
+    "topic": "International",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "After the change of government in Bangladesh in August 2024, who became the Chief Adviser of the interim government?",
+    "options": ["Sheikh Hasina", "Muhammad Yunus", "Khaleda Zia", "General Waker-uz-Zaman"],
+    "correct_option": 1,
+    "explanation": "Nobel laureate Muhammad Yunus was appointed Chief Adviser of Bangladesh's interim government after Sheikh Hasina resigned and left the country.",
+    "source_page": null
+  },
+  {
+    "id": "ca016",
+    "topic": "Economy",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Who took charge as the Governor of the Reserve Bank of India in December 2024?",
+    "options": ["Shaktikanta Das", "Sanjay Malhotra", "Urjit Patel", "Michael Patra"],
+    "correct_option": 1,
+    "explanation": "Sanjay Malhotra, earlier Revenue Secretary, succeeded Shaktikanta Das as the 26th RBI Governor in December 2024.",
+    "source_page": null
+  },
+  {
+    "id": "ca017",
+    "topic": "Economy",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "UPI (Unified Payments Interface), India's real-time payment system, is developed and operated by which organisation?",
+    "options": ["RBI", "NPCI", "SEBI", "SBI"],
+    "correct_option": 1,
+    "explanation": "UPI was launched in 2016 and is run by the National Payments Corporation of India (NPCI), under RBI oversight.",
+    "source_page": null
+  },
+  {
+    "id": "ca018",
+    "topic": "Economy",
+    "difficulty": "easy",
+    "type": "direct",
+    "question": "UPI payments made international news when they went live at the Eiffel Tower. In which country is the Eiffel Tower?",
+    "options": ["United Kingdom", "France", "Germany", "Italy"],
+    "correct_option": 1,
+    "explanation": "In 2024 India and France announced UPI acceptance in France, with the Eiffel Tower becoming a landmark example.",
+    "source_page": null
+  },
+  {
+    "id": "ca019",
+    "topic": "Science and Technology",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "In 2024, which country became the first to bring back rock samples from the far side of the Moon?",
+    "options": ["China", "USA", "India", "Japan"],
+    "correct_option": 0,
+    "explanation": "China's Chang'e-6 mission returned samples from the Moon's far side in June 2024, a historic first.",
+    "source_page": null
+  },
+  {
+    "id": "ca020",
+    "topic": "Sports",
+    "difficulty": "medium",
+    "type": "statement",
+    "question": "Consider the statements about the Paris 2024 Paralympics: (1) India won 7 gold medals. (2) It was India's best-ever Paralympics performance. Which is correct?",
+    "options": ["Only 1", "Only 2", "Both 1 and 2", "Neither 1 nor 2"],
+    "correct_option": 2,
+    "explanation": "India won 29 medals including 7 golds at Paris 2024 — its best-ever Paralympic tally, better than Tokyo 2020's 19.",
+    "source_page": null
+  }
+]
