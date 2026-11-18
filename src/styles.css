@@ -1,0 +1,380 @@
+/* ---- Base look: light, large text, mobile-first ---- */
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
+  font-size: 17px;
+  line-height: 1.5;
+  color: #1f2937;
+  background: #f4f6f9;
+  -webkit-text-size-adjust: 100%;
+}
+
+.app {
+  max-width: 680px;
+  margin: 0 auto;
+  padding: 12px 12px 48px;
+}
+
+/* ---- Header & tabs ---- */
+.app-header {
+  text-align: center;
+  padding: 8px 0 4px;
+}
+
+.app-header h1 {
+  font-size: 24px;
+  margin: 0;
+  word-break: break-word;
+}
+
+.app-subtitle {
+  margin: 2px 0 0;
+  color: #6b7280;
+  font-size: 14px;
+}
+
+.tabs {
+  display: flex;
+  background: #ffffff;
+  border: 1px solid #e5e7eb;
+  border-radius: 12px;
+  overflow: hidden;
+  margin-bottom: 16px;
+}
+
+.tab {
+  flex: 1;
+  padding: 12px 4px;
+  font-size: 15px;
+  font-weight: 600;
+  border: none;
+  background: none;
+  color: #6b7280;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+}
+
+.tab-active {
+  color: #1d4ed8;
+  background: #eef2ff;
+}
+
+.tab-count {
+  background: #1d4ed8;
+  color: #ffffff;
+  border-radius: 999px;
+  font-size: 12px;
+  padding: 1px 7px;
+}
+
+/* ---- Cards (the white boxes used everywhere) ---- */
+.card {
+  background: #ffffff;
+  border: 1px solid #e5e7eb;
+  border-radius: 12px;
+  padding: 16px;
+  margin-bottom: 14px;
+}
+
+.card-title {
+  font-size: 17px;
+  margin: 0 0 10px;
+}
+
+/* ---- Forms ---- */
+.field {
+  display: block;
+  margin-bottom: 14px;
+}
+
+.field-label {
+  display: block;
+  font-weight: 600;
+  margin-bottom: 4px;
+}
+
+.field-hint {
+  display: block;
+  font-size: 13px;
+  color: #6b7280;
+  margin-top: 4px;
+}
+
+input[type='text'],
+input[type='number'],
+select,
+textarea {
+  width: 100%;
+  padding: 10px 12px;
+  font-size: 17px;
+  border: 1px solid #d1d5db;
+  border-radius: 10px;
+  background: #ffffff;
+  color: inherit;
+}
+
+input:focus,
+select:focus,
+textarea:focus {
+  outline: 2px solid #1d4ed8;
+  outline-offset: 1px;
+}
+
+.filter-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 4px;
+}
+
+@media (min-width: 520px) {
+  .filter-grid {
+    grid-template-columns: 1fr 1fr;
+    gap: 10px;
+  }
+}
+
+/* ---- Buttons ---- */
+.btn {
+  display: inline-block;
+  padding: 12px 18px;
+  font-size: 17px;
+  font-weight: 600;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.btn-primary {
+  background: #1d4ed8;
+  color: #ffffff;
+}
+
+.btn-primary:active {
+  background: #1e40af;
+}
+
+.btn-small {
+  padding: 6px 12px;
+  font-size: 14px;
+  border-radius: 8px;
+  background: #1d4ed8;
+  color: #ffffff;
+  margin-top: 8px;
+}
+
+/* ---- Banners (green / red / blue messages) ---- */
+.banner {
+  border-radius: 10px;
+  padding: 12px 14px;
+  margin-bottom: 14px;
+  font-size: 15px;
+}
+
+.banner-success {
+  background: #ecfdf5;
+  border: 1px solid #10b981;
+  color: #065f46;
+}
+
+.banner-error {
+  background: #fef2f2;
+  border: 1px solid #ef4444;
+  color: #991b1b;
+}
+
+.banner-info {
+  background: #eff6ff;
+  border: 1px solid #3b82f6;
+  color: #1e3a8a;
+}
+
+.banner-button {
+  display: block;
+}
+
+/* ---- Question bank ---- */
+.chapter-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.chapter-row {
+  display: flex;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 6px 0;
+  border-bottom: 1px solid #f3f4f6;
+}
+
+.chapter-row:last-child {
+  border-bottom: none;
+}
+
+.filter-summary {
+  margin: 10px 0 0;
+  color: #374151;
+}
+
+.question-card {
+  padding: 0;
+  overflow: hidden;
+}
+
+.question-head {
+  width: 100%;
+  text-align: left;
+  background: none;
+  border: none;
+  padding: 14px 14px 8px;
+  font-size: 16px;
+  color: inherit;
+  cursor: pointer;
+  display: flex;
+  gap: 10px;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.question-text {
+  flex: 1;
+}
+
+.question-meta {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 4px;
+  flex-shrink: 0;
+}
+
+.open-arrow {
+  font-size: 12px;
+  color: #9ca3af;
+}
+
+.question-body {
+  padding: 4px 14px 14px;
+  border-top: 1px solid #f3f4f6;
+}
+
+.option-list {
+  margin: 10px 0;
+  padding-left: 22px;
+}
+
+.option {
+  padding: 3px 0;
+}
+
+.correct-option {
+  font-weight: 700;
+  color: #047857;
+}
+
+.correct-tag {
+  font-weight: 600;
+  font-size: 13px;
+}
+
+.explanation {
+  background: #f9fafb;
+  border-left: 3px solid #d1d5db;
+  margin: 8px 0;
+  padding: 8px 10px;
+  border-radius: 6px;
+}
+
+/* ---- Chips (small labels) ---- */
+.chip {
+  display: inline-block;
+  font-size: 12px;
+  font-weight: 600;
+  padding: 2px 8px;
+  border-radius: 999px;
+  background: #e5e7eb;
+  color: #374151;
+  white-space: nowrap;
+}
+
+.chip-easy {
+  background: #d1fae5;
+  color: #065f46;
+}
+
+.chip-medium {
+  background: #fef3c7;
+  color: #92400e;
+}
+
+.chip-hard {
+  background: #fee2e2;
+  color: #991b1b;
+}
+
+/* ---- Lists of problems ---- */
+.error-list,
+.warning-list {
+  padding-left: 20px;
+  margin: 8px 0;
+}
+
+.error-list li {
+  margin-bottom: 8px;
+}
+
+code {
+  background: #f3f4f6;
+  padding: 1px 5px;
+  border-radius: 4px;
+  font-size: 14px;
+}
+
+/* ---- Empty state ---- */
+.empty-state {
+  background: #ffffff;
+  border: 1px dashed #9ca3af;
+  border-radius: 12px;
+  padding: 28px 20px;
+  text-align: center;
+}
+
+.empty-title {
+  font-size: 19px;
+  font-weight: 700;
+  margin-top: 0;
+}
+
+/* ---- Small helpers ---- */
+.muted {
+  color: #6b7280;
+}
+
+.small {
+  font-size: 14px;
+}
+
+a {
+  color: #1d4ed8;
+}
+
+.radio-row {
+  display: flex;
+  gap: 10px;
+  align-items: flex-start;
+  margin-bottom: 10px;
+}
+
+.radio-row input {
+  width: 20px;
+  height: 20px;
+  margin-top: 3px;
+  flex-shrink: 0;
+}
