@@ -3749,5 +3749,221 @@
     "explanation": "Chand ruler Gyanchand is referred to as 'Sri Raja Vijay Brahma' in the Majhera copper plate inscription.",
     "source_page": 15,
     "correct_answer": "Majhera copper plate"
+  },
+  {
+    "id": "q208",
+    "chapter": "Uttarakhand - Geographical Structure",
+    "topic": "Geographical Location and Extent",
+    "difficulty": "easy",
+    "type": "direct",
+    "question": "What is the latitudinal and longitudinal extent of Uttarakhand?",
+    "options": [
+      "26°30'N to 29°50'N latitude and 77°00'E to 79°55'E longitude",
+      "27°10'N to 30°45'N latitude and 76°50'E to 80°15'E longitude",
+      "29°00'N to 32°10'N latitude and 78°10'E to 81°45'E longitude",
+      "28°43'N to 31°27'N latitude and 77°34'E to 81°02'E longitude"
+    ],
+    "correct_option": 3,
+    "explanation": "Uttarakhand extends from 28°43'N to 31°27'N latitude and from 77°34'E to 81°02'E longitude.",
+    "source_page": 16,
+    "correct_answer": "28°43'N to 31°27'N latitude and 77°34'E to 81°02'E longitude"
+  },
+  {
+    "id": "q209",
+    "chapter": "Uttarakhand - Geographical Structure",
+    "topic": "Geographical Location and Extent",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Approximately what is the east-west length and north-south width of Uttarakhand?",
+    "options": [
+      "East-west ~310 km and north-south ~295 km",
+      "East-west ~280 km and north-south ~390 km",
+      "East-west ~420 km and north-south ~250 km",
+      "East-west ~358 km and north-south ~320 km"
+    ],
+    "correct_option": 3,
+    "explanation": "Uttarakhand measures roughly 358 km from east to west and about 320 km from north to south.",
+    "source_page": 16,
+    "correct_answer": "East-west ~358 km and north-south ~320 km"
+  },
+  {
+    "id": "q210",
+    "chapter": "Uttarakhand - Geographical Structure",
+    "topic": "International and Interstate Borders",
+    "difficulty": "easy",
+    "type": "direct",
+    "question": "Which two countries share an international border with Uttarakhand?",
+    "options": [
+      "China (Tibet) to the south and Bhutan to the east",
+      "Nepal to the north and China (Tibet) to the west",
+      "China (Tibet) to the north and Nepal to the east",
+      "Nepal to the west and China (Tibet) to the south"
+    ],
+    "correct_option": 2,
+    "explanation": "Uttarakhand borders China (Tibet) on the north and Nepal on the east.",
+    "source_page": 16,
+    "correct_answer": "China (Tibet) to the north and Nepal to the east"
+  },
+  {
+    "id": "q211",
+    "chapter": "Uttarakhand - Geographical Structure",
+    "topic": "International and Interstate Borders",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which Indian states share borders with Uttarakhand?",
+    "options": [
+      "Himachal Pradesh to the northwest and Uttar Pradesh to the south",
+      "Punjab to the northwest and Uttar Pradesh to the east",
+      "Himachal Pradesh to the east and Rajasthan to the southwest",
+      "Haryana to the west and Bihar to the southeast"
+    ],
+    "correct_option": 0,
+    "explanation": "Uttarakhand adjoins Himachal Pradesh in the northwest and Uttar Pradesh in the south.",
+    "source_page": 16,
+    "correct_answer": "Himachal Pradesh to the northwest and Uttar Pradesh to the south"
+  },
+  {
+    "id": "q212",
+    "chapter": "Uttarakhand - Geographical Structure",
+    "topic": "Physiographic Divisions",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "How is the physiography of Uttarakhand broadly categorized from south to north?",
+    "options": [
+      "Trans-Himalaya, Tarai, Aravalli spurs, and Bhabar",
+      "Greater Himalayas, Bhabar, Tarai, and Deccan plateau",
+      "Tarai and Bhabar, Shivalik ranges, Lesser/Middle Himalayas, and Greater Himalayas (Himadri) & Trans-Himalaya",
+      "Coastal plains, Shivalik hills, Vindhya range, and Tarai"
+    ],
+    "correct_option": 2,
+    "explanation": "Moving south to north across Uttarakhand, the physiographic belts transition from Tarai and Bhabar to the Shivaliks, Lesser/Middle Himalayas, Greater Himalayas, and Trans-Himalayan zones.",
+    "source_page": 17,
+    "correct_answer": "Tarai and Bhabar, Shivalik ranges, Lesser/Middle Himalayas, and Greater Himalayas (Himadri) & Trans-Himalaya"
+  },
+  {
+    "id": "q213",
+    "chapter": "Uttarakhand - Geographical Structure",
+    "topic": "Tarai and Bhabar Belt",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "What characterizes the Bhabar tract along the southern foothills of the Shivaliks in Uttarakhand?",
+    "options": [
+      "Porous belt of boulders, gravel, and coarse sediments where small streams sink underground",
+      "High alpine glaciers above 4,500 meters with moraine lakes",
+      "Fine waterlogged alluvial clay with dense tall grasses and marshy swamps",
+      "Hard crystalline gneiss ridges devoid of river deposits"
+    ],
+    "correct_option": 0,
+    "explanation": "The Bhabar belt consists of porous boulders, pebbles, and coarse sediments deposited at the foot of the hills, causing smaller streams to disappear underground and re-emerge in the Tarai.",
+    "source_page": 17,
+    "correct_answer": "Porous belt of boulders, gravel, and coarse sediments where small streams sink underground"
+  },
+  {
+    "id": "q214",
+    "chapter": "Uttarakhand - Geographical Structure",
+    "topic": "Mountain Peaks and Passes",
+    "difficulty": "easy",
+    "type": "direct",
+    "question": "Which is the highest mountain peak located entirely within Uttarakhand?",
+    "options": [
+      "Trishul",
+      "Nanda Devi (West)",
+      "Bandarpunch",
+      "Panchachuli"
+    ],
+    "correct_option": 1,
+    "explanation": "Nanda Devi (7,816 m / ~7,817 m) is the highest peak situated wholly within Uttarakhand.",
+    "source_page": 18,
+    "correct_answer": "Nanda Devi (West)"
+  },
+  {
+    "id": "q215",
+    "chapter": "Uttarakhand - Geographical Structure",
+    "topic": "Mountain Peaks and Passes",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which mountain pass connects Chamoli district in Uttarakhand with Tibet?",
+    "options": [
+      "Traill's Pass",
+      "Mana Pass (and Niti Pass)",
+      "Lipulekh Pass",
+      "Muling La"
+    ],
+    "correct_option": 1,
+    "explanation": "Mana Pass and Niti Pass in Chamoli district link Uttarakhand with Tibet.",
+    "source_page": 18,
+    "correct_answer": "Mana Pass (and Niti Pass)"
+  },
+  {
+    "id": "q216",
+    "chapter": "Uttarakhand - Geographical Structure",
+    "topic": "Mountain Peaks and Passes",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which pass in Pithoragarh district lies near the tri-junction of India (Uttarakhand), Nepal, and China (Tibet)?",
+    "options": [
+      "Kailash Pass",
+      "Lipulekh Pass",
+      "Singha Dhura",
+      "Barahoti Pass"
+    ],
+    "correct_option": 1,
+    "explanation": "Lipulekh Pass in Pithoragarh district is a key high-altitude pass near the tri-junction of Uttarakhand, Nepal, and Tibet.",
+    "source_page": 18,
+    "correct_answer": "Lipulekh Pass"
+  },
+  {
+    "id": "q217",
+    "chapter": "Uttarakhand - Geographical Structure",
+    "topic": "Glaciers and Valleys",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which glacier in Uttarkashi district is the primary source of the Bhagirathi river?",
+    "options": [
+      "Pindari Glacier",
+      "Kafni Glacier",
+      "Gangotri Glacier",
+      "Milam Glacier"
+    ],
+    "correct_option": 2,
+    "explanation": "The Gangotri Glacier in Uttarkashi district feeds the Bhagirathi river system.",
+    "source_page": 19,
+    "correct_answer": "Gangotri Glacier"
+  },
+  {
+    "id": "q218",
+    "chapter": "Uttarakhand - Geographical Structure",
+    "topic": "Glaciers and Valleys",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "In which district is the Pindari Glacier located, and which river originates from it?",
+    "options": [
+      "Pithoragarh district; Gori river",
+      "Chamoli district; Mandakini river",
+      "Bageshwar district; Pindar river",
+      "Uttarkashi district; Yamuna river"
+    ],
+    "correct_option": 2,
+    "explanation": "The Pindari Glacier is located in Bageshwar district (bordering Chamoli) and gives rise to the Pindar river.",
+    "source_page": 19,
+    "correct_answer": "Bageshwar district; Pindar river"
+  },
+  {
+    "id": "q219",
+    "chapter": "Uttarakhand - Geographical Structure",
+    "topic": "Glaciers and Valleys",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which valley in Chamoli district is famous for its alpine meadows and biodiversity, and lies near Hemkund Sahib?",
+    "options": [
+      "Valley of Flowers",
+      "Doon Valley",
+      "Saur Valley",
+      "Johar Valley"
+    ],
+    "correct_option": 0,
+    "explanation": "The Valley of Flowers in Chamoli district is renowned for its diverse alpine flora and proximity to Hemkund Sahib.",
+    "source_page": 19,
+    "correct_answer": "Valley of Flowers"
   }
 ]
