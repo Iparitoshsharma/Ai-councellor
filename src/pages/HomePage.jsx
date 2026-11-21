@@ -39,41 +39,40 @@ export default function HomePage({
 
       <h2 className="section-title">Chapter-wise mock tests</h2>
 
-      {chapters.map((ch) => {
-        const size = Math.min(settings.questionsPerTest, ch.count)
-        return (
-          <section className="card chapter-card" key={ch.id}>
-            <p className="chapter-title">{ch.name}</p>
-            <p className="hero-sub">
-              {size} questions &middot; from {ch.count} in this chapter &middot;{' '}
-              {timerLabel}
-            </p>
-            <button
-              className="btn btn-primary btn-big"
-              onClick={() => onSelectPool(ch.id)}
-            >
-              Start this chapter
-            </button>
-          </section>
-        )
-      })}
+      <div className="card-grid">
+        {chapters.map((ch) => {
+          const size = Math.min(settings.questionsPerTest, ch.count)
+          return (
+            <section className="card tile" key={ch.id}>
+              <p className="tile-title">{ch.name}</p>
+              <p className="tile-sub">
+                {ch.count} questions &middot; {size} per test
+              </p>
+              <button
+                className="btn btn-primary"
+                onClick={() => onSelectPool(ch.id)}
+              >
+                Start
+              </button>
+            </section>
+          )
+        })}
 
-      <section className="card chapter-card">
-        <p className="hero-kicker">Questionnaire</p>
-        <p className="chapter-title">
-          Chapter 1 full set (pages 6&ndash;15)
-        </p>
-        <p className="hero-sub">
-          {Math.min(settings.questionsPerTest, chapter1Count)} questions &middot; from
-          all {chapter1Count} in the questionnaire &middot; {timerLabel}
-        </p>
-        <button
-          className="btn btn-primary btn-big"
-          onClick={() => onSelectPool('chapter1')}
-        >
-          Start Chapter 1 set
-        </button>
-      </section>
+        <section className="card tile">
+          <p className="hero-kicker">Questionnaire</p>
+          <p className="tile-title">Chapter 1 full set</p>
+          <p className="tile-sub">
+            {chapter1Count} questions &middot;{' '}
+            {Math.min(settings.questionsPerTest, chapter1Count)} per test
+          </p>
+          <button
+            className="btn btn-primary"
+            onClick={() => onSelectPool('chapter1')}
+          >
+            Start
+          </button>
+        </section>
+      </div>
 
       <button className="btn btn-ghost" onClick={goSettings}>
         ⚙️ Exam settings
