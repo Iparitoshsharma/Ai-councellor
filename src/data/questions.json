@@ -5045,5 +5045,1067 @@
     "correct_answer": "Chamoli",
     "explanation": "The Valley of Flowers is located in Chamoli district in the upper Garhwal Himalayas.",
     "source_page": 19
+  },
+  {
+    "id": "q280",
+    "chapter": "Uttarakhand - Drainage System (Rivers, Lakes and Glaciers)",
+    "topic": "Major Drainage Systems",
+    "difficulty": "easy",
+    "type": "direct",
+    "question": "What are the two major river systems that govern the drainage of Uttarakhand?",
+    "options": [
+      "Brahmaputra river system and Narmada river system",
+      "Mahanadi river system and Kaveri river system",
+      "Ganga river system and Yamuna river system",
+      "Godavari river system and Krishna river system"
+    ],
+    "correct_option": 2,
+    "correct_answer": "Ganga river system and Yamuna river system",
+    "explanation": "Uttarakhand's drainage system is predominantly governed by the Ganga river system and the Yamuna river system (which is itself a major tributary of the Ganga basin).",
+    "source_page": 20
+  },
+  {
+    "id": "q281",
+    "chapter": "Uttarakhand - Drainage System (Rivers, Lakes and Glaciers)",
+    "topic": "Major Drainage Systems",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Along which broad drainage basins/sub-systems is the drainage of Uttarakhand commonly categorized in exam study material?",
+    "options": [
+      "Penner, Palar, Vaigai, and Tamiraparani systems",
+      "Sabarmati, Mahi, Luni, and Tapi systems",
+      "Bhagirathi-Alaknanda (Ganga), Yamuna-Tons, Kali (Mahakali), and Ramganga/Kosi drainage systems",
+      "Indus, Jhelum, Chenab, and Ravi systems"
+    ],
+    "correct_option": 2,
+    "correct_answer": "Bhagirathi-Alaknanda (Ganga), Yamuna-Tons, Kali (Mahakali), and Ramganga/Kosi drainage systems",
+    "explanation": "Uttarakhand's rivers are studied across the Bhagirathi-Alaknanda/Ganga system, Yamuna-Tons system, Kali system, and Kumaon/southern rivers like Ramganga and Kosi.",
+    "source_page": 20
+  },
+  {
+    "id": "q282",
+    "chapter": "Uttarakhand - Drainage System (Rivers, Lakes and Glaciers)",
+    "topic": "Major Drainage Systems",
+    "difficulty": "easy",
+    "type": "direct",
+    "question": "At which sacred confluence (Prayag) do the Bhagirathi and Alaknanda rivers meet to form the Ganga?",
+    "options": [
+      "Karnaprayag",
+      "Vishnuprayag",
+      "Rudraprayag",
+      "Devprayag"
+    ],
+    "correct_option": 3,
+    "correct_answer": "Devprayag",
+    "explanation": "At Devprayag, the Bhagirathi and Alaknanda converge and continue onward as the Ganga.",
+    "source_page": 20
+  },
+  {
+    "id": "q283",
+    "chapter": "Uttarakhand - Drainage System (Rivers, Lakes and Glaciers)",
+    "topic": "Major Drainage Systems",
+    "difficulty": "easy",
+    "type": "direct",
+    "question": "At which town in Uttarakhand does the Ganga emerge from the hills into the plains?",
+    "options": [
+      "Haridwar",
+      "Kotdwar",
+      "Rishikesh",
+      "Srinagar"
+    ],
+    "correct_option": 0,
+    "correct_answer": "Haridwar",
+    "explanation": "The Ganga emerges from the mountainous terrain onto the plains at Haridwar.",
+    "source_page": 20
+  },
+  {
+    "id": "q284",
+    "chapter": "Uttarakhand - Drainage System (Rivers, Lakes and Glaciers)",
+    "topic": "Major Drainage Systems",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which headstream contributes a larger water volume/discharge before the Bhagirathi-Alaknanda confluence at Devprayag?",
+    "options": [
+      "Tons",
+      "Alaknanda",
+      "Bhagirathi",
+      "Saryu"
+    ],
+    "correct_option": 1,
+    "correct_answer": "Alaknanda",
+    "explanation": "The Alaknanda has a larger catchment/discharge at Devprayag, while the Bhagirathi is traditionally regarded as the main headstream.",
+    "source_page": 20
+  },
+  {
+    "id": "q285",
+    "chapter": "Uttarakhand - Drainage System (Rivers, Lakes and Glaciers)",
+    "topic": "Major Drainage Systems",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Why are Himalayan rivers of Uttarakhand perennial (flowing year-round)?",
+    "options": [
+      "They flow only during winter months",
+      "They are fed exclusively by desert oases",
+      "They are fed by both melting snow/glaciers in summer and monsoon rainfall",
+      "They draw water from tidal ocean currents"
+    ],
+    "correct_option": 2,
+    "correct_answer": "They are fed by both melting snow/glaciers in summer and monsoon rainfall",
+    "explanation": "Snow/glacial melt sustains flow during dry/summer months while monsoon rains swell discharge in the rainy season.",
+    "source_page": 20
+  },
+  {
+    "id": "q286",
+    "chapter": "Uttarakhand - Drainage System (Rivers, Lakes and Glaciers)",
+    "topic": "Major Drainage Systems",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "On which date was the Ganga declared the National River of India?",
+    "options": [
+      "4 November 2008",
+      "15 August 1947",
+      "9 November 2000",
+      "1 January 2007"
+    ],
+    "correct_option": 0,
+    "correct_answer": "4 November 2008",
+    "explanation": "The Ganga was declared the National River of India on 4 November 2008.",
+    "source_page": 20
+  },
+  {
+    "id": "q287",
+    "chapter": "Uttarakhand - Drainage System (Rivers, Lakes and Glaciers)",
+    "topic": "Major Drainage Systems",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Which major river system in eastern Uttarakhand forms the international border with Nepal before joining the Ghaghara/Sharda basin?",
+    "options": [
+      "Bhilangna river system",
+      "Mandakini river system",
+      "Kali (Mahakali / Sharda) river system",
+      "Song river system"
+    ],
+    "correct_option": 2,
+    "correct_answer": "Kali (Mahakali / Sharda) river system",
+    "explanation": "The Kali river flows along the eastern boundary of Uttarakhand with Nepal.",
+    "source_page": 20
+  },
+  {
+    "id": "q288",
+    "chapter": "Uttarakhand - Drainage System (Rivers, Lakes and Glaciers)",
+    "topic": "Major Drainage Systems",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which river joins the Bhagirathi at Ganeshprayag (Old Tehri site)?",
+    "options": [
+      "Nandakini river",
+      "Mandakini river",
+      "Pindar river",
+      "Bhilangna river"
+    ],
+    "correct_option": 3,
+    "correct_answer": "Bhilangna river",
+    "explanation": "The Bhilangna river meets the Bhagirathi at Ganeshprayag (in Tehri Garhwal).",
+    "source_page": 21
+  },
+  {
+    "id": "q289",
+    "chapter": "Uttarakhand - Drainage System (Rivers, Lakes and Glaciers)",
+    "topic": "Major Drainage Systems",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which two rivers meet at Rishikesh before the Ganga enters the plains at Haridwar?",
+    "options": [
+      "Chandrabhaga (and nearby Suswa/Song in the valley) with the Ganga",
+      "Tons and Yamuna",
+      "Kali and Gori Ganga",
+      "Pindar and Nandakini"
+    ],
+    "correct_option": 0,
+    "correct_answer": "Chandrabhaga (and nearby Suswa/Song in the valley) with the Ganga",
+    "explanation": "The Chandrabhaga stream joins near Rishikesh as the Ganga flows south toward Haridwar.",
+    "source_page": 21
+  },
+  {
+    "id": "q290",
+    "chapter": "Uttarakhand - Drainage System (Rivers, Lakes and Glaciers)",
+    "topic": "Panch Prayag and Alaknanda",
+    "difficulty": "easy",
+    "type": "direct",
+    "question": "Which river joins the Alaknanda at Vishnuprayag?",
+    "options": [
+      "Mandakini",
+      "Dhauliganga (Vishnuganga)",
+      "Nandakini",
+      "Pindar"
+    ],
+    "correct_option": 1,
+    "correct_answer": "Dhauliganga (Vishnuganga)",
+    "explanation": "Dhauliganga meets the Alaknanda at Vishnuprayag.",
+    "source_page": 21
+  },
+  {
+    "id": "q291",
+    "chapter": "Uttarakhand - Drainage System (Rivers, Lakes and Glaciers)",
+    "topic": "Panch Prayag and Alaknanda",
+    "difficulty": "easy",
+    "type": "direct",
+    "question": "Which river joins the Alaknanda at Nandaprayag?",
+    "options": [
+      "Pindar",
+      "Mandakini",
+      "Nandakini",
+      "Dhauliganga"
+    ],
+    "correct_option": 2,
+    "correct_answer": "Nandakini",
+    "explanation": "Nandakini meets the Alaknanda at Nandaprayag.",
+    "source_page": 21
+  },
+  {
+    "id": "q292",
+    "chapter": "Uttarakhand - Drainage System (Rivers, Lakes and Glaciers)",
+    "topic": "Panch Prayag and Alaknanda",
+    "difficulty": "easy",
+    "type": "direct",
+    "question": "Which river joins the Alaknanda at Karnaprayag?",
+    "options": [
+      "Mandakini",
+      "Dhauliganga",
+      "Pindar (Pindarganga)",
+      "Bhagirathi"
+    ],
+    "correct_option": 2,
+    "correct_answer": "Pindar (Pindarganga)",
+    "explanation": "The Pindar river meets the Alaknanda at Karnaprayag.",
+    "source_page": 21
+  },
+  {
+    "id": "q293",
+    "chapter": "Uttarakhand - Drainage System (Rivers, Lakes and Glaciers)",
+    "topic": "Panch Prayag and Alaknanda",
+    "difficulty": "easy",
+    "type": "direct",
+    "question": "Which river joins the Alaknanda at Rudraprayag?",
+    "options": [
+      "Dhauliganga",
+      "Nandakini",
+      "Mandakini",
+      "Bhagirathi"
+    ],
+    "correct_option": 2,
+    "correct_answer": "Mandakini",
+    "explanation": "The Mandakini river joins the Alaknanda at Rudraprayag.",
+    "source_page": 21
+  },
+  {
+    "id": "q294",
+    "chapter": "Uttarakhand - Drainage System (Rivers, Lakes and Glaciers)",
+    "topic": "Panch Prayag and Alaknanda",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "What is the correct upstream-to-downstream order of the Panch Prayag along the Alaknanda and Bhagirathi?",
+    "options": [
+      "Nandaprayag -> Vishnuprayag -> Rudraprayag -> Karnaprayag -> Devprayag",
+      "Vishnuprayag -> Nandaprayag -> Karnaprayag -> Rudraprayag -> Devprayag",
+      "Devprayag -> Rudraprayag -> Karnaprayag -> Nandaprayag -> Vishnuprayag",
+      "Vishnuprayag -> Karnaprayag -> Nandaprayag -> Rudraprayag -> Devprayag"
+    ],
+    "correct_option": 1,
+    "correct_answer": "Vishnuprayag -> Nandaprayag -> Karnaprayag -> Rudraprayag -> Devprayag",
+    "explanation": "Moving downstream from the upper Alaknanda to the Ganga headwaters: Vishnuprayag, Nandaprayag, Karnaprayag, Rudraprayag, and Devprayag.",
+    "source_page": 21
+  },
+  {
+    "id": "q295",
+    "chapter": "Uttarakhand - Drainage System (Rivers, Lakes and Glaciers)",
+    "topic": "Panch Prayag and Alaknanda",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which two glaciers feed the headwaters of the Alaknanda river?",
+    "options": [
+      "Gangotri Glacier and Yamunotri Glacier",
+      "Satopanth Glacier and Bhagirath Kharak Glacier",
+      "Pindari Glacier and Kafni Glacier",
+      "Milam Glacier and Ralam Glacier"
+    ],
+    "correct_option": 1,
+    "correct_answer": "Satopanth Glacier and Bhagirath Kharak Glacier",
+    "explanation": "Alaknanda originates from the combined meltwaters of the Satopanth and Bhagirath Kharak glaciers in Chamoli.",
+    "source_page": 21
+  },
+  {
+    "id": "q296",
+    "chapter": "Uttarakhand - Drainage System (Rivers, Lakes and Glaciers)",
+    "topic": "Panch Prayag and Alaknanda",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which tributary meets the Alaknanda near Mana village upstream of Badrinath?",
+    "options": [
+      "Bhilangna river",
+      "Saraswati river",
+      "Mandakini river",
+      "Pindar river"
+    ],
+    "correct_option": 1,
+    "correct_answer": "Saraswati river",
+    "explanation": "The Saraswati river joins the Alaknanda near Mana (Keshavprayag), shortly before Badrinath.",
+    "source_page": 21
+  },
+  {
+    "id": "q297",
+    "chapter": "Uttarakhand - Drainage System (Rivers, Lakes and Glaciers)",
+    "topic": "Panch Prayag and Alaknanda",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "From which glacier does the Mandakini river originate before joining the Alaknanda at Rudraprayag?",
+    "options": [
+      "Milam Glacier",
+      "Yamunotri Glacier",
+      "Chorabari Glacier (near Kedarnath)",
+      "Khatling Glacier"
+    ],
+    "correct_option": 2,
+    "correct_answer": "Chorabari Glacier (near Kedarnath)",
+    "explanation": "Mandakini originates from the Chorabari Glacier near Kedarnath and flows through Rudraprayag.",
+    "source_page": 21
+  },
+  {
+    "id": "q298",
+    "chapter": "Uttarakhand - Drainage System (Rivers, Lakes and Glaciers)",
+    "topic": "Panch Prayag and Alaknanda",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "From which glacier does the Pindar river originate before meeting the Alaknanda at Karnaprayag?",
+    "options": [
+      "Satopanth Glacier",
+      "Pindari Glacier",
+      "Namik Glacier",
+      "Gangotri Glacier"
+    ],
+    "correct_option": 1,
+    "correct_answer": "Pindari Glacier",
+    "explanation": "The Pindar river rises from the Pindari Glacier and meets the Alaknanda at Karnaprayag.",
+    "source_page": 21
+  },
+  {
+    "id": "q299",
+    "chapter": "Uttarakhand - Drainage System (Rivers, Lakes and Glaciers)",
+    "topic": "Panch Prayag and Alaknanda",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Which major town along the Alaknanda lies between Rudraprayag and Devprayag?",
+    "options": [
+      "Joshimath",
+      "Haridwar",
+      "Srinagar (Pauri Garhwal)",
+      "Badrinath"
+    ],
+    "correct_option": 2,
+    "correct_answer": "Srinagar (Pauri Garhwal)",
+    "explanation": "Srinagar lies along the Alaknanda downstream of Rudraprayag and upstream of Devprayag.",
+    "source_page": 21
+  },
+  {
+    "id": "q300",
+    "chapter": "Uttarakhand - Drainage System (Rivers, Lakes and Glaciers)",
+    "topic": "Panch Prayag and Alaknanda",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Which tributary joins the Dhauliganga at Raini in Chamoli district?",
+    "options": [
+      "Gori Ganga",
+      "Rishiganga",
+      "Kosi",
+      "Tons"
+    ],
+    "correct_option": 1,
+    "correct_answer": "Rishiganga",
+    "explanation": "The Rishiganga joins the Dhauliganga near Raini in Chamoli district.",
+    "source_page": 21
+  },
+  {
+    "id": "q301",
+    "chapter": "Uttarakhand - Drainage System (Rivers, Lakes and Glaciers)",
+    "topic": "Panch Prayag and Alaknanda",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which districts are primarily drained by the Alaknanda river system?",
+    "options": [
+      "Nainital and Almora",
+      "Haridwar and Udham Singh Nagar",
+      "Champawat and Udham Singh Nagar",
+      "Chamoli, Rudraprayag, and Pauri/Tehri borders"
+    ],
+    "correct_option": 3,
+    "correct_answer": "Chamoli, Rudraprayag, and Pauri/Tehri borders",
+    "explanation": "The Alaknanda and its tributaries drain Chamoli, Rudraprayag, and parts of Pauri and Tehri Garhwal.",
+    "source_page": 21
+  },
+  {
+    "id": "q302",
+    "chapter": "Uttarakhand - Drainage System (Rivers, Lakes and Glaciers)",
+    "topic": "Bhagirathi and Yamuna Systems",
+    "difficulty": "easy",
+    "type": "direct",
+    "question": "Where does the Bhagirathi river originate?",
+    "options": [
+      "Chorabari Glacier in Rudraprayag",
+      "Gangotri Glacier (Gaumukh) in Uttarkashi district",
+      "Pindari Glacier in Bageshwar",
+      "Milam Glacier in Pithoragarh"
+    ],
+    "correct_option": 1,
+    "correct_answer": "Gangotri Glacier (Gaumukh) in Uttarkashi district",
+    "explanation": "The Bhagirathi originates from the Gangotri Glacier (Gaumukh) in Uttarkashi district.",
+    "source_page": 21
+  },
+  {
+    "id": "q303",
+    "chapter": "Uttarakhand - Drainage System (Rivers, Lakes and Glaciers)",
+    "topic": "Bhagirathi and Yamuna Systems",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which major dam/reservoir is constructed at the confluence of the Bhagirathi and Bhilangna rivers?",
+    "options": [
+      "Nanak Sagar Dam",
+      "Tehri Dam",
+      "Tanakpur Barrage",
+      "Lakhwar Dam"
+    ],
+    "correct_option": 1,
+    "correct_answer": "Tehri Dam",
+    "explanation": "The Tehri Dam project impounds waters near the Bhagirathi-Bhilangna confluence in Tehri Garhwal.",
+    "source_page": 21
+  },
+  {
+    "id": "q304",
+    "chapter": "Uttarakhand - Drainage System (Rivers, Lakes and Glaciers)",
+    "topic": "Bhagirathi and Yamuna Systems",
+    "difficulty": "easy",
+    "type": "direct",
+    "question": "Where does the Yamuna river originate in Uttarakhand?",
+    "options": [
+      "Yamunotri Glacier (near Bandarpunch) in Uttarkashi district",
+      "Gangotri Glacier in Uttarkashi",
+      "Pindari Glacier in Bageshwar",
+      "Satopanth Glacier in Chamoli"
+    ],
+    "correct_option": 0,
+    "correct_answer": "Yamunotri Glacier (near Bandarpunch) in Uttarkashi district",
+    "explanation": "The Yamuna originates from the Yamunotri Glacier in Uttarkashi district.",
+    "source_page": 22
+  },
+  {
+    "id": "q305",
+    "chapter": "Uttarakhand - Drainage System (Rivers, Lakes and Glaciers)",
+    "topic": "Bhagirathi and Yamuna Systems",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which is the largest tributary of the Yamuna river in Uttarakhand?",
+    "options": [
+      "Mandakini river",
+      "Tons river",
+      "Saryu river",
+      "Nandakini river"
+    ],
+    "correct_option": 1,
+    "correct_answer": "Tons river",
+    "explanation": "The Tons river is the largest tributary of the Yamuna in Uttarakhand.",
+    "source_page": 22
+  },
+  {
+    "id": "q306",
+    "chapter": "Uttarakhand - Drainage System (Rivers, Lakes and Glaciers)",
+    "topic": "Bhagirathi and Yamuna Systems",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Near which place in Dehradun district does the Tons river join the Yamuna?",
+    "options": [
+      "Joshimath",
+      "Bageshwar",
+      "Kalsi / Dakpathar area",
+      "Srinagar"
+    ],
+    "correct_option": 2,
+    "correct_answer": "Kalsi / Dakpathar area",
+    "explanation": "The Tons joins the Yamuna near Kalsi/Dakpathar in western Dehradun district.",
+    "source_page": 22
+  },
+  {
+    "id": "q307",
+    "chapter": "Uttarakhand - Drainage System (Rivers, Lakes and Glaciers)",
+    "topic": "Kali and Kumaon Rivers",
+    "difficulty": "easy",
+    "type": "direct",
+    "question": "Which river forms Uttarakhand's eastern border with Nepal?",
+    "options": [
+      "Tons river",
+      "Kali (Mahakali / Sharda) river",
+      "Mandakini river",
+      "Bhagirathi river"
+    ],
+    "correct_option": 1,
+    "correct_answer": "Kali (Mahakali / Sharda) river",
+    "explanation": "The Kali river marks the eastern boundary of Uttarakhand with Nepal.",
+    "source_page": 22
+  },
+  {
+    "id": "q308",
+    "chapter": "Uttarakhand - Drainage System (Rivers, Lakes and Glaciers)",
+    "topic": "Kali and Kumaon Rivers",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "At which town in Bageshwar district do the Saryu and Gomti rivers meet?",
+    "options": [
+      "Champawat",
+      "Bageshwar",
+      "Rudrapur",
+      "Almora"
+    ],
+    "correct_option": 1,
+    "correct_answer": "Bageshwar",
+    "explanation": "The Saryu and Gomti rivers converge at Bageshwar.",
+    "source_page": 22
+  },
+  {
+    "id": "q309",
+    "chapter": "Uttarakhand - Drainage System (Rivers, Lakes and Glaciers)",
+    "topic": "Kali and Kumaon Rivers",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "At which confluence in Pithoragarh district does the Saryu river meet the Kali river?",
+    "options": [
+      "Karnaprayag",
+      "Nandaprayag",
+      "Devprayag",
+      "Pancheshwar"
+    ],
+    "correct_option": 3,
+    "correct_answer": "Pancheshwar",
+    "explanation": "The Saryu joins the Kali river at Pancheshwar (on the Indo-Nepal border).",
+    "source_page": 22
+  },
+  {
+    "id": "q310",
+    "chapter": "Uttarakhand - Drainage System (Rivers, Lakes and Glaciers)",
+    "topic": "Kali and Kumaon Rivers",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Where does the Gori Ganga river originate, and where does it join the Kali river?",
+    "options": [
+      "Originates from Yamunotri Glacier; joins Kali at Pancheshwar",
+      "Originates from Chorabari Glacier; joins Kali at Bageshwar",
+      "Originates from Gangotri Glacier; joins Kali at Tanakpur",
+      "Originates from Milam Glacier; joins Kali at Jauljibi"
+    ],
+    "correct_option": 3,
+    "correct_answer": "Originates from Milam Glacier; joins Kali at Jauljibi",
+    "explanation": "Gori Ganga originates from Milam Glacier in Pithoragarh and joins the Kali at Jauljibi.",
+    "source_page": 22
+  },
+  {
+    "id": "q311",
+    "chapter": "Uttarakhand - Drainage System (Rivers, Lakes and Glaciers)",
+    "topic": "Kali and Kumaon Rivers",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Where does the Kosi river of Kumaon originate, and which major city stands near it?",
+    "options": [
+      "Originates at Gaumukh; flows past Uttarkashi",
+      "Originates at Satopanth; flows past Badrinath",
+      "Originates near Dharapani/Kausani-Almora area; flows past Almora and Ramnagar",
+      "Originates at Yamunotri; flows past Haridwar"
+    ],
+    "correct_option": 2,
+    "correct_answer": "Originates near Dharapani/Kausani-Almora area; flows past Almora and Ramnagar",
+    "explanation": "The Kosi river of Kumaon rises in the Almora/Bageshwar upland area and flows past Almora and Ramnagar.",
+    "source_page": 23
+  },
+  {
+    "id": "q312",
+    "chapter": "Uttarakhand - Drainage System (Rivers, Lakes and Glaciers)",
+    "topic": "Kali and Kumaon Rivers",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Which major dam is built on the Western Ramganga river near Kalagarh?",
+    "options": [
+      "Tehri Dam",
+      "Kalagarh Dam (Ramganga Dam)",
+      "Maneri Bhali Dam",
+      "Koteshwar Dam"
+    ],
+    "correct_option": 1,
+    "correct_answer": "Kalagarh Dam (Ramganga Dam)",
+    "explanation": "The Kalagarh Dam is located on the Western Ramganga river along the southern margin of Pauri/Garhwal near Jim Corbett National Park.",
+    "source_page": 23
+  },
+  {
+    "id": "q313",
+    "chapter": "Uttarakhand - Drainage System (Rivers, Lakes and Glaciers)",
+    "topic": "Kali and Kumaon Rivers",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which river is locally referred to as 'Sharda' after descending into the plains near Tanakpur/Bannbasa?",
+    "options": [
+      "Kali river",
+      "Alaknanda river",
+      "Tons river",
+      "Bhagirathi river"
+    ],
+    "correct_option": 0,
+    "correct_answer": "Kali river",
+    "explanation": "The Kali river is widely known as Sharda as it exits the hills near Tanakpur/Bannbasa into the plains.",
+    "source_page": 22
+  },
+  {
+    "id": "q314",
+    "chapter": "Uttarakhand - Drainage System (Rivers, Lakes and Glaciers)",
+    "topic": "Kali and Kumaon Rivers",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Which river joins the Kali at Ghat in Champawat/Pithoragarh?",
+    "options": [
+      "Bhilangna river",
+      "Lohawati / Ladhiya (Ladhiya joins Kali near Baramdeo/Tanakpur; Lohawati joins Ladhiya)",
+      "Mandakini river",
+      "Yamuna river"
+    ],
+    "correct_option": 1,
+    "correct_answer": "Lohawati / Ladhiya (Ladhiya joins Kali near Baramdeo/Tanakpur; Lohawati joins Ladhiya)",
+    "explanation": "Ladhiya and Lohawati are key southern Kumaon tributaries draining toward the Kali basin.",
+    "source_page": 22
+  },
+  {
+    "id": "q315",
+    "chapter": "Uttarakhand - Drainage System (Rivers, Lakes and Glaciers)",
+    "topic": "Kali and Kumaon Rivers",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which river flows through the Valley of Flowers in Chamoli district?",
+    "options": [
+      "Tons river",
+      "Gori Ganga river",
+      "Kosi river",
+      "Pushpawati river"
+    ],
+    "correct_option": 3,
+    "correct_answer": "Pushpawati river",
+    "explanation": "The Pushpawati stream flows through the Valley of Flowers in Chamoli district.",
+    "source_page": 23
+  },
+  {
+    "id": "q316",
+    "chapter": "Uttarakhand - Drainage System (Rivers, Lakes and Glaciers)",
+    "topic": "Lakes of Uttarakhand",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "What is a general distinction between lakes of Kumaon and lakes of Garhwal in Uttarakhand?",
+    "options": [
+      "Kumaon lakes are mostly tectonic/structural/lake-district basins (like Nainital), while Garhwal lakes are largely glacial/high-altitude (like Hemkund, Satopanth)",
+      "Garhwal lakes are all saltwater lagoons, while Kumaon lakes are all glaciers",
+      "Kumaon has no natural lakes",
+      "Garhwal lakes are all located in the plains"
+    ],
+    "correct_option": 0,
+    "correct_answer": "Kumaon lakes are mostly tectonic/structural/lake-district basins (like Nainital), while Garhwal lakes are largely glacial/high-altitude (like Hemkund, Satopanth)",
+    "explanation": "Kumaon is famous for lakes around Nainital (such as Bhimtal, Naukuchiatal, Sattal), whereas Garhwal features prominent high-altitude/glacial lakes (such as Hemkund/Lokpal, Satopanth, Vasudhara, Dodital).",
+    "source_page": 23
+  },
+  {
+    "id": "q317",
+    "chapter": "Uttarakhand - Drainage System (Rivers, Lakes and Glaciers)",
+    "topic": "Lakes of Uttarakhand",
+    "difficulty": "easy",
+    "type": "direct",
+    "question": "In which district are Nainital, Bhimtal, Sattal, and Naukuchiatal located?",
+    "options": [
+      "Rudraprayag",
+      "Pithoragarh",
+      "Uttarkashi",
+      "Nainital"
+    ],
+    "correct_option": 3,
+    "correct_answer": "Nainital",
+    "explanation": "Nainital, Bhimtal, Sattal, and Naukuchiatal are major lakes in Nainital district.",
+    "source_page": 23
+  },
+  {
+    "id": "q318",
+    "chapter": "Uttarakhand - Drainage System (Rivers, Lakes and Glaciers)",
+    "topic": "Lakes of Uttarakhand",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which lake in Nainital district is known for having nine corners/bends?",
+    "options": [
+      "Khurpatal",
+      "Sariatal",
+      "Bhimtal",
+      "Naukuchiatal"
+    ],
+    "correct_option": 3,
+    "correct_answer": "Naukuchiatal",
+    "explanation": "Naukuchiatal is traditionally described as a nine-cornered lake in Nainital district.",
+    "source_page": 23
+  },
+  {
+    "id": "q319",
+    "chapter": "Uttarakhand - Drainage System (Rivers, Lakes and Glaciers)",
+    "topic": "Lakes of Uttarakhand",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which is the largest lake by surface area in Nainital district?",
+    "options": [
+      "Bhimtal",
+      "Khurpatal",
+      "Nainital",
+      "Sariatal"
+    ],
+    "correct_option": 0,
+    "correct_answer": "Bhimtal",
+    "explanation": "Bhimtal is the largest lake in Nainital district.",
+    "source_page": 23
+  },
+  {
+    "id": "q320",
+    "chapter": "Uttarakhand - Drainage System (Rivers, Lakes and Glaciers)",
+    "topic": "Lakes of Uttarakhand",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "In which district is Dodital (associated with Lord Ganesha) located?",
+    "options": [
+      "Nainital",
+      "Uttarkashi",
+      "Champawat",
+      "Almora"
+    ],
+    "correct_option": 1,
+    "correct_answer": "Uttarkashi",
+    "explanation": "Dodital is located in Uttarkashi district.",
+    "source_page": 24
+  },
+  {
+    "id": "q321",
+    "chapter": "Uttarakhand - Drainage System (Rivers, Lakes and Glaciers)",
+    "topic": "Lakes of Uttarakhand",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "In which district are Hemkund (Lokpal) Lake and Satopanth Lake located?",
+    "options": [
+      "Uttarkashi",
+      "Bageshwar",
+      "Chamoli",
+      "Pithoragarh"
+    ],
+    "correct_option": 2,
+    "correct_answer": "Chamoli",
+    "explanation": "Hemkund (Lokpal) and Satopanth lakes are situated in Chamoli district.",
+    "source_page": 24
+  },
+  {
+    "id": "q322",
+    "chapter": "Uttarakhand - Drainage System (Rivers, Lakes and Glaciers)",
+    "topic": "Lakes of Uttarakhand",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "In which district is Deoria Tal located?",
+    "options": [
+      "Haridwar",
+      "Rudraprayag",
+      "Nainital",
+      "Udham Singh Nagar"
+    ],
+    "correct_option": 1,
+    "correct_answer": "Rudraprayag",
+    "explanation": "Deoria Tal is situated in Rudraprayag district.",
+    "source_page": 24
+  },
+  {
+    "id": "q323",
+    "chapter": "Uttarakhand - Drainage System (Rivers, Lakes and Glaciers)",
+    "topic": "Lakes of Uttarakhand",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Which lake in Chamoli district is famous for its mystery/skeletons at high altitude?",
+    "options": [
+      "Roopkund (Mystery Lake)",
+      "Nachiketa Tal",
+      "Bhimtal",
+      "Khurpatal"
+    ],
+    "correct_option": 0,
+    "correct_answer": "Roopkund (Mystery Lake)",
+    "explanation": "Roopkund is a high-altitude glacial lake in Chamoli district.",
+    "source_page": 24
+  },
+  {
+    "id": "q324",
+    "chapter": "Uttarakhand - Drainage System (Rivers, Lakes and Glaciers)",
+    "topic": "Lakes of Uttarakhand",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "In which district is Nachiketa Tal located?",
+    "options": [
+      "Pithoragarh",
+      "Chamoli",
+      "Nainital",
+      "Uttarkashi"
+    ],
+    "correct_option": 3,
+    "correct_answer": "Uttarkashi",
+    "explanation": "Nachiketa Tal is located in Uttarkashi district.",
+    "source_page": 24
+  },
+  {
+    "id": "q325",
+    "chapter": "Uttarakhand - Drainage System (Rivers, Lakes and Glaciers)",
+    "topic": "Lakes of Uttarakhand",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Which artificial/reservoir lake in Udham Singh Nagar is named after Govind Ballabh Pant?",
+    "options": [
+      "Nainital Lake",
+      "Hemkund Lake",
+      "Dodital",
+      "Govind Ballabh Pant Sagar / Nanak Sagar"
+    ],
+    "correct_option": 3,
+    "correct_answer": "Govind Ballabh Pant Sagar / Nanak Sagar",
+    "explanation": "Udham Singh Nagar includes major reservoirs/lakes such as Nanak Sagar and reservoirs associated with irrigation/hydro projects.",
+    "source_page": 24
+  },
+  {
+    "id": "q326",
+    "chapter": "Uttarakhand - Drainage System (Rivers, Lakes and Glaciers)",
+    "topic": "Lakes of Uttarakhand",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Which high-altitude lake lies near the source/headwaters of the Dhauliganga in Chamoli district?",
+    "options": [
+      "Sattal",
+      "Khurpatal",
+      "Vasudhara Tal",
+      "Bhimtal"
+    ],
+    "correct_option": 2,
+    "correct_answer": "Vasudhara Tal",
+    "explanation": "Vasudhara Tal is a prominent high-altitude glacial lake in Chamoli district.",
+    "source_page": 24
+  },
+  {
+    "id": "q327",
+    "chapter": "Uttarakhand - Drainage System (Rivers, Lakes and Glaciers)",
+    "topic": "Lakes of Uttarakhand",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which lake in Nainital district is located slightly southwest of Nainital town along a scenic route?",
+    "options": [
+      "Satopanth Tal",
+      "Roopkund",
+      "Khurpatal",
+      "Hemkund"
+    ],
+    "correct_option": 2,
+    "correct_answer": "Khurpatal",
+    "explanation": "Khurpatal is a lake located in Nainital district.",
+    "source_page": 23
+  },
+  {
+    "id": "q328",
+    "chapter": "Uttarakhand - Drainage System (Rivers, Lakes and Glaciers)",
+    "topic": "Lakes of Uttarakhand",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Which lake/tal is associated with Badrinath/Mana high-altitude glacial terrain in Chamoli?",
+    "options": [
+      "Sattal",
+      "Naukuchiatal",
+      "Nainital",
+      "Satopanth / Vasudhara"
+    ],
+    "correct_option": 3,
+    "correct_answer": "Satopanth / Vasudhara",
+    "explanation": "Satopanth and Vasudhara are prominent high-altitude lakes in Chamoli district.",
+    "source_page": 24
+  },
+  {
+    "id": "q329",
+    "chapter": "Uttarakhand - Drainage System (Rivers, Lakes and Glaciers)",
+    "topic": "Lakes of Uttarakhand",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "What does the word 'Tal' (ताल) commonly denote in Uttarakhand's geography?",
+    "options": [
+      "A river gorge",
+      "A mountain pass",
+      "A lake or mountain tarn",
+      "A forest reserve"
+    ],
+    "correct_option": 2,
+    "correct_answer": "A lake or mountain tarn",
+    "explanation": "In Uttarakhand's toponymy, 'Tal' commonly refers to lakes and high-altitude tarns.",
+    "source_page": 23
+  },
+  {
+    "id": "q330",
+    "chapter": "Uttarakhand - Drainage System (Rivers, Lakes and Glaciers)",
+    "topic": "Glaciers and Drainage Features",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which glacier in Pithoragarh district feeds the Gori Ganga river?",
+    "options": [
+      "Milam Glacier",
+      "Yamunotri Glacier",
+      "Khatling Glacier",
+      "Gangotri Glacier"
+    ],
+    "correct_option": 0,
+    "correct_answer": "Milam Glacier",
+    "explanation": "Milam Glacier in Pithoragarh district is the source of the Gori Ganga river.",
+    "source_page": 24
+  },
+  {
+    "id": "q331",
+    "chapter": "Uttarakhand - Drainage System (Rivers, Lakes and Glaciers)",
+    "topic": "Glaciers and Drainage Features",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which glacier in Tehri Garhwal is the source of the Bhilangna river?",
+    "options": [
+      "Namik Glacier",
+      "Khatling Glacier",
+      "Satopanth Glacier",
+      "Pindari Glacier"
+    ],
+    "correct_option": 1,
+    "correct_answer": "Khatling Glacier",
+    "explanation": "Khatling Glacier in Tehri Garhwal gives rise to the Bhilangna river.",
+    "source_page": 24
+  },
+  {
+    "id": "q332",
+    "chapter": "Uttarakhand - Drainage System (Rivers, Lakes and Glaciers)",
+    "topic": "Glaciers and Drainage Features",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which glacier in Bageshwar district feeds the Pindar river?",
+    "options": [
+      "Bhagirath Kharak Glacier",
+      "Gangotri Glacier",
+      "Pindari Glacier",
+      "Yamunotri Glacier"
+    ],
+    "correct_option": 2,
+    "correct_answer": "Pindari Glacier",
+    "explanation": "Pindari Glacier in Bageshwar district is the source of the Pindar river.",
+    "source_page": 24
+  },
+  {
+    "id": "q333",
+    "chapter": "Uttarakhand - Drainage System (Rivers, Lakes and Glaciers)",
+    "topic": "Glaciers and Drainage Features",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Which waterfall is located near Mussoorie in Dehradun district?",
+    "options": [
+      "Vasudhara Falls",
+      "Birthi Falls",
+      "Kempty Falls",
+      "Sahastradhara (also in Dehradun)"
+    ],
+    "correct_option": 2,
+    "correct_answer": "Kempty Falls",
+    "explanation": "Kempty Falls is a well-known waterfall near Mussoorie in Dehradun district.",
+    "source_page": 24
+  },
+  {
+    "id": "q334",
+    "chapter": "Uttarakhand - Drainage System (Rivers, Lakes and Glaciers)",
+    "topic": "Glaciers and Drainage Features",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "In which district is Birthi Falls located?",
+    "options": [
+      "Dehradun",
+      "Haridwar",
+      "Udham Singh Nagar",
+      "Pithoragarh (near Munsiyari)"
+    ],
+    "correct_option": 3,
+    "correct_answer": "Pithoragarh (near Munsiyari)",
+    "explanation": "Birthi Falls is located in Pithoragarh district near Munsiyari.",
+    "source_page": 24
+  },
+  {
+    "id": "q335",
+    "chapter": "Uttarakhand - Drainage System (Rivers, Lakes and Glaciers)",
+    "topic": "Glaciers and Drainage Features",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Where is Tapt Kund (a well-known thermal/hot spring) located?",
+    "options": [
+      "Badrinath (Chamoli district)",
+      "Haldwani",
+      "Almora",
+      "Kashipur"
+    ],
+    "correct_option": 0,
+    "correct_answer": "Badrinath (Chamoli district)",
+    "explanation": "Tapt Kund is a prominent hot spring near Badrinath along the Alaknanda in Chamoli district.",
+    "source_page": 24
+  },
+  {
+    "id": "q336",
+    "chapter": "Uttarakhand - Drainage System (Rivers, Lakes and Glaciers)",
+    "topic": "Glaciers and Drainage Features",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Where is Gaurikund (known for thermal springs on the Kedarnath route) located?",
+    "options": [
+      "Pithoragarh district",
+      "Champawat district",
+      "Rudraprayag district",
+      "Nainital district"
+    ],
+    "correct_option": 2,
+    "correct_answer": "Rudraprayag district",
+    "explanation": "Gaurikund lies in Rudraprayag district along the Mandakini valley route to Kedarnath.",
+    "source_page": 24
+  },
+  {
+    "id": "q337",
+    "chapter": "Uttarakhand - Drainage System (Rivers, Lakes and Glaciers)",
+    "topic": "Glaciers and Drainage Features",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "What are natural springs/fountains called in Garhwal and Kumaon?",
+    "options": [
+      "Bugyal or Payar",
+      "Bhabar or Tarai",
+      "Naula or Dhara",
+      "Dun or Dwar"
+    ],
+    "correct_option": 2,
+    "correct_answer": "Naula or Dhara",
+    "explanation": "Natural springs/water sources in Uttarakhand hills are traditionally known as Naula (covered stone spring) and Dhara (flowing spring/spout).",
+    "source_page": 24
+  },
+  {
+    "id": "q338",
+    "chapter": "Uttarakhand - Drainage System (Rivers, Lakes and Glaciers)",
+    "topic": "Glaciers and Drainage Features",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Why do snow-fed rivers of Uttarakhand experience peak discharge during the monsoon season (July–September)?",
+    "options": [
+      "Tidal surges from the Bay of Bengal reaching the hills",
+      "Absence of evaporation in summer",
+      "Combined contribution of heavy southwest monsoon rainfall and seasonal glacial/snow melt",
+      "Artificial pumping from underground aquifers"
+    ],
+    "correct_option": 2,
+    "correct_answer": "Combined contribution of heavy southwest monsoon rainfall and seasonal glacial/snow melt",
+    "explanation": "Peak river discharge in Uttarakhand occurs during the monsoon months when heavy rainfall combines with summer/monsoon snow and ice melt.",
+    "source_page": 20
   }
 ]
