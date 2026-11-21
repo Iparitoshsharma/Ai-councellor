@@ -3605,5 +3605,149 @@
     "source_page": 15,
     "correct_answer": "1191 CE; freed by Bharatichand",
     "set": "chapter1"
+  },
+  {
+    "id": "q200",
+    "chapter": "Uttarakhand - Historical Study",
+    "topic": "Prehistoric Period and Rock Shelters",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Where is the Lakhudiyar rock shelter situated in Almora district, and what are the three main colors found in its paintings?",
+    "options": [
+      "On the bank of the Alaknanda river; green, red, and black",
+      "On the bank of the Suyal river; black, white, and red ochre (geru)",
+      "On the bank of the Bhagirathi river; blue, yellow, and white",
+      "On the bank of the Kali river; white, blue, and ochre"
+    ],
+    "correct_option": 1,
+    "explanation": "Lakhudiyar is located on the bank of the Suyal river in Almora district and features prehistoric paintings in black, white, and red ochre.",
+    "source_page": 13,
+    "correct_answer": "On the bank of the Suyal river; black, white, and red ochre (geru)"
+  },
+  {
+    "id": "q201",
+    "chapter": "Uttarakhand - Historical Study",
+    "topic": "Prehistoric Period and Rock Shelters",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Which motif/scene is commonly noted in the Lakhudiyar rock paintings alongside dancing human figures and animals?",
+    "options": [
+      "Stupas and Brahmi inscriptions",
+      "Coins of Amoghabhuti and copper axes",
+      "Groups of humans dancing hand-in-hand and wavy/geometric lines",
+      "Chariot battles and iron plows"
+    ],
+    "correct_option": 2,
+    "explanation": "Lakhudiyar rock art is well known for depicting groups of humans dancing together, animals, and geometric/wavy patterns.",
+    "source_page": 13,
+    "correct_answer": "Groups of humans dancing hand-in-hand and wavy/geometric lines"
+  },
+  {
+    "id": "q202",
+    "chapter": "Uttarakhand - Historical Study",
+    "topic": "Proto-Historic and Vedic/Puranic References",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "In the Skanda Purana, what is the traditional northern boundary of Manaskhand and southern boundary of Kedarkhand?",
+    "options": [
+      "Manaskhand: Devprayag to Rishikesh; Kedarkhand: Haldwani to Kashipur",
+      "Manaskhand: Nanda Devi to Kalagiri; Kedarkhand: Haridwar (Mayakshetra) to Shwet Parvat",
+      "Manaskhand: Haridwar to Badrinath; Kedarkhand: Almora to Pithoragarh",
+      "Manaskhand: Yamunotri to Gangotri; Kedarkhand: Champawat to Nainital"
+    ],
+    "correct_option": 1,
+    "explanation": "According to the Skanda Purana, Kedarkhand extends from Mayakshetra (Haridwar) to Shwet Parvat, while Manaskhand extends from Nanda Devi to Kalagiri.",
+    "source_page": 14,
+    "correct_answer": "Manaskhand: Nanda Devi to Kalagiri; Kedarkhand: Haridwar (Mayakshetra) to Shwet Parvat"
+  },
+  {
+    "id": "q203",
+    "chapter": "Uttarakhand - Historical Study",
+    "topic": "Proto-Historic and Vedic/Puranic References",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which river flows beside Kanvashram in Pauri Garhwal, associated in tradition with Shakuntala and Emperor Bharata?",
+    "options": [
+      "Tons river",
+      "Kosi river",
+      "Malini river",
+      "Saryu river"
+    ],
+    "correct_option": 2,
+    "explanation": "Kanvashram is situated on the banks of the Malini river in Pauri Garhwal.",
+    "source_page": 14,
+    "correct_answer": "Malini river"
+  },
+  {
+    "id": "q204",
+    "chapter": "Uttarakhand - Historical Study",
+    "topic": "Ancient Dynasties - Kunindas, Sakas, Kushanas",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "On which types of coins do the names and legends of Kuninda rulers—especially Amoghabhuti—appear?",
+    "options": [
+      "Silver and copper coins bearing Brahmi and Kharoshthi legends",
+      "Cowrie shells and punch-marked silver bars",
+      "Gold dinars bearing Gupta royal portraits",
+      "Lead coins bearing Persian inscriptions"
+    ],
+    "correct_option": 0,
+    "explanation": "Kuninda rulers, led by Amoghabhuti, issued silver and copper coins with legends in Brahmi and Kharoshthi.",
+    "source_page": 15,
+    "correct_answer": "Silver and copper coins bearing Brahmi and Kharoshthi legends"
+  },
+  {
+    "id": "q205",
+    "chapter": "Uttarakhand - Historical Study",
+    "topic": "Kartikeyapura (Katyuri) Dynasty",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "In which ruler's copper plate inscription (such as the Pandukeshwar copper plate) is Kartikeyapura king Lalitsur Dev praised as 'Varahavatara'?",
+    "options": [
+      "Basantdev",
+      "Lalitsur Dev",
+      "Indrachand",
+      "Somchand"
+    ],
+    "correct_option": 1,
+    "explanation": "The Pandukeshwar copper plate inscription praises Kartikeyapura ruler Lalitsur Dev as 'Varahavatara' for protecting the earth/kingdom.",
+    "source_page": 15,
+    "correct_answer": "Lalitsur Dev"
+  },
+  {
+    "id": "q206",
+    "chapter": "Uttarakhand - Historical Study",
+    "topic": "Chand Dynasty of Kumaon",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which Chand ruler shifted the capital of Kumaon from Champawat to Almora in 1563 CE?",
+    "options": [
+      "Gyanchand",
+      "Bharatichand",
+      "Somchand",
+      "Balo Kalyan Chand (Baldeo)"
+    ],
+    "correct_option": 3,
+    "explanation": "Balo Kalyan Chand (also referred to as Baldeo) shifted the Chand capital from Champawat to Almora in 1563 CE.",
+    "source_page": 15,
+    "correct_answer": "Balo Kalyan Chand (Baldeo)"
+  },
+  {
+    "id": "q207",
+    "chapter": "Uttarakhand - Historical Study",
+    "topic": "Chand Dynasty of Kumaon",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "In which copper plate inscription is Chand ruler Gyanchand called 'Sri Raja Vijay Brahma'?",
+    "options": [
+      "Pandukeshwar copper plate",
+      "Majhera copper plate",
+      "Barahat trident inscription",
+      "Kalsi rock edict"
+    ],
+    "correct_option": 1,
+    "explanation": "Chand ruler Gyanchand is referred to as 'Sri Raja Vijay Brahma' in the Majhera copper plate inscription.",
+    "source_page": 15,
+    "correct_answer": "Majhera copper plate"
   }
 ]

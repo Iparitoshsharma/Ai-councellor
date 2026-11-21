@@ -14,10 +14,11 @@ export default function App() {
   const [attempt, setAttempt] = useState(null)
 
   // Question pools. Questions tagged with `set: 'chapter1'` belong to the
-  // Chapter 1 mock test; everything else only appears in the full test.
+  // Chapter 1 mock test; History questions are identified by their chapter name.
   const POOLS = {
     full: allQuestions,
     chapter1: allQuestions.filter((q) => q.set === 'chapter1'),
+    history: allQuestions.filter((q) => q.chapter === 'Uttarakhand - Historical Study'),
   }
 
   function startTest(setId = 'full') {
@@ -47,8 +48,10 @@ export default function App() {
           settings={settings}
           totalInBank={allQuestions.length}
           chapter1Count={POOLS.chapter1.length}
+          historyCount={POOLS.history.length}
           onStart={startTest}
           onStartChapter1={() => startTest('chapter1')}
+          onStartHistory={() => startTest('history')}
           goSettings={() => setScreen('settings')}
         />
       )}

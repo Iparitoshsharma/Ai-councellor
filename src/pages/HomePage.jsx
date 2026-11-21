@@ -2,12 +2,15 @@ export default function HomePage({
   settings,
   totalInBank,
   chapter1Count,
+  historyCount,
   onStart,
   onStartChapter1,
+  onStartHistory,
   goSettings,
 }) {
   const testSize = Math.min(settings.questionsPerTest, totalInBank)
   const chapter1Size = Math.min(settings.questionsPerTest, chapter1Count)
+  const historySize = Math.min(settings.questionsPerTest, historyCount)
 
   return (
     <div>
@@ -47,6 +50,21 @@ export default function HomePage({
         </p>
         <button className="btn btn-primary btn-big" onClick={onStartChapter1}>
           Start Chapter 1 test
+        </button>
+      </section>
+
+      <section className="card chapter-card">
+        <p className="hero-kicker">History mock test &middot; a different section</p>
+        <p className="chapter-title">
+          UK History &mdash; Uttarakhand Historical Study
+        </p>
+        <p className="hero-sub">
+          {historySize} questions from this section &middot; picked from{' '}
+          {historyCount} &middot;{' '}
+          {settings.timerEnabled ? `${settings.durationMinutes} minute timer` : 'Untimed'}
+        </p>
+        <button className="btn btn-primary btn-big" onClick={onStartHistory}>
+          Start History test
         </button>
       </section>
 
