@@ -1,4 +1,4 @@
-import { useState } from 'react'
+import { useMemo, useState } from 'react'
 import HomePage from './pages/HomePage.jsx'
 import SettingsPage from './pages/SettingsPage.jsx'
 import TestPage from './pages/TestPage.jsx'
@@ -13,17 +13,37 @@ export default function App() {
   // attempt = everything about the test currently being taken or just finished
   const [attempt, setAttempt] = useState(null)
 
-  // Question pools. Questions tagged with `set: 'chapter1'` belong to the
-  // Chapter 1 mock test; History questions are identified by their chapter name.
-  const POOLS = {
-    full: allQuestions,
-    chapter1: allQuestions.filter((q) => q.set === 'chapter1'),
-    history: allQuestions.filter((q) => q.chapter === 'Uttarakhand - Historical Study'),
-  }
+  // Chapter list built automatically from the question bank: every distinct
+  // `chapter` value in questions.json gets its own mock-test card.
+  const chapters = useMemo(() => {
+    const byChapter = new Map()
+    for (const q of allQuestions) {
+      if (!byChapter.has(q.chapter)) byChapter.set(q.chapter, [])
+      byChapter.get(q.chapter).push(q)
+    }
+    return [...byChapter.keys()].map((name) => {
+      const questions = byChapter.get(name)
+      return { id: chapterPoolId(name), name, count: questions.length, questions }
+    })
+  }, [])
 
-  function startTest(setId = 'full') {
+  // Special pool: the Chapter 1 questionnaire file (pages 6-15), tagged on
+  // each question with set: 'chapter1' when it was loaded.
+  const chapter1Pool = useMemo(
+    () => allQuestions.filter((q) => q.set === 'chapter1'),
+    []
+  )
+
+  // Every pool the app can start a test from.
+  const pools = useMemo(() => {
+    const map = { full: allQuestions, chapter1: chapter1Pool }
+    for (const ch of chapters) map[ch.id] = ch.questions
+    return map
+  }, [chapters, chapter1Pool])
+
+  function startTest(poolKey = 'full') {
     // Pick random questions from the chosen pool (never more than it has).
-    const pool = POOLS[setId] || POOLS.full
+    const pool = pools[poolKey] || pools.full
     const picked = shuffle(pool).slice(
       0,
       Math.min(settings.questionsPerTest, pool.length)
@@ -47,11 +67,10 @@ export default function App() {
         <HomePage
           settings={settings}
           totalInBank={allQuestions.length}
-          chapter1Count={POOLS.chapter1.length}
-          historyCount={POOLS.history.length}
+          chapters={chapters}
+          chapter1Count={chapter1Pool.length}
           onStart={startTest}
-          onStartChapter1={() => startTest('chapter1')}
-          onStartHistory={() => startTest('history')}
+          onSelectPool={(poolKey) => startTest(poolKey)}
           goSettings={() => setScreen('settings')}
         />
       )}
@@ -75,9 +94,21 @@ export default function App() {
           settings={settings}
           attempt={attempt}
           goHome={() => setScreen('home')}
-          onRetake={startTest}
+          onRetake={() => startTest('full')}
         />
       )}
     </div>
+  )
+}
+
+// Turn a chapter name into a stable pool id, e.g.
+// "Uttarakhand - Historical Study" -> "ch-uttarakhand-historical-study"
+function chapterPoolId(name) {
+  return (
+    'ch-' +
+    name
+      .toLowerCase()
+      .replace(/[^a-z0-9]+/g, '-')
+      .replace(/^-+|-+$/g, '')
   )
 }

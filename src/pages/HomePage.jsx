@@ -1,16 +1,16 @@
 export default function HomePage({
   settings,
   totalInBank,
+  chapters,
   chapter1Count,
-  historyCount,
   onStart,
-  onStartChapter1,
-  onStartHistory,
+  onSelectPool,
   goSettings,
 }) {
   const testSize = Math.min(settings.questionsPerTest, totalInBank)
-  const chapter1Size = Math.min(settings.questionsPerTest, chapter1Count)
-  const historySize = Math.min(settings.questionsPerTest, historyCount)
+  const timerLabel = settings.timerEnabled
+    ? `${settings.durationMinutes} minute timer`
+    : 'Untimed'
 
   return (
     <div>
@@ -25,8 +25,7 @@ export default function HomePage({
           <strong>{testSize}</strong> questions
         </p>
         <p className="hero-sub">
-          Mixed from all {totalInBank} questions ·{' '}
-          {settings.timerEnabled ? `${settings.durationMinutes} minute timer` : 'Untimed'} ·{' '}
+          Mixed from all {totalInBank} questions · {timerLabel} ·{' '}
           {'\u2212'}{settings.negativeMarks} per wrong answer
         </p>
         <button className="btn btn-primary btn-big" onClick={onStart}>
@@ -38,33 +37,41 @@ export default function HomePage({
         </p>
       </section>
 
-      <section className="card chapter-card">
-        <p className="hero-kicker">Chapter 1 mock test</p>
-        <p className="chapter-title">
-          Uttarakhand &mdash; Political and Administrative Structure
-        </p>
-        <p className="hero-sub">
-          {chapter1Size} questions from this chapter &middot; picked from{' '}
-          {chapter1Count} &middot;{' '}
-          {settings.timerEnabled ? `${settings.durationMinutes} minute timer` : 'Untimed'}
-        </p>
-        <button className="btn btn-primary btn-big" onClick={onStartChapter1}>
-          Start Chapter 1 test
-        </button>
-      </section>
+      <h2 className="section-title">Chapter-wise mock tests</h2>
+
+      {chapters.map((ch) => {
+        const size = Math.min(settings.questionsPerTest, ch.count)
+        return (
+          <section className="card chapter-card" key={ch.id}>
+            <p className="chapter-title">{ch.name}</p>
+            <p className="hero-sub">
+              {size} questions &middot; from {ch.count} in this chapter &middot;{' '}
+              {timerLabel}
+            </p>
+            <button
+              className="btn btn-primary btn-big"
+              onClick={() => onSelectPool(ch.id)}
+            >
+              Start this chapter
+            </button>
+          </section>
+        )
+      })}
 
       <section className="card chapter-card">
-        <p className="hero-kicker">History mock test &middot; a different section</p>
+        <p className="hero-kicker">Questionnaire</p>
         <p className="chapter-title">
-          UK History &mdash; Uttarakhand Historical Study
+          Chapter 1 full set (pages 6&ndash;15)
         </p>
         <p className="hero-sub">
-          {historySize} questions from this section &middot; picked from{' '}
-          {historyCount} &middot;{' '}
-          {settings.timerEnabled ? `${settings.durationMinutes} minute timer` : 'Untimed'}
+          {Math.min(settings.questionsPerTest, chapter1Count)} questions &middot; from
+          all {chapter1Count} in the questionnaire &middot; {timerLabel}
         </p>
-        <button className="btn btn-primary btn-big" onClick={onStartHistory}>
-          Start History test
+        <button
+          className="btn btn-primary btn-big"
+          onClick={() => onSelectPool('chapter1')}
+        >
+          Start Chapter 1 set
         </button>
       </section>
 

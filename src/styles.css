@@ -198,6 +198,16 @@ textarea:focus {
   color: #991b1b;
 }
 
+/* ---- Home: section heading ---- */
+.section-title {
+  font-size: 16px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  color: #374151;
+  margin: 22px 0 4px;
+}
+
 /* ---- Home hero card ---- */
 .hero-card {
   text-align: center;
