@@ -10175,5 +10175,725 @@
     "explanation": "Rajaji National Park spans parts of Dehradun, Haridwar, and Pauri Garhwal.",
     "source_page": 40,
     "correct_answer": "Rajaji National Park (Tiger Reserve)"
+  },
+  {
+    "id": "q565",
+    "chapter": "Uttarakhand - Society, Culture, Education and Welfare",
+    "topic": "Society and Cultural Heritage",
+    "difficulty": "easy",
+    "type": "direct",
+    "question": "Which two major regional cultural-linguistic divisions characterize Uttarakhand's society alongside distinct sub-regional/tribal traditions?",
+    "options": [
+      "Coromandel and Rayalaseema",
+      "Saurashtra and Kutch",
+      "Konkan and Malabar",
+      "Garhwal and Kumaon (alongside sub-regions such as Jaunsar-Bawar, Rawain, Bhotiya/border valleys, and Tarai/Bhabar communities)"
+    ],
+    "correct_option": 3,
+    "explanation": "Uttarakhand blends Garhwali and Kumaoni cultural traditions with Jaunsari, Bhotiya, Tharu, Buksa, and plain/urban communities.",
+    "source_page": 41,
+    "correct_answer": "Garhwal and Kumaon (alongside sub-regions such as Jaunsar-Bawar, Rawain, Bhotiya/border valleys, and Tarai/Bhabar communities)"
+  },
+  {
+    "id": "q566",
+    "chapter": "Uttarakhand - Society, Culture, Education and Welfare",
+    "topic": "Society and Cultural Heritage",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which major regional languages/dialects are widely spoken in Uttarakhand?",
+    "options": [
+      "Tamil, Telugu, and Malayalam as primary hill tongues",
+      "Marathi, Gujarati, and Konkani",
+      "Odia, Assamese, and Manipuri",
+      "Garhwali, Kumaoni, and Jaunsari (alongside Hindi as official state language, plus Bhotiya dialects, Tharu, and Buksa)"
+    ],
+    "correct_option": 3,
+    "explanation": "Hindi is the official language of Uttarakhand, while Garhwali, Kumaoni, Jaunsari, and tribal/regional tongues enrich daily life, folk songs, and oral literature.",
+    "source_page": 41,
+    "correct_answer": "Garhwali, Kumaoni, and Jaunsari (alongside Hindi as official state language, plus Bhotiya dialects, Tharu, and Buksa)"
+  },
+  {
+    "id": "q567",
+    "chapter": "Uttarakhand - Society, Culture, Education and Welfare",
+    "topic": "Society and Cultural Heritage",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which traditional Garhwali/Kumaoni folk songs and musical traditions celebrate seasons, harvests, festivals, and folk narratives?",
+    "options": [
+      "Carnatic Kritis set to coastal boat-race rhythms",
+      "Baul songs of Sundarbans mangroves",
+      "Bhangra dhol beats from river deltas",
+      "Jagar, Mangal, Chhopati/Chanchari, Basanti, Khuded, and Nyoli/Bhagoria-free regional folk songs"
+    ],
+    "correct_option": 3,
+    "explanation": "Regional folk songs such as Mangal (auspicious/wedding songs), Basanti (spring), Khuded (pining/lament), and Jagar/ritual performances form a core part of Uttarakhand's heritage.",
+    "source_page": 41,
+    "correct_answer": "Jagar, Mangal, Chhopati/Chanchari, Basanti, Khuded, and Nyoli/Bhagoria-free regional folk songs"
+  },
+  {
+    "id": "q568",
+    "chapter": "Uttarakhand - Society, Culture, Education and Welfare",
+    "topic": "Society and Cultural Heritage",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "What is 'Jagar' in the cultural tradition of Uttarakhand?",
+    "options": [
+      "A type of irrigation canal",
+      "A traditional ritual/invocation involving singing of heroic/deity ballads, percussion (such as Dhol-Damau/Hudka), and spiritual/community storytelling",
+      "A commercial bank deposit scheme",
+      "A high-altitude snow leopard"
+    ],
+    "correct_option": 1,
+    "explanation": "Jagar is a deeply rooted cultural-ritual tradition in Uttarakhand featuring oral ballads, traditional percussion, and community participation.",
+    "source_page": 41,
+    "correct_answer": "A traditional ritual/invocation involving singing of heroic/deity ballads, percussion (such as Dhol-Damau/Hudka), and spiritual/community storytelling"
+  },
+  {
+    "id": "q569",
+    "chapter": "Uttarakhand - Society, Culture, Education and Welfare",
+    "topic": "Society and Cultural Heritage",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which traditional musical instruments are closely associated with folk dances, processions, and festivals in Uttarakhand?",
+    "options": [
+      "Scottish bagpipes imported for desert camel fairs",
+      "Steel drums from the Caribbean",
+      "Electric synthesizers only",
+      "Dhol, Damau, Hurka/Hudka, Ranasingha/Bheri, Mashakbeen (bagpipe), and flute/bansuri"
+    ],
+    "correct_option": 3,
+    "explanation": "Dhol, Damau, Hurka, wind horns/pipes, and flutes accompany folk dances like Chholiya, Langvir Nritya, Harul, and Thadiya.",
+    "source_page": 41,
+    "correct_answer": "Dhol, Damau, Hurka/Hudka, Ranasingha/Bheri, Mashakbeen (bagpipe), and flute/bansuri"
+  },
+  {
+    "id": "q570",
+    "chapter": "Uttarakhand - Society, Culture, Education and Welfare",
+    "topic": "Society and Cultural Heritage",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which traditional sword-and-shield dance of Kumaon (also seen in Garhwal/border areas) is performed during marriages and auspicious occasions?",
+    "options": [
+      "Bharatanatyam of Tamil Nadu",
+      "Kuchipudi of Andhra",
+      "Kathakali of Kerala",
+      "Chholiya dance"
+    ],
+    "correct_option": 3,
+    "explanation": "Chholiya is a vibrant martial-inspired folk dance performed with swords and shields accompanied by Dhol and Damau.",
+    "source_page": 41,
+    "correct_answer": "Chholiya dance"
+  },
+  {
+    "id": "q571",
+    "chapter": "Uttarakhand - Society, Culture, Education and Welfare",
+    "topic": "Society and Cultural Heritage",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Which acrobat-like traditional dance of Garhwal involves balancing atop a tall pole while playing musical instruments?",
+    "options": [
+      "Ghoomar",
+      "Bihu",
+      "Garba",
+      "Langvir Nritya"
+    ],
+    "correct_option": 3,
+    "explanation": "Langvir Nritya is a distinctive traditional Garhwali dance performed atop a high wooden pole.",
+    "source_page": 41,
+    "correct_answer": "Langvir Nritya"
+  },
+  {
+    "id": "q572",
+    "chapter": "Uttarakhand - Society, Culture, Education and Welfare",
+    "topic": "Society and Cultural Heritage",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which spring/new-year festival celebrated in Kumaon involves decorating baskets/sprouted grains (Harela seedlings) and celebrating nature/agriculture?",
+    "options": [
+      "Baisakhi wheat harvest in Punjab plains only",
+      "Pongal on coastal beaches",
+      "Phooldei (spring flower festival) and Harela (monsoon/agricultural festival)",
+      "Onam snake boat race"
+    ],
+    "correct_option": 2,
+    "explanation": "Phooldei welcomes spring with flowers and blessings, while Harela celebrates greenery, rains, and agricultural renewal.",
+    "source_page": 42,
+    "correct_answer": "Phooldei (spring flower festival) and Harela (monsoon/agricultural festival)"
+  },
+  {
+    "id": "q573",
+    "chapter": "Uttarakhand - Society, Culture, Education and Welfare",
+    "topic": "Society and Cultural Heritage",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Which winter/Makar Sankranti festival in Kumaon is celebrated with sweet 'Ghughuti' / 'Kale Kauwa' traditions and river confluence fairs?",
+    "options": [
+      "Uttaraini / Makar Sankranti (such as the historic Uttaraini fair at Bageshwar)",
+      "Thrissur Pooram",
+      "Chapchar Kut",
+      "Hemis monastery festival in Ladakh"
+    ],
+    "correct_option": 0,
+    "explanation": "Uttaraini / Makar Sankranti—notably at Bageshwar—is a major cultural, trade, and religious gathering in Uttarakhand.",
+    "source_page": 42,
+    "correct_answer": "Uttaraini / Makar Sankranti (such as the historic Uttaraini fair at Bageshwar)"
+  },
+  {
+    "id": "q574",
+    "chapter": "Uttarakhand - Society, Culture, Education and Welfare",
+    "topic": "Society and Cultural Heritage",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Which major festival/fair is associated with Jaunsar-Bawar (western Dehradun hills) and community gatherings?",
+    "options": [
+      "Rath Yatra of Puri",
+      "Ganesh Chaturthi immersion in Arabian Sea",
+      "Meenakshi temple float festival",
+      "Magh Mela / Bissu / Jagra / Mor / Pahul traditions of Jaunsar-Bawar"
+    ],
+    "correct_option": 3,
+    "explanation": "Jaunsar-Bawar has distinctive festivals, dances (such as Harul/Jada), and community gatherings celebrating heritage and seasons.",
+    "source_page": 42,
+    "correct_answer": "Magh Mela / Bissu / Jagra / Mor / Pahul traditions of Jaunsar-Bawar"
+  },
+  {
+    "id": "q575",
+    "chapter": "Uttarakhand - Society, Culture, Education and Welfare",
+    "topic": "Society and Cultural Heritage",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which traditional foods/dishes are characteristic of Uttarakhand's cuisine?",
+    "options": [
+      "Masala dosa and sambar",
+      "Biryani and Haleem",
+      "Kafuli, Chainsoo, Bhang ki Chutney, Dubuk, Mandua/Koda (finger millet) roti, and Bal Mithai / Singori",
+      "Dhokla and khakhra"
+    ],
+    "correct_option": 2,
+    "explanation": "Traditional dishes like Kafuli, Chainsoo, Mandua roti, Bhang chutney, and sweets like Bal Mithai/Singori reflect local crops and culinary heritage.",
+    "source_page": 42,
+    "correct_answer": "Kafuli, Chainsoo, Bhang ki Chutney, Dubuk, Mandua/Koda (finger millet) roti, and Bal Mithai / Singori"
+  },
+  {
+    "id": "q576",
+    "chapter": "Uttarakhand - Society, Culture, Education and Welfare",
+    "topic": "Society and Cultural Heritage",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Why are traditional millets like Mandua (finger millet) and Jhangora (barnyard millet) culturally and nutritionally significant in Uttarakhand?",
+    "options": [
+      "They grow only in tropical coastal swamps",
+      "They are drought-resilient hill crops rich in micronutrients/fiber, central to traditional diets, food security, and millet promotion initiatives",
+      "They require continuous flooding like paddy",
+      "They have zero nutritional value"
+    ],
+    "correct_option": 1,
+    "explanation": "Mandua and Jhangora thrive on rainfed hill slopes and offer high nutritional value alongside cultural familiarity.",
+    "source_page": 42,
+    "correct_answer": "They are drought-resilient hill crops rich in micronutrients/fiber, central to traditional diets, food security, and millet promotion initiatives"
+  },
+  {
+    "id": "q577",
+    "chapter": "Uttarakhand - Society, Culture, Education and Welfare",
+    "topic": "Society and Cultural Heritage",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which Scheduled Tribes inhabit parts of Uttarakhand (such as the Tarai/Bhabar plains and northern/border hill valleys)?",
+    "options": [
+      "Toda and Kota of Nilgiris",
+      "Sentinelese and Jarawa",
+      "Tharu, Buksa, Bhotiya, Jaunsari, and Raji",
+      "Bhil and Gond of central India"
+    ],
+    "correct_option": 2,
+    "explanation": "Tharu, Buksa, Bhotiya, Jaunsari, and Raji are the recognized Scheduled Tribes of Uttarakhand, each with rich customs and livelihoods.",
+    "source_page": 41,
+    "correct_answer": "Tharu, Buksa, Bhotiya, Jaunsari, and Raji"
+  },
+  {
+    "id": "q578",
+    "chapter": "Uttarakhand - Society, Culture, Education and Welfare",
+    "topic": "Society and Cultural Heritage",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "In which part of Uttarakhand do the Tharu and Buksa communities traditionally reside?",
+    "options": [
+      "Offshore islands",
+      "Southern Tarai and Bhabar belts (such as Udham Singh Nagar and nearby foothill areas)",
+      "Trans-Himalayan glaciers",
+      "High snow-covered peaks above 4,500 m"
+    ],
+    "correct_option": 1,
+    "explanation": "Tharu and Buksa communities have long inhabited the Tarai and Bhabar belts of Uttarakhand.",
+    "source_page": 41,
+    "correct_answer": "Southern Tarai and Bhabar belts (such as Udham Singh Nagar and nearby foothill areas)"
+  },
+  {
+    "id": "q579",
+    "chapter": "Uttarakhand - Society, Culture, Education and Welfare",
+    "topic": "Society and Cultural Heritage",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Which traditional community/group in Uttarakhand historically practiced seasonal transhumance and high-valley trade/pastoralism across northern valleys?",
+    "options": [
+      "Coastal fishermen of Konkan",
+      "Desert camel herders of Jaisalmer",
+      "Bhotiya communities (in upper valleys of Pithoragarh, Chamoli, and Uttarkashi)",
+      "Tea plantation workers of Assam"
+    ],
+    "correct_option": 2,
+    "explanation": "Bhotiya communities in northern valleys of Uttarakhand have rich traditions of high-altitude pastoralism, trade, and woolen craft.",
+    "source_page": 41,
+    "correct_answer": "Bhotiya communities (in upper valleys of Pithoragarh, Chamoli, and Uttarkashi)"
+  },
+  {
+    "id": "q580",
+    "chapter": "Uttarakhand - Society, Culture, Education and Welfare",
+    "topic": "Society and Cultural Heritage",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Why is preserving folk songs, oral history, and local dialects important for Uttarakhand?",
+    "options": [
+      "They prevent children from learning Hindi or English",
+      "They carry indigenous ecological knowledge, community memory, and cultural identity across generations",
+      "They have no historical value",
+      "They replace all scientific education"
+    ],
+    "correct_option": 1,
+    "explanation": "Oral traditions and regional languages preserve local wisdom, seasonal calendars, and shared heritage.",
+    "source_page": 41,
+    "correct_answer": "They carry indigenous ecological knowledge, community memory, and cultural identity across generations"
+  },
+  {
+    "id": "q581",
+    "chapter": "Uttarakhand - Society, Culture, Education and Welfare",
+    "topic": "Education and Institutions",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Why is improving access and quality in school and higher education especially important in Uttarakhand's hill districts?",
+    "options": [
+      "To bridge rural-urban and hill-plain gaps, reduce out-migration for studies, and build human capital and employability locally",
+      "To limit education to only one city",
+      "To close colleges in interior towns",
+      "Because hill villages have no need for schools"
+    ],
+    "correct_option": 0,
+    "explanation": "Accessible, quality schools and colleges in hill blocks help youth pursue higher learning and careers closer to home.",
+    "source_page": 43,
+    "correct_answer": "To bridge rural-urban and hill-plain gaps, reduce out-migration for studies, and build human capital and employability locally"
+  },
+  {
+    "id": "q582",
+    "chapter": "Uttarakhand - Society, Culture, Education and Welfare",
+    "topic": "Education and Institutions",
+    "difficulty": "easy",
+    "type": "direct",
+    "question": "Which premier engineering institute in Uttarakhand is one of India's oldest technical institutions (established in 1847 as Thomason College of Civil Engineering)?",
+    "options": [
+      "IIT Roorkee (Indian Institute of Technology Roorkee)",
+      "IIM Ahmedabad",
+      "NIFT Mumbai",
+      "AIIMS New Delhi"
+    ],
+    "correct_option": 0,
+    "explanation": "IIT Roorkee traces its roots to 1847 and is a flagship engineering and research institution in Uttarakhand.",
+    "source_page": 43,
+    "correct_answer": "IIT Roorkee (Indian Institute of Technology Roorkee)"
+  },
+  {
+    "id": "q583",
+    "chapter": "Uttarakhand - Society, Culture, Education and Welfare",
+    "topic": "Education and Institutions",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which premier agricultural university is located in Udham Singh Nagar district of Uttarakhand?",
+    "options": [
+      "Punjab Agricultural University",
+      "Govind Ballabh Pant University of Agriculture and Technology (GBPUAT), Pantnagar",
+      "Kerala Agricultural University",
+      "Tamil Nadu Agricultural University"
+    ],
+    "correct_option": 1,
+    "explanation": "GBPUAT at Pantnagar is a pioneering agricultural university in India and a major center for crop, soil, and rural research in Uttarakhand.",
+    "source_page": 43,
+    "correct_answer": "Govind Ballabh Pant University of Agriculture and Technology (GBPUAT), Pantnagar"
+  },
+  {
+    "id": "q584",
+    "chapter": "Uttarakhand - Society, Culture, Education and Welfare",
+    "topic": "Education and Institutions",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which central university with campuses in Srinagar (Pauri), Tehri, and Pauri serves higher education in the Garhwal region?",
+    "options": [
+      "Osmania University",
+      "Hemvati Nandan Bahuguna Garhwal University (HNBGU)",
+      "University of Mumbai",
+      "Calcutta University"
+    ],
+    "correct_option": 1,
+    "explanation": "HNB Garhwal University is a central university headquartered in Srinagar (Garhwal) with campuses across the region.",
+    "source_page": 43,
+    "correct_answer": "Hemvati Nandan Bahuguna Garhwal University (HNBGU)"
+  },
+  {
+    "id": "q585",
+    "chapter": "Uttarakhand - Society, Culture, Education and Welfare",
+    "topic": "Education and Institutions",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which state university serves higher education across the Kumaon region (headquartered in Nainital)?",
+    "options": [
+      "Kumaun University",
+      "Gauhati University",
+      "Madras University",
+      "Pune University"
+    ],
+    "correct_option": 0,
+    "explanation": "Kumaun University (headquartered in Nainital) is a major university serving higher education and research in Kumaon.",
+    "source_page": 43,
+    "correct_answer": "Kumaun University"
+  },
+  {
+    "id": "q586",
+    "chapter": "Uttarakhand - Society, Culture, Education and Welfare",
+    "topic": "Education and Institutions",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Which renowned forestry and environmental research institute is located in Dehradun?",
+    "options": [
+      "FRI (Forest Research Institute) / ICFRE",
+      "Central Salt and Marine Chemicals Research Institute",
+      "Indian Institute of Tropical Meteorology Pune",
+      "Central Rice Research Institute Cuttack"
+    ],
+    "correct_option": 0,
+    "explanation": "The Forest Research Institute (FRI) in Dehradun is a landmark institution for forestry research, conservation, and training.",
+    "source_page": 43,
+    "correct_answer": "FRI (Forest Research Institute) / ICFRE"
+  },
+  {
+    "id": "q587",
+    "chapter": "Uttarakhand - Society, Culture, Education and Welfare",
+    "topic": "Education and Institutions",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Which premier wildlife research and training institution is located in Dehradun?",
+    "options": [
+      "National Dairy Research Institute Karnal",
+      "WII (Wildlife Institute of India)",
+      "Central Potato Research Institute Shimla",
+      "Central Institute of Fisheries Technology Kochi"
+    ],
+    "correct_option": 1,
+    "explanation": "The Wildlife Institute of India (WII) in Dehradun conducts wildlife research, protected area management, and conservation training.",
+    "source_page": 43,
+    "correct_answer": "WII (Wildlife Institute of India)"
+  },
+  {
+    "id": "q588",
+    "chapter": "Uttarakhand - Society, Culture, Education and Welfare",
+    "topic": "Education and Institutions",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Which premier survey/cartographic institute of India has its headquarters/major presence in Dehradun?",
+    "options": [
+      "Survey of India",
+      "Central Water Commission HQ in Maldives",
+      "Indian Meteorological Department HQ in London",
+      "Geological Survey of India HQ in Antarctica"
+    ],
+    "correct_option": 0,
+    "explanation": "The Survey of India has long been based in Dehradun, playing a foundational role in mapping and geospatial data.",
+    "source_page": 43,
+    "correct_answer": "Survey of India"
+  },
+  {
+    "id": "q589",
+    "chapter": "Uttarakhand - Society, Culture, Education and Welfare",
+    "topic": "Education and Institutions",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Which institute in Uttarakhand focuses on Himalayan ecology and mountain environment research (headquartered near Almora/Kosi-Katarmal)?",
+    "options": [
+      "G.B. Pant National Institute of Himalayan Environment (NIHE)",
+      "Indian Institute of Sugarcane Research",
+      "Central Marine Fisheries Research Institute",
+      "National Institute of Ocean Technology Chennai"
+    ],
+    "correct_option": 0,
+    "explanation": "G.B. Pant National Institute of Himalayan Environment conducts research on mountain ecology, watersheds, biodiversity, and sustainable hill development.",
+    "source_page": 43,
+    "correct_answer": "G.B. Pant National Institute of Himalayan Environment (NIHE)"
+  },
+  {
+    "id": "q590",
+    "chapter": "Uttarakhand - Society, Culture, Education and Welfare",
+    "topic": "Education and Institutions",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which premier medical institute (AIIMS) operates in Uttarakhand to provide advanced healthcare and medical education?",
+    "options": [
+      "AIIMS Bhopal",
+      "AIIMS Bhubaneswar",
+      "AIIMS Jodhpur",
+      "AIIMS Rishikesh"
+    ],
+    "correct_option": 3,
+    "explanation": "AIIMS Rishikesh serves as a major tertiary healthcare referral center and medical education institution in Uttarakhand.",
+    "source_page": 43,
+    "correct_answer": "AIIMS Rishikesh"
+  },
+  {
+    "id": "q591",
+    "chapter": "Uttarakhand - Society, Culture, Education and Welfare",
+    "topic": "Education and Institutions",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "What challenges do remote hill schools often face in Uttarakhand?",
+    "options": [
+      "Zero winter weather anywhere",
+      "Too few students in every city",
+      "Teacher vacancies/transfers in interior blocks, long walking distances for students, winter/monsoon access issues, and lab/digital infrastructure gaps",
+      "Excessive flat land in every village"
+    ],
+    "correct_option": 2,
+    "explanation": "Teacher deployment in remote hills, difficult terrain, and infrastructure gaps are key focus areas for school education reform.",
+    "source_page": 43,
+    "correct_answer": "Teacher vacancies/transfers in interior blocks, long walking distances for students, winter/monsoon access issues, and lab/digital infrastructure gaps"
+  },
+  {
+    "id": "q592",
+    "chapter": "Uttarakhand - Society, Culture, Education and Welfare",
+    "topic": "Education and Institutions",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Which institution in Dehradun is associated with Himalayan geology and earth sciences research?",
+    "options": [
+      "Wadia Institute of Himalayan Geology (WIHG)",
+      "National Institute of Nutrition Hyderabad",
+      "Central Institute of Medicinal and Aromatic Plants Lucknow",
+      "National Institute of Wind Energy"
+    ],
+    "correct_option": 0,
+    "explanation": "The Wadia Institute of Himalayan Geology in Dehradun researches Himalayan tectonics, glaciers, earthquakes, and mountain geology.",
+    "source_page": 43,
+    "correct_answer": "Wadia Institute of Himalayan Geology (WIHG)"
+  },
+  {
+    "id": "q593",
+    "chapter": "Uttarakhand - Society, Culture, Education and Welfare",
+    "topic": "Health, Welfare and Social Inclusion",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "What are key healthcare challenges in Uttarakhand's interior hill districts?",
+    "options": [
+      "Complete absence of mountain roads",
+      "Zero need for primary health centers",
+      "Excessive specialist hospitals in every hamlet",
+      "Long travel times to hospitals/specialists, retaining doctors/nurses in remote areas, emergency transport during bad weather, and maternal/child health access"
+    ],
+    "correct_option": 3,
+    "explanation": "Expanding primary/community health centers, specialist availability, emergency referrals, and telemedicine helps address hill healthcare gaps.",
+    "source_page": 44,
+    "correct_answer": "Long travel times to hospitals/specialists, retaining doctors/nurses in remote areas, emergency transport during bad weather, and maternal/child health access"
+  },
+  {
+    "id": "q594",
+    "chapter": "Uttarakhand - Society, Culture, Education and Welfare",
+    "topic": "Health, Welfare and Social Inclusion",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "How do '108' emergency ambulance services and telemedicine support healthcare in Uttarakhand?",
+    "options": [
+      "They provide rapid emergency medical response/transport and connect remote patients with doctors without long travel",
+      "They deliver only postal parcels",
+      "They replace all hospitals with schools",
+      "They operate only in summer"
+    ],
+    "correct_option": 0,
+    "explanation": "Emergency ambulance networks and telemedicine reduce critical delays in medical emergencies and routine consultations.",
+    "source_page": 44,
+    "correct_answer": "They provide rapid emergency medical response/transport and connect remote patients with doctors without long travel"
+  },
+  {
+    "id": "q595",
+    "chapter": "Uttarakhand - Society, Culture, Education and Welfare",
+    "topic": "Health, Welfare and Social Inclusion",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Why are women's Self-Help Groups (SHGs) and Mahila Mangal Dals particularly active and influential in Uttarakhand's villages?",
+    "options": [
+      "Hill women shoulder major agricultural, livestock, water, and household responsibilities, making SHGs and community groups vital for livelihoods, savings, and local action",
+      "SHGs only operate in factories",
+      "Women do not participate in rural life in Uttarakhand",
+      "Villages have no community institutions"
+    ],
+    "correct_option": 0,
+    "explanation": "Women's SHGs and village groups drive micro-enterprises, credit/thrift, forest/water stewardship, and social solidarity in Uttarakhand.",
+    "source_page": 44,
+    "correct_answer": "Hill women shoulder major agricultural, livestock, water, and household responsibilities, making SHGs and community groups vital for livelihoods, savings, and local action"
+  },
+  {
+    "id": "q596",
+    "chapter": "Uttarakhand - Society, Culture, Education and Welfare",
+    "topic": "Health, Welfare and Social Inclusion",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "What is a major socio-economic challenge in Uttarakhand's hill districts that welfare, livelihood, and infrastructure programs aim to address?",
+    "options": [
+      "Out-migration ('Palayan') from hill villages due to limited local jobs, farming constraints, and access gaps in health/education",
+      "Absence of any urban centers",
+      "Excessive job surpluses in every remote village",
+      "Overabundance of flat irrigable land on steep cliffs"
+    ],
+    "correct_option": 0,
+    "explanation": "Addressing out-migration involves strengthening local livelihoods (agro/horticulture, homestays, crafts, MSMEs) alongside health, education, and connectivity.",
+    "source_page": 44,
+    "correct_answer": "Out-migration ('Palayan') from hill villages due to limited local jobs, farming constraints, and access gaps in health/education"
+  },
+  {
+    "id": "q597",
+    "chapter": "Uttarakhand - Society, Culture, Education and Welfare",
+    "topic": "Health, Welfare and Social Inclusion",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which social groups receive targeted welfare, scholarship, housing, or livelihood support under state and central schemes in Uttarakhand?",
+    "options": [
+      "Only residents outside India",
+      "None of the above",
+      "Scheduled Castes (SC), Scheduled Tribes (ST), OBCs, women, senior citizens, persons with disabilities, and economically weaker households",
+      "Only multinational corporations"
+    ],
+    "correct_option": 2,
+    "explanation": "Inclusive welfare programs support vulnerable households, tribal/SC/OBC communities, women, elderly citizens, and youth.",
+    "source_page": 44,
+    "correct_answer": "Scheduled Castes (SC), Scheduled Tribes (ST), OBCs, women, senior citizens, persons with disabilities, and economically weaker households"
+  },
+  {
+    "id": "q598",
+    "chapter": "Uttarakhand - Society, Culture, Education and Welfare",
+    "topic": "Health, Welfare and Social Inclusion",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "How does social security/pension support (such as old-age, widow, and disability pensions) help rural households in Uttarakhand?",
+    "options": [
+      "It provides a regular income safety net for vulnerable individuals, especially where younger family members work away from home",
+      "It applies only to industrial owners",
+      "It replaces all schools",
+      "It eliminates all need for healthcare"
+    ],
+    "correct_option": 0,
+    "explanation": "Direct social security transfers help elderly, widowed, and differently-abled residents meet basic daily needs.",
+    "source_page": 44,
+    "correct_answer": "It provides a regular income safety net for vulnerable individuals, especially where younger family members work away from home"
+  },
+  {
+    "id": "q599",
+    "chapter": "Uttarakhand - Society, Culture, Education and Welfare",
+    "topic": "Health, Welfare and Social Inclusion",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "What is the role of Panchayati Raj Institutions (Gram Panchayats, Kshetra Panchayats, Zila Panchayats) in local governance and welfare?",
+    "options": [
+      "Printing national currency notes",
+      "Grassroots planning, implementation/monitoring of local development/welfare schemes, and community participation",
+      "Commanding naval fleets",
+      "Negotiating international treaties"
+    ],
+    "correct_option": 1,
+    "explanation": "Panchayati Raj bodies anchor decentralized governance and local service delivery across rural Uttarakhand.",
+    "source_page": 44,
+    "correct_answer": "Grassroots planning, implementation/monitoring of local development/welfare schemes, and community participation"
+  },
+  {
+    "id": "q600",
+    "chapter": "Uttarakhand - Society, Culture, Education and Welfare",
+    "topic": "Health, Welfare and Social Inclusion",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Why is disaster preparedness and community resilience closely linked to social welfare in Uttarakhand?",
+    "options": [
+      "Community readiness has no impact on safety",
+      "Relief is never needed in mountain areas",
+      "Landslides, cloudbursts, floods, and earthquakes disproportionately affect vulnerable hill communities, requiring early warning, safe shelters, and rapid relief/rehabilitation",
+      "Disasters only happen in deserts"
+    ],
+    "correct_option": 2,
+    "explanation": "Disaster resilience combines hazard mapping, early warnings, safer construction, and timely social/livelihood recovery.",
+    "source_page": 44,
+    "correct_answer": "Landslides, cloudbursts, floods, and earthquakes disproportionately affect vulnerable hill communities, requiring early warning, safe shelters, and rapid relief/rehabilitation"
+  },
+  {
+    "id": "q601",
+    "chapter": "Uttarakhand - Society, Culture, Education and Welfare",
+    "topic": "Health, Welfare and Social Inclusion",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "How can skill training and self-employment programs benefit youth in Uttarakhand?",
+    "options": [
+      "By discouraging entrepreneurship",
+      "By closing vocational centers",
+      "By preparing youth for jobs in tourism/hospitality, healthcare, IT/services, trades, and local enterprises",
+      "By restricting youth to a single occupation"
+    ],
+    "correct_option": 2,
+    "explanation": "Vocational and skill programs expand career options in growing service, craft, and enterprise sectors.",
+    "source_page": 44,
+    "correct_answer": "By preparing youth for jobs in tourism/hospitality, healthcare, IT/services, trades, and local enterprises"
+  },
+  {
+    "id": "q602",
+    "chapter": "Uttarakhand - Society, Culture, Education and Welfare",
+    "topic": "Health, Welfare and Social Inclusion",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Which historic/civic ethos of environmental and community stewardship has strong roots in Uttarakhand's social history?",
+    "options": [
+      "Ignoring community water sources",
+      "Clearing all forests for concrete",
+      "Private enclosure of all springs",
+      "Community conservation movements (such as Chipko and forest/water protection traditions) rooted in local dependence on forests and springs"
+    ],
+    "correct_option": 3,
+    "explanation": "Uttarakhand has a strong legacy of grassroots environmental and community movements where local people protect forests and natural resources.",
+    "source_page": 44,
+    "correct_answer": "Community conservation movements (such as Chipko and forest/water protection traditions) rooted in local dependence on forests and springs"
+  },
+  {
+    "id": "q603",
+    "chapter": "Uttarakhand - Society, Culture, Education and Welfare",
+    "topic": "Health, Welfare and Social Inclusion",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "How does nutrition and maternal/child health support strengthen long-term human development in Uttarakhand?",
+    "options": [
+      "Maternal care only applies in mega-cities",
+      "Nutrition has no link to child growth or schooling",
+      "Health programs only matter after age 80",
+      "Healthy mothers and well-nourished children have better survival, learning outcomes, and lifelong productivity"
+    ],
+    "correct_option": 3,
+    "explanation": "Maternal health, immunization, and nutrition form the foundation for healthy families and capable future citizens.",
+    "source_page": 44,
+    "correct_answer": "Healthy mothers and well-nourished children have better survival, learning outcomes, and lifelong productivity"
+  },
+  {
+    "id": "q604",
+    "chapter": "Uttarakhand - Society, Culture, Education and Welfare",
+    "topic": "Health, Welfare and Social Inclusion",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "What is the overarching goal of combining cultural preservation, quality education, healthcare, and inclusive welfare in Uttarakhand?",
+    "options": [
+      "Ignoring environmental limits",
+      "Concentrating all benefits in one neighborhood",
+      "Achieving equitable, resilient, and sustainable well-being where cultural identity and ecological health thrive alongside opportunity",
+      "Eradicating regional culture and languages"
+    ],
+    "correct_option": 2,
+    "explanation": "Holistic human development in Uttarakhand pairs cultural vitality, education, health, and welfare with ecological sustainability.",
+    "source_page": 44,
+    "correct_answer": "Achieving equitable, resilient, and sustainable well-being where cultural identity and ecological health thrive alongside opportunity"
   }
 ]
