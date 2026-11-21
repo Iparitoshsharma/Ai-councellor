@@ -8231,5 +8231,941 @@
     "correct_answer": "Raising farmer incomes, improving irrigation/market access, promoting high-value/millets/organic crops, and curbing out-migration",
     "explanation": "Strengthening irrigation, market linkages, value addition, and climate-resilient crops helps make farming more viable and curb distress migration.",
     "source_page": 32
+  },
+  {
+    "id": "q457",
+    "chapter": "Uttarakhand - Mineral Resources, Industries and Energy",
+    "topic": "Mineral Resources",
+    "difficulty": "easy",
+    "type": "direct",
+    "question": "Which mineral is Uttarakhand especially well known for producing in large quantities, particularly in districts like Pithoragarh and Bageshwar?",
+    "options": [
+      "Anthracite coal seams",
+      "Magnesite",
+      "Crude petroleum",
+      "Gold bullion"
+    ],
+    "correct_option": 1,
+    "correct_answer": "Magnesite",
+    "explanation": "Uttarakhand holds notable magnesite reserves/production, especially in parts of Kumaon such as Pithoragarh and Bageshwar.",
+    "source_page": 33
+  },
+  {
+    "id": "q458",
+    "chapter": "Uttarakhand - Mineral Resources, Industries and Energy",
+    "topic": "Mineral Resources",
+    "difficulty": "easy",
+    "type": "direct",
+    "question": "Which soft mineral (used in cosmetics, ceramics, paper, paints, and rubber) is mined in substantial quantities in Uttarakhand, including Bageshwar and Pithoragarh?",
+    "options": [
+      "Potash salt",
+      "Diamond",
+      "Bauxite laterite",
+      "Soapstone (Steatite / Talc)"
+    ],
+    "correct_option": 3,
+    "correct_answer": "Soapstone (Steatite / Talc)",
+    "explanation": "Soapstone (steatite/talc) is an important mineral mined in Uttarakhand's hill districts, notably around Bageshwar and Pithoragarh.",
+    "source_page": 33
+  },
+  {
+    "id": "q459",
+    "chapter": "Uttarakhand - Mineral Resources, Industries and Energy",
+    "topic": "Mineral Resources",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which carbonate rock/mineral is widely found in Uttarakhand's Lesser Himalayan and foothill belts and used in cement, lime, and construction?",
+    "options": [
+      "Rock salt",
+      "Pitchblende (uranium ore)",
+      "Limestone",
+      "Kaolin marine clay only"
+    ],
+    "correct_option": 2,
+    "correct_answer": "Limestone",
+    "explanation": "Limestone occurs extensively in Uttarakhand's geological belts (such as Dehradun/Mussoorie, Pithoragarh, and Nainital/Almora zones) and supports cement and construction.",
+    "source_page": 33
+  },
+  {
+    "id": "q460",
+    "chapter": "Uttarakhand - Mineral Resources, Industries and Energy",
+    "topic": "Mineral Resources",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which mineral associated with limestone/dolomite belts is used in refractories, glass, and steel/flux applications?",
+    "options": [
+      "Mica books of pegmatite",
+      "Lignite coal",
+      "Bitumen tar sands",
+      "Dolomite"
+    ],
+    "correct_option": 3,
+    "correct_answer": "Dolomite",
+    "explanation": "Dolomite occurs alongside carbonate sequences in Uttarakhand and has industrial and refractory uses.",
+    "source_page": 33
+  },
+  {
+    "id": "q461",
+    "chapter": "Uttarakhand - Mineral Resources, Industries and Energy",
+    "topic": "Mineral Resources",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which mineral/stone used for construction, slabs, and roofing/masonry is quarried in various hill areas of Uttarakhand?",
+    "options": [
+      "Coral limestone",
+      "Slate and building stone / quartzite",
+      "Basalt lava tubes",
+      "Permafrost ice"
+    ],
+    "correct_option": 1,
+    "correct_answer": "Slate and building stone / quartzite",
+    "explanation": "Slate and building stones are quarried in hill districts of Uttarakhand for local construction and roofing.",
+    "source_page": 33
+  },
+  {
+    "id": "q462",
+    "chapter": "Uttarakhand - Mineral Resources, Industries and Energy",
+    "topic": "Mineral Resources",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Which mineral used in chemical, fertilizer, cement, and industrial applications is recorded in occurrences such as around Dehradun/Mussoorie and parts of Garhwal/Kumaon?",
+    "options": [
+      "Uranium oxide",
+      "Platinum nuggets",
+      "Rock phosphate (phosphorite)",
+      "Heavy mineral beach sand"
+    ],
+    "correct_option": 2,
+    "correct_answer": "Rock phosphate (phosphorite)",
+    "explanation": "Rock phosphate deposits occur in parts of Uttarakhand (such as the Mussoorie/Dehradun syncline belt) and are used for phosphatic fertilizers.",
+    "source_page": 33
+  },
+  {
+    "id": "q463",
+    "chapter": "Uttarakhand - Mineral Resources, Industries and Energy",
+    "topic": "Mineral Resources",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Which mineral/industrial material is found in association with gypsum/anhydrite or evaporite/hill occurrences in parts of Uttarakhand?",
+    "options": [
+      "Gypsum",
+      "Bauxite",
+      "Coking coal",
+      "Diamondiferous kimberlite"
+    ],
+    "correct_option": 0,
+    "correct_answer": "Gypsum",
+    "explanation": "Gypsum occurrences are noted in select pockets of Uttarakhand (such as parts of Garhwal/Dehradun/Tehri belts).",
+    "source_page": 33
+  },
+  {
+    "id": "q464",
+    "chapter": "Uttarakhand - Mineral Resources, Industries and Energy",
+    "topic": "Mineral Resources",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Why must mining and quarrying in Uttarakhand be strictly regulated compared to flat non-seismic plains?",
+    "options": [
+      "Quarrying increases groundwater recharge automatically",
+      "Mining in the Himalayas creates flat agricultural plains everywhere",
+      "Steep slopes, landslide vulnerability, seismic sensitivity, fragile catchments, and forest/water protection require careful environmental safeguards",
+      "Himalayan rocks have no erosion risk at all"
+    ],
+    "correct_option": 2,
+    "correct_answer": "Steep slopes, landslide vulnerability, seismic sensitivity, fragile catchments, and forest/water protection require careful environmental safeguards",
+    "explanation": "Unregulated quarrying/mining on steep Himalayan slopes can trigger landslides, silt rivers, damage forests, and destabilize local ecology.",
+    "source_page": 33
+  },
+  {
+    "id": "q465",
+    "chapter": "Uttarakhand - Mineral Resources, Industries and Energy",
+    "topic": "Mineral Resources",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Which minor mineral extracted from riverbeds/foothills is widely used in road and building construction in Uttarakhand?",
+    "options": [
+      "Raw bauxite",
+      "Sand, gravel, and boulders (RBM — River Bed Material)",
+      "Liquid helium",
+      "Marine salt"
+    ],
+    "correct_option": 1,
+    "correct_answer": "Sand, gravel, and boulders (RBM — River Bed Material)",
+    "explanation": "Riverbed materials (sand, gravel, boulders) are key minor minerals for construction, though extraction must be balanced with riverbed stability and flood/erosion control.",
+    "source_page": 33
+  },
+  {
+    "id": "q466",
+    "chapter": "Uttarakhand - Mineral Resources, Industries and Energy",
+    "topic": "Mineral Resources",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Which mineral occurrence is associated with copper/polymetallic mineralization in parts of Kumaon/Garhwal (such as around Askot/Pithoragarh)?",
+    "options": [
+      "Copper / base-metal / sulphide mineralization (such as near Askot)",
+      "Anthracite coal",
+      "Oil shale",
+      "Evaporite potash"
+    ],
+    "correct_option": 0,
+    "correct_answer": "Copper / base-metal / sulphide mineralization (such as near Askot)",
+    "explanation": "Polymetallic/base-metal mineralization including copper has been identified in parts of Pithoragarh (such as the Askot area).",
+    "source_page": 33
+  },
+  {
+    "id": "q467",
+    "chapter": "Uttarakhand - Mineral Resources, Industries and Energy",
+    "topic": "Mineral Resources",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Why are large-scale metallic/fossil-fuel mineral extraction hubs generally less prominent in Uttarakhand than in central/eastern Indian mineral belts?",
+    "options": [
+      "Mountain terrain, forest/ecological sensitivity, and localized/scattered mineral deposits rather than vast Gondwana coal or shield iron/bauxite belts",
+      "Metallic minerals cannot exist in India",
+      "Lack of any rocks in the state",
+      "Uttarakhand is located on an oceanic trench"
+    ],
+    "correct_option": 0,
+    "correct_answer": "Mountain terrain, forest/ecological sensitivity, and localized/scattered mineral deposits rather than vast Gondwana coal or shield iron/bauxite belts",
+    "explanation": "Uttarakhand's geology consists mainly of Himalayan sedimentary/metamorphic formations with scattered/localized deposits rather than extensive coal or Gondwana shield ore belts.",
+    "source_page": 33
+  },
+  {
+    "id": "q468",
+    "chapter": "Uttarakhand - Mineral Resources, Industries and Energy",
+    "topic": "Mineral Resources",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "What is a major environmental impact of unmanaged soapstone or limestone quarrying on hill slopes in Uttarakhand?",
+    "options": [
+      "Creation of new alpine glaciers",
+      "Automatic reforestation of bare cliffs",
+      "Slope destabilization, dust pollution, loss of vegetation/soil cover, and siltation of streams/springs",
+      "Elimination of monsoon rainfall"
+    ],
+    "correct_option": 2,
+    "correct_answer": "Slope destabilization, dust pollution, loss of vegetation/soil cover, and siltation of streams/springs",
+    "explanation": "Improper hill quarrying strips vegetation, generates dust/debris, increases landslide risk, and silts local water sources.",
+    "source_page": 33
+  },
+  {
+    "id": "q469",
+    "chapter": "Uttarakhand - Mineral Resources, Industries and Energy",
+    "topic": "Mineral Resources",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which two Kumaon districts are especially prominent for soapstone and magnesite mining in Uttarakhand?",
+    "options": [
+      "Bageshwar and Pithoragarh",
+      "Haridwar and Udham Singh Nagar",
+      "Dehradun plains and Roorkee",
+      "None of the hill districts"
+    ],
+    "correct_option": 0,
+    "correct_answer": "Bageshwar and Pithoragarh",
+    "explanation": "Bageshwar and Pithoragarh are key centers for soapstone and magnesite extraction in Uttarakhand.",
+    "source_page": 33
+  },
+  {
+    "id": "q470",
+    "chapter": "Uttarakhand - Mineral Resources, Industries and Energy",
+    "topic": "Mineral Resources",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Which institution/department in Uttarakhand oversees mineral administration, royalty/mining permits, and geological exploration?",
+    "options": [
+      "Civil Aviation Directorate",
+      "State Directorate of Geology and Mining (Department of Industries / Mining)",
+      "Indian Space Research Organisation",
+      "Central Marine Fisheries Research Institute"
+    ],
+    "correct_option": 1,
+    "correct_answer": "State Directorate of Geology and Mining (Department of Industries / Mining)",
+    "explanation": "Mineral exploration, leasing, and regulation in the state fall under geology and mining administration alongside environmental clearances.",
+    "source_page": 33
+  },
+  {
+    "id": "q471",
+    "chapter": "Uttarakhand - Mineral Resources, Industries and Energy",
+    "topic": "Mineral Resources",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which industrial mineral is primarily used as a refractory material able to withstand high temperatures?",
+    "options": [
+      "Peat moss",
+      "Magnesite",
+      "Table salt",
+      "Paraffin wax"
+    ],
+    "correct_option": 1,
+    "correct_answer": "Magnesite",
+    "explanation": "Magnesite (magnesium carbonate) is widely used in refractory bricks and linings for high-temperature furnaces.",
+    "source_page": 33
+  },
+  {
+    "id": "q472",
+    "chapter": "Uttarakhand - Mineral Resources, Industries and Energy",
+    "topic": "Mineral Resources",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "How does responsible/sustainable mining practice help in Uttarakhand?",
+    "options": [
+      "It balances economic raw-material needs with slope stability, reclamation, water protection, and local safety",
+      "It removes all topsoil permanently",
+      "It diverts all rivers into mines",
+      "It ignores all safety and environmental rules"
+    ],
+    "correct_option": 0,
+    "correct_answer": "It balances economic raw-material needs with slope stability, reclamation, water protection, and local safety",
+    "explanation": "Sustainable mining enforces benching, debris management, afforestation/reclamation, and environmental safeguards.",
+    "source_page": 33
+  },
+  {
+    "id": "q473",
+    "chapter": "Uttarakhand - Mineral Resources, Industries and Energy",
+    "topic": "Industries and Industrial Hubs",
+    "difficulty": "easy",
+    "type": "direct",
+    "question": "Which districts/belts in Uttarakhand host the largest concentration of medium and large-scale manufacturing industries?",
+    "options": [
+      "Glacial moraines",
+      "Uninhabited alpine bugyals above 3,800 m",
+      "Plain and foothill/industrial belts such as Udham Singh Nagar (Rudrapur/Pantnagar/Sitarganj/Kashipur), Haridwar (SIDCUL/BHEL), and Dehradun",
+      "High snowbound peaks of Chamoli and Uttarkashi"
+    ],
+    "correct_option": 2,
+    "correct_answer": "Plain and foothill/industrial belts such as Udham Singh Nagar (Rudrapur/Pantnagar/Sitarganj/Kashipur), Haridwar (SIDCUL/BHEL), and Dehradun",
+    "explanation": "Flat land, rail/road connectivity, power/water availability, and market access concentrate large/medium industries in Haridwar, Udham Singh Nagar, and Dehradun.",
+    "source_page": 34
+  },
+  {
+    "id": "q474",
+    "chapter": "Uttarakhand - Mineral Resources, Industries and Energy",
+    "topic": "Industries and Industrial Hubs",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "What does 'SIDCUL' stand for in the context of Uttarakhand's industrial development?",
+    "options": [
+      "State Institute for Digital Culture and Urban Law",
+      "Southern Indian Canal and Dam Union Limited",
+      "Survey of Indian Coasts and Underwater Land",
+      "State Infrastructure and Industrial Development Corporation of Uttarakhand Limited"
+    ],
+    "correct_option": 3,
+    "correct_answer": "State Infrastructure and Industrial Development Corporation of Uttarakhand Limited",
+    "explanation": "SIDCUL is Uttarakhand's flagship agency for developing industrial estates/parks and facilitating industrial investment.",
+    "source_page": 34
+  },
+  {
+    "id": "q475",
+    "chapter": "Uttarakhand - Mineral Resources, Industries and Energy",
+    "topic": "Industries and Industrial Hubs",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which major public-sector heavy electrical engineering enterprise has a prominent unit in Haridwar?",
+    "options": [
+      "HAL (Hindustan Aeronautics Limited) shipyard",
+      "ONGC offshore oil rig",
+      "Mazagon Dock Shipbuilders",
+      "BHEL (Bharat Heavy Electricals Limited)"
+    ],
+    "correct_option": 3,
+    "correct_answer": "BHEL (Bharat Heavy Electricals Limited)",
+    "explanation": "BHEL has a major heavy electrical equipment manufacturing plant in Haridwar.",
+    "source_page": 34
+  },
+  {
+    "id": "q476",
+    "chapter": "Uttarakhand - Mineral Resources, Industries and Energy",
+    "topic": "Industries and Industrial Hubs",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which industrial estate/hub in Udham Singh Nagar district is a well-known automotive, engineering, and manufacturing center?",
+    "options": [
+      "Rudrapur / Pantnagar / Sitarganj / Kashipur industrial belt",
+      "Gangotri glacier base",
+      "Kedarnath ridge",
+      "Mana pass"
+    ],
+    "correct_option": 0,
+    "correct_answer": "Rudrapur / Pantnagar / Sitarganj / Kashipur industrial belt",
+    "explanation": "Rudrapur, Pantnagar, Sitarganj, and Kashipur in Udham Singh Nagar form key industrial nodes in Kumaon.",
+    "source_page": 34
+  },
+  {
+    "id": "q477",
+    "chapter": "Uttarakhand - Mineral Resources, Industries and Energy",
+    "topic": "Industries and Industrial Hubs",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which industrial sectors have a strong presence in Uttarakhand's industrial estates (such as Haridwar, Dehradun, and Udham Singh Nagar)?",
+    "options": [
+      "Tropical spice island plantations only",
+      "Pharmaceuticals, automobiles/auto-components, electronics/electricals, food processing, packaging, and FMCG/consumer goods",
+      "Deep-sea shipbuilding and nuclear submarines",
+      "Desert camel-leather tanning"
+    ],
+    "correct_option": 1,
+    "correct_answer": "Pharmaceuticals, automobiles/auto-components, electronics/electricals, food processing, packaging, and FMCG/consumer goods",
+    "explanation": "Pharma, auto/ancillaries, electrical/electronic goods, food processing, and consumer manufacturing are major industrial pillars in Uttarakhand.",
+    "source_page": 34
+  },
+  {
+    "id": "q478",
+    "chapter": "Uttarakhand - Mineral Resources, Industries and Energy",
+    "topic": "Industries and Industrial Hubs",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Why are large heavy/polluting industries generally concentrated in plain/valley/industrial estates rather than scattered across fragile upper hill slopes?",
+    "options": [
+      "Industries cannot operate near highways",
+      "Plains offer flatter land, better transport/logistics, easier utility supply, and lower ecological/slope fragility than steep upper hills",
+      "Upper hills have surplus flat industrial land",
+      "Upper hill slopes have wider railway lines than the plains"
+    ],
+    "correct_option": 1,
+    "correct_answer": "Plains offer flatter land, better transport/logistics, easier utility supply, and lower ecological/slope fragility than steep upper hills",
+    "explanation": "Topography, transport access, land availability, and environmental fragility favor industrial hubs in plains/foothills/designated estates.",
+    "source_page": 34
+  },
+  {
+    "id": "q479",
+    "chapter": "Uttarakhand - Mineral Resources, Industries and Energy",
+    "topic": "Industries and Industrial Hubs",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "What are cottage, micro, and small industries (MSMEs) especially important for in Uttarakhand's hill districts?",
+    "options": [
+      "Replacing all agriculture with steel mills",
+      "Exporting crude oil from hill streams",
+      "Requiring 10,000-acre factory campuses in every village",
+      "Local employment, utilizing local raw materials/skills (wool, handicrafts, food/fruit processing, wood/bamboo craft), and reducing distress migration"
+    ],
+    "correct_option": 3,
+    "correct_answer": "Local employment, utilizing local raw materials/skills (wool, handicrafts, food/fruit processing, wood/bamboo craft), and reducing distress migration",
+    "explanation": "MSMEs, cottage crafts, and agro/horticulture processing fit hill scale and local resources while generating rural livelihoods.",
+    "source_page": 34
+  },
+  {
+    "id": "q480",
+    "chapter": "Uttarakhand - Mineral Resources, Industries and Energy",
+    "topic": "Industries and Industrial Hubs",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Which traditional craft/product is associated with Kumaon/Almora and artisan metal/bell-metal/copperware traditions in Uttarakhand?",
+    "options": [
+      "Copperware / metalcraft / Aipan folk art and woolens",
+      "Venetian glassblowing",
+      "Dutch wooden clogs",
+      "Polynesian tapa bark cloth"
+    ],
+    "correct_option": 0,
+    "correct_answer": "Copperware / metalcraft / Aipan folk art and woolens",
+    "explanation": "Uttarakhand has rich traditional crafts including copperware/metalwork, Aipan art, Ringaal/bamboo basketry, and handloom woolens.",
+    "source_page": 34
+  },
+  {
+    "id": "q481",
+    "chapter": "Uttarakhand - Mineral Resources, Industries and Energy",
+    "topic": "Industries and Industrial Hubs",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "What is 'Ringaal' craft in Uttarakhand?",
+    "options": [
+      "Traditional basketry, mats, and utility items woven from hill bamboo/cane-like grass (Ringaal)",
+      "A type of coal mining",
+      "A hydroelectric turbine",
+      "A high-altitude glacier"
+    ],
+    "correct_option": 0,
+    "correct_answer": "Traditional basketry, mats, and utility items woven from hill bamboo/cane-like grass (Ringaal)",
+    "explanation": "Ringaal craft uses slender hill bamboo/reed-like stalks to weave baskets, containers, and household articles.",
+    "source_page": 34
+  },
+  {
+    "id": "q482",
+    "chapter": "Uttarakhand - Mineral Resources, Industries and Energy",
+    "topic": "Industries and Industrial Hubs",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Which woolen/handloom tradition is practiced in high/border and hill communities of Uttarakhand (such as Bhotiya/hill weavers)?",
+    "options": [
+      "Synthetic polyester factories only",
+      "Hand-spun and hand-woven woolens (such as blankets, shawls, carpets, and pankhis/thulman)",
+      "Cotton ginning in glaciers",
+      "Silk cocoon farming on icebergs"
+    ],
+    "correct_option": 1,
+    "correct_answer": "Hand-spun and hand-woven woolens (such as blankets, shawls, carpets, and pankhis/thulman)",
+    "explanation": "Woolen weaving and handlooms—including shawls, blankets, and traditional rugs—are key cottage/artisan crafts in Uttarakhand.",
+    "source_page": 34
+  },
+  {
+    "id": "q483",
+    "chapter": "Uttarakhand - Mineral Resources, Industries and Energy",
+    "topic": "Industries and Industrial Hubs",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which traditional ritual/floor/wall art form of Kumaon uses white rice-paste motifs on a red/ochre base?",
+    "options": [
+      "Warli on coastal mud huts only",
+      "Aipan",
+      "Madhubani on palm leaf only",
+      "Tanjore gold foil on wood only"
+    ],
+    "correct_option": 1,
+    "correct_answer": "Aipan",
+    "explanation": "Aipan is a distinctive traditional folk art of Kumaon (Uttarakhand) featuring geometric and auspicious motifs.",
+    "source_page": 34
+  },
+  {
+    "id": "q484",
+    "chapter": "Uttarakhand - Mineral Resources, Industries and Energy",
+    "topic": "Industries and Industrial Hubs",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "How do agro-based and food-processing industries link agriculture with manufacturing in Uttarakhand?",
+    "options": [
+      "They only manufacture heavy cranes",
+      "They process grains/millets, fruits, vegetables, milk, and spices into packaged/value-added goods, reducing wastage and raising farm returns",
+      "They operate exclusively underwater",
+      "They destroy crops before harvest"
+    ],
+    "correct_option": 1,
+    "correct_answer": "They process grains/millets, fruits, vegetables, milk, and spices into packaged/value-added goods, reducing wastage and raising farm returns",
+    "explanation": "Agro and food processing bridges farm output and markets by extending shelf life and adding value to local crops and fruits.",
+    "source_page": 34
+  },
+  {
+    "id": "q485",
+    "chapter": "Uttarakhand - Mineral Resources, Industries and Energy",
+    "topic": "Industries and Industrial Hubs",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "What are key logistical/infrastructure challenges for industrial growth in Uttarakhand's hill districts?",
+    "options": [
+      "Zero seasonal weather variation",
+      "Steep terrain, winding mountain roads/monsoon disruptions, higher transport costs, and smaller local markets",
+      "Excessive sea ports on every mountain ridge",
+      "Too many flat superhighways in every village"
+    ],
+    "correct_option": 1,
+    "correct_answer": "Steep terrain, winding mountain roads/monsoon disruptions, higher transport costs, and smaller local markets",
+    "explanation": "Mountain terrain, higher freight/logistics costs, and vulnerability to road blocks make large-scale manufacturing harder in interior hills than in plains.",
+    "source_page": 34
+  },
+  {
+    "id": "q486",
+    "chapter": "Uttarakhand - Mineral Resources, Industries and Energy",
+    "topic": "Industries and Industrial Hubs",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which town/area in Dehradun district or Haridwar district is a prominent pharmaceutical/industrial hub in Uttarakhand?",
+    "options": [
+      "Pindari zero point",
+      "Selaqui / Dehradun and SIDCUL Haridwar",
+      "Badrinath shrine town",
+      "Milam glacier camp"
+    ],
+    "correct_option": 1,
+    "correct_answer": "Selaqui / Dehradun and SIDCUL Haridwar",
+    "explanation": "Selaqui (Dehradun) and SIDCUL (Haridwar) are major industrial areas hosting pharmaceuticals and manufacturing units.",
+    "source_page": 34
+  },
+  {
+    "id": "q487",
+    "chapter": "Uttarakhand - Mineral Resources, Industries and Energy",
+    "topic": "Industries and Industrial Hubs",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Which traditional wood/stone/artisan craft is supported through state emporiums and craft clusters in Uttarakhand?",
+    "options": [
+      "Handloom woolens, Ringaal bamboo craft, wooden carvings, and local food/herbal products",
+      "Deep-sea oil refining",
+      "Commercial jetliner assembly",
+      "Diamond cutting from Kimberley mines"
+    ],
+    "correct_option": 0,
+    "correct_answer": "Handloom woolens, Ringaal bamboo craft, wooden carvings, and local food/herbal products",
+    "explanation": "State craft clusters and emporiums help market traditional Uttarakhand handicrafts, handlooms, and local products.",
+    "source_page": 34
+  },
+  {
+    "id": "q488",
+    "chapter": "Uttarakhand - Mineral Resources, Industries and Energy",
+    "topic": "Industries and Industrial Hubs",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Why is skill development and entrepreneurship promotion emphasized alongside industrial investment in Uttarakhand?",
+    "options": [
+      "To close all technical institutes",
+      "To reduce workforce skills",
+      "To equip local youth for industrial/service jobs and encourage micro-enterprises in both hills and plains",
+      "To discourage local enterprises"
+    ],
+    "correct_option": 2,
+    "correct_answer": "To equip local youth for industrial/service jobs and encourage micro-enterprises in both hills and plains",
+    "explanation": "Skill training and enterprise support help local residents access jobs and build sustainable businesses.",
+    "source_page": 34
+  },
+  {
+    "id": "q489",
+    "chapter": "Uttarakhand - Mineral Resources, Industries and Energy",
+    "topic": "Industries and Industrial Hubs",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Which district in Uttarakhand hosts the industrial town of Kashipur and Rudrapur?",
+    "options": [
+      "Uttarkashi",
+      "Chamoli",
+      "Udham Singh Nagar",
+      "Rudraprayag"
+    ],
+    "correct_option": 2,
+    "correct_answer": "Udham Singh Nagar",
+    "explanation": "Kashipur and Rudrapur are major industrial/commercial centers in Udham Singh Nagar district.",
+    "source_page": 34
+  },
+  {
+    "id": "q490",
+    "chapter": "Uttarakhand - Mineral Resources, Industries and Energy",
+    "topic": "Industries and Industrial Hubs",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "What role does tourism/eco-tourism play alongside industries and energy in Uttarakhand's economy?",
+    "options": [
+      "It has no connection to local livelihoods",
+      "It eliminates all local employment",
+      "It generates service-sector income, supports local crafts/hospitality, and links natural/cultural heritage with livelihoods",
+      "It replaces every river with a highway"
+    ],
+    "correct_option": 2,
+    "correct_answer": "It generates service-sector income, supports local crafts/hospitality, and links natural/cultural heritage with livelihoods",
+    "explanation": "Tourism and hospitality complement agriculture, crafts, and industry as important income sources when managed sustainably.",
+    "source_page": 34
+  },
+  {
+    "id": "q491",
+    "chapter": "Uttarakhand - Mineral Resources, Industries and Energy",
+    "topic": "Energy Resources and Hydropower",
+    "difficulty": "easy",
+    "type": "direct",
+    "question": "Which energy source is Uttarakhand's primary natural power strength due to its steep Himalayan rivers and high elevation drop?",
+    "options": [
+      "Tidal wave power from oceans",
+      "Large-scale coal mining",
+      "Hydroelectric power (hydropower)",
+      "Offshore oil and gas platforms"
+    ],
+    "correct_option": 2,
+    "correct_answer": "Hydroelectric power (hydropower)",
+    "explanation": "Fast-flowing Himalayan rivers descending steep gradients give Uttarakhand strong hydroelectric power potential.",
+    "source_page": 35
+  },
+  {
+    "id": "q492",
+    "chapter": "Uttarakhand - Mineral Resources, Industries and Energy",
+    "topic": "Energy Resources and Hydropower",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which major hydroelectric project is located on the Bhagirathi river in Tehri Garhwal district?",
+    "options": [
+      "Tehri Hydro Power Project (and Koteshwar downstream)",
+      "Sardar Sarovar in Gujarat",
+      "Bhakra Nangal in Himachal/Punjab",
+      "Hirakud in Odisha"
+    ],
+    "correct_option": 0,
+    "correct_answer": "Tehri Hydro Power Project (and Koteshwar downstream)",
+    "explanation": "The Tehri project on the Bhagirathi river in Tehri Garhwal is a flagship hydropower and multipurpose project in Uttarakhand.",
+    "source_page": 35
+  },
+  {
+    "id": "q493",
+    "chapter": "Uttarakhand - Mineral Resources, Industries and Energy",
+    "topic": "Energy Resources and Hydropower",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which river in western Uttarakhand (Uttarkashi district) hosts the Maneri Bhali hydroelectric projects?",
+    "options": [
+      "Bhagirathi river",
+      "Kosi river",
+      "Gola river",
+      "Sharda lower plain"
+    ],
+    "correct_option": 0,
+    "correct_answer": "Bhagirathi river",
+    "explanation": "Maneri Bhali Stage I and Stage II are major run-of-the-river hydroelectric projects on the Bhagirathi river in Uttarkashi.",
+    "source_page": 35
+  },
+  {
+    "id": "q494",
+    "chapter": "Uttarakhand - Mineral Resources, Industries and Energy",
+    "topic": "Energy Resources and Hydropower",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Which hydroelectric project is located on the Alaknanda river system in Chamoli/Garhwal?",
+    "options": [
+      "Vishnuprayag / Tapovan Vishnugad / Srinagar hydroelectric projects (Alaknanda basin)",
+      "Nanak Sagar canal drop",
+      "Kalagarh plain barrage",
+      "Tanakpur sea lock"
+    ],
+    "correct_option": 0,
+    "correct_answer": "Vishnuprayag / Tapovan Vishnugad / Srinagar hydroelectric projects (Alaknanda basin)",
+    "explanation": "The Alaknanda river and its tributaries host several hydroelectric projects in Garhwal.",
+    "source_page": 35
+  },
+  {
+    "id": "q495",
+    "chapter": "Uttarakhand - Mineral Resources, Industries and Energy",
+    "topic": "Energy Resources and Hydropower",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Which hydroelectric project is associated with the Yamuna / Tons river system in Uttarakhand?",
+    "options": [
+      "Ramganga in Thar desert",
+      "Dhauliganga on the Ganga delta",
+      "Tehri on the Kosi",
+      "Lakhwar-Vyasi / Chibro / Khodri / Ichari projects on the Yamuna/Tons system"
+    ],
+    "correct_option": 3,
+    "correct_answer": "Lakhwar-Vyasi / Chibro / Khodri / Ichari projects on the Yamuna/Tons system",
+    "explanation": "The Yamuna and its tributary Tons support key hydroelectric schemes in western Uttarakhand (such as Lakhwar-Vyasi, Chibro, and Khodri).",
+    "source_page": 35
+  },
+  {
+    "id": "q496",
+    "chapter": "Uttarakhand - Mineral Resources, Industries and Energy",
+    "topic": "Energy Resources and Hydropower",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Which hydroelectric project is located on the Dhauliganga river in Pithoragarh district?",
+    "options": [
+      "Dhauliganga Hydroelectric Project",
+      "Maneri Bhali Stage I",
+      "Koteshwar Project",
+      "Ramganga Kalagarh Project"
+    ],
+    "correct_option": 0,
+    "correct_answer": "Dhauliganga Hydroelectric Project",
+    "explanation": "The Dhauliganga hydroelectric project operates on the Dhauliganga river in Pithoragarh district of Kumaon.",
+    "source_page": 35
+  },
+  {
+    "id": "q497",
+    "chapter": "Uttarakhand - Mineral Resources, Industries and Energy",
+    "topic": "Energy Resources and Hydropower",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "What is the difference between a 'Storage/Reservoir' hydro project and a 'Run-of-the-River' hydro project?",
+    "options": [
+      "Run-of-the-river projects burn coal in turbines",
+      "Storage projects only work during winter snowstorms",
+      "There is no difference in water storage or flow regulation",
+      "Storage projects impound water in a large reservoir to regulate flow/generation, while run-of-the-river projects divert natural river flow with minimal/smaller pondage"
+    ],
+    "correct_option": 3,
+    "correct_answer": "Storage projects impound water in a large reservoir to regulate flow/generation, while run-of-the-river projects divert natural river flow with minimal/smaller pondage",
+    "explanation": "Reservoir projects hold large water volumes for regulated power/irrigation, whereas run-of-the-river schemes use river gradient/flow with smaller storage.",
+    "source_page": 35
+  },
+  {
+    "id": "q498",
+    "chapter": "Uttarakhand - Mineral Resources, Industries and Energy",
+    "topic": "Energy Resources and Hydropower",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which renewable energy sources are promoted in Uttarakhand alongside hydropower to diversify clean energy and support remote/hill areas?",
+    "options": [
+      "Offshore wind turbines in Almora",
+      "Deep-sea geothermal vents in plains",
+      "Solar power, small/micro-hydro, and bioenergy/biomass (such as pine needle/agro-waste energy)",
+      "Coal-fired thermal power plants in alpine glaciers"
+    ],
+    "correct_option": 2,
+    "correct_answer": "Solar power, small/micro-hydro, and bioenergy/biomass (such as pine needle/agro-waste energy)",
+    "explanation": "Solar energy, micro-hydro, and biomass/bioenergy (including using pine needles/biomass) help diversify clean power in Uttarakhand.",
+    "source_page": 35
+  },
+  {
+    "id": "q499",
+    "chapter": "Uttarakhand - Mineral Resources, Industries and Energy",
+    "topic": "Energy Resources and Hydropower",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Why is 'Pine Needle (Pirul) Energy' or biomass energy of particular interest in Uttarakhand?",
+    "options": [
+      "Pine needles contain liquid uranium",
+      "Pine needles only grow in deserts",
+      "Burning pine needles creates glaciers",
+      "It converts abundant dry pine needles into power/briquettes while reducing forest fire fuel load and generating rural income"
+    ],
+    "correct_option": 3,
+    "correct_answer": "It converts abundant dry pine needles into power/briquettes while reducing forest fire fuel load and generating rural income",
+    "explanation": "Utilizing fallen pine needles for biomass energy/briquettes helps reduce fire hazards in pine forests while creating local energy/livelihood value.",
+    "source_page": 35
+  },
+  {
+    "id": "q500",
+    "chapter": "Uttarakhand - Mineral Resources, Industries and Energy",
+    "topic": "Energy Resources and Hydropower",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "What are key ecological, geological, and social considerations in developing Himalayan hydropower projects in Uttarakhand?",
+    "options": [
+      "Zero need for geological or environmental assessment",
+      "Absence of rivers or mountains in the state",
+      "Permanent drying of all oceans",
+      "Seismic sensitivity, landslide/siltation risks, river ecology/environmental flow, aquatic biodiversity, and rehabilitation/local community impacts"
+    ],
+    "correct_option": 3,
+    "correct_answer": "Seismic sensitivity, landslide/siltation risks, river ecology/environmental flow, aquatic biodiversity, and rehabilitation/local community impacts",
+    "explanation": "Hydropower in the fragile Himalayas requires careful geological safety, environmental flow (e-flow), silt management, and local/social safeguards.",
+    "source_page": 35
+  },
+  {
+    "id": "q501",
+    "chapter": "Uttarakhand - Mineral Resources, Industries and Energy",
+    "topic": "Energy Resources and Hydropower",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Why does seasonal variation in river discharge affect hydroelectric power generation in Uttarakhand?",
+    "options": [
+      "Glaciers melt fastest in mid-winter",
+      "Monsoon and snowmelt boost river flow in warmer months, whereas lean/winter months have lower natural discharge",
+      "Turbines generate identical power regardless of water flow",
+      "River flow in the Himalayas is highest in January and zero in July"
+    ],
+    "correct_option": 1,
+    "correct_answer": "Monsoon and snowmelt boost river flow in warmer months, whereas lean/winter months have lower natural discharge",
+    "explanation": "Himalayan rivers have higher flows during monsoon and snowmelt seasons and lower flows during dry/winter periods unless regulated by storage.",
+    "source_page": 35
+  },
+  {
+    "id": "q502",
+    "chapter": "Uttarakhand - Mineral Resources, Industries and Energy",
+    "topic": "Energy Resources and Hydropower",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which agency/entity is closely associated with renewable energy development and clean-energy programs in Uttarakhand?",
+    "options": [
+      "UREDA (Uttarakhand Renewable Energy Development Agency)",
+      "Border Roads Organisation only",
+      "National Highway Authority of India",
+      "Securities and Exchange Board of India"
+    ],
+    "correct_option": 0,
+    "correct_answer": "UREDA (Uttarakhand Renewable Energy Development Agency)",
+    "explanation": "UREDA promotes renewable energy initiatives such as solar, micro-hydro, and bioenergy across Uttarakhand.",
+    "source_page": 35
+  },
+  {
+    "id": "q503",
+    "chapter": "Uttarakhand - Mineral Resources, Industries and Energy",
+    "topic": "Energy Resources and Hydropower",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "How can decentralized solar power (such as rooftop solar and solar micro-grids/pumps) benefit hill and remote villages in Uttarakhand?",
+    "options": [
+      "It provides clean electricity where long transmission lines face terrain/weather disruptions and supports lighting, cold storage, and water pumping",
+      "It works only at night without sunlight",
+      "It prevents agricultural irrigation",
+      "It requires flooding valleys with saltwater"
+    ],
+    "correct_option": 0,
+    "correct_answer": "It provides clean electricity where long transmission lines face terrain/weather disruptions and supports lighting, cold storage, and water pumping",
+    "explanation": "Decentralized solar systems reduce transmission losses/outages in rugged terrain and provide reliable power for homes, water, and small enterprises.",
+    "source_page": 35
+  },
+  {
+    "id": "q504",
+    "chapter": "Uttarakhand - Mineral Resources, Industries and Energy",
+    "topic": "Energy Resources and Hydropower",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "What is 'Environmental Flow' (e-flow) in river/hydropower management?",
+    "options": [
+      "Pumping industrial waste into rivers",
+      "Draining a river completely dry for 12 months a year",
+      "Maintaining a minimum required quantity and quality of water flowing in a river to sustain aquatic life, downstream ecology, and cultural/social uses",
+      "Building walls across every tributary with zero water release"
+    ],
+    "correct_option": 2,
+    "correct_answer": "Maintaining a minimum required quantity and quality of water flowing in a river to sustain aquatic life, downstream ecology, and cultural/social uses",
+    "explanation": "Environmental flow ensures rivers retain sufficient water downstream of diversion/dam structures to keep riverine ecosystems healthy.",
+    "source_page": 35
+  },
+  {
+    "id": "q505",
+    "chapter": "Uttarakhand - Mineral Resources, Industries and Energy",
+    "topic": "Energy Resources and Hydropower",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Why are micro-hydro and mini-hydro projects often suited to small hill streams in Uttarakhand?",
+    "options": [
+      "They require submerging entire districts under 500 meters of water",
+      "They use local stream drops on a smaller scale with relatively lower submergence compared to giant reservoirs",
+      "They generate electricity from volcanic magma",
+      "They only work in flat deserts"
+    ],
+    "correct_option": 1,
+    "correct_answer": "They use local stream drops on a smaller scale with relatively lower submergence compared to giant reservoirs",
+    "explanation": "Small, micro, and mini hydro plants can tap local stream gradients for decentralized power with smaller reservoir footprints.",
+    "source_page": 35
+  },
+  {
+    "id": "q506",
+    "chapter": "Uttarakhand - Mineral Resources, Industries and Energy",
+    "topic": "Energy Resources and Hydropower",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Which integrated planning approach helps balance mineral extraction, industrial growth, and energy projects in Uttarakhand?",
+    "options": [
+      "Treating the Himalayas identically to flat coastal plains",
+      "Halting all economic activity across every district",
+      "Sustainable development balancing economic growth, ecological carrying capacity, disaster resilience, and local livelihoods",
+      "Unchecked resource exploitation ignoring slope stability and water sources"
+    ],
+    "correct_option": 2,
+    "correct_answer": "Sustainable development balancing economic growth, ecological carrying capacity, disaster resilience, and local livelihoods",
+    "explanation": "Long-term prosperity in Uttarakhand depends on pairing energy, industry, and resource use with environmental protection and hazard resilience.",
+    "source_page": 35
+  },
+  {
+    "id": "q507",
+    "chapter": "Uttarakhand - Mineral Resources, Industries and Energy",
+    "topic": "Energy Resources and Hydropower",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which state utility/corporation is involved in power generation/transmission/distribution in Uttarakhand alongside central/joint ventures?",
+    "options": [
+      "Indian Railways Catering Corporation",
+      "Reserve Bank of India",
+      "Oil and Natural Gas Corporation",
+      "UJVNL (Uttarakhand Jal Vidyut Nigam Limited) / PTCUL / UPCL"
+    ],
+    "correct_option": 3,
+    "correct_answer": "UJVNL (Uttarakhand Jal Vidyut Nigam Limited) / PTCUL / UPCL",
+    "explanation": "State power entities (such as UJVNL for hydro generation, PTCUL for transmission, and UPCL for distribution) operate alongside central/joint utilities.",
+    "source_page": 35
+  },
+  {
+    "id": "q508",
+    "chapter": "Uttarakhand - Mineral Resources, Industries and Energy",
+    "topic": "Energy Resources and Hydropower",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Why is energy conservation and clean power transition important for Uttarakhand?",
+    "options": [
+      "It supports industrial/household power demand, lowers carbon/pollution footprints, and protects fragile mountain ecosystems",
+      "It increases air pollution in hill stations",
+      "It wastes electricity during peak demand",
+      "It has no effect on sustainability"
+    ],
+    "correct_option": 0,
+    "correct_answer": "It supports industrial/household power demand, lowers carbon/pollution footprints, and protects fragile mountain ecosystems",
+    "explanation": "Clean energy and efficient power use meet growing demand while safeguarding air, water, and forest resources.",
+    "source_page": 35
   }
 ]
