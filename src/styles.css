@@ -220,6 +220,33 @@ textarea:focus {
   margin: 14px 0 0;
 }
 
+.hero-kicker {
+  font-size: 14px;
+  font-weight: 600;
+  letter-spacing: 0.4px;
+  text-transform: uppercase;
+  color: #6b7280;
+  margin: 0 0 6px;
+}
+
+/* ---- Chapter mock test card (home) ---- */
+.chapter-card {
+  text-align: center;
+  padding: 24px 18px;
+  border-left: 4px solid #2563eb;
+  margin-top: 14px;
+}
+
+.chapter-title {
+  font-size: 19px;
+  font-weight: 700;
+  margin: 0 0 6px;
+}
+
+.chapter-card .hero-sub {
+  margin-bottom: 14px;
+}
+
 /* ---- Test screen: top bar & progress ---- */
 .test-topbar {
   display: flex;

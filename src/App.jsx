@@ -13,11 +13,19 @@ export default function App() {
   // attempt = everything about the test currently being taken or just finished
   const [attempt, setAttempt] = useState(null)
 
-  function startTest() {
-    // Pick random questions from the bank (never more than the bank has).
-    const picked = shuffle(allQuestions).slice(
+  // Question pools. Questions tagged with `set: 'chapter1'` belong to the
+  // Chapter 1 mock test; everything else only appears in the full test.
+  const POOLS = {
+    full: allQuestions,
+    chapter1: allQuestions.filter((q) => q.set === 'chapter1'),
+  }
+
+  function startTest(setId = 'full') {
+    // Pick random questions from the chosen pool (never more than it has).
+    const pool = POOLS[setId] || POOLS.full
+    const picked = shuffle(pool).slice(
       0,
-      Math.min(settings.questionsPerTest, allQuestions.length)
+      Math.min(settings.questionsPerTest, pool.length)
     )
     setAttempt({
       questions: picked,
@@ -38,7 +46,9 @@ export default function App() {
         <HomePage
           settings={settings}
           totalInBank={allQuestions.length}
+          chapter1Count={POOLS.chapter1.length}
           onStart={startTest}
+          onStartChapter1={() => startTest('chapter1')}
           goSettings={() => setScreen('settings')}
         />
       )}

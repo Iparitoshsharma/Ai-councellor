@@ -1494,7 +1494,8 @@
     "correct_option": 3,
     "correct_answer": "6",
     "explanation": "Kumaon division comprises 6 districts: Nainital, Almora, Pithoragarh, Udham Singh Nagar, Bageshwar, and Champawat.",
-    "source_page": 6
+    "source_page": 6,
+    "set": "chapter1"
   },
   {
     "id": "q089",
@@ -1512,7 +1513,8 @@
     "correct_option": 2,
     "correct_answer": "1854-55",
     "explanation": "The headquarters of the Kumaon division has been in Nainital since 1854-55.",
-    "source_page": 6
+    "source_page": 6,
+    "set": "chapter1"
   },
   {
     "id": "q090",
@@ -1530,7 +1532,8 @@
     "correct_option": 3,
     "correct_answer": "7",
     "explanation": "Garhwal division comprises 7 districts: Chamoli, Uttarkashi, Dehradun, Pauri Garhwal, Tehri Garhwal, Haridwar, and Rudraprayag.",
-    "source_page": 6
+    "source_page": 6,
+    "set": "chapter1"
   },
   {
     "id": "q091",
@@ -1548,7 +1551,8 @@
     "correct_option": 2,
     "correct_answer": "1969",
     "explanation": "The headquarters of the Garhwal division has been in Pauri since 1969.",
-    "source_page": 6
+    "source_page": 6,
+    "set": "chapter1"
   },
   {
     "id": "q092",
@@ -1566,7 +1570,8 @@
     "correct_option": 3,
     "correct_answer": "Pauri Garhwal",
     "explanation": "Pauri Garhwal district was established in 1840 with its headquarters at Pauri.",
-    "source_page": 6
+    "source_page": 6,
+    "set": "chapter1"
   },
   {
     "id": "q093",
@@ -1584,7 +1589,8 @@
     "correct_option": 3,
     "correct_answer": "1871",
     "explanation": "Dehradun district was established in 1871 with its headquarters at Dehradun.",
-    "source_page": 6
+    "source_page": 6,
+    "set": "chapter1"
   },
   {
     "id": "q094",
@@ -1602,7 +1608,8 @@
     "correct_option": 2,
     "correct_answer": "Almora and Nainital",
     "explanation": "Both Almora and Nainital districts were established in 1891.",
-    "source_page": 6
+    "source_page": 6,
+    "set": "chapter1"
   },
   {
     "id": "q095",
@@ -1620,7 +1627,8 @@
     "correct_option": 2,
     "correct_answer": "1949",
     "explanation": "Tehri Garhwal district was established in 1949 with its headquarters at New Tehri.",
-    "source_page": 6
+    "source_page": 6,
+    "set": "chapter1"
   },
   {
     "id": "q096",
@@ -1638,7 +1646,8 @@
     "correct_option": 0,
     "correct_answer": "Pithoragarh, Uttarkashi, and Chamoli",
     "explanation": "Pithoragarh, Uttarkashi, and Chamoli were all established in 1960.",
-    "source_page": 6
+    "source_page": 6,
+    "set": "chapter1"
   },
   {
     "id": "q097",
@@ -1656,7 +1665,8 @@
     "correct_option": 2,
     "correct_answer": "Gopeshwar",
     "explanation": "Chamoli district (established in 1960) has its headquarters at Gopeshwar.",
-    "source_page": 6
+    "source_page": 6,
+    "set": "chapter1"
   },
   {
     "id": "q098",
@@ -1674,7 +1684,8 @@
     "correct_option": 3,
     "correct_answer": "1988",
     "explanation": "Haridwar district was established in 1988 with its headquarters at Haridwar.",
-    "source_page": 6
+    "source_page": 6,
+    "set": "chapter1"
   },
   {
     "id": "q099",
@@ -1692,7 +1703,8 @@
     "correct_option": 3,
     "correct_answer": "1995",
     "explanation": "Udham Singh Nagar district was established in 1995.",
-    "source_page": 6
+    "source_page": 6,
+    "set": "chapter1"
   },
   {
     "id": "q100",
@@ -1710,7 +1722,8 @@
     "correct_option": 2,
     "correct_answer": "Rudraprayag, Champawat, and Bageshwar",
     "explanation": "Rudraprayag, Champawat, and Bageshwar were established in 1997.",
-    "source_page": 6
+    "source_page": 6,
+    "set": "chapter1"
   },
   {
     "id": "q101",
@@ -1728,7 +1741,8 @@
     "correct_option": 3,
     "correct_answer": "8030",
     "explanation": "Chamoli district has an area of 8,030 sq. km according to the State Statistical Diary 2022-23.",
-    "source_page": 6
+    "source_page": 6,
+    "set": "chapter1"
   },
   {
     "id": "q102",
@@ -1746,7 +1760,8 @@
     "correct_option": 0,
     "correct_answer": "10",
     "explanation": "Dehradun district has 10 assembly constituencies.",
-    "source_page": 6
+    "source_page": 6,
+    "set": "chapter1"
   },
   {
     "id": "q103",
@@ -1764,7 +1779,8 @@
     "correct_option": 1,
     "correct_answer": "11",
     "explanation": "Haridwar district has 11 assembly constituencies.",
-    "source_page": 6
+    "source_page": 6,
+    "set": "chapter1"
   },
   {
     "id": "q104",
@@ -1782,7 +1798,8 @@
     "correct_option": 3,
     "correct_answer": "Chakrata",
     "explanation": "Chakrata in Dehradun district is a Scheduled Tribe (ST) reserved assembly constituency.",
-    "source_page": 6
+    "source_page": 6,
+    "set": "chapter1"
   },
   {
     "id": "q105",
@@ -1800,7 +1817,8 @@
     "correct_option": 2,
     "correct_answer": "Nanakmatta",
     "explanation": "Nanakmatta in Udham Singh Nagar district is reserved for Scheduled Tribes (ST), while Sitarganj is reserved for SC.",
-    "source_page": 6
+    "source_page": 6,
+    "set": "chapter1"
   },
   {
     "id": "q106",
@@ -1818,7 +1836,8 @@
     "correct_option": 3,
     "correct_answer": "9",
     "explanation": "Udham Singh Nagar district has 9 assembly constituencies.",
-    "source_page": 6
+    "source_page": 6,
+    "set": "chapter1"
   },
   {
     "id": "q107",
@@ -1836,7 +1855,8 @@
     "correct_option": 0,
     "correct_answer": "2, 2, and 2",
     "explanation": "Bageshwar (Kapkot, Bageshwar [SC]), Rudraprayag (Rudraprayag, Kedarnath), and Champawat (Champawat, Lohaghat) each have 2 assembly constituencies.",
-    "source_page": 6
+    "source_page": 6,
+    "set": "chapter1"
   },
   {
     "id": "q108",
@@ -1854,7 +1874,8 @@
     "correct_option": 0,
     "correct_answer": "110 tehsils and 95 blocks",
     "explanation": "Page 7 lists 110 tehsils and 95 development blocks across the state.",
-    "source_page": 7
+    "source_page": 7,
+    "set": "chapter1"
   },
   {
     "id": "q109",
@@ -1872,7 +1893,8 @@
     "correct_option": 0,
     "correct_answer": "12",
     "explanation": "Almora district has 12 tehsils listed on page 7.",
-    "source_page": 7
+    "source_page": 7,
+    "set": "chapter1"
   },
   {
     "id": "q110",
@@ -1890,7 +1912,8 @@
     "correct_option": 3,
     "correct_answer": "13",
     "explanation": "Pithoragarh district has 13 tehsils listed on page 7.",
-    "source_page": 7
+    "source_page": 7,
+    "set": "chapter1"
   },
   {
     "id": "q111",
@@ -1908,7 +1931,8 @@
     "correct_option": 2,
     "correct_answer": "4",
     "explanation": "Haridwar district has 4 tehsils: Haridwar, Laksar, Roorkee, and Bhagwanpur.",
-    "source_page": 7
+    "source_page": 7,
+    "set": "chapter1"
   },
   {
     "id": "q112",
@@ -1926,7 +1950,8 @@
     "correct_option": 1,
     "correct_answer": "15",
     "explanation": "Pauri Garhwal has 15 development blocks listed on page 7.",
-    "source_page": 7
+    "source_page": 7,
+    "set": "chapter1"
   },
   {
     "id": "q113",
@@ -1944,7 +1969,8 @@
     "correct_option": 2,
     "correct_answer": "1 August 2000",
     "explanation": "The Uttaranchal State Bill was passed by the Lok Sabha on 1 August 2000.",
-    "source_page": 8
+    "source_page": 8,
+    "set": "chapter1"
   },
   {
     "id": "q114",
@@ -1962,7 +1988,8 @@
     "correct_option": 3,
     "correct_answer": "10 August 2000",
     "explanation": "Page 8 notes that the Uttaranchal State Bill was passed by the Rajya Sabha on 10 August 2000.",
-    "source_page": 8
+    "source_page": 8,
+    "set": "chapter1"
   },
   {
     "id": "q115",
@@ -1980,7 +2007,8 @@
     "correct_option": 2,
     "correct_answer": "9 November 2000",
     "explanation": "Uttaranchal was formed on 9 November 2000 as the 27th state of the Indian Republic.",
-    "source_page": 8
+    "source_page": 8,
+    "set": "chapter1"
   },
   {
     "id": "q116",
@@ -1998,7 +2026,8 @@
     "correct_option": 2,
     "correct_answer": "1 January 2007",
     "explanation": "The state was named Uttaranchal until 31-12-2006 and became Uttarakhand from 1-1-2007.",
-    "source_page": 8
+    "source_page": 8,
+    "set": "chapter1"
   },
   {
     "id": "q117",
@@ -2016,7 +2045,8 @@
     "correct_option": 0,
     "correct_answer": "8 June 2020",
     "explanation": "Gairsain became the summer capital of Uttarakhand from 8 June 2020.",
-    "source_page": 8
+    "source_page": 8,
+    "set": "chapter1"
   },
   {
     "id": "q118",
@@ -2034,7 +2064,8 @@
     "correct_option": 1,
     "correct_answer": "Hindi (I) and Sanskrit (II)",
     "explanation": "Hindi is the first official language and Sanskrit (added in Jan 2010) is the second official language.",
-    "source_page": 8
+    "source_page": 8,
+    "set": "chapter1"
   },
   {
     "id": "q119",
@@ -2052,7 +2083,8 @@
     "correct_option": 0,
     "correct_answer": "2011",
     "explanation": "Football was declared the state sport of Uttarakhand in 2011.",
-    "source_page": 8
+    "source_page": 8,
+    "set": "chapter1"
   },
   {
     "id": "q120",
@@ -2070,7 +2102,8 @@
     "correct_option": 0,
     "correct_answer": "Dhol",
     "explanation": "Dhol was declared the state instrument of Uttarakhand in 2015.",
-    "source_page": 8
+    "source_page": 8,
+    "set": "chapter1"
   },
   {
     "id": "q121",
@@ -2088,7 +2121,8 @@
     "correct_option": 2,
     "correct_answer": "Common Peacock",
     "explanation": "Common Peacock was declared the state butterfly of Uttarakhand in 2016.",
-    "source_page": 8
+    "source_page": 8,
+    "set": "chapter1"
   },
   {
     "id": "q122",
@@ -2106,7 +2140,8 @@
     "correct_option": 2,
     "correct_answer": "Hemant Bisht",
     "explanation": "The state song of Uttarakhand was written by Hemant Bisht and declared in February 2016.",
-    "source_page": 8
+    "source_page": 8,
+    "set": "chapter1"
   },
   {
     "id": "q123",
@@ -2124,7 +2159,8 @@
     "correct_option": 3,
     "correct_answer": "Saussurea obvallata",
     "explanation": "The scientific name of Brahma Kamal is Saussurea obvallata.",
-    "source_page": 8
+    "source_page": 8,
+    "set": "chapter1"
   },
   {
     "id": "q124",
@@ -2142,7 +2178,8 @@
     "correct_option": 1,
     "correct_answer": "Saugandhik Pushpa; 24 species",
     "explanation": "In the Mahabharata, Brahma Kamal is called Saugandhik Pushpa, and 24 species are found in Uttarakhand.",
-    "source_page": 8
+    "source_page": 8,
+    "set": "chapter1"
   },
   {
     "id": "q125",
@@ -2160,7 +2197,8 @@
     "correct_option": 0,
     "correct_answer": "Moschus chrysogaster",
     "explanation": "The scientific name of the state animal Musk Deer is Moschus chrysogaster.",
-    "source_page": 8
+    "source_page": 8,
+    "set": "chapter1"
   },
   {
     "id": "q126",
@@ -2178,7 +2216,8 @@
     "correct_option": 1,
     "correct_answer": "30 to 45 grams; 1972 in Chamoli",
     "explanation": "Musk is obtained only from the male deer—30 to 45 grams at a time—and the first conservation/breeding effort in the state began in 1972 in Chamoli.",
-    "source_page": 9
+    "source_page": 9,
+    "set": "chapter1"
   },
   {
     "id": "q127",
@@ -2196,7 +2235,8 @@
     "correct_option": 3,
     "correct_answer": "Rhododendron arboreum",
     "explanation": "The botanical name of Burans is Rhododendron arboreum, and it is an evergreen mountain tree.",
-    "source_page": 9
+    "source_page": 9,
+    "set": "chapter1"
   },
   {
     "id": "q128",
@@ -2214,7 +2254,8 @@
     "correct_option": 2,
     "correct_answer": "Article 153; appointed by the President",
     "explanation": "Article 153 provides for the Governor of a state, and the Governor is appointed by the President.",
-    "source_page": 9
+    "source_page": 9,
+    "set": "chapter1"
   },
   {
     "id": "q129",
@@ -2232,7 +2273,8 @@
     "correct_option": 2,
     "correct_answer": "46 days (27 March to 12 May 2016)",
     "explanation": "President's Rule under Article 356 lasted 46 days in Uttarakhand from 27 March to 12 May 2016, noted as the shortest in the country.",
-    "source_page": 9
+    "source_page": 9,
+    "set": "chapter1"
   },
   {
     "id": "q130",
@@ -2250,7 +2292,8 @@
     "correct_option": 3,
     "correct_answer": "Veer Chandra Singh Garhwali Assembly Complex; Maharashtra and Jammu & Kashmir",
     "explanation": "The Assembly complex at Bhararisain, Gairsain is named Veer Chandra Singh Garhwali Assembly Complex, and Maharashtra and Jammu & Kashmir also have two Assembly buildings.",
-    "source_page": 9
+    "source_page": 9,
+    "set": "chapter1"
   },
   {
     "id": "q131",
@@ -2268,7 +2311,8 @@
     "correct_option": 1,
     "correct_answer": "30 members; 4 May 2001",
     "explanation": "The interim Legislative Assembly constituted on 9 November 2000 had 30 members, and the Assembly launched its own website on 4 May 2001 (first in the country).",
-    "source_page": 9
+    "source_page": 9,
+    "set": "chapter1"
   },
   {
     "id": "q132",
@@ -2286,7 +2330,8 @@
     "correct_option": 1,
     "correct_answer": "70",
     "explanation": "After delimitation (5 November 2001 and February 2008), the Uttarakhand Legislative Assembly has 70 elected seats.",
-    "source_page": 9
+    "source_page": 9,
+    "set": "chapter1"
   },
   {
     "id": "q133",
@@ -2304,7 +2349,8 @@
     "correct_option": 1,
     "correct_answer": "Chakrata (Dehradun) and Nanakmatta (Udham Singh Nagar)",
     "explanation": "The 2 ST-reserved assembly seats are Chakrata (Dehradun) and Nanakmatta (Udham Singh Nagar).",
-    "source_page": 9
+    "source_page": 9,
+    "set": "chapter1"
   },
   {
     "id": "q134",
@@ -2322,7 +2368,8 @@
     "correct_option": 3,
     "correct_answer": "5 seats; Almora is reserved for SC",
     "explanation": "Uttarakhand has 5 Lok Sabha seats (Tehri, Pauri, Almora, Nainital, Haridwar), of which 1 seat (Almora) is reserved for SC.",
-    "source_page": 10
+    "source_page": 10,
+    "set": "chapter1"
   },
   {
     "id": "q135",
@@ -2340,7 +2387,8 @@
     "correct_option": 2,
     "correct_answer": "Haridwar (smallest area, largest voters); Pauri Garhwal (largest area, smallest voters)",
     "explanation": "Haridwar is the smallest by area yet largest by voters, whereas Pauri Garhwal is the largest by area yet smallest by voters.",
-    "source_page": 10
+    "source_page": 10,
+    "set": "chapter1"
   },
   {
     "id": "q136",
@@ -2358,7 +2406,8 @@
     "correct_option": 1,
     "correct_answer": "3",
     "explanation": "Uttarakhand has 3 Rajya Sabha seats.",
-    "source_page": 10
+    "source_page": 10,
+    "set": "chapter1"
   },
   {
     "id": "q137",
@@ -2376,7 +2425,8 @@
     "correct_option": 3,
     "correct_answer": "Article 214; 9 November 2000 in Nainital (18th in the country)",
     "explanation": "Article 214 provides for a High Court for states, and the Uttarakhand High Court was established on 9 November 2000 at Nainital as the 18th High Court in India.",
-    "source_page": 10
+    "source_page": 10,
+    "set": "chapter1"
   },
   {
     "id": "q138",
@@ -2394,7 +2444,8 @@
     "correct_option": 3,
     "correct_answer": "Kumaon: 19 parganas and 125 pattis; Garhwal: 11 parganas and 86 pattis",
     "explanation": "During British rule, Kumaon had 19 parganas and 125 pattis, while Garhwal had 11 parganas and 86 pattis.",
-    "source_page": 10
+    "source_page": 10,
+    "set": "chapter1"
   },
   {
     "id": "q139",
@@ -2412,6 +2463,1147 @@
     "correct_option": 3,
     "correct_answer": "First in Dehradun (25 March 2015) and second in Rudrapur (1 Jan 2021)",
     "explanation": "The state's first cyber police station opened in Dehradun on 25 March 2015, and the second opened in Rudrapur on 1 January 2021.",
-    "source_page": 10
+    "source_page": 10,
+    "set": "chapter1"
+  },
+  {
+    "id": "q140",
+    "chapter": "Uttarakhand - Political and Administrative Structure",
+    "topic": "Panchayati Raj and Rural Local Bodies",
+    "difficulty": "easy",
+    "type": "direct",
+    "question": "How many total Gram Panchayats, Nyaya Panchayats, Kshetra Panchayats, and Zila Panchayats exist in Uttarakhand (2025 figures on page 11)?",
+    "options": [
+      "7950 Gram Panchayats, 670 Nyaya Panchayats, 95 Kshetra Panchayats, and 13 Zila Panchayats",
+      "8120 Gram Panchayats, 670 Nyaya Panchayats, 95 Kshetra Panchayats, and 13 Zila Panchayats",
+      "7950 Gram Panchayats, 550 Nyaya Panchayats, 110 Kshetra Panchayats, and 13 Zila Panchayats",
+      "7500 Gram Panchayats, 670 Nyaya Panchayats, 95 Kshetra Panchayats, and 13 Zila Panchayats"
+    ],
+    "correct_option": 0,
+    "explanation": "Uttarakhand has 7,950 Gram Panchayats, 670 Nyaya Panchayats, 95 Kshetra Panchayats (one per block), and 13 Zila Panchayats (one per district).",
+    "source_page": 11,
+    "correct_answer": "7950 Gram Panchayats, 670 Nyaya Panchayats, 95 Kshetra Panchayats, and 13 Zila Panchayats",
+    "set": "chapter1"
+  },
+  {
+    "id": "q141",
+    "chapter": "Uttarakhand - Political and Administrative Structure",
+    "topic": "Panchayati Raj and Rural Local Bodies",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which districts in Uttarakhand have the highest and lowest number of Gram Panchayats (2023) respectively?",
+    "options": [
+      "Almora (1212) and Rudraprayag (313)",
+      "Pauri Garhwal (1180) and Bageshwar (295)",
+      "Pauri Garhwal (1212) and Champawat (313)",
+      "Tehri Garhwal (1212) and Champawat (313)"
+    ],
+    "correct_option": 2,
+    "correct_answer": "Pauri Garhwal (1212) and Champawat (313)",
+    "explanation": "Pauri Garhwal has the highest number of Gram Panchayats (1,212) and Champawat has the lowest (313).",
+    "source_page": 11,
+    "set": "chapter1"
+  },
+  {
+    "id": "q142",
+    "chapter": "Uttarakhand - Political and Administrative Structure",
+    "topic": "Panchayati Raj and Rural Local Bodies",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Who serves as the secretary of a Zila Panchayat and a Kshetra Panchayat respectively in Uttarakhand?",
+    "options": [
+      "DDO or DPRO for Zila Panchayat; BDO for Kshetra Panchayat",
+      "BDO for Zila Panchayat; Gram Vikas Adhikari for Kshetra Panchayat",
+      "CDO for Zila Panchayat; SDM for Kshetra Panchayat",
+      "District Magistrate for Zila Panchayat; Tehsildar for Kshetra Panchayat"
+    ],
+    "correct_option": 0,
+    "explanation": "The DDO or DPRO acts as secretary in a Zila Panchayat, while the BDO serves as secretary in a Kshetra Panchayat.",
+    "source_page": 11,
+    "correct_answer": "DDO or DPRO for Zila Panchayat; BDO for Kshetra Panchayat",
+    "set": "chapter1"
+  },
+  {
+    "id": "q143",
+    "chapter": "Uttarakhand - Political and Administrative Structure",
+    "topic": "Panchayati Raj and Rural Local Bodies",
+    "difficulty": "easy",
+    "type": "direct",
+    "question": "What percentage of seats is reserved for women in Uttarakhand Panchayats under the Panchayati Raj (Amendment) Bill, 2008?",
+    "options": [
+      "50%",
+      "30%",
+      "40%",
+      "33%"
+    ],
+    "correct_option": 0,
+    "explanation": "Under the Panchayati Raj (Amendment) Bill, 2008, women are provided 50% reservation in Panchayats in Uttarakhand.",
+    "source_page": 11,
+    "correct_answer": "50%",
+    "set": "chapter1"
+  },
+  {
+    "id": "q144",
+    "chapter": "Uttarakhand - Political and Administrative Structure",
+    "topic": "Urban Local Bodies",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which districts had the highest and lowest number of towns/cities in Uttarakhand according to the 2011 Census?",
+    "options": [
+      "Udham Singh Nagar (22) and Champawat (1)",
+      "Nainital (20) and Bageshwar (1)",
+      "Dehradun (24) and Rudraprayag (1)",
+      "Haridwar (24) and Bageshwar (1)"
+    ],
+    "correct_option": 3,
+    "explanation": "According to the 2011 Census, Haridwar had the highest number of towns (24) and Bageshwar had the lowest (1).",
+    "source_page": 11,
+    "correct_answer": "Haridwar (24) and Bageshwar (1)",
+    "set": "chapter1"
+  },
+  {
+    "id": "q145",
+    "chapter": "Uttarakhand - Political and Administrative Structure",
+    "topic": "Urban Local Bodies",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "How many functional Municipal Corporations (Nagar Nigams) exist in Uttarakhand, and what is the minimum population criterion in plains vs. hills?",
+    "options": [
+      "11 Municipal Corporations; 2 lakh in plains and 1 lakh in hills",
+      "8 Municipal Corporations; 1 lakh in plains and 90,000 in hills",
+      "11 Municipal Corporations; 1 lakh in plains and 90,000 in hills",
+      "9 Municipal Corporations; 1 lakh in plains and 75,000 in hills"
+    ],
+    "correct_option": 2,
+    "explanation": "Uttarakhand has 11 functional Municipal Corporations (Dehradun, Haridwar, Haldwani, Pithoragarh, Almora, Kashipur, Rudrapur, Roorkee, Rishikesh, Kotdwar, and Srinagar), requiring a population of 1 lakh or more in plains and 90,000 or more in hills.",
+    "source_page": 11,
+    "correct_answer": "11 Municipal Corporations; 1 lakh in plains and 90,000 in hills",
+    "set": "chapter1"
+  },
+  {
+    "id": "q146",
+    "chapter": "Uttarakhand - Political and Administrative Structure",
+    "topic": "Urban Local Bodies",
+    "difficulty": "easy",
+    "type": "direct",
+    "question": "Which is the oldest (first) Municipal Council (Nagar Palika Parishad) in Uttarakhand?",
+    "options": [
+      "Dehradun Municipal Council",
+      "Nainital Municipal Council",
+      "Mussoorie Municipal Council",
+      "Almora Municipal Council"
+    ],
+    "correct_option": 2,
+    "explanation": "Mussoorie Municipal Council is the first Municipal Council in Uttarakhand.",
+    "source_page": 11,
+    "correct_answer": "Mussoorie Municipal Council",
+    "set": "chapter1"
+  },
+  {
+    "id": "q147",
+    "chapter": "Uttarakhand - Political and Administrative Structure",
+    "topic": "Urban Local Bodies",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "How many Cantonment Boards exist in Uttarakhand's military towns?",
+    "options": [
+      "6",
+      "7",
+      "9",
+      "11"
+    ],
+    "correct_option": 2,
+    "explanation": "There are 9 Cantonment Boards in military towns of Uttarakhand.",
+    "source_page": 11,
+    "correct_answer": "9",
+    "set": "chapter1"
+  },
+  {
+    "id": "q148",
+    "chapter": "Uttarakhand - Political and Administrative Structure",
+    "topic": "Van Panchayats and Reservation Policy",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Since when did the formation of Van Panchayats begin in Uttarakhand, and roughly what percentage of the state's total forest area is under their control?",
+    "options": [
+      "Since 1921; approximately 25.40%",
+      "Since 1947; approximately 12.54%",
+      "Since 1931; approximately 18.86%",
+      "Since 1931; approximately 33.00%"
+    ],
+    "correct_option": 2,
+    "explanation": "Van Panchayats started in 1931 in Uttarakhand, control about 18.86% of the state's forest area, and reserve 50% for women.",
+    "source_page": 11,
+    "correct_answer": "Since 1931; approximately 18.86%",
+    "set": "chapter1"
+  },
+  {
+    "id": "q149",
+    "chapter": "Uttarakhand - Political and Administrative Structure",
+    "topic": "State Services Reservation Policy",
+    "difficulty": "easy",
+    "type": "direct",
+    "question": "What are the vertical reservation percentages for SC, ST, and OBC respectively in Uttarakhand state government services?",
+    "options": [
+      "19% SC, 4% ST, and 14% OBC",
+      "21% SC, 2% ST, and 14% OBC",
+      "15% SC, 7.5% ST, and 27% OBC",
+      "19% SC, 5% ST, and 16% OBC"
+    ],
+    "correct_option": 0,
+    "explanation": "In Uttarakhand state services, SC gets 19%, ST gets 4%, and OBC gets 14% reservation.",
+    "source_page": 11,
+    "correct_answer": "19% SC, 4% ST, and 14% OBC",
+    "set": "chapter1"
+  },
+  {
+    "id": "q150",
+    "chapter": "Uttarakhand - Political and Administrative Structure",
+    "topic": "State Services Reservation Policy",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "What are the horizontal reservation percentages in Uttarakhand state services for women, ex-servicemen, sportspersons, persons with disabilities, and freedom fighters/dependents?",
+    "options": [
+      "Women 30%, Ex-servicemen 4%, Sportspersons 5%, Disabled 3%, Freedom fighters 1%",
+      "Women 50%, Ex-servicemen 5%, Sportspersons 4%, Disabled 3%, Freedom fighters 2%",
+      "Women 30%, Ex-servicemen 5%, Sportspersons 4%, Disabled 3%, Freedom fighters 2%",
+      "Women 33%, Ex-servicemen 5%, Sportspersons 2%, Disabled 4%, Freedom fighters 2%"
+    ],
+    "correct_option": 2,
+    "explanation": "Horizontal reservations in Uttarakhand state services are: Women 30%, Ex-servicemen 5%, Sportspersons 4%, Persons with disabilities 3%, and Freedom fighters & their dependents 2%.",
+    "source_page": 11,
+    "correct_answer": "Women 30%, Ex-servicemen 5%, Sportspersons 4%, Disabled 3%, Freedom fighters 2%",
+    "set": "chapter1"
+  },
+  {
+    "id": "q151",
+    "chapter": "Uttarakhand - Political and Administrative Structure",
+    "topic": "State Commissions and Right to Service",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "When were the State Information Commission, State Human Rights Commission, and State Right to Service Commission formed in Uttarakhand?",
+    "options": [
+      "Information Commission: 3 Oct 2005; Human Rights Commission: May 2013; Right to Service Commission: 13 March 2013",
+      "Information Commission: 27 May 2003; Human Rights Commission: May 2013; Right to Service Commission: 13 March 2013",
+      "Information Commission: 10 May 2011; Human Rights Commission: 27 May 2003; Right to Service Commission: 26 Jan 2013",
+      "Information Commission: 3 Oct 2005; Human Rights Commission: 10 May 2011; Right to Service Commission: 2011"
+    ],
+    "correct_option": 0,
+    "explanation": "State Information Commission was formed on 3 October 2005, State Human Rights Commission came into full existence in May 2013, and State Right to Service Commission was constituted on 13 March 2013 (under the 2011 Act).",
+    "source_page": 11,
+    "correct_answer": "Information Commission: 3 Oct 2005; Human Rights Commission: May 2013; Right to Service Commission: 13 March 2013",
+    "set": "chapter1"
+  },
+  {
+    "id": "q152",
+    "chapter": "Uttarakhand - Political and Administrative Structure",
+    "topic": "Governors of Uttarakhand",
+    "difficulty": "easy",
+    "type": "direct",
+    "question": "Who was the first Governor of Uttarakhand and what was his tenure?",
+    "options": [
+      "B.L. Joshi (29 October 2007 to 5 August 2009)",
+      "Surjit Singh Barnala (9 November 2000 to 7 January 2003)",
+      "Margaret Alva (6 August 2009 to 14 May 2012)",
+      "Sudarshan Agarwal (8 January 2003 to 28 October 2007)"
+    ],
+    "correct_option": 1,
+    "explanation": "Surjit Singh Barnala was the first Governor of Uttarakhand, serving from 9 November 2000 to 7 January 2003.",
+    "source_page": 12,
+    "correct_answer": "Surjit Singh Barnala (9 November 2000 to 7 January 2003)",
+    "set": "chapter1"
+  },
+  {
+    "id": "q153",
+    "chapter": "Uttarakhand - Political and Administrative Structure",
+    "topic": "Governors of Uttarakhand",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which two women have served as Governors of Uttarakhand (as listed in the sequence of 8 Governors on page 12)?",
+    "options": [
+      "Margaret Alva (4th) and Baby Rani Maurya (7th)",
+      "Margaret Alva (3rd) and Kusum Kandwal (6th)",
+      "Baby Rani Maurya (5th) and Radha Raturi (8th)",
+      "Sarla Devi (4th) and Margaret Alva (7th)"
+    ],
+    "correct_option": 0,
+    "explanation": "Margaret Alva served as the 4th Governor (2009–2012) and Baby Rani Maurya served as the 7th Governor (2018–2021).",
+    "source_page": 12,
+    "correct_answer": "Margaret Alva (4th) and Baby Rani Maurya (7th)",
+    "set": "chapter1"
+  },
+  {
+    "id": "q154",
+    "chapter": "Uttarakhand - Political and Administrative Structure",
+    "topic": "Governors of Uttarakhand",
+    "difficulty": "easy",
+    "type": "direct",
+    "question": "Who became the 8th Governor of Uttarakhand on 15 September 2021?",
+    "options": [
+      "Dr. Aziz Qureshi",
+      "B.L. Joshi",
+      "Dr. Krishnakant Paul",
+      "Lt. Gen. Gurmit Singh"
+    ],
+    "correct_option": 3,
+    "explanation": "Lt. Gen. Gurmit Singh assumed office as the 8th Governor of Uttarakhand on 15 September 2021.",
+    "source_page": 12,
+    "correct_answer": "Lt. Gen. Gurmit Singh",
+    "set": "chapter1"
+  },
+  {
+    "id": "q155",
+    "chapter": "Uttarakhand - Political and Administrative Structure",
+    "topic": "Chief Ministers of Uttarakhand",
+    "difficulty": "easy",
+    "type": "direct",
+    "question": "Who were the first and second interim Chief Ministers of Uttarakhand, and who was the first elected Chief Minister?",
+    "options": [
+      "1st interim: Nityanand Swami; 2nd interim: Narayan Dutt Tiwari; 1st elected: Ramesh Pokhriyal Nishank",
+      "1st interim: Prakash Pant; 2nd interim: Bhagat Singh Koshyari; 1st elected: Narayan Dutt Tiwari",
+      "1st interim: Bhagat Singh Koshyari; 2nd interim: Nityanand Swami; 1st elected: Maj. Gen. B.C. Khanduri",
+      "1st interim: Nityanand Swami; 2nd interim: Bhagat Singh Koshyari; 1st elected: Narayan Dutt Tiwari"
+    ],
+    "correct_option": 3,
+    "explanation": "Nityanand Swami (9 Nov 2000 – 29 Oct 2001) and Bhagat Singh Koshyari (30 Oct 2001 – 1 Mar 2002) were interim CMs, while Narayan Dutt Tiwari (2002–2007) was the first elected CM.",
+    "source_page": 12,
+    "correct_answer": "1st interim: Nityanand Swami; 2nd interim: Bhagat Singh Koshyari; 1st elected: Narayan Dutt Tiwari",
+    "set": "chapter1"
+  },
+  {
+    "id": "q156",
+    "chapter": "Uttarakhand - Political and Administrative Structure",
+    "topic": "Chief Ministers of Uttarakhand",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "What is the correct chronological sequence of Chief Ministers of Uttarakhand from 2007 to 2017?",
+    "options": [
+      "B.C. Khanduri -> Ramesh Pokhriyal Nishank -> B.C. Khanduri -> Vijay Bahuguna -> Harish Rawat",
+      "Ramesh Pokhriyal Nishank -> B.C. Khanduri -> Vijay Bahuguna -> Harish Rawat -> Trivendra Singh Rawat",
+      "Vijay Bahuguna -> B.C. Khanduri -> Harish Rawat -> Ramesh Pokhriyal Nishank",
+      "B.C. Khanduri -> Vijay Bahuguna -> Ramesh Pokhriyal Nishank -> Harish Rawat"
+    ],
+    "correct_option": 0,
+    "explanation": "From 2007 to 2017, the Chief Ministers were Maj. Gen. B.C. Khanduri (4th), Dr. Ramesh Pokhriyal Nishank (5th), Maj. Gen. B.C. Khanduri (6th), Vijay Bahuguna (7th), and Harish Rawat (8th).",
+    "source_page": 12,
+    "correct_answer": "B.C. Khanduri -> Ramesh Pokhriyal Nishank -> B.C. Khanduri -> Vijay Bahuguna -> Harish Rawat",
+    "set": "chapter1"
+  },
+  {
+    "id": "q157",
+    "chapter": "Uttarakhand - Political and Administrative Structure",
+    "topic": "Legislative Assembly Speakers and Key Officials",
+    "difficulty": "easy",
+    "type": "direct",
+    "question": "Who was the first (interim) Speaker and who became the first woman Speaker of the Uttarakhand Legislative Assembly?",
+    "options": [
+      "Interim Speaker: Harbans Kapoor; First woman Speaker: Ritu Khanduri",
+      "Interim Speaker: Prakash Pant; First woman Speaker: Indira Hridayesh",
+      "Interim Speaker: Yashpal Arya; First woman Speaker: Vijaya Barthwal",
+      "Interim Speaker: Prakash Pant; First woman Speaker: Ritu Khanduri"
+    ],
+    "correct_option": 3,
+    "explanation": "Prakash Pant was the interim Assembly Speaker (2000–2002), Yashpal Arya was the first elected Speaker (2002–2007), and Ritu Khanduri became the 5th and first woman Speaker in 2022.",
+    "source_page": 12,
+    "correct_answer": "Interim Speaker: Prakash Pant; First woman Speaker: Ritu Khanduri",
+    "set": "chapter1"
+  },
+  {
+    "id": "q158",
+    "chapter": "Uttarakhand - Political and Administrative Structure",
+    "topic": "Judiciary and Legal Officers",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Who were the first Chief Justice of Uttarakhand High Court and the first Advocate General (in the interim government)?",
+    "options": [
+      "First Chief Justice: S.H.A. Raza; First Advocate General (interim): Surya Narayan Babulkar",
+      "First Chief Justice: Ashok Abhendra Desai; First Advocate General (interim): Meharban Singh Negi",
+      "First Chief Justice: Justice Guhanathan Narendra; First Advocate General (interim): Meharban Singh Negi",
+      "First Chief Justice: Ashok Abhendra Desai; First Advocate General (interim): L.P. Naithani"
+    ],
+    "correct_option": 3,
+    "explanation": "Ashok Abhendra Desai was the first Chief Justice (9 Nov – 5 Dec 2000), Justice Guhanathan Narendra is listed as the 14th Chief Justice (2025), L.P. Naithani was the first Advocate General in the interim government, and Meharban Singh Negi was the first in the elected government.",
+    "source_page": 12,
+    "correct_answer": "First Chief Justice: Ashok Abhendra Desai; First Advocate General (interim): L.P. Naithani",
+    "set": "chapter1"
+  },
+  {
+    "id": "q159",
+    "chapter": "Uttarakhand - Political and Administrative Structure",
+    "topic": "Administrative Divisions and Districts",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which six districts form the Kumaon division of Uttarakhand?",
+    "options": [
+      "Nainital, Almora, Udham Singh Nagar, Bageshwar, Champawat, and Haridwar",
+      "Almora, Pithoragarh, Bageshwar, Champawat, Pauri Garhwal, and Nainital",
+      "Nainital, Almora, Pithoragarh, Chamoli, Bageshwar, and Champawat",
+      "Nainital, Almora, Pithoragarh, Udham Singh Nagar, Bageshwar, and Champawat"
+    ],
+    "correct_option": 3,
+    "explanation": "The 6 districts in Kumaon division are Nainital, Almora, Pithoragarh, Udham Singh Nagar, Bageshwar, and Champawat.",
+    "source_page": 6,
+    "correct_answer": "Nainital, Almora, Pithoragarh, Udham Singh Nagar, Bageshwar, and Champawat",
+    "set": "chapter1"
+  },
+  {
+    "id": "q160",
+    "chapter": "Uttarakhand - Political and Administrative Structure",
+    "topic": "Administrative Divisions and Districts",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which seven districts form the Garhwal division of Uttarakhand?",
+    "options": [
+      "Chamoli, Uttarkashi, Dehradun, Pauri Garhwal, Tehri Garhwal, Haridwar, and Rudraprayag",
+      "Uttarkashi, Dehradun, Pauri Garhwal, Tehri Garhwal, Haridwar, Rudraprayag, and Bageshwar",
+      "Chamoli, Uttarkashi, Dehradun, Pauri Garhwal, Haridwar, Rudraprayag, and Almora",
+      "Chamoli, Uttarkashi, Dehradun, Pauri Garhwal, Tehri Garhwal, Nainital, and Rudraprayag"
+    ],
+    "correct_option": 0,
+    "explanation": "The 7 districts in Garhwal division are Chamoli, Uttarkashi, Dehradun, Pauri Garhwal, Tehri Garhwal, Haridwar, and Rudraprayag.",
+    "source_page": 6,
+    "correct_answer": "Chamoli, Uttarkashi, Dehradun, Pauri Garhwal, Tehri Garhwal, Haridwar, and Rudraprayag",
+    "set": "chapter1"
+  },
+  {
+    "id": "q161",
+    "chapter": "Uttarakhand - Political and Administrative Structure",
+    "topic": "Administrative Divisions and Districts",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "According to the State Statistical Diary 2022-23 table on page 6, what is the area of Uttarkashi district in square kilometers?",
+    "options": [
+      "8016",
+      "8030",
+      "7090",
+      "5329"
+    ],
+    "correct_option": 0,
+    "explanation": "Uttarkashi district has an area of 8,016 sq. km according to the State Statistical Diary 2022-23.",
+    "source_page": 6,
+    "correct_answer": "8016",
+    "set": "chapter1"
+  },
+  {
+    "id": "q162",
+    "chapter": "Uttarakhand - Political and Administrative Structure",
+    "topic": "Administrative Divisions and Districts",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "According to the State Statistical Diary 2022-23 table on page 6, what is the area of Pauri Garhwal district in square kilometers?",
+    "options": [
+      "4790",
+      "8016",
+      "5329",
+      "7090"
+    ],
+    "correct_option": 2,
+    "explanation": "Pauri Garhwal district has an area of 5,329 sq. km according to the State Statistical Diary 2022-23.",
+    "source_page": 6,
+    "correct_answer": "5329",
+    "set": "chapter1"
+  },
+  {
+    "id": "q163",
+    "chapter": "Uttarakhand - Political and Administrative Structure",
+    "topic": "Legislative Assembly and Lok Sabha",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which constituency in Haridwar district is reserved for Scheduled Castes (SC) on page 6?",
+    "options": [
+      "Laksar",
+      "Bhagwanpur",
+      "Roorkee",
+      "Jwalapur"
+    ],
+    "correct_option": 3,
+    "explanation": "Jwalapur in Haridwar district is listed as a Scheduled Caste (SC) reserved constituency.",
+    "source_page": 6,
+    "correct_answer": "Jwalapur",
+    "set": "chapter1"
+  },
+  {
+    "id": "q164",
+    "chapter": "Uttarakhand - Political and Administrative Structure",
+    "topic": "Legislative Assembly and Lok Sabha",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which constituency in Bageshwar district is reserved for Scheduled Castes (SC) on page 6?",
+    "options": [
+      "Garur",
+      "Kapkot",
+      "Bageshwar",
+      "Kanda"
+    ],
+    "correct_option": 2,
+    "explanation": "Bageshwar in Bageshwar district is listed as an SC reserved constituency alongside Kapkot.",
+    "source_page": 6,
+    "correct_answer": "Bageshwar",
+    "set": "chapter1"
+  },
+  {
+    "id": "q165",
+    "chapter": "Uttarakhand - Political and Administrative Structure",
+    "topic": "Tehsils and Development Blocks",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "How many tehsils are in Dehradun and Tehri Garhwal districts respectively according to page 7?",
+    "options": [
+      "7 in Dehradun and 11 in Tehri Garhwal",
+      "6 in Dehradun and 12 in Tehri Garhwal",
+      "7 in Dehradun and 13 in Tehri Garhwal",
+      "8 in Dehradun and 13 in Tehri Garhwal"
+    ],
+    "correct_option": 2,
+    "explanation": "Page 7 lists 7 tehsils in Dehradun and 13 tehsils in Tehri Garhwal.",
+    "source_page": 7,
+    "correct_answer": "7 in Dehradun and 13 in Tehri Garhwal",
+    "set": "chapter1"
+  },
+  {
+    "id": "q166",
+    "chapter": "Uttarakhand - Political and Administrative Structure",
+    "topic": "Tehsils and Development Blocks",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "How many development blocks are in Almora, Tehri Garhwal, and Nainital districts respectively according to page 7?",
+    "options": [
+      "11 in Almora, 9 in Tehri Garhwal, and 8 in Nainital",
+      "10 in Almora, 9 in Tehri Garhwal, and 7 in Nainital",
+      "12 in Almora, 10 in Tehri Garhwal, and 8 in Nainital",
+      "11 in Almora, 8 in Tehri Garhwal, and 9 in Nainital"
+    ],
+    "correct_option": 0,
+    "explanation": "Page 7 lists 11 development blocks in Almora, 9 in Tehri Garhwal, and 8 in Nainital.",
+    "source_page": 7,
+    "correct_answer": "11 in Almora, 9 in Tehri Garhwal, and 8 in Nainital",
+    "set": "chapter1"
+  },
+  {
+    "id": "q167",
+    "chapter": "Uttarakhand - Political and Administrative Structure",
+    "topic": "State Formation and Symbols",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Uttarakhand was formed as which numbered state of the Indian Republic on 9 November 2000?",
+    "options": [
+      "26th state",
+      "27th state",
+      "28th state",
+      "25th state"
+    ],
+    "correct_option": 1,
+    "explanation": "Uttaranchal/Uttarakhand was formed on 9 November 2000 as the 27th state of the Indian Republic.",
+    "source_page": 8,
+    "correct_answer": "27th state",
+    "set": "chapter1"
+  },
+  {
+    "id": "q168",
+    "chapter": "Uttarakhand - Political and Administrative Structure",
+    "topic": "State Formation and Symbols",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "In which month and year was Sanskrit made the second official language of Uttarakhand?",
+    "options": [
+      "February 2016",
+      "January 2007",
+      "January 2010",
+      "November 2000"
+    ],
+    "correct_option": 2,
+    "explanation": "Sanskrit was adopted as the second official language of Uttarakhand in January 2010.",
+    "source_page": 8,
+    "correct_answer": "January 2010",
+    "set": "chapter1"
+  },
+  {
+    "id": "q169",
+    "chapter": "Uttarakhand - Political and Administrative Structure",
+    "topic": "State Symbols - Flora and Fauna",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "What color is the state flower Brahma Kamal, and in which months does it bloom?",
+    "options": [
+      "Red flower; blooms in January–March",
+      "Violet/purple flower; blooms in July–September",
+      "White flower; blooms in October–December",
+      "Yellow flower; blooms in March–May"
+    ],
+    "correct_option": 1,
+    "explanation": "Brahma Kamal has a violet/purple hue and blooms from July to September.",
+    "source_page": 8,
+    "correct_answer": "Violet/purple flower; blooms in July–September",
+    "set": "chapter1"
+  },
+  {
+    "id": "q170",
+    "chapter": "Uttarakhand - Political and Administrative Structure",
+    "topic": "State Symbols - Flora and Fauna",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "At what altitude range is the state animal Musk Deer (Kasturi Mrig) primarily found in the Himalayas?",
+    "options": [
+      "4,500 to 5,500 meters",
+      "1,500 to 2,500 meters",
+      "3,600 to 4,400 meters",
+      "500 to 1,200 meters"
+    ],
+    "correct_option": 2,
+    "explanation": "Musk deer are typically found at altitudes between 3,600 and 4,400 meters.",
+    "source_page": 9,
+    "correct_answer": "3,600 to 4,400 meters",
+    "set": "chapter1"
+  },
+  {
+    "id": "q171",
+    "chapter": "Uttarakhand - Political and Administrative Structure",
+    "topic": "State Symbols - Flora and Fauna",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "What is the scientific name of the state bird Monal (Impeyan pheasant), and in which season does Burans (Rhododendron) bloom?",
+    "options": [
+      "Lophophorus impejanus; Burans blooms in spring/summer",
+      "Tragopan melanocephalus; Burans blooms in winter",
+      "Pavo cristatus; Burans blooms in monsoon",
+      "Lophophorus impejanus; Burans blooms in autumn"
+    ],
+    "correct_option": 0,
+    "explanation": "The scientific name of the state bird Monal is Lophophorus impejanus, and Burans blooms in spring/summer.",
+    "source_page": 9,
+    "correct_answer": "Lophophorus impejanus; Burans blooms in spring/summer",
+    "set": "chapter1"
+  },
+  {
+    "id": "q172",
+    "chapter": "Uttarakhand - Political and Administrative Structure",
+    "topic": "Judiciary, Police, and Revenue Administration",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "How many High Court judges were sanctioned/provided at the time of formation of the Uttarakhand High Court on 9 November 2000?",
+    "options": [
+      "5 (1 Chief Justice and 4 other judges)",
+      "11 (1 Chief Justice and 10 other judges)",
+      "7 (1 Chief Justice and 6 other judges)",
+      "9 (1 Chief Justice and 8 other judges)"
+    ],
+    "correct_option": 3,
+    "explanation": "At formation on 9 November 2000, provision was made for 9 judges (1 Chief Justice and 8 judges) in the Uttarakhand High Court.",
+    "source_page": 10,
+    "correct_answer": "9 (1 Chief Justice and 8 other judges)",
+    "set": "chapter1"
+  },
+  {
+    "id": "q173",
+    "chapter": "Uttarakhand - Political and Administrative Structure",
+    "topic": "Panchayati Raj and Rural Local Bodies",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "How many Kshetra Panchayats and Zila Panchayats exist in Uttarakhand, and how are they organized relative to blocks and districts?",
+    "options": [
+      "13 Kshetra Panchayats and 95 Zila Panchayats",
+      "95 Kshetra Panchayats and 2 Zila Panchayats (1 per division)",
+      "110 Kshetra Panchayats (1 per tehsil) and 13 Zila Panchayats",
+      "95 Kshetra Panchayats (1 per block) and 13 Zila Panchayats (1 per district)"
+    ],
+    "correct_option": 3,
+    "explanation": "There is 1 Kshetra Panchayat per development block (95 total) and 1 Zila Panchayat per district (13 total).",
+    "source_page": 11,
+    "correct_answer": "95 Kshetra Panchayats (1 per block) and 13 Zila Panchayats (1 per district)",
+    "set": "chapter1"
+  },
+  {
+    "id": "q174",
+    "chapter": "Uttarakhand - Political and Administrative Structure",
+    "topic": "Chief Ministers of Uttarakhand",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Who served as Chief Ministers of Uttarakhand from 2017 onward as listed on page 12?",
+    "options": [
+      "Trivendra Singh Rawat (9th), Tirath Singh Rawat (10th), and Pushkar Singh Dhami (11th & 12th)",
+      "Harish Rawat (9th), Trivendra Singh Rawat (10th), and Tirath Singh Rawat (11th)",
+      "Trivendra Singh Rawat (9th), Pushkar Singh Dhami (10th), and Tirath Singh Rawat (11th)",
+      "Tirath Singh Rawat (9th), Trivendra Singh Rawat (10th), and Pushkar Singh Dhami (11th)"
+    ],
+    "correct_option": 0,
+    "explanation": "Page 12 lists Trivendra Singh Rawat (9th), Tirath Singh Rawat (10th), and Pushkar Singh Dhami (11th and 12th Chief Minister).",
+    "source_page": 12,
+    "correct_answer": "Trivendra Singh Rawat (9th), Tirath Singh Rawat (10th), and Pushkar Singh Dhami (11th & 12th)",
+    "set": "chapter1"
+  },
+  {
+    "id": "q175",
+    "chapter": "Uttarakhand - Political and Administrative Structure",
+    "topic": "Major Appointments and Commissions",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Who were the first Chief Secretary, first Director General of Police (DGP), and first UKPSC Chairman of Uttarakhand?",
+    "options": [
+      "First Chief Secretary: S. Ramaswamy; First DGP: Deepam Seth; First UKPSC Chairman: Dr. Ravidatt Godiyal",
+      "First Chief Secretary: Anand Vardhan; First DGP: Ganesh Singh Martolia; First UKPSC Chairman: N.P. Navani",
+      "First Chief Secretary: Ajay Vikram Singh; First DGP: Ashok Kant Sharan; First UKPSC Chairman: N.P. Navani",
+      "First Chief Secretary: R.S. Tolia; First DGP: Ashok Kant Sharan; First UKPSC Chairman: R.B.S. Rawat"
+    ],
+    "correct_option": 2,
+    "explanation": "Ajay Vikram Singh was the first Chief Secretary, Ashok Kant Sharan was the first DGP, and N.P. Navani was the first Chairman of UKPSC.",
+    "source_page": 13,
+    "correct_answer": "First Chief Secretary: Ajay Vikram Singh; First DGP: Ashok Kant Sharan; First UKPSC Chairman: N.P. Navani",
+    "set": "chapter1"
+  },
+  {
+    "id": "q176",
+    "chapter": "Uttarakhand - Political and Administrative Structure",
+    "topic": "Major Appointments and Commissions",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Who were the first Chief Information Commissioner, first State Election Commissioner, and first Chairperson of the State Women's Commission in Uttarakhand?",
+    "options": [
+      "First CIC: Dr. R.S. Tolia; First SEC: Durgesh Joshi; First Women's Commission Chair: Dr. Santosh Chauhan",
+      "First CIC: Radha Raturi; First SEC: Sushil Kumar; First Women's Commission Chair: Kusum Kandwal",
+      "First CIC: Alok Kumar Jain; First SEC: Durgesh Joshi; First Women's Commission Chair: Dr. Geeta Khanna",
+      "First CIC: Dr. R.S. Tolia; First SEC: N. Ravishankar; First Women's Commission Chair: Leelawati Rana"
+    ],
+    "correct_option": 0,
+    "explanation": "Dr. R.S. Tolia was the first Chief Information Commissioner, Durgesh Joshi was the first State Election Commissioner, and Dr. (Smt.) Santosh Chauhan was the first Chairperson of the State Women's Commission.",
+    "source_page": 13,
+    "correct_answer": "First CIC: Dr. R.S. Tolia; First SEC: Durgesh Joshi; First Women's Commission Chair: Dr. Santosh Chauhan",
+    "set": "chapter1"
+  },
+  {
+    "id": "q177",
+    "chapter": "Uttarakhand - Historical Study",
+    "topic": "Prehistoric Period and Rock Shelters",
+    "difficulty": "easy",
+    "type": "direct",
+    "question": "In which year and by whom was the Lakhudiyar (Lakhu) rock shelter first discovered in Uttarakhand?",
+    "options": [
+      "1972 by Yashodhar Mathpal",
+      "1956 by Shiv Prasad Dabral",
+      "1968 by Dr. M.P. Joshi",
+      "1980 by K.P. Nautiyal"
+    ],
+    "correct_option": 2,
+    "explanation": "Lakhudiyar rock shelter (Almora) was first discovered in 1968 by Dr. M.P. Joshi.",
+    "source_page": 13,
+    "correct_answer": "1968 by Dr. M.P. Joshi",
+    "set": "chapter1"
+  },
+  {
+    "id": "q178",
+    "chapter": "Uttarakhand - Historical Study",
+    "topic": "Prehistoric Period and Rock Shelters",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "In which district are the prehistoric rock-shelter sites Lakhu, Lwethap, Phadkanauli, Phalsima, and Petshal located, and what do the Phalsima paintings depict?",
+    "options": [
+      "Chamoli district; hunting scenes in blue pigment",
+      "Pithoragarh district; copper anthropomorphs",
+      "Almora district; human figures in yoga and dance postures",
+      "Uttarkashi district; megalithic burials"
+    ],
+    "correct_option": 2,
+    "explanation": "Lakhu, Lwethap, Phadkanauli, Phalsima, and Petshal are located in Almora district; human figures in yoga and dance postures were found at Phalsima.",
+    "source_page": 13,
+    "correct_answer": "Almora district; human figures in yoga and dance postures",
+    "set": "chapter1"
+  },
+  {
+    "id": "q179",
+    "chapter": "Uttarakhand - Historical Study",
+    "topic": "Prehistoric Period and Rock Shelters",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "From which site in the Yamuna valley (Uttarkashi) were blue-colored rock paintings discovered, and in which district are Gwarkhya cave and Kimni village located?",
+    "options": [
+      "Kalsi (Dehradun); Almora district",
+      "Malari (Chamoli); Pithoragarh district",
+      "Devidhura (Champawat); Rudraprayag district",
+      "Hudli (Uttarkashi); Chamoli district"
+    ],
+    "correct_option": 3,
+    "explanation": "Blue-colored rock paintings were found at Hudli in Yamuna valley (Uttarkashi), while Gwarkhya cave and Kimni village rock shelters are in Chamoli district.",
+    "source_page": 13,
+    "correct_answer": "Hudli (Uttarkashi); Chamoli district",
+    "set": "chapter1"
+  },
+  {
+    "id": "q180",
+    "chapter": "Uttarakhand - Historical Study",
+    "topic": "Megalithic and Chalcolithic Sites",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "From which sites in Pithoragarh were 8 and 5 copper anthropomorphic figures (Tamra Manavakritiyan) discovered respectively?",
+    "options": [
+      "Bankot (8) and Nainipatal (5)",
+      "Nainipatal (8) and Bankot (5)",
+      "Devidhura (8) and Jaskot (5)",
+      "Malari (8) and Bahadrabad (5)"
+    ],
+    "correct_option": 0,
+    "explanation": "8 copper anthropomorphic figures were found at Bankot and 5 at Nainipatal in Pithoragarh district.",
+    "source_page": 14,
+    "correct_answer": "Bankot (8) and Nainipatal (5)",
+    "set": "chapter1"
+  },
+  {
+    "id": "q181",
+    "chapter": "Uttarakhand - Historical Study",
+    "topic": "Proto-Historic and Vedic/Puranic References",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "From which archaeological site in Chamoli were iron tools, a bronze bowl, human skeletons, and a gold mask discovered?",
+    "options": [
+      "Kimni village (Chamoli)",
+      "Gopeshwar (Chamoli)",
+      "Mana (Chamoli)",
+      "Malari village (Chamoli)"
+    ],
+    "correct_option": 3,
+    "explanation": "Iron tools, a bronze bowl, human skeletons, and a gold mask were excavated from Malari village in Chamoli.",
+    "source_page": 14,
+    "correct_answer": "Malari village (Chamoli)",
+    "set": "chapter1"
+  },
+  {
+    "id": "q182",
+    "chapter": "Uttarakhand - Historical Study",
+    "topic": "Proto-Historic and Vedic/Puranic References",
+    "difficulty": "easy",
+    "type": "direct",
+    "question": "In which religious text is the first mention of Uttarakhand found, and what terms are used for the region in the Vedas and Aitareya Brahmana?",
+    "options": [
+      "Samaveda; 'Alkapuri' in Vedas and 'Khasdesha' in Aitareya Brahmana",
+      "Rigveda; 'Hemavata/Devbhumi' in Vedas and 'Uttara-Kuru' in Aitareya Brahmana",
+      "Atharvaveda; 'Brahmadesha' in Vedas and 'Himavanta' in Aitareya Brahmana",
+      "Yajurveda; 'Manaskhand' in Vedas and 'Kedarkhand' in Aitareya Brahmana"
+    ],
+    "correct_option": 1,
+    "explanation": "Uttarakhand is first mentioned in the Rigveda (called Hemavata, Devbhumi, and sacred land of sages), and referred to as Uttara-Kuru in the Aitareya Brahmana.",
+    "source_page": 14,
+    "correct_answer": "Rigveda; 'Hemavata/Devbhumi' in Vedas and 'Uttara-Kuru' in Aitareya Brahmana",
+    "set": "chapter1"
+  },
+  {
+    "id": "q183",
+    "chapter": "Uttarakhand - Historical Study",
+    "topic": "Proto-Historic and Vedic/Puranic References",
+    "difficulty": "easy",
+    "type": "direct",
+    "question": "In the Skanda Purana, what names are given to the Garhwal region (from Haridwar to Shwet Parvat) and the Kumaon region (from Nanda Devi to Kalagiri) respectively?",
+    "options": [
+      "Kedarkhand (Garhwal) and Manaskhand (Kumaon)",
+      "Brahmadesha (Garhwal) and Khasdesha (Kumaon)",
+      "Uttarakuru (Garhwal) and Kurmachal (Kumaon)",
+      "Manaskhand (Garhwal) and Kedarkhand (Kumaon)"
+    ],
+    "correct_option": 0,
+    "explanation": "Skanda Purana divides Uttarakhand into Kedarkhand (Haridwar/Mayakshetra to Shwet Parvat = Garhwal) and Manaskhand (Nanda Devi to Kalagiri = Kumaon).",
+    "source_page": 14,
+    "correct_answer": "Kedarkhand (Garhwal) and Manaskhand (Kumaon)",
+    "set": "chapter1"
+  },
+  {
+    "id": "q184",
+    "chapter": "Uttarakhand - Historical Study",
+    "topic": "Proto-Historic and Vedic/Puranic References",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which place in Kumaon is referred to as 'Ramakshetra' in Manaskhand, and what was the capital of Kubera and the mythological king Banasura respectively?",
+    "options": [
+      "Nainital; Kubera's capital: Alkapuri; Banasura's capital: Devprayag",
+      "Bageshwar; Kubera's capital: Badrikashram; Banasura's capital: Srinagar",
+      "Almora; Kubera's capital: Alkapuri; Banasura's capital: Jyotishpur",
+      "Champawat; Kubera's capital: Jyotishpur; Banasura's capital: Alkapuri"
+    ],
+    "correct_option": 2,
+    "explanation": "Almora is called Ramakshetra in Manaskhand; Alkapuri was the residence/capital of Manu and Kubera, and Jyotishpur was Banasura's capital.",
+    "source_page": 14,
+    "correct_answer": "Almora; Kubera's capital: Alkapuri; Banasura's capital: Jyotishpur",
+    "set": "chapter1"
+  },
+  {
+    "id": "q185",
+    "chapter": "Uttarakhand - Historical Study",
+    "topic": "Proto-Historic and Vedic/Puranic References",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Where did Lord Rama and Lakshmana perform penance in their final days according to traditional accounts on page 14?",
+    "options": [
+      "Lord Rama at Devprayag and Lakshmana at Tapovan (Tehri Garhwal)",
+      "Lord Rama at Rishikesh and Lakshmana at Haridwar",
+      "Lord Rama at Tapovan and Lakshmana at Devprayag",
+      "Lord Rama at Badrikashram and Lakshmana at Kedarnath"
+    ],
+    "correct_option": 0,
+    "explanation": "Lord Rama performed penance at Devprayag and Lakshmana at Tapovan (Tehri Garhwal).",
+    "source_page": 14,
+    "correct_answer": "Lord Rama at Devprayag and Lakshmana at Tapovan (Tehri Garhwal)",
+    "set": "chapter1"
+  },
+  {
+    "id": "q186",
+    "chapter": "Uttarakhand - Historical Study",
+    "topic": "Proto-Historic and Vedic/Puranic References",
+    "difficulty": "easy",
+    "type": "direct",
+    "question": "Which two major Vidyapeeths (centers of learning) existed in Garhwal in ancient times, and where did Kalidasa compose Abhijnanashakuntalam?",
+    "options": [
+      "Kanvashram and Devprayag; Kalidasa composed Abhijnanashakuntalam at Srinagar",
+      "Badrikashram and Jyotishpur; Kalidasa composed Abhijnanashakuntalam at Badrikashram",
+      "Tapovan and Badrikashram; Kalidasa composed Abhijnanashakuntalam at Kotdwar",
+      "Badrikashram and Kanvashram; Kalidasa composed Abhijnanashakuntalam at Kanvashram (on the Malini river)"
+    ],
+    "correct_option": 3,
+    "explanation": "Badrikashram and Kanvashram were the two ancient Vidyapeeths in Garhwal. Kanvashram (Pauri), located on the Malini river, is associated with Dushyanta-Shakuntala, the birth of Emperor Bharata, and Kalidasa's Abhijnanashakuntalam.",
+    "source_page": 14,
+    "correct_answer": "Badrikashram and Kanvashram; Kalidasa composed Abhijnanashakuntalam at Kanvashram (on the Malini river)",
+    "set": "chapter1"
+  },
+  {
+    "id": "q187",
+    "chapter": "Uttarakhand - Historical Study",
+    "topic": "Ancient Tribes and Epigraphic Sites",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "What does the Jakhan Devi temple in Almora confirm, and where is the most famous Naga temple 'Benag' or 'Berinag' located?",
+    "options": [
+      "Inhabitation of Nagas; Berinag is located in Almora",
+      "Inhabitation of Kiratas; Berinag is located in Bageshwar",
+      "Inhabitation of Yakshas; Berinag is located in Pithoragarh",
+      "Inhabitation of Khasas; Berinag is located in Champawat"
+    ],
+    "correct_option": 2,
+    "explanation": "Jakhan Devi temple in Almora confirms the ancient habitation of Yakshas, while the famous Naga temple Benag/Berinag is in Pithoragarh.",
+    "source_page": 14,
+    "correct_answer": "Inhabitation of Yakshas; Berinag is located in Pithoragarh",
+    "set": "chapter1"
+  },
+  {
+    "id": "q188",
+    "chapter": "Uttarakhand - Historical Study",
+    "topic": "Ancient Dynasties - Kunindas, Sakas, Kushanas",
+    "difficulty": "easy",
+    "type": "direct",
+    "question": "Who were the first political power to rule over Uttarakhand, and who was their most powerful ruler?",
+    "options": [
+      "Kuninda dynasty; Amoghabhuti",
+      "Katyuri dynasty; Lalitsur Dev",
+      "Parmar dynasty; Ajaypal",
+      "Chand dynasty; Somchand"
+    ],
+    "correct_option": 0,
+    "explanation": "The Kunindas were the first political power to rule Uttarakhand, and Amoghabhuti was their most powerful king.",
+    "source_page": 15,
+    "correct_answer": "Kuninda dynasty; Amoghabhuti",
+    "set": "chapter1"
+  },
+  {
+    "id": "q189",
+    "chapter": "Uttarakhand - Historical Study",
+    "topic": "Ancient Dynasties - Kunindas, Sakas, Kushanas",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "What are the date, language, and script of the Ashokan inscription discovered at Kalsi (Dehradun)?",
+    "options": [
+      "250 BCE, Pali language, Kutila script",
+      "257 BCE, Sanskrit language, Brahmi script",
+      "261 BCE, Sanskrit language, Kharoshthi script",
+      "257 BCE, Prakrit language, Brahmi script"
+    ],
+    "correct_option": 3,
+    "explanation": "The Ashokan rock edict at Kalsi (Dehradun) dates to 257 BCE and is written in Prakrit language and Brahmi script.",
+    "source_page": 15,
+    "correct_answer": "257 BCE, Prakrit language, Brahmi script",
+    "set": "chapter1"
+  },
+  {
+    "id": "q190",
+    "chapter": "Uttarakhand - Historical Study",
+    "topic": "Ancient Dynasties - Kunindas, Sakas, Kushanas",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Whose inscription was found at Lakhamandal, and from which two places were Trident (Trishul) inscriptions discovered?",
+    "options": [
+      "Lalitaditya at Lakhamandal; Trident inscriptions at Pandukeshwar and Kandara",
+      "Princess Ishvara at Lakhamandal; Trident inscriptions at Gopeshwar and Barahat",
+      "Amoghabhuti at Lakhamandal; Trident inscriptions at Kalsi and Mana",
+      "Basantdev at Lakhamandal; Trident inscriptions at Baijnath and Champawat"
+    ],
+    "correct_option": 1,
+    "explanation": "The Lakhamandal inscription belongs to Princess Ishvara, while Trident (Trishul) inscriptions were found at Gopeshwar and Barahat (Uttarkashi).",
+    "source_page": 15,
+    "correct_answer": "Princess Ishvara at Lakhamandal; Trident inscriptions at Gopeshwar and Barahat",
+    "set": "chapter1"
+  },
+  {
+    "id": "q191",
+    "chapter": "Uttarakhand - Historical Study",
+    "topic": "Ancient Dynasties - Kunindas, Sakas, Kushanas",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "What did Xuanzang (Hiuen Tsang) call Uttarakhand and Haridwar during his visit in Harsha's reign, and what area did he state for Haridwar?",
+    "options": [
+      "Uttarakhand: Uttara-Kuru; Haridwar: Gangadwar, area 15 Li",
+      "Uttarakhand: Kartripura; Haridwar: Mayapuri, area 50 Li",
+      "Uttarakhand: Po-li-hi-mo-pu-lo (Brahmapura); Haridwar: Mo-yu-lo (Mayurpur), area 20 Li",
+      "Uttarakhand: Kurmachal; Haridwar: Kapilasthana, area 30 Li"
+    ],
+    "correct_option": 2,
+    "explanation": "Xuanzang called Uttarakhand Po-li-hi-mo-pu-lo (Brahmapura) and Haridwar Mo-yu-lo (Mayurpur), stating Haridwar's area as 20 Li.",
+    "source_page": 15,
+    "correct_answer": "Uttarakhand: Po-li-hi-mo-pu-lo (Brahmapura); Haridwar: Mo-yu-lo (Mayurpur), area 20 Li",
+    "set": "chapter1"
+  },
+  {
+    "id": "q192",
+    "chapter": "Uttarakhand - Historical Study",
+    "topic": "Kartikeyapura (Katyuri) Dynasty",
+    "difficulty": "easy",
+    "type": "direct",
+    "question": "Which dynasty is regarded as the first historical dynasty of Uttarakhand, what was its official language, and in which script are its inscriptions written?",
+    "options": [
+      "Chand dynasty; Kumaoni language; Devanagari script",
+      "Maukharis; Sanskrit language; Gupta script",
+      "Kartikeyapura (Katyuri) dynasty; Sanskrit language; Kutila script",
+      "Kuninda dynasty; Prakrit language; Brahmi script"
+    ],
+    "correct_option": 2,
+    "explanation": "The Kartikeyapura (Katyuri) dynasty (c. 700–1050 CE) is the first historical dynasty of Uttarakhand; its official language was Sanskrit and its inscriptions are in Kutila script.",
+    "source_page": 15,
+    "correct_answer": "Kartikeyapura (Katyuri) dynasty; Sanskrit language; Kutila script",
+    "set": "chapter1"
+  },
+  {
+    "id": "q193",
+    "chapter": "Uttarakhand - Historical Study",
+    "topic": "Kartikeyapura (Katyuri) Dynasty",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Where were the initial capital (for the first 300 years) and the subsequent capital of the Kartikeyapura dynasty located?",
+    "options": [
+      "Initially Srinagar (Pauri), later Chandpurgarhi",
+      "Initially Joshimath (Chamoli), later Almora",
+      "Initially Kartikeyapura (Chamoli), later Baijnath valley (Bageshwar)",
+      "Initially Baijnath (Bageshwar), later Champawat"
+    ],
+    "correct_option": 2,
+    "explanation": "For the first 300 years, the capital was Kartikeyapura in Chamoli, and thereafter it shifted to the Garur-Baijnath valley in Bageshwar.",
+    "source_page": 15,
+    "correct_answer": "Initially Kartikeyapura (Chamoli), later Baijnath valley (Bageshwar)",
+    "set": "chapter1"
+  },
+  {
+    "id": "q194",
+    "chapter": "Uttarakhand - Historical Study",
+    "topic": "Kartikeyapura (Katyuri) Dynasty",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Who was the first king of the first family of Kartikeyapura, and which rulers succeeded him in the second and third families?",
+    "options": [
+      "First king: Basantdev; followed by Kharparadeva dynasty and then Nimbar dynasty",
+      "First king: Nimbar; followed by Ishtagandev and then Lalitsur Dev",
+      "First king: Lalitsur Dev; followed by Bhudev and then Basantdev",
+      "First king: Kharparadeva; followed by Basantdev and then Bhudev"
+    ],
+    "correct_option": 0,
+    "explanation": "Basantdev was the first king of the first Kartikeyapura family, followed by the Kharparadeva dynasty and then the Nimbar dynasty.",
+    "source_page": 15,
+    "correct_answer": "First king: Basantdev; followed by Kharparadeva dynasty and then Nimbar dynasty",
+    "set": "chapter1"
+  },
+  {
+    "id": "q195",
+    "chapter": "Uttarakhand - Historical Study",
+    "topic": "Kartikeyapura (Katyuri) Dynasty",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Which Kartikeyapura ruler built the Navadurga, Mahishasuramardini, Lakulisha, and Nataraja temples at Jageshwar, and who was the most powerful ruler of the dynasty?",
+    "options": [
+      "Basantdev built the Jageshwar temples; Ishtagandev was the most powerful ruler",
+      "Lalitsur Dev built the Jageshwar temples; Nimbar was the most powerful ruler",
+      "Bhudev built the Jageshwar temples; Basantdev was the most powerful ruler",
+      "Ishtagandev built the Jageshwar temples; Lalitsur Dev was the most powerful ruler"
+    ],
+    "correct_option": 3,
+    "explanation": "Nimbar's son Ishtagandev built the Navadurga, Mahishasuramardini, Lakulisha, and Nataraja temples at Jageshwar; his son Lalitsur Dev was the most powerful ruler (praised as Varahavatara in the Pandukeshwar copper plate), and Lalitsur Dev's son Bhudev built temples at Baijnath.",
+    "source_page": 15,
+    "correct_answer": "Ishtagandev built the Jageshwar temples; Lalitsur Dev was the most powerful ruler",
+    "set": "chapter1"
+  },
+  {
+    "id": "q196",
+    "chapter": "Uttarakhand - Historical Study",
+    "topic": "Adi Shankaracharya and Early Chand Dynasty",
+    "difficulty": "easy",
+    "type": "direct",
+    "question": "During the reign of which dynasty did Adi Shankaracharya arrive in Uttarakhand, and in which year/place did he leave his mortal body?",
+    "options": [
+      "Parmar rulers; 850 CE at Kedarnath",
+      "Kartikeyapura rulers; 820 CE at Kedarnath",
+      "Chand rulers; 820 CE at Badrinath",
+      "Kuninda rulers; 788 CE at Joshimath"
+    ],
+    "correct_option": 1,
+    "explanation": "Adi Shankaracharya arrived during the Kartikeyapura period and left his body at Kedarnath in 820 CE.",
+    "source_page": 15,
+    "correct_answer": "Kartikeyapura rulers; 820 CE at Kedarnath",
+    "set": "chapter1"
+  },
+  {
+    "id": "q197",
+    "chapter": "Uttarakhand - Historical Study",
+    "topic": "Chand Dynasty of Kumaon",
+    "difficulty": "easy",
+    "type": "direct",
+    "question": "Under whose leadership was the Chand dynasty established in Kumaon around 1025 CE, and where was its capital until 1562 CE?",
+    "options": [
+      "Gyanchand; capital at Pali-Pachhaun until 1562 CE",
+      "Somchand; capital at Champawat until 1562 CE",
+      "Indrachand; capital at Almora until 1562 CE",
+      "Balo Kalyan Chand; capital at Champawat until 1562 CE"
+    ],
+    "correct_option": 1,
+    "explanation": "Somchand established the Chand dynasty around 1025 CE, with Champawat as its capital until 1562 CE (shifted to Almora in 1563 CE by Baldeo/Balo Kalyan Chand).",
+    "source_page": 15,
+    "correct_answer": "Somchand; capital at Champawat until 1562 CE",
+    "set": "chapter1"
+  },
+  {
+    "id": "q198",
+    "chapter": "Uttarakhand - Historical Study",
+    "topic": "Chand Dynasty of Kumaon",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which Chand ruler started silk and silk-textile production, and which Chand ruler received the title 'Garuda' from Delhi Sultan Firoz Shah?",
+    "options": [
+      "Silk production: 4th ruler Indrachand; 'Garuda' title: Gyanchand",
+      "Silk production: Balo Kalyan Chand; 'Garuda' title: Gyanchand",
+      "Silk production: Indrachand; 'Garuda' title: Rudrachand",
+      "Silk production: Somchand; 'Garuda' title: Bharatichand"
+    ],
+    "correct_option": 0,
+    "explanation": "The 4th Chand ruler Indrachand started silk production, while Gyanchand presented gifts to Sultan Firoz Shah, received the title 'Garuda', and is called 'Sri Raja Vijay Brahma' in the Majhera copper plate.",
+    "source_page": 15,
+    "correct_answer": "Silk production: 4th ruler Indrachand; 'Garuda' title: Gyanchand",
+    "set": "chapter1"
+  },
+  {
+    "id": "q199",
+    "chapter": "Uttarakhand - Historical Study",
+    "topic": "Chand Dynasty of Kumaon",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "In which year did King Ashok Challa of Nepal attack and subjugate Kumaon, and which Chand ruler later defeated the Nepali Challa rulers to free Kumaon?",
+    "options": [
+      "1191 CE; freed by Bharatichand",
+      "1398 CE; freed by Gyanchand",
+      "1025 CE; freed by Somchand",
+      "1563 CE; freed by Balo Kalyan Chand"
+    ],
+    "correct_option": 0,
+    "explanation": "Nepali ruler Ashok Challa conquered Kumaon in 1191 CE, and Chand ruler Bharatichand later defeated the Nepali Challa vassals to liberate Kumaon.",
+    "source_page": 15,
+    "correct_answer": "1191 CE; freed by Bharatichand",
+    "set": "chapter1"
   }
 ]

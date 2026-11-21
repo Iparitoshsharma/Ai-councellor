@@ -1,5 +1,13 @@
-export default function HomePage({ settings, totalInBank, onStart, goSettings }) {
+export default function HomePage({
+  settings,
+  totalInBank,
+  chapter1Count,
+  onStart,
+  onStartChapter1,
+  goSettings,
+}) {
   const testSize = Math.min(settings.questionsPerTest, totalInBank)
+  const chapter1Size = Math.min(settings.questionsPerTest, chapter1Count)
 
   return (
     <div>
@@ -9,12 +17,14 @@ export default function HomePage({ settings, totalInBank, onStart, goSettings })
       </header>
 
       <section className="card hero-card">
+        <p className="hero-kicker">Full mock test</p>
         <p className="hero-line">
           <strong>{testSize}</strong> questions
         </p>
         <p className="hero-sub">
-          {settings.timerEnabled ? `${settings.durationMinutes} minute timer` : 'Untimed'} ·
-          {' −'}{settings.negativeMarks} per wrong answer
+          Mixed from all {totalInBank} questions ·{' '}
+          {settings.timerEnabled ? `${settings.durationMinutes} minute timer` : 'Untimed'} ·{' '}
+          {'\u2212'}{settings.negativeMarks} per wrong answer
         </p>
         <button className="btn btn-primary btn-big" onClick={onStart}>
           Start the test
@@ -23,6 +33,21 @@ export default function HomePage({ settings, totalInBank, onStart, goSettings })
           Wrong answers lose {settings.negativeMarks} mark{settings.negativeMarks === '1' ? '' : 's'}.
           Answered but unsure questions lose nothing if correct.
         </p>
+      </section>
+
+      <section className="card chapter-card">
+        <p className="hero-kicker">Chapter 1 mock test</p>
+        <p className="chapter-title">
+          Uttarakhand &mdash; Political and Administrative Structure
+        </p>
+        <p className="hero-sub">
+          {chapter1Size} questions from this chapter &middot; picked from{' '}
+          {chapter1Count} &middot;{' '}
+          {settings.timerEnabled ? `${settings.durationMinutes} minute timer` : 'Untimed'}
+        </p>
+        <button className="btn btn-primary btn-big" onClick={onStartChapter1}>
+          Start Chapter 1 test
+        </button>
       </section>
 
       <button className="btn btn-ghost" onClick={goSettings}>
