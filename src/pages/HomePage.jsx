@@ -42,17 +42,63 @@ export default function HomePage({
       <div className="card-grid">
         {chapters.map((ch) => {
           const size = Math.min(settings.questionsPerTest, ch.count)
+          const topics = [...new Set(ch.questions.map((q) => q.topic))]
+          const diff = { easy: 0, medium: 0, hard: 0 }
+          ch.questions.forEach((q) => {
+            diff[q.difficulty] = (diff[q.difficulty] || 0) + 1
+          })
           return (
             <section className="card tile" key={ch.id}>
               <p className="tile-title">{ch.name}</p>
-              <p className="tile-sub">
-                {ch.count} questions &middot; {size} per test
+
+              <div className="tile-stats">
+                <div className="stat">
+                  <span className="stat-num">{ch.count}</span>
+                  <span className="stat-label">questions</span>
+                </div>
+                <div className="stat">
+                  <span className="stat-num">{size}</span>
+                  <span className="stat-label">per test</span>
+                </div>
+                <div className="stat">
+                  <span className="stat-num">{topics.length}</span>
+                  <span className="stat-label">topics</span>
+                </div>
+                <div className="stat">
+                  <span className="stat-num">
+                    {settings.timerEnabled ? settings.durationMinutes : '\u221E'}
+                  </span>
+                  <span className="stat-label">
+                    {settings.timerEnabled ? 'min timer' : 'untimed'}
+                  </span>
+                </div>
+              </div>
+
+              <div className="diff-bar" title={`${diff.easy} easy · ${diff.medium} medium · ${diff.hard} hard`}>
+                {diff.easy > 0 && (
+                  <span className="diff-seg diff-easy" style={{ flexGrow: diff.easy }} />
+                )}
+                {diff.medium > 0 && (
+                  <span className="diff-seg diff-medium" style={{ flexGrow: diff.medium }} />
+                )}
+                {diff.hard > 0 && (
+                  <span className="diff-seg diff-hard" style={{ flexGrow: diff.hard }} />
+                )}
+              </div>
+              <p className="diff-legend">
+                {diff.easy} easy · {diff.medium} medium · {diff.hard} hard
               </p>
+
+              <p className="tile-topics">
+                {topics.slice(0, 3).join(' · ')}
+                {topics.length > 3 ? ` +${topics.length - 3} more` : ''}
+              </p>
+
               <button
                 className="btn btn-primary"
                 onClick={() => onSelectPool(ch.id)}
               >
-                Start
+                Start chapter test
               </button>
             </section>
           )
@@ -60,16 +106,42 @@ export default function HomePage({
 
         <section className="card tile">
           <p className="hero-kicker">Questionnaire</p>
-          <p className="tile-title">Chapter 1 full set</p>
-          <p className="tile-sub">
-            {chapter1Count} questions &middot;{' '}
-            {Math.min(settings.questionsPerTest, chapter1Count)} per test
+          <p className="tile-title">Chapter 1 full set (pages 6&ndash;15)</p>
+
+          <div className="tile-stats">
+            <div className="stat">
+              <span className="stat-num">{chapter1Count}</span>
+              <span className="stat-label">questions</span>
+            </div>
+            <div className="stat">
+              <span className="stat-num">
+                {Math.min(settings.questionsPerTest, chapter1Count)}
+              </span>
+              <span className="stat-label">per test</span>
+            </div>
+            <div className="stat">
+              <span className="stat-num">2</span>
+              <span className="stat-label">chapters</span>
+            </div>
+            <div className="stat">
+              <span className="stat-num">
+                {settings.timerEnabled ? settings.durationMinutes : '\u221E'}
+              </span>
+              <span className="stat-label">
+                {settings.timerEnabled ? 'min timer' : 'untimed'}
+              </span>
+            </div>
+          </div>
+
+          <p className="tile-topics">
+            Political &amp; Administrative Structure · Historical Study
           </p>
+
           <button
             className="btn btn-primary"
             onClick={() => onSelectPool('chapter1')}
           >
-            Start
+            Start Chapter 1 set
           </button>
         </section>
       </div>
