@@ -13487,5 +13487,4153 @@
     "explanation": "Effective governance translates constitutional institutions and public policies into equitable, sustainable outcomes for citizens.",
     "source_page": 53,
     "correct_answer": "Responsive, transparent, and inclusive governance that delivers constitutional rights, public services, and welfare sustainably across Uttarakhand's diverse hill and plain regions"
+  },
+  {
+    "id": "q749",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Energy Overview and Capacity",
+    "difficulty": "easy",
+    "type": "direct",
+    "question": "Despite lacking coal and petroleum, which resource gives Uttarakhand its main energy potential?",
+    "options": [
+      "Water (hydropower)",
+      "Coal",
+      "Petroleum",
+      "Natural gas"
+    ],
+    "correct_option": 0,
+    "explanation": "The state has a vast water reserve, so hydropower has wide potential.",
+    "source_page": 315
+  },
+  {
+    "id": "q750",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Energy Overview and Capacity",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "As per the Centre's assessment, how much hydropower could the state generate if small hydro projects were developed on China's pattern?",
+    "options": [
+      "About 10,000 MW",
+      "About 40,000 MW",
+      "About 25,000 MW",
+      "About 60,000 MW"
+    ],
+    "correct_option": 1,
+    "explanation": "The book cites roughly 40,000 MW of potential.",
+    "source_page": 315
+  },
+  {
+    "id": "q751",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Energy Overview and Capacity",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Out of the 40,000 MW potential, how much capacity of new projects has been identified?",
+    "options": [
+      "12,716 MW",
+      "40 thousand MW",
+      "25 thousand MW",
+      "15 thousand MW"
+    ],
+    "correct_option": 2,
+    "explanation": "New projects of about 25 thousand MW have been identified.",
+    "source_page": 315
+  },
+  {
+    "id": "q752",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Energy Overview and Capacity",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Construction had begun on about 12,716 MW of new projects. How many projects was this?",
+    "options": [
+      "25",
+      "40",
+      "86",
+      "59"
+    ],
+    "correct_option": 3,
+    "explanation": "About 12,716 MW across 59 new projects had begun construction.",
+    "source_page": 315
+  },
+  {
+    "id": "q753",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Energy Overview and Capacity",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Why was construction of many hydro projects stopped after the disaster?",
+    "options": [
+      "Environmental reasons",
+      "Shortage of funds",
+      "Land disputes",
+      "Court order on royalty"
+    ],
+    "correct_option": 0,
+    "explanation": "Work on many projects was halted on environmental grounds.",
+    "source_page": 315
+  },
+  {
+    "id": "q754",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Energy Overview and Capacity",
+    "difficulty": "easy",
+    "type": "direct",
+    "question": "What share of free electricity does the state receive as royalty from projects set up by other states or the Centre?",
+    "options": [
+      "10%",
+      "12%",
+      "15%",
+      "18%"
+    ],
+    "correct_option": 1,
+    "explanation": "The state gets 12% free power as royalty.",
+    "source_page": 315
+  },
+  {
+    "id": "q755",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Energy Overview and Capacity",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Up to 2022-23, how many of the state's villages had been electrified by the Uttarakhand Power Corporation?",
+    "options": [
+      "263",
+      "16793",
+      "15745",
+      "15501"
+    ],
+    "correct_option": 2,
+    "explanation": "15745 villages were electrified by UPCL.",
+    "source_page": 315
+  },
+  {
+    "id": "q756",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Energy Overview and Capacity",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Up to 2022-23, how many villages in difficult areas had been electrified through solar energy by UREDA?",
+    "options": [
+      "15745",
+      "86",
+      "191",
+      "263"
+    ],
+    "correct_option": 3,
+    "explanation": "UREDA electrified 263 villages in difficult areas via solar energy.",
+    "source_page": 315
+  },
+  {
+    "id": "q757",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Energy Overview and Capacity",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "According to the CEA report (March 2025), what was the state's total installed capacity in February 2025?",
+    "options": [
+      "4517.76 MW",
+      "4157.76 MW",
+      "5417.76 MW",
+      "3517.76 MW"
+    ],
+    "correct_option": 0,
+    "explanation": "Installed capacity: 4517.76 MW.",
+    "source_page": 315
+  },
+  {
+    "id": "q758",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Energy Overview and Capacity",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "What was the hydropower share of the installed capacity in February 2025?",
+    "options": [
+      "1361.50 MW",
+      "2155.89 MW",
+      "969.13 MW",
+      "31.24 MW"
+    ],
+    "correct_option": 1,
+    "explanation": "Hydro: 2155.89 MW.",
+    "source_page": 315
+  },
+  {
+    "id": "q759",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Energy Overview and Capacity",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "What was the thermal energy capacity in February 2025?",
+    "options": [
+      "2155.89 MW",
+      "969.13 MW",
+      "1361.50 MW",
+      "31.24 MW"
+    ],
+    "correct_option": 2,
+    "explanation": "Thermal: 1361.50 MW.",
+    "source_page": 315
+  },
+  {
+    "id": "q760",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Energy Overview and Capacity",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "What was the renewable energy capacity in February 2025?",
+    "options": [
+      "1361.50 MW",
+      "2155.89 MW",
+      "31.24 MW",
+      "969.13 MW"
+    ],
+    "correct_option": 3,
+    "explanation": "Renewable: 969.13 MW.",
+    "source_page": 315
+  },
+  {
+    "id": "q761",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Energy Overview and Capacity",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "What was the nuclear (atomic) energy contribution in February 2025?",
+    "options": [
+      "31.24 MW",
+      "3.12 MW",
+      "312.4 MW",
+      "13.24 MW"
+    ],
+    "correct_option": 0,
+    "explanation": "Nuclear: 31.24 MW.",
+    "source_page": 315
+  },
+  {
+    "id": "q762",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Energy Overview and Capacity",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "What is the state government sector's share of installed capacity?",
+    "options": [
+      "1892.96 MW (41.90%)",
+      "1459.52 MW (32.08%)",
+      "1165.28 MW (25.79%)",
+      "1459.52 MW (41.90%)"
+    ],
+    "correct_option": 1,
+    "explanation": "State government: 1459.52 MW (32.08%).",
+    "source_page": 315
+  },
+  {
+    "id": "q763",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Energy Overview and Capacity",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "What is the private sector's share of installed capacity?",
+    "options": [
+      "1459.52 MW (32.08%)",
+      "1165.28 MW (25.79%)",
+      "1892.96 MW (41.90%)",
+      "1892.96 MW (32.08%)"
+    ],
+    "correct_option": 2,
+    "explanation": "Private sector: 1892.96 MW (41.90%).",
+    "source_page": 315
+  },
+  {
+    "id": "q764",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Energy Overview and Capacity",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "What is the Central government sector's share of installed capacity?",
+    "options": [
+      "1459.52 MW (32.08%)",
+      "1892.96 MW (41.90%)",
+      "1165.28 MW (32.08%)",
+      "1165.28 MW (25.79%)"
+    ],
+    "correct_option": 3,
+    "explanation": "Central sector: 1165.28 MW (25.79%).",
+    "source_page": 315
+  },
+  {
+    "id": "q765",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Energy Overview and Capacity",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which sector holds the largest share of the state's installed capacity?",
+    "options": [
+      "Private sector",
+      "State government",
+      "Central government",
+      "All three are equal"
+    ],
+    "correct_option": 0,
+    "explanation": "Private sector has the largest share (41.90%).",
+    "source_page": 315
+  },
+  {
+    "id": "q766",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Energy Overview and Capacity",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "What was the state's estimated peak demand during 2023-24?",
+    "options": [
+      "2365 MW",
+      "2635 MW",
+      "3526 MW",
+      "4517 MW"
+    ],
+    "correct_option": 1,
+    "explanation": "Peak demand in 2023-24 was 2635 MW.",
+    "source_page": 315
+  },
+  {
+    "id": "q767",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Energy Overview and Capacity",
+    "difficulty": "easy",
+    "type": "direct",
+    "question": "Why does the state have to buy electricity from external sources?",
+    "options": [
+      "Its hydro plants are closed",
+      "It has no transmission lines",
+      "Its production is much lower than its consumption",
+      "Outside power is free"
+    ],
+    "correct_option": 2,
+    "explanation": "Generation is far below consumption, so power is purchased.",
+    "source_page": 315
+  },
+  {
+    "id": "q768",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Energy Policies",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Under the state's energy policy, how many previously unfinished small hydro projects are to be run by the state hydro corporation?",
+    "options": [
+      "10",
+      "25",
+      "5",
+      "15"
+    ],
+    "correct_option": 3,
+    "explanation": "15 small unfinished hydro projects are to be run by the state hydro corporation.",
+    "source_page": 315
+  },
+  {
+    "id": "q769",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Energy Policies",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "With the help of Power Grid Corporation, three new substations are to be built at which places?",
+    "options": [
+      "Roorkee, Kichha and Pithoragarh",
+      "Dehradun, Haldwani and Almora",
+      "Roorkee, Rudrapur and Champawat",
+      "Kichha, Kashipur and Pithoragarh"
+    ],
+    "correct_option": 0,
+    "explanation": "Substations at Roorkee, Kichha and Pithoragarh.",
+    "source_page": 315
+  },
+  {
+    "id": "q770",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Energy Policies",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "What kind of regulatory body was to be formed to implement the energy policy?",
+    "options": [
+      "A three-member Energy Board",
+      "A one-member Electricity Regulatory Commission",
+      "An Electricity Tribunal",
+      "A State Power Authority"
+    ],
+    "correct_option": 1,
+    "explanation": "A one-member electricity regulatory commission was to be set up.",
+    "source_page": 315
+  },
+  {
+    "id": "q771",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Energy Policies",
+    "difficulty": "easy",
+    "type": "direct",
+    "question": "Hydro projects up to what capacity are classified as small projects in the state's policy?",
+    "options": [
+      "5 MW",
+      "15 MW",
+      "25 MW",
+      "50 MW"
+    ],
+    "correct_option": 2,
+    "explanation": "Up to 25 MW: small; above 25 MW: large.",
+    "source_page": 315
+  },
+  {
+    "id": "q772",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Energy Policies",
+    "difficulty": "easy",
+    "type": "direct",
+    "question": "Projects above what capacity are called large projects?",
+    "options": [
+      "5 MW",
+      "10 MW",
+      "100 MW",
+      "25 MW"
+    ],
+    "correct_option": 3,
+    "explanation": "Projects above 25 MW are large projects.",
+    "source_page": 315
+  },
+  {
+    "id": "q773",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Energy Policies",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "When was the Renewable Energy Policy declared in the state?",
+    "options": [
+      "29 January 2008",
+      "3 August 2018",
+      "1 April 2001",
+      "12 February 2001"
+    ],
+    "correct_option": 0,
+    "explanation": "Renewable Energy Policy: 29 January 2008.",
+    "source_page": 315
+  },
+  {
+    "id": "q774",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Energy Policies",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Under the 2008 policy, hydro projects up to what capacity are allotted to local people?",
+    "options": [
+      "5 MW",
+      "25 MW",
+      "10 MW",
+      "50 MW"
+    ],
+    "correct_option": 1,
+    "explanation": "Hydro projects up to 25 MW can be allotted to local people.",
+    "source_page": 315
+  },
+  {
+    "id": "q775",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Energy Policies",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Hydro projects below 5 MW are exempt from royalty for how many years?",
+    "options": [
+      "5 years",
+      "10 years",
+      "15 years",
+      "25 years"
+    ],
+    "correct_option": 2,
+    "explanation": "Royalty exemption for 15 years.",
+    "source_page": 315
+  },
+  {
+    "id": "q776",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Energy Policies",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "After the exemption period, what royalty is charged on projects below 5 MW?",
+    "options": [
+      "12%",
+      "15%",
+      "25%",
+      "18%"
+    ],
+    "correct_option": 3,
+    "explanation": "After 15 years, 18% royalty is levied.",
+    "source_page": 315
+  },
+  {
+    "id": "q777",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Energy Policies",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Under the 2008 policy, the premium was reduced from Rs 5 lakh per MW to Rs 5000 per application. What was the earlier premium?",
+    "options": [
+      "Rs 5 lakh per MW",
+      "Rs 25,000 per MW",
+      "Rs 50 lakh per MW",
+      "Rs 1 lakh per MW"
+    ],
+    "correct_option": 0,
+    "explanation": "Premium was cut from Rs 5 lakh per MW to Rs 5000 per application.",
+    "source_page": 315
+  },
+  {
+    "id": "q778",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Energy Policies",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "What is the application processing fee under the 2008 renewable energy policy?",
+    "options": [
+      "Rs 5,000",
+      "Rs 25,000",
+      "Rs 5 lakh",
+      "Rs 2,500"
+    ],
+    "correct_option": 1,
+    "explanation": "Processing fee: Rs 25,000.",
+    "source_page": 315
+  },
+  {
+    "id": "q779",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Energy Policies",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Proposals for setting up projects are approved by a committee headed by whom?",
+    "options": [
+      "The Chief Minister",
+      "The Energy Secretary",
+      "The Chief Secretary",
+      "The Governor"
+    ],
+    "correct_option": 2,
+    "explanation": "The committee is headed by the Chief Secretary.",
+    "source_page": 315
+  },
+  {
+    "id": "q780",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Energy Policies",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "On what date was the Pirul-based Energy Policy brought out by the state government?",
+    "options": [
+      "29 January 2008",
+      "March 2023",
+      "1 June 2004",
+      "3 August 2018"
+    ],
+    "correct_option": 3,
+    "explanation": "Pirul energy policy: 3 August 2018.",
+    "source_page": 316
+  },
+  {
+    "id": "q781",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Energy Policies",
+    "difficulty": "easy",
+    "type": "direct",
+    "question": "What is 'Pirul' in the state's energy policy?",
+    "options": [
+      "Chir pine needles",
+      "Deodar leaves",
+      "Sal bark",
+      "Bamboo shoots"
+    ],
+    "correct_option": 0,
+    "explanation": "Pirul means chir pine needles used for bio-energy.",
+    "source_page": 316
+  },
+  {
+    "id": "q782",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Energy Policies",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "What share of the state's total forest area do chir pine trees cover?",
+    "options": [
+      "6.36%",
+      "16.36% (about 4 lakh hectares)",
+      "26.36%",
+      "11.36%"
+    ],
+    "correct_option": 1,
+    "explanation": "Chir covers 16.36% (about 4 lakh ha) of forest area.",
+    "source_page": 316
+  },
+  {
+    "id": "q783",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Energy Policies",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "About how much pirul is produced annually by chir trees?",
+    "options": [
+      "About 2.3 lakh metric tons",
+      "About 5 lakh metric tons",
+      "About 23 lakh metric tons",
+      "About 40 lakh metric tons"
+    ],
+    "correct_option": 2,
+    "explanation": "Roughly 23 lakh metric tons of pirul each year.",
+    "source_page": 316
+  },
+  {
+    "id": "q784",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Energy Policies",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "What is the pirul-based power generation target by 2030?",
+    "options": [
+      "50 MW",
+      "250 MW",
+      "500 MW",
+      "100 MW"
+    ],
+    "correct_option": 3,
+    "explanation": "Target: 100 MW by 2030.",
+    "source_page": 316
+  },
+  {
+    "id": "q785",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Energy Policies",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "How many pirul-based power plants had been set up in the state?",
+    "options": [
+      "6",
+      "3",
+      "10",
+      "15"
+    ],
+    "correct_option": 0,
+    "explanation": "A total of 6 pirul power plants have been set up.",
+    "source_page": 316
+  },
+  {
+    "id": "q786",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Energy Policies",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "The 'Pirul Lao-Paise Pao' campaign was launched in May 2024 from which district?",
+    "options": [
+      "Pauri Garhwal",
+      "Rudraprayag",
+      "Almora",
+      "Nainital"
+    ],
+    "correct_option": 1,
+    "explanation": "The campaign started in Rudraprayag district.",
+    "source_page": 316
+  },
+  {
+    "id": "q787",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Energy Policies",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "What was the aim of the 'Pirul Lao-Paise Pao' campaign?",
+    "options": [
+      "To conserve soil",
+      "To increase rainfall",
+      "To prevent forest fires",
+      "To clean rivers"
+    ],
+    "correct_option": 2,
+    "explanation": "It was launched to prevent forest fire incidents.",
+    "source_page": 316
+  },
+  {
+    "id": "q788",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Energy Policies",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "When was the Solar Energy Policy approved?",
+    "options": [
+      "March 2018",
+      "January 2025",
+      "October 2020",
+      "March 2023"
+    ],
+    "correct_option": 3,
+    "explanation": "Solar Energy Policy approved in March 2023.",
+    "source_page": 316
+  },
+  {
+    "id": "q789",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Energy Policies",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "How much solar capacity was available in the state by January 2025?",
+    "options": [
+      "593.07 MW",
+      "539.07 MW",
+      "953.07 MW",
+      "2500 MW"
+    ],
+    "correct_option": 0,
+    "explanation": "593.07 MW as of January 2025.",
+    "source_page": 316
+  },
+  {
+    "id": "q790",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Energy Policies",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "What is the solar capacity target for 2027 under the Solar Energy Policy 2023?",
+    "options": [
+      "1000 MW",
+      "2500 MW",
+      "5000 MW",
+      "593.07 MW"
+    ],
+    "correct_option": 1,
+    "explanation": "Target by 2027: 2500 MW.",
+    "source_page": 316
+  },
+  {
+    "id": "q791",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Energy Policies",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Under the Solar Energy Policy 2023, who can set up a solar project on leased government land?",
+    "options": [
+      "Only state companies",
+      "Only UPCL",
+      "Any person",
+      "Only residents of hill districts"
+    ],
+    "correct_option": 2,
+    "explanation": "Any person can lease government land for a solar project.",
+    "source_page": 316
+  },
+  {
+    "id": "q792",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Energy Policies",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "What share of jobs in such solar projects must go to local youth?",
+    "options": [
+      "50 percent",
+      "30 percent",
+      "100 percent",
+      "70 percent"
+    ],
+    "correct_option": 3,
+    "explanation": "70% employment to local youth.",
+    "source_page": 316
+  },
+  {
+    "id": "q793",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Energy Policies",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which agency has been tasked with creating a land bank for solar projects?",
+    "options": [
+      "UREDA",
+      "UJVNL",
+      "PTCUL",
+      "THDC"
+    ],
+    "correct_option": 0,
+    "explanation": "UREDA prepares the land bank of government lands and buildings.",
+    "source_page": 316
+  },
+  {
+    "id": "q794",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Energy Policies",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which body buys power directly and mandatorily from solar project developers under the policy?",
+    "options": [
+      "PTCUL",
+      "UPCL",
+      "UJVNL",
+      "THDC"
+    ],
+    "correct_option": 1,
+    "explanation": "UPCL buys the electricity.",
+    "source_page": 316
+  },
+  {
+    "id": "q795",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Energy Policies",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Under the 2023 solar policy, where can solar projects set up through UPCL's guidance be located?",
+    "options": [
+      "Only in plains",
+      "Only in Dehradun",
+      "Outside the state also",
+      "Only in hill districts"
+    ],
+    "correct_option": 2,
+    "explanation": "Projects can also be set up outside the state.",
+    "source_page": 316
+  },
+  {
+    "id": "q796",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Power Corporations and Agencies",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "When was the Uttarakhand Power Corporation (U.P.C.) formed in the new state?",
+    "options": [
+      "9 November 2000",
+      "12 February 2001",
+      "1 June 2004",
+      "1 April 2001"
+    ],
+    "correct_option": 3,
+    "explanation": "Formed on 1 April 2001.",
+    "source_page": 316
+  },
+  {
+    "id": "q797",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Power Corporations and Agencies",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Into how many separate companies were generation, transmission and distribution divided?",
+    "options": [
+      "Three",
+      "Two",
+      "Four",
+      "Five"
+    ],
+    "correct_option": 0,
+    "explanation": "Three separate corporations: UJVNL, PTCUL and UPCL.",
+    "source_page": 316
+  },
+  {
+    "id": "q798",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Power Corporations and Agencies",
+    "difficulty": "easy",
+    "type": "direct",
+    "question": "When was UJVN Limited (Uttarakhand Jal Vidyut Nigam) formed?",
+    "options": [
+      "1 April 2001",
+      "12 February 2001",
+      "1 June 2004",
+      "July 2001"
+    ],
+    "correct_option": 1,
+    "explanation": "UJVN Ltd formed on 12 February 2001.",
+    "source_page": 316
+  },
+  {
+    "id": "q799",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Power Corporations and Agencies",
+    "difficulty": "easy",
+    "type": "direct",
+    "question": "What is the main purpose of UJVN Limited?",
+    "options": [
+      "Power transmission",
+      "Power distribution",
+      "Increasing hydropower generation",
+      "Promoting solar energy"
+    ],
+    "correct_option": 2,
+    "explanation": "It was formed to maximise hydropower generation.",
+    "source_page": 316
+  },
+  {
+    "id": "q800",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Power Corporations and Agencies",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "UJVNL's hydro stations range from 1.5 MW up to how many MW?",
+    "options": [
+      "240 MW",
+      "1000 MW",
+      "90 MW",
+      "304 MW"
+    ],
+    "correct_option": 3,
+    "explanation": "Plants range from 1.5 MW to 304 MW.",
+    "source_page": 316
+  },
+  {
+    "id": "q801",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Power Corporations and Agencies",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Approximately how much hydropower does UJVNL generate?",
+    "options": [
+      "About 1420 MW",
+      "About 304 MW",
+      "About 2400 MW",
+      "About 500 MW"
+    ],
+    "correct_option": 0,
+    "explanation": "About 1420 MW from 20+ hydro generating centres.",
+    "source_page": 316
+  },
+  {
+    "id": "q802",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Power Corporations and Agencies",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "How much solar capacity does UJVNL currently produce, approximately?",
+    "options": [
+      "265.4 MW",
+      "26.54 MW",
+      "2.654 MW",
+      "593.07 MW"
+    ],
+    "correct_option": 1,
+    "explanation": "About 26.54 MW from solar plants.",
+    "source_page": 316
+  },
+  {
+    "id": "q803",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Power Corporations and Agencies",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Nadehi (16 MW) and Bajpur (22 MW) bagasse-based power plants are being set up in which district?",
+    "options": [
+      "Haridwar",
+      "Nainital",
+      "Udham Singh Nagar",
+      "Dehradun"
+    ],
+    "correct_option": 2,
+    "explanation": "Two plants for sugar mills in Udham Singh Nagar.",
+    "source_page": 316
+  },
+  {
+    "id": "q804",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Power Corporations and Agencies",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "When was Tehri Hydro Development Corporation (THDC) established?",
+    "options": [
+      "12 February 2001",
+      "1 June 2004",
+      "July 2001",
+      "12 July 1988"
+    ],
+    "correct_option": 3,
+    "explanation": "THDC established on 12 July 1988.",
+    "source_page": 316
+  },
+  {
+    "id": "q805",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Power Corporations and Agencies",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "What is THDC's power generation objective?",
+    "options": [
+      "2400 MW",
+      "1000 MW",
+      "1400 MW",
+      "600 MW"
+    ],
+    "correct_option": 0,
+    "explanation": "THDC's objective is 2400 MW.",
+    "source_page": 316
+  },
+  {
+    "id": "q806",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Power Corporations and Agencies",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "In which month and year was Tehri project's construction taken over from the UP Irrigation Department by THDC?",
+    "options": [
+      "February 1972",
+      "February 1989",
+      "January 1978",
+      "July 1988"
+    ],
+    "correct_option": 1,
+    "explanation": "Taken over in February 1989.",
+    "source_page": 316
+  },
+  {
+    "id": "q807",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Power Corporations and Agencies",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "When did THDC get the status of a Mini Ratna Category-I company?",
+    "options": [
+      "July 1988",
+      "February 1989",
+      "October 2009",
+      "March 2023"
+    ],
+    "correct_option": 2,
+    "explanation": "Mini Ratna Category-I in October 2009.",
+    "source_page": 316
+  },
+  {
+    "id": "q808",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Power Corporations and Agencies",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Which American consultancy was contracted in February 2023 to assess the state's energy needs for the next two years?",
+    "options": [
+      "Deloitte",
+      "Accenture",
+      "Bain",
+      "McKinsey"
+    ],
+    "correct_option": 3,
+    "explanation": "McKinsey was contracted in February 2023.",
+    "source_page": 316
+  },
+  {
+    "id": "q809",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Power Corporations and Agencies",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "When was PTCUL (Power Transmission Corporation of Uttarakhand) formed?",
+    "options": [
+      "1 June 2004",
+      "1 April 2001",
+      "July 2001",
+      "12 February 2001"
+    ],
+    "correct_option": 0,
+    "explanation": "PTCUL formed on 1 June 2004.",
+    "source_page": 317
+  },
+  {
+    "id": "q810",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Power Corporations and Agencies",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "What is PTCUL's main function?",
+    "options": [
+      "Distribution below 132 kV",
+      "Preparing a network for transmission of 132 kV and higher power",
+      "Solar promotion",
+      "Hydropower generation"
+    ],
+    "correct_option": 1,
+    "explanation": "PTCUL handles transmission of 132 kV and above.",
+    "source_page": 317
+  },
+  {
+    "id": "q811",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Power Corporations and Agencies",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "What is the role of UPCL (Uttarakhand Power Corporation Limited)?",
+    "options": [
+      "Generating hydropower",
+      "Transmission above 132 kV",
+      "Distributing electricity to consumers; controls stations below 132 kV",
+      "Developing renewable energy"
+    ],
+    "correct_option": 2,
+    "explanation": "UPCL distributes electricity and controls stations below 132 kV.",
+    "source_page": 317
+  },
+  {
+    "id": "q812",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Power Corporations and Agencies",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "UPCL was formed in which year?",
+    "options": [
+      "2004",
+      "1988",
+      "2002",
+      "2001"
+    ],
+    "correct_option": 3,
+    "explanation": "UPCL was formed in 2001.",
+    "source_page": 317
+  },
+  {
+    "id": "q813",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Power Corporations and Agencies",
+    "difficulty": "easy",
+    "type": "direct",
+    "question": "When was UREDA (Uttarakhand Renewable Energy Development Agency) established?",
+    "options": [
+      "July 2001",
+      "April 2001",
+      "February 2001",
+      "June 2004"
+    ],
+    "correct_option": 0,
+    "explanation": "UREDA established in July 2001.",
+    "source_page": 317
+  },
+  {
+    "id": "q814",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Power Corporations and Agencies",
+    "difficulty": "easy",
+    "type": "direct",
+    "question": "Where is the headquarters of UREDA?",
+    "options": [
+      "Haldwani",
+      "Dehradun",
+      "Haridwar",
+      "Almora"
+    ],
+    "correct_option": 1,
+    "explanation": "Headquarters in Dehradun, with regional offices in all districts.",
+    "source_page": 317
+  },
+  {
+    "id": "q815",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Power Corporations and Agencies",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "UREDA is the state's nodal agency for what?",
+    "options": [
+      "Thermal power",
+      "Power transmission",
+      "New and renewable energy and energy conservation programmes",
+      "Power regulation"
+    ],
+    "correct_option": 2,
+    "explanation": "It is the nodal agency for renewable energy and conservation.",
+    "source_page": 317
+  },
+  {
+    "id": "q816",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Power Corporations and Agencies",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Power generation at the Sapteshwar small hydro project in Champawat is done by which agency?",
+    "options": [
+      "UJVNL",
+      "THDC",
+      "UPCL",
+      "UREDA"
+    ],
+    "correct_option": 3,
+    "explanation": "Sapteshwar project generation is done by UREDA.",
+    "source_page": 317
+  },
+  {
+    "id": "q817",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Power Corporations and Agencies",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "In which districts have watermill (panchakki) owner associations been set up?",
+    "options": [
+      "Chamoli, Uttarkashi, Dehradun, Rudraprayag and Tehri",
+      "Almora, Pithoragarh, Nainital, Champawat and Bageshwar",
+      "Haridwar, Udham Singh Nagar, Dehradun, Pauri and Tehri",
+      "Chamoli, Pauri, Haridwar, Nainital and Almora"
+    ],
+    "correct_option": 0,
+    "explanation": "Associations exist in these five districts.",
+    "source_page": 317
+  },
+  {
+    "id": "q818",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Power Corporations and Agencies",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "When did the Central Government grant small-industry status to watermills (panchakki)?",
+    "options": [
+      "July 2001",
+      "April 2001",
+      "June 2004",
+      "February 2001"
+    ],
+    "correct_option": 1,
+    "explanation": "April 2001.",
+    "source_page": 317
+  },
+  {
+    "id": "q819",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Power Corporations and Agencies",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "When was the Uttarakhand Electricity Regulatory Commission (UERC) established?",
+    "options": [
+      "September 2001",
+      "February 2001",
+      "September 2002",
+      "June 2004"
+    ],
+    "correct_option": 2,
+    "explanation": "UERC established in September 2002.",
+    "source_page": 317
+  },
+  {
+    "id": "q820",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Power Corporations and Agencies",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "What is the purpose of the UERC?",
+    "options": [
+      "Building dams",
+      "Promoting solar power",
+      "Rural electrification",
+      "Regulating the electricity business and fixing power tariffs"
+    ],
+    "correct_option": 3,
+    "explanation": "It regulates the electricity business and tariff.",
+    "source_page": 317
+  },
+  {
+    "id": "q821",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Operating Hydro Projects",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Small hydro projects began to be established in the state from which period?",
+    "options": [
+      "1906-07",
+      "1950-51",
+      "1912",
+      "1976-78"
+    ],
+    "correct_option": 0,
+    "explanation": "Small hydro projects started in 1906-07.",
+    "source_page": 317
+  },
+  {
+    "id": "q822",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Operating Hydro Projects",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "What is the capacity of the Galogi hydro project?",
+    "options": [
+      "5.0 MW",
+      "3.5 MW",
+      "35 MW",
+      "1.5 MW"
+    ],
+    "correct_option": 1,
+    "explanation": "Galogi: 3.5 MW.",
+    "source_page": 317
+  },
+  {
+    "id": "q823",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Operating Hydro Projects",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Galogi is located on which route?",
+    "options": [
+      "Rishikesh-Haridwar road",
+      "Nainital-Haldwani road",
+      "Mussoorie-Dehradun route, between Kyarkuli and Bhatta village",
+      "Almora-Kathgodam road"
+    ],
+    "correct_option": 2,
+    "explanation": "On the Mussoorie-Dehradun route.",
+    "source_page": 317
+  },
+  {
+    "id": "q824",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Operating Hydro Projects",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "In which year did the British begin the Galogi hydro power station?",
+    "options": [
+      "1912",
+      "1906",
+      "1920",
+      "1907"
+    ],
+    "correct_option": 3,
+    "explanation": "Galogi started in 1907.",
+    "source_page": 317
+  },
+  {
+    "id": "q825",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Operating Hydro Projects",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "On what date was Galogi's electricity first used to light homes, making it the first such hydro station?",
+    "options": [
+      "9 November 1912",
+      "9 November 1907",
+      "12 February 1912",
+      "9 November 2000"
+    ],
+    "correct_option": 0,
+    "explanation": "9 November 1912.",
+    "source_page": 317
+  },
+  {
+    "id": "q826",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Operating Hydro Projects",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which agency operates and maintains the Galogi project?",
+    "options": [
+      "THDC",
+      "UJVNL",
+      "UPCL",
+      "UREDA"
+    ],
+    "correct_option": 1,
+    "explanation": "Operated and maintained by UJVNL.",
+    "source_page": 318
+  },
+  {
+    "id": "q827",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Operating Hydro Projects",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Galogi still operates while the plants at which places have closed?",
+    "options": [
+      "Shimla, Mumbai and Chennai",
+      "Kolkata, Delhi and Pune",
+      "Chamba, Darjeeling and Mysore",
+      "Kullu, Ooty and Munnar"
+    ],
+    "correct_option": 2,
+    "explanation": "Plants at Chamba, Darjeeling and Mysore started with Galogi have closed.",
+    "source_page": 317
+  },
+  {
+    "id": "q828",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Operating Hydro Projects",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "On which canal is the Pathri hydro project (20.40 MW) located?",
+    "options": [
+      "Sharda canal",
+      "Yamuna canal",
+      "Asan canal",
+      "Ganga canal"
+    ],
+    "correct_option": 3,
+    "explanation": "Pathri project is on the Ganga canal in Haridwar.",
+    "source_page": 317
+  },
+  {
+    "id": "q829",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Operating Hydro Projects",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "On which river is the Khatima project (41.40 MW) located?",
+    "options": [
+      "Sharda",
+      "Tons",
+      "Ramganga",
+      "Yamuna"
+    ],
+    "correct_option": 0,
+    "explanation": "Khatima: Sharda river, Udham Singh Nagar.",
+    "source_page": 317
+  },
+  {
+    "id": "q830",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Operating Hydro Projects",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "In which year was the Khatima hydro project established?",
+    "options": [
+      "1965",
+      "1955",
+      "1975",
+      "1943"
+    ],
+    "correct_option": 1,
+    "explanation": "Khatima: 1955.",
+    "source_page": 317
+  },
+  {
+    "id": "q831",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Operating Hydro Projects",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "What is the capacity of the Lohia Head project?",
+    "options": [
+      "20.40 MW",
+      "41.40 MW",
+      "27.60 MW",
+      "30 MW"
+    ],
+    "correct_option": 2,
+    "explanation": "Lohia Head: 27.60 MW on the Sharda.",
+    "source_page": 317
+  },
+  {
+    "id": "q832",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Operating Hydro Projects",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "On which river is the Kulhal project (30 MW) located?",
+    "options": [
+      "Tons",
+      "Sharda",
+      "Ramganga",
+      "Asan"
+    ],
+    "correct_option": 3,
+    "explanation": "Kulhal: Asan river, Dehradun.",
+    "source_page": 317
+  },
+  {
+    "id": "q833",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Operating Hydro Projects",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "What is the capacity of the Dhakrani project?",
+    "options": [
+      "33.75 MW",
+      "51 MW",
+      "30 MW",
+      "41.40 MW"
+    ],
+    "correct_option": 0,
+    "explanation": "Dhakrani: 33.75 MW on Tons, Dehradun.",
+    "source_page": 317
+  },
+  {
+    "id": "q834",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Operating Hydro Projects",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "What is the capacity of the Dhalipur project?",
+    "options": [
+      "33.75 MW",
+      "51 MW",
+      "240 MW",
+      "41.40 MW"
+    ],
+    "correct_option": 1,
+    "explanation": "Dhalipur: 51 MW.",
+    "source_page": 317
+  },
+  {
+    "id": "q835",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Operating Hydro Projects",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "What is the capacity of the Chibro project?",
+    "options": [
+      "198 MW",
+      "144 MW",
+      "240 MW",
+      "120 MW"
+    ],
+    "correct_option": 2,
+    "explanation": "Chibro: 240 MW on the Tons, Dehradun.",
+    "source_page": 317
+  },
+  {
+    "id": "q836",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Operating Hydro Projects",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Which of the following sets of Dehradun projects are all on the Tons river (Tons-Yamuna)?",
+    "options": [
+      "Dhakrani, Kulhal and Vyasi",
+      "Chibro, Khodri and Chilla",
+      "Dhalipur, Khodri and Pathri",
+      "Dhakrani, Dhalipur and Chibro"
+    ],
+    "correct_option": 3,
+    "explanation": "Dhakrani, Dhalipur and Chibro are on the Tons.",
+    "source_page": 317
+  },
+  {
+    "id": "q837",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Operating Hydro Projects",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "What is the capacity of the Ramganga (Kalagarh) project?",
+    "options": [
+      "198 MW",
+      "240 MW",
+      "144 MW",
+      "120 MW"
+    ],
+    "correct_option": 0,
+    "explanation": "Ramganga (Kalagarh): 198 MW.",
+    "source_page": 317
+  },
+  {
+    "id": "q838",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Operating Hydro Projects",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "In which district is the Ramganga (Kalagarh) project located?",
+    "options": [
+      "Nainital",
+      "Pauri Garhwal",
+      "Dehradun",
+      "Almora"
+    ],
+    "correct_option": 1,
+    "explanation": "Ramganga project is in Pauri Garhwal.",
+    "source_page": 317
+  },
+  {
+    "id": "q839",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Operating Hydro Projects",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "On which river is the Chilla project (144 MW) located?",
+    "options": [
+      "Ramganga",
+      "Yamuna",
+      "Ganga",
+      "Bhagirathi"
+    ],
+    "correct_option": 2,
+    "explanation": "Chilla: Ganga river, Pauri.",
+    "source_page": 317
+  },
+  {
+    "id": "q840",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Operating Hydro Projects",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "On which river is the Khodri project (120 MW) located?",
+    "options": [
+      "Tons",
+      "Ganga",
+      "Asan",
+      "Yamuna"
+    ],
+    "correct_option": 3,
+    "explanation": "Khodri: Yamuna, Dehradun.",
+    "source_page": 317
+  },
+  {
+    "id": "q841",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Operating Hydro Projects",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "In which district is the Tanakpur project (120 MW) located?",
+    "options": [
+      "Champawat",
+      "Udham Singh Nagar",
+      "Pithoragarh",
+      "Almora"
+    ],
+    "correct_option": 0,
+    "explanation": "Tanakpur: Sharda river, Champawat.",
+    "source_page": 317
+  },
+  {
+    "id": "q842",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Operating Hydro Projects",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "On which river is the Urgam project (3.0 MW, 2018) located?",
+    "options": [
+      "Alaknanda",
+      "Kalpganga",
+      "Mandakini",
+      "Dhauliganga"
+    ],
+    "correct_option": 1,
+    "explanation": "Urgam: Kalpganga, Chamoli.",
+    "source_page": 317
+  },
+  {
+    "id": "q843",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Operating Hydro Projects",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "In which district is the Pilangad project (2.25 MW) located?",
+    "options": [
+      "Tehri Garhwal",
+      "Chamoli",
+      "Uttarkashi",
+      "Rudraprayag"
+    ],
+    "correct_option": 2,
+    "explanation": "Pilangad: Bhagirathi, Uttarkashi (2004).",
+    "source_page": 317
+  },
+  {
+    "id": "q844",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Operating Hydro Projects",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "In which district are the Kaliganga-I and Kaliganga-II projects located?",
+    "options": [
+      "Chamoli",
+      "Uttarkashi",
+      "Pithoragarh",
+      "Rudraprayag"
+    ],
+    "correct_option": 3,
+    "explanation": "Both Kaliganga projects are on the Kaliganga in Rudraprayag.",
+    "source_page": 317
+  },
+  {
+    "id": "q845",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Operating Hydro Projects",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "What is the capacity of the Maneri Bhali-I project?",
+    "options": [
+      "90 MW",
+      "304 MW",
+      "480 MW",
+      "120 MW"
+    ],
+    "correct_option": 0,
+    "explanation": "Maneri Bhali-I: 90 MW on the Bhagirathi.",
+    "source_page": 317
+  },
+  {
+    "id": "q846",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Operating Hydro Projects",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "What is the capacity of the Maneri Bhali-II project?",
+    "options": [
+      "90 MW",
+      "304 MW",
+      "480 MW",
+      "120 MW"
+    ],
+    "correct_option": 1,
+    "explanation": "Maneri Bhali-II: 304 MW on the Bhagirathi.",
+    "source_page": 317
+  },
+  {
+    "id": "q847",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Operating Hydro Projects",
+    "difficulty": "easy",
+    "type": "direct",
+    "question": "In which district are the Maneri Bhali projects located?",
+    "options": [
+      "Tehri Garhwal",
+      "Chamoli",
+      "Uttarkashi",
+      "Dehradun"
+    ],
+    "correct_option": 2,
+    "explanation": "On the Bhagirathi in Uttarkashi.",
+    "source_page": 317
+  },
+  {
+    "id": "q848",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Operating Hydro Projects",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "What is the capacity of the Vyasi project (2021)?",
+    "options": [
+      "51 MW",
+      "240 MW",
+      "304 MW",
+      "120 MW"
+    ],
+    "correct_option": 3,
+    "explanation": "Vyasi: 120 MW on the Yamuna, Dehradun.",
+    "source_page": 317
+  },
+  {
+    "id": "q849",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Operating Hydro Projects",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "On which river is the Vyasi project located?",
+    "options": [
+      "Yamuna",
+      "Tons",
+      "Ganga",
+      "Asan"
+    ],
+    "correct_option": 0,
+    "explanation": "Vyasi is on the Yamuna in Dehradun.",
+    "source_page": 317
+  },
+  {
+    "id": "q850",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Operating Hydro Projects",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "In which district is the Surinagad project (5.0 MW, 2021) located?",
+    "options": [
+      "Chamoli",
+      "Pithoragarh",
+      "Rudraprayag",
+      "Champawat"
+    ],
+    "correct_option": 1,
+    "explanation": "Surinagad: Surinagad Nala, Pithoragarh.",
+    "source_page": 317
+  },
+  {
+    "id": "q851",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Operating Hydro Projects",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "On which river is the Utyasu project (1000 MW) located?",
+    "options": [
+      "Bhagirathi",
+      "Kali",
+      "Alaknanda",
+      "Yamuna"
+    ],
+    "correct_option": 2,
+    "explanation": "Utyasu: Alaknanda river, Pauri.",
+    "source_page": 317
+  },
+  {
+    "id": "q852",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Operating Hydro Projects",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "In which district is the Utyasu project located?",
+    "options": [
+      "Chamoli",
+      "Tehri Garhwal",
+      "Dehradun",
+      "Pauri Garhwal"
+    ],
+    "correct_option": 3,
+    "explanation": "Utyasu: Pauri Garhwal.",
+    "source_page": 317
+  },
+  {
+    "id": "q853",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Operating Hydro Projects",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Which set of projects are all located on the Sharda river?",
+    "options": [
+      "Khatima, Lohia Head and Tanakpur",
+      "Khatima, Kulhal and Chilla",
+      "Lohia Head, Dhakrani and Tanakpur",
+      "Tanakpur, Khodri and Khatima"
+    ],
+    "correct_option": 0,
+    "explanation": "Khatima, Lohia Head and Tanakpur are on the Sharda.",
+    "source_page": 317
+  },
+  {
+    "id": "q854",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Operating Hydro Projects",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Which of the following pairs is NOT correctly matched?",
+    "options": [
+      "Khodri - Yamuna",
+      "Dhalipur - Ganga",
+      "Maneri Bhali - Bhagirathi",
+      "Vyasi - Yamuna"
+    ],
+    "correct_option": 1,
+    "explanation": "Dhalipur is on the Tons (Tons-Yamuna), not the Ganga.",
+    "source_page": 317
+  },
+  {
+    "id": "q855",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Operating Hydro Projects",
+    "difficulty": "hard",
+    "type": "match",
+    "question": "Match each project with its river: A. Khatima, B. Kulhal, C. Chibro, D. Ramganga (Kalagarh) with 1. Sharda, 2. Asan, 3. Tons, 4. Ramganga.",
+    "options": [
+      "A-2, B-1, C-3, D-4",
+      "A-1, B-3, C-2, D-4",
+      "A-1, B-2, C-3, D-4",
+      "A-4, B-2, C-3, D-1"
+    ],
+    "correct_option": 2,
+    "explanation": "Khatima-Sharda, Kulhal-Asan, Chibro-Tons, Ramganga-Ramganga.",
+    "source_page": 317
+  },
+  {
+    "id": "q856",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Other Major Projects and Dams",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "What is the capacity of the Dhauliganga Phase-I project?",
+    "options": [
+      "330 MW",
+      "240 MW",
+      "444 MW",
+      "280 MW"
+    ],
+    "correct_option": 3,
+    "explanation": "Dhauliganga Phase-I: 280 MW.",
+    "source_page": 318
+  },
+  {
+    "id": "q857",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Other Major Projects and Dams",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Near which place in Pithoragarh is the Dhauliganga Phase-I project located?",
+    "options": [
+      "Dharchula",
+      "Munsiyari",
+      "Didihat",
+      "Thal"
+    ],
+    "correct_option": 0,
+    "explanation": "Near Dharchula, on the east Dhauliganga.",
+    "source_page": 318
+  },
+  {
+    "id": "q858",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Other Major Projects and Dams",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "What are the height and length of the Dhauliganga Phase-I dam?",
+    "options": [
+      "26 m high and 750 m long",
+      "56 m high and 270 m long",
+      "56 m high and 760 m long",
+      "260.5 m high and 270 m long"
+    ],
+    "correct_option": 1,
+    "explanation": "Dam: 56 m high, 270 m long.",
+    "source_page": 318
+  },
+  {
+    "id": "q859",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Other Major Projects and Dams",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Which technique was used for the first time in India in the Dhauliganga dam?",
+    "options": [
+      "Run-of-river technique",
+      "Pumped storage",
+      "Cut-off wall technique",
+      "Rock-fill technique"
+    ],
+    "correct_option": 2,
+    "explanation": "The cut-off wall technique was used for the first time in India.",
+    "source_page": 318
+  },
+  {
+    "id": "q860",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Other Major Projects and Dams",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Which agency built the Dhauliganga Phase-I project?",
+    "options": [
+      "THDC",
+      "NTPC",
+      "SJVNL",
+      "NHPC"
+    ],
+    "correct_option": 3,
+    "explanation": "Constructed by NHPC.",
+    "source_page": 318
+  },
+  {
+    "id": "q861",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Other Major Projects and Dams",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Dhauliganga is the first project in the Kumaon region with what feature?",
+    "options": [
+      "Underground power house and tunnels",
+      "Pumped storage",
+      "A floating power house",
+      "A solar hybrid unit"
+    ],
+    "correct_option": 0,
+    "explanation": "First in Kumaon with an underground power house and tunnels.",
+    "source_page": 318
+  },
+  {
+    "id": "q862",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Tehri Project",
+    "difficulty": "easy",
+    "type": "direct",
+    "question": "The Tehri project is located at the confluence of which two rivers?",
+    "options": [
+      "Alaknanda and Mandakini",
+      "Bhagirathi and Bhilangana",
+      "Bhagirathi and Alaknanda",
+      "Yamuna and Tons"
+    ],
+    "correct_option": 1,
+    "explanation": "Bhagirathi-Bhilangana confluence.",
+    "source_page": 318
+  },
+  {
+    "id": "q863",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Tehri Project",
+    "difficulty": "easy",
+    "type": "direct",
+    "question": "What is the height of the Tehri dam?",
+    "options": [
+      "240.2 m",
+      "235.5 m",
+      "260.5 m",
+      "305 m"
+    ],
+    "correct_option": 2,
+    "explanation": "260.5 m, the highest dam in India.",
+    "source_page": 318
+  },
+  {
+    "id": "q864",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Tehri Project",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "What is the Tehri dam's rank among dams in India by height?",
+    "options": [
+      "Second highest",
+      "Third highest",
+      "Fourth highest",
+      "Highest in India"
+    ],
+    "correct_option": 3,
+    "explanation": "It is the country's highest dam.",
+    "source_page": 318
+  },
+  {
+    "id": "q865",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Tehri Project",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "By what name has the Tehri project been called because of its enormous scale?",
+    "options": [
+      "Rashtra ka Gaon",
+      "Pride of Garhwal",
+      "Water Capital of India",
+      "Dam of the Himalaya"
+    ],
+    "correct_option": 0,
+    "explanation": "It is called the 'Rashtra ka Gaon' (village of the nation).",
+    "source_page": 318
+  },
+  {
+    "id": "q866",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Tehri Project",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "In which year did the Planning Commission approve the joint Centre-UP Tehri project?",
+    "options": [
+      "1978",
+      "1972",
+      "1988",
+      "1989"
+    ],
+    "correct_option": 1,
+    "explanation": "Approved in 1972.",
+    "source_page": 318
+  },
+  {
+    "id": "q867",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Tehri Project",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Dam construction work on Tehri began in 1978 under which department?",
+    "options": [
+      "THDC",
+      "NHPC",
+      "Irrigation Department of Uttar Pradesh",
+      "Central Water Commission"
+    ],
+    "correct_option": 2,
+    "explanation": "Started in 1978 by the UP Irrigation Department.",
+    "source_page": 318
+  },
+  {
+    "id": "q868",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Tehri Project",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "In which year did the Central Government take over Tehri's construction responsibility?",
+    "options": [
+      "1972",
+      "1978",
+      "1990",
+      "1988"
+    ],
+    "correct_option": 3,
+    "explanation": "The Centre took over in 1988; THDC was formed.",
+    "source_page": 318
+  },
+  {
+    "id": "q869",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Tehri Project",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "In 1990, THDC was also given the responsibility of what?",
+    "options": [
+      "Rehabilitation of the displaced",
+      "Irrigation canals",
+      "Road construction",
+      "Power distribution"
+    ],
+    "correct_option": 0,
+    "explanation": "Rehabilitation of those displaced was assigned in 1990.",
+    "source_page": 318
+  },
+  {
+    "id": "q870",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Tehri Project",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "After the formation of Uttarakhand, which two other entities became partners in the Tehri project?",
+    "options": [
+      "Haryana and Punjab",
+      "Uttar Pradesh and Delhi",
+      "Uttar Pradesh and Bihar",
+      "Himachal Pradesh and Delhi"
+    ],
+    "correct_option": 1,
+    "explanation": "UP and Delhi also became partners.",
+    "source_page": 318
+  },
+  {
+    "id": "q871",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Tehri Project",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "How many phases does the 2400 MW Tehri project have?",
+    "options": [
+      "One",
+      "Three",
+      "Two",
+      "Four"
+    ],
+    "correct_option": 2,
+    "explanation": "Two phases.",
+    "source_page": 318
+  },
+  {
+    "id": "q872",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Tehri Project",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "What does the first phase of the Tehri project consist of?",
+    "options": [
+      "1000 MW Tehri PSP",
+      "400 MW Koteshwar project",
+      "1400 MW Tehri dam",
+      "1000 MW Tehri dam and hydro project"
+    ],
+    "correct_option": 3,
+    "explanation": "Phase I: 1000 MW Tehri dam and hydro project.",
+    "source_page": 318
+  },
+  {
+    "id": "q873",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Tehri Project",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "What does the second phase of the Tehri project include?",
+    "options": [
+      "1000 MW Tehri PSP and 400 MW Koteshwar",
+      "1400 MW Tehri dam alone",
+      "1000 MW Koteshwar and 400 MW Vishnugad",
+      "400 MW Tehri PSP and 1000 MW Koteshwar"
+    ],
+    "correct_option": 0,
+    "explanation": "Phase II: Tehri PSP (1000 MW) and Koteshwar (400 MW).",
+    "source_page": 318
+  },
+  {
+    "id": "q874",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Tehri Project",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "On which river is the Koteshwar project located?",
+    "options": [
+      "Alaknanda",
+      "Bhagirathi",
+      "Yamuna",
+      "Mandakini"
+    ],
+    "correct_option": 1,
+    "explanation": "Koteshwar dam and hydro project is on the Bhagirathi.",
+    "source_page": 318
+  },
+  {
+    "id": "q875",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Tehri Project",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "How far downstream of the main Tehri dam is Koteshwar?",
+    "options": [
+      "12 km",
+      "32 km",
+      "22 km",
+      "2.5 km"
+    ],
+    "correct_option": 2,
+    "explanation": "About 22 km downstream.",
+    "source_page": 318
+  },
+  {
+    "id": "q876",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Tehri Project",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "What is the height of the Koteshwar concrete dam?",
+    "options": [
+      "260.5 m",
+      "56 m",
+      "204 m",
+      "97.5 m"
+    ],
+    "correct_option": 3,
+    "explanation": "97.5 m concrete dam.",
+    "source_page": 318
+  },
+  {
+    "id": "q877",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Tehri Project",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "How many diversion tunnels were made at the Tehri project?",
+    "options": [
+      "Four",
+      "Two",
+      "Three",
+      "Six"
+    ],
+    "correct_option": 0,
+    "explanation": "Four diversion tunnels, each 11 m in diameter and horseshoe-shaped.",
+    "source_page": 318
+  },
+  {
+    "id": "q878",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Tehri Project",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "What is the combined length of Tehri's diversion tunnels?",
+    "options": [
+      "16 km",
+      "6.3 km",
+      "40.5 km",
+      "2.5 km"
+    ],
+    "correct_option": 1,
+    "explanation": "Total length: 6.3 km.",
+    "source_page": 318
+  },
+  {
+    "id": "q879",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Tehri Project",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "What is the diameter of each diversion tunnel at Tehri?",
+    "options": [
+      "6.3 m",
+      "22 m",
+      "11 m",
+      "5 m"
+    ],
+    "correct_option": 2,
+    "explanation": "Each is 11 m in diameter.",
+    "source_page": 318
+  },
+  {
+    "id": "q880",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Tehri Project",
+    "difficulty": "easy",
+    "type": "direct",
+    "question": "What is the Tehri reservoir called?",
+    "options": [
+      "Gobind Sagar",
+      "Nanak Sagar",
+      "Govind Ballabh Pant Sagar",
+      "Swami Ramtirth Sagar"
+    ],
+    "correct_option": 3,
+    "explanation": "The reservoir is Swami Ramtirth Sagar.",
+    "source_page": 318
+  },
+  {
+    "id": "q881",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Tehri Project",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "What area does the Tehri reservoir (Swami Ramtirth Sagar) cover?",
+    "options": [
+      "42 square km",
+      "45 square km",
+      "46 square km",
+      "48 square km"
+    ],
+    "correct_option": 0,
+    "explanation": "Covers 42 sq km.",
+    "source_page": 318
+  },
+  {
+    "id": "q882",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Tehri Project",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "What is the total water-holding capacity of the Tehri reservoir?",
+    "options": [
+      "261 crore cubic metres",
+      "354 crore cubic metres",
+      "330 crore cubic metres",
+      "40 crore cubic metres"
+    ],
+    "correct_option": 1,
+    "explanation": "Total capacity: 354 crore cubic metres.",
+    "source_page": 318
+  },
+  {
+    "id": "q883",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Tehri Project",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "How much of the Tehri reservoir's water is usable (active storage)?",
+    "options": [
+      "354 crore cubic metres",
+      "330 crore cubic metres",
+      "261 crore cubic metres",
+      "42 crore cubic metres"
+    ],
+    "correct_option": 2,
+    "explanation": "Active storage: 261 crore cubic metres.",
+    "source_page": 318
+  },
+  {
+    "id": "q884",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Tehri Project",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "On what date was the first stage (1000 MW) of the Tehri project dedicated to the nation?",
+    "options": [
+      "30 July 2005",
+      "12 July 1988",
+      "1 October 2009",
+      "30 July 2006"
+    ],
+    "correct_option": 3,
+    "explanation": "First stage dedicated on 30 July 2006.",
+    "source_page": 318
+  },
+  {
+    "id": "q885",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Tehri Project",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "What is the area currently irrigated through the Tehri project, as per the book?",
+    "options": [
+      "6.04 lakh hectares",
+      "2.7 lakh hectares",
+      "4.5 lakh hectares",
+      "8.04 lakh hectares"
+    ],
+    "correct_option": 0,
+    "explanation": "6.04 lakh ha irrigated plus 2.7 lakh ha additional.",
+    "source_page": 318
+  },
+  {
+    "id": "q886",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Tehri Project",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "How much additional irrigation (apart from stabilisation) will Tehri provide?",
+    "options": [
+      "6.04 lakh hectares",
+      "2.7 lakh hectares",
+      "1.5 lakh hectares",
+      "3.5 lakh hectares"
+    ],
+    "correct_option": 1,
+    "explanation": "2.7 lakh ha additional.",
+    "source_page": 318
+  },
+  {
+    "id": "q887",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Tehri Project",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "How much drinking water per day is meant for 40 lakh people of Delhi from the Tehri project?",
+    "options": [
+      "200 cusecs",
+      "500 cusecs",
+      "300 cusecs",
+      "100 cusecs"
+    ],
+    "correct_option": 2,
+    "explanation": "300 cusecs for Delhi; 200 cusecs for towns and villages of UP.",
+    "source_page": 318
+  },
+  {
+    "id": "q888",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Tehri Project",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "How much drinking water per day is meant for towns and villages of Uttar Pradesh?",
+    "options": [
+      "300 cusecs",
+      "500 cusecs",
+      "100 cusecs",
+      "200 cusecs"
+    ],
+    "correct_option": 3,
+    "explanation": "200 cusecs for UP.",
+    "source_page": 318
+  },
+  {
+    "id": "q889",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Tehri Project",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "What annual benefit does the country get from the Tehri project?",
+    "options": [
+      "Rs 2000 crore",
+      "Rs 582 crore",
+      "Rs 197 crore",
+      "Rs 1000 crore"
+    ],
+    "correct_option": 0,
+    "explanation": "The country gains Rs 2000 crore a year.",
+    "source_page": 318
+  },
+  {
+    "id": "q890",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Tehri Project",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Tehri reduces floods in which states?",
+    "options": [
+      "Punjab, Haryana and Delhi",
+      "Uttar Pradesh, Bihar and West Bengal",
+      "Assam, Bihar and Odisha",
+      "Uttar Pradesh, Haryana and Rajasthan"
+    ],
+    "correct_option": 1,
+    "explanation": "Reduced floods in UP, Bihar and West Bengal.",
+    "source_page": 318
+  },
+  {
+    "id": "q891",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Tehri Project",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Roughly how many people's homes were affected by the Tehri project?",
+    "options": [
+      "About 10,000",
+      "About 5 lakh",
+      "About 1 lakh",
+      "About 25,000"
+    ],
+    "correct_option": 2,
+    "explanation": "About 1 lakh people's residences were affected.",
+    "source_page": 319
+  },
+  {
+    "id": "q892",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Tehri Project",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "How much money was provided for the rehabilitation of those displaced by Tehri?",
+    "options": [
+      "Rs 197 crore",
+      "Rs 2000 crore",
+      "Rs 3966.51 crore",
+      "Rs 582 crore"
+    ],
+    "correct_option": 3,
+    "explanation": "Rs 582 crore.",
+    "source_page": 319
+  },
+  {
+    "id": "q893",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Tehri Project",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "In which year was Old Tehri town founded?",
+    "options": [
+      "1815",
+      "1805",
+      "1895",
+      "1857"
+    ],
+    "correct_option": 0,
+    "explanation": "Old Tehri was established in 1815.",
+    "source_page": 319
+  },
+  {
+    "id": "q894",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Tehri Project",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "How many villages were fully submerged by the Tehri project?",
+    "options": [
+      "86",
+      "39",
+      "26",
+      "59"
+    ],
+    "correct_option": 1,
+    "explanation": "39 villages fully and 86 partially.",
+    "source_page": 319
+  },
+  {
+    "id": "q895",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Tehri Project",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "How many villages were partially affected by the Tehri project?",
+    "options": [
+      "39",
+      "126",
+      "86",
+      "15"
+    ],
+    "correct_option": 2,
+    "explanation": "86 villages partially affected.",
+    "source_page": 319
+  },
+  {
+    "id": "q896",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Tehri Project",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Where was the new Tehri town (New Tehri) established?",
+    "options": [
+      "24 km north of Old Tehri",
+      "42 km south of Old Tehri",
+      "12 km south of Old Tehri",
+      "24 km south of Old Tehri"
+    ],
+    "correct_option": 3,
+    "explanation": "New Tehri lies 24 km south of the old town.",
+    "source_page": 319
+  },
+  {
+    "id": "q897",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Tehri Project",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "The people of Old Tehri town were resettled mainly at which places?",
+    "options": [
+      "New Tehri, Dehradun and Rishikesh",
+      "Haridwar, Roorkee and Kotdwar",
+      "Pauri, Srinagar and Kotdwar",
+      "Haldwani, Kashipur and Rudrapur"
+    ],
+    "correct_option": 0,
+    "explanation": "Resettled in New Tehri, Dehradun and Rishikesh.",
+    "source_page": 319
+  },
+  {
+    "id": "q898",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Tehri Project",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "About how many rural families were affected by the Tehri project?",
+    "options": [
+      "About 929",
+      "About 9239",
+      "About 92,390",
+      "About 5,239"
+    ],
+    "correct_option": 1,
+    "explanation": "About 9239 rural families.",
+    "source_page": 319
+  },
+  {
+    "id": "q899",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Tehri Project",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Which of these is a site where affected rural families of Tehri were resettled?",
+    "options": [
+      "Rudrapur",
+      "Almora",
+      "Raiwala (Dehradun)",
+      "Haldwani"
+    ],
+    "correct_option": 2,
+    "explanation": "Resettled at Raiwala, Pashulok, Pathri, Banjarawala and Bhaniyawala.",
+    "source_page": 319
+  },
+  {
+    "id": "q900",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Tehri Project",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Who designed the Tehri dam?",
+    "options": [
+      "M. Visvesvaraya",
+      "Prof. K. L. Rao",
+      "A. N. Khosla",
+      "Prof. James Brune"
+    ],
+    "correct_option": 3,
+    "explanation": "Designed by Prof. James Brune.",
+    "source_page": 319
+  },
+  {
+    "id": "q901",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Tehri Project",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "What was the Tehri project's original capacity at the start?",
+    "options": [
+      "600 MW",
+      "400 MW",
+      "1000 MW",
+      "2400 MW"
+    ],
+    "correct_option": 0,
+    "explanation": "It was initially a 600 MW project.",
+    "source_page": 319
+  },
+  {
+    "id": "q902",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Tehri Project",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "What was the initial cost of the Tehri project?",
+    "options": [
+      "Rs 582 crore",
+      "Rs 197 crore",
+      "Rs 2000 crore",
+      "Rs 3966.51 crore"
+    ],
+    "correct_option": 1,
+    "explanation": "Initial cost: Rs 197 crore.",
+    "source_page": 319
+  },
+  {
+    "id": "q903",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Tehri Project",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Whose 1986 visit to India led to Soviet help for the Tehri dam?",
+    "options": [
+      "Leonid Brezhnev",
+      "Boris Yeltsin",
+      "Mikhail Gorbachev",
+      "Nikita Khrushchev"
+    ],
+    "correct_option": 2,
+    "explanation": "Gorbachev's 1986 visit and the agreement with the Soviet Union.",
+    "source_page": 319
+  },
+  {
+    "id": "q904",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Tehri Project",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "After Soviet assistance, what did the Centre announce about the Tehri project's expansion?",
+    "options": [
+      "First phase 1000 MW and second phase 1000 MW",
+      "First phase 600 MW and second phase 1400 MW",
+      "First phase 2400 MW and second phase 400 MW",
+      "First phase 1000 MW and second phase 1400 MW"
+    ],
+    "correct_option": 3,
+    "explanation": "First phase 1000 MW, second phase 1400 MW.",
+    "source_page": 319
+  },
+  {
+    "id": "q905",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Tehri Project",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Who first raised a voice against the Tehri dam?",
+    "options": [
+      "Rajmata Kamlendumati Shah",
+      "Sunderlal Bahuguna",
+      "Vidyasagar Nautiyal",
+      "Chandi Prasad Bhatt"
+    ],
+    "correct_option": 0,
+    "explanation": "Rajmata Kamlendumati Shah of the Tehri Garhwal princely state.",
+    "source_page": 319
+  },
+  {
+    "id": "q906",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Tehri Project",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Who chaired the anti-dam committee formed in 1978 at Tehri?",
+    "options": [
+      "Sunderlal Bahuguna",
+      "Vidyasagar Nautiyal",
+      "Virendra Sakalani",
+      "Gaura Devi"
+    ],
+    "correct_option": 1,
+    "explanation": "The Bandh Virodhi Samiti was formed under Vidyasagar Nautiyal.",
+    "source_page": 319
+  },
+  {
+    "id": "q907",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Tehri Project",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Who filed a petition against the dam in the High Court in 1979?",
+    "options": [
+      "Sunderlal Bahuguna",
+      "Vidyasagar Nautiyal",
+      "Virendra Sakalani",
+      "Anil Joshi"
+    ],
+    "correct_option": 2,
+    "explanation": "Sakalani filed the petition on behalf of the committee.",
+    "source_page": 319
+  },
+  {
+    "id": "q908",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Tehri Project",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "In 1991, the committee under Sunderlal Bahuguna stalled the dam work by a dharna for how many days?",
+    "options": [
+      "46 days",
+      "86 days",
+      "16 days",
+      "76 days"
+    ],
+    "correct_option": 3,
+    "explanation": "Work stalled for 76 days.",
+    "source_page": 319
+  },
+  {
+    "id": "q909",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Tehri Project",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Which cycle yatra was carried out to raise awareness against the Tehri dam?",
+    "options": [
+      "Gangasagar to Gangotri",
+      "Haridwar to Gangotri",
+      "Gangotri to Gangasagar",
+      "Kedarnath to Badrinath"
+    ],
+    "correct_option": 0,
+    "explanation": "A cycle yatra from Gangasagar to Gangotri.",
+    "source_page": 319
+  },
+  {
+    "id": "q910",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Tehri Project",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Experts feared the Tehri dam lies over which dangerous earthquake-prone feature?",
+    "options": [
+      "The Narmada Fault",
+      "The Great (Mahan) Tear Fault",
+      "The Himalayan Frontal Thrust",
+      "The Aravalli Fault"
+    ],
+    "correct_option": 1,
+    "explanation": "The dam lies over the 'Mahan Tear Fault' at 7.5 km depth.",
+    "source_page": 319
+  },
+  {
+    "id": "q911",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Tehri Project",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Experts estimated the Tehri reservoir's life to be only how many years due to silt?",
+    "options": [
+      "100 years",
+      "30 years",
+      "60 years",
+      "150 years"
+    ],
+    "correct_option": 2,
+    "explanation": "Silt deposition would limit the life to about 60 years.",
+    "source_page": 319
+  },
+  {
+    "id": "q912",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Other Major Projects and Dams",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "The Vishnuprayag hydro project (400 MW) is on which river?",
+    "options": [
+      "Mandakini",
+      "Dhauliganga",
+      "Pindar",
+      "Alaknanda"
+    ],
+    "correct_option": 3,
+    "explanation": "Vishnuprayag: Alaknanda, Chamoli.",
+    "source_page": 319
+  },
+  {
+    "id": "q913",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Other Major Projects and Dams",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Which company's venture built the Vishnuprayag project?",
+    "options": [
+      "JP Ventures (Jaiprakash)",
+      "GVK Group",
+      "Lanco Kondapalli",
+      "L&T"
+    ],
+    "correct_option": 0,
+    "explanation": "Built through M/s JP Ventures Pvt. Ltd.",
+    "source_page": 319
+  },
+  {
+    "id": "q914",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Other Major Projects and Dams",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "For about how many years was the construction of the Vishnuprayag project halted due to lack of funds?",
+    "options": [
+      "About 2 years",
+      "About 12 years",
+      "About 20 years",
+      "About 5 years"
+    ],
+    "correct_option": 1,
+    "explanation": "Work was halted for about 12 years.",
+    "source_page": 319
+  },
+  {
+    "id": "q915",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Other Major Projects and Dams",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "What share of Vishnuprayag's power goes to Uttar Pradesh and what to Uttarakhand?",
+    "options": [
+      "50% to UP and 50% to Uttarakhand",
+      "75% to UP and 25% to Uttarakhand",
+      "88% to UP and 12% to Uttarakhand",
+      "12% to UP and 88% to Uttarakhand"
+    ],
+    "correct_option": 2,
+    "explanation": "88% to UP; 12% to Uttarakhand as royalty.",
+    "source_page": 319
+  },
+  {
+    "id": "q916",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Other Major Projects and Dams",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "The Srinagar hydro project (330 MW) is on which river?",
+    "options": [
+      "Bhagirathi",
+      "Yamuna",
+      "Ramganga",
+      "Alaknanda"
+    ],
+    "correct_option": 3,
+    "explanation": "Srinagar project: Alaknanda, Pauri.",
+    "source_page": 319
+  },
+  {
+    "id": "q917",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Other Major Projects and Dams",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Which group built the Srinagar hydroelectric project?",
+    "options": [
+      "GVK Group of Companies",
+      "JP Ventures",
+      "Lanco Kondapalli",
+      "Reliance Energy"
+    ],
+    "correct_option": 0,
+    "explanation": "Built by the Hyderabad-based GVK group.",
+    "source_page": 319
+  },
+  {
+    "id": "q918",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Other Major Projects and Dams",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Which state purchases the power generated by the Srinagar project?",
+    "options": [
+      "Delhi",
+      "Uttar Pradesh",
+      "Uttarakhand",
+      "Haryana"
+    ],
+    "correct_option": 1,
+    "explanation": "UP purchases the electricity.",
+    "source_page": 319
+  },
+  {
+    "id": "q919",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Other Major Projects and Dams",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "On which river is the Jamrani dam project under construction?",
+    "options": [
+      "Kosi",
+      "Sharda",
+      "Gaula",
+      "Dhela"
+    ],
+    "correct_option": 2,
+    "explanation": "Jamrani is on the Gaula river near Kathgodam, Nainital.",
+    "source_page": 319
+  },
+  {
+    "id": "q920",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Other Major Projects and Dams",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "How far from Kathgodam is the Jamrani dam site?",
+    "options": [
+      "25 km",
+      "50 km",
+      "2 km",
+      "10 km"
+    ],
+    "correct_option": 3,
+    "explanation": "About 10 km from Kathgodam.",
+    "source_page": 319
+  },
+  {
+    "id": "q921",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Other Major Projects and Dams",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "What was constructed under Phase-I of the Jamrani project?",
+    "options": [
+      "Gola Barrage and a 40.5 km canal",
+      "A 130.6 m concrete dam",
+      "A 244 km canal",
+      "A tunnel of 16 km"
+    ],
+    "correct_option": 0,
+    "explanation": "Phase I: Gola Barrage and a 40.5 km canal; a 244 km canal was renovated.",
+    "source_page": 319
+  },
+  {
+    "id": "q922",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Other Major Projects and Dams",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "What is planned under Phase-II of the Jamrani project?",
+    "options": [
+      "The Gola barrage",
+      "A 130.6 m concrete dam",
+      "A 40.5 km canal",
+      "A 244 km canal renovation"
+    ],
+    "correct_option": 1,
+    "explanation": "Phase II: 130.6 m concrete dam.",
+    "source_page": 319
+  },
+  {
+    "id": "q923",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Other Major Projects and Dams",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Jamrani project is expected to generate how many million units of electricity annually?",
+    "options": [
+      "6.3 million units",
+      "630 million units",
+      "63 million units",
+      "42 million units"
+    ],
+    "correct_option": 2,
+    "explanation": "63 million units a year.",
+    "source_page": 321
+  },
+  {
+    "id": "q924",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Other Major Projects and Dams",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "How much land will the Jamrani project irrigate?",
+    "options": [
+      "33,780 hectares",
+      "2.58 lakh hectares",
+      "6.04 lakh hectares",
+      "1.5 lakh hectares"
+    ],
+    "correct_option": 3,
+    "explanation": "1.5 lakh ha irrigation.",
+    "source_page": 321
+  },
+  {
+    "id": "q925",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Other Major Projects and Dams",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "How much drinking water will Jamrani provide to Haldwani?",
+    "options": [
+      "42 million cubic metres",
+      "42 crore cubic metres",
+      "354 crore cubic metres",
+      "330.66 million cubic metres"
+    ],
+    "correct_option": 0,
+    "explanation": "42 million cubic metres for Haldwani city.",
+    "source_page": 321
+  },
+  {
+    "id": "q926",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Other Major Projects and Dams",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "In May 2023, the state approved allotment of how much land for the rehabilitation of 1323 families affected by Jamrani?",
+    "options": [
+      "30 acres",
+      "300 acres",
+      "3000 acres",
+      "130 acres"
+    ],
+    "correct_option": 1,
+    "explanation": "300 acres for about 1323 families of 6 villages.",
+    "source_page": 321
+  },
+  {
+    "id": "q927",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Projects under Construction",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Which agency is building the Jad Ganga project (600 MW) in Uttarkashi?",
+    "options": [
+      "NTPC",
+      "NHPC",
+      "THDC",
+      "SJVNL"
+    ],
+    "correct_option": 2,
+    "explanation": "Jad Ganga: 600 MW, THDC, Uttarkashi.",
+    "source_page": 320
+  },
+  {
+    "id": "q928",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Projects under Construction",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "What is the capacity of the Vishnugad-Pipalkoti project of THDC on the Alaknanda?",
+    "options": [
+      "330 MW",
+      "520 MW",
+      "600 MW",
+      "444 MW"
+    ],
+    "correct_option": 3,
+    "explanation": "Vishnugad-Pipalkoti: 444 MW, Chamoli.",
+    "source_page": 320
+  },
+  {
+    "id": "q929",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Projects under Construction",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "What is the capacity of the Karmoli project in Uttarkashi?",
+    "options": [
+      "140 MW",
+      "60 MW",
+      "600 MW",
+      "50 MW"
+    ],
+    "correct_option": 0,
+    "explanation": "Karmoli: 140 MW on the Jadganga.",
+    "source_page": 320
+  },
+  {
+    "id": "q930",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Projects under Construction",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Which agency is building the Lohari Nag Pala project (600 MW)?",
+    "options": [
+      "THDC",
+      "NTPC",
+      "NHPC",
+      "UJVNL"
+    ],
+    "correct_option": 1,
+    "explanation": "Lohari Nag Pala: NTPC, Bhagirathi, Uttarkashi.",
+    "source_page": 320
+  },
+  {
+    "id": "q931",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Projects under Construction",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "What is the capacity of the Tapovan Vishnugad project of NTPC?",
+    "options": [
+      "444 MW",
+      "260 MW",
+      "520 MW",
+      "600 MW"
+    ],
+    "correct_option": 2,
+    "explanation": "Tapovan Vishnugad: 520 MW on the Dhauliganga, Chamoli.",
+    "source_page": 320
+  },
+  {
+    "id": "q932",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Projects under Construction",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "In which district is the Lohari Nag Pala project located?",
+    "options": [
+      "Chamoli",
+      "Pithoragarh",
+      "Rudraprayag",
+      "Uttarkashi"
+    ],
+    "correct_option": 3,
+    "explanation": "Lohari Nag Pala is in Uttarkashi.",
+    "source_page": 320
+  },
+  {
+    "id": "q933",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Projects under Construction",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "What is the capacity of the Khasiyabara project of NTPC?",
+    "options": [
+      "260 MW",
+      "520 MW",
+      "240 MW",
+      "171 MW"
+    ],
+    "correct_option": 0,
+    "explanation": "Khasiyabara: 260 MW, Pithoragarh.",
+    "source_page": 320
+  },
+  {
+    "id": "q934",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Projects under Construction",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Which agency is building the Lakhwar project (300 MW) on the Yamuna, as listed in the table?",
+    "options": [
+      "THDC",
+      "NHPC",
+      "NTPC",
+      "SJVNL"
+    ],
+    "correct_option": 1,
+    "explanation": "Lakhwar: NHPC, Yamuna, Dehradun.",
+    "source_page": 320
+  },
+  {
+    "id": "q935",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Projects under Construction",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "What is the capacity of the Kotli-Bhel project of NHPC?",
+    "options": [
+      "600 MW",
+      "300 MW",
+      "1000 MW",
+      "2400 MW"
+    ],
+    "correct_option": 2,
+    "explanation": "Kotli-Bhel: 1000 MW on the Ganga.",
+    "source_page": 320
+  },
+  {
+    "id": "q936",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Projects under Construction",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "What is the capacity of the Chhungarchal project on the East Dhauliganga?",
+    "options": [
+      "260 MW",
+      "300 MW",
+      "55 MW",
+      "240 MW"
+    ],
+    "correct_option": 3,
+    "explanation": "Chhungarchal: 240 MW, Pithoragarh.",
+    "source_page": 320
+  },
+  {
+    "id": "q937",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Projects under Construction",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "What is the capacity of the Pala Maneri project of UJVNL?",
+    "options": [
+      "480 MW",
+      "304 MW",
+      "660 MW",
+      "90 MW"
+    ],
+    "correct_option": 0,
+    "explanation": "Pala Maneri: 480 MW on the Bhagirathi, Uttarkashi.",
+    "source_page": 320
+  },
+  {
+    "id": "q938",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Projects under Construction",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "What is the capacity of the Kishau project (UJVNL) on the Tons?",
+    "options": [
+      "480 MW",
+      "660 MW",
+      "300 MW",
+      "600 MW"
+    ],
+    "correct_option": 1,
+    "explanation": "Kishau: 660 MW, Tons, Dehradun.",
+    "source_page": 320
+  },
+  {
+    "id": "q939",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Projects under Construction",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "In which district is the Kishau dam located?",
+    "options": [
+      "Pithoragarh",
+      "Chamoli",
+      "Dehradun",
+      "Uttarkashi"
+    ],
+    "correct_option": 2,
+    "explanation": "Kishau dam project is in Dehradun on the Tons.",
+    "source_page": 320
+  },
+  {
+    "id": "q940",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Projects under Construction",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "What is the capacity of the Madhya Maheshwar project in Rudraprayag?",
+    "options": [
+      "5 MW",
+      "44 MW",
+      "60 MW",
+      "12 MW"
+    ],
+    "correct_option": 3,
+    "explanation": "Madhya Maheshwar: 12 MW on Maheshwarganga.",
+    "source_page": 320
+  },
+  {
+    "id": "q941",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Projects under Construction",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Which agency is building the Devsari project (300 MW) on the Pindar?",
+    "options": [
+      "SJVNL",
+      "THDC",
+      "NHPC",
+      "UJVNL"
+    ],
+    "correct_option": 0,
+    "explanation": "Devsari: SJVNL, Pindar, Chamoli.",
+    "source_page": 320
+  },
+  {
+    "id": "q942",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Projects under Construction",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "What is the capacity of the Natwar Mori project of SJVNL on the Tons?",
+    "options": [
+      "44 MW",
+      "60 MW",
+      "300 MW",
+      "12 MW"
+    ],
+    "correct_option": 1,
+    "explanation": "Natwar Mori: 60 MW, Tons, Uttarkashi.",
+    "source_page": 320
+  },
+  {
+    "id": "q943",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Projects under Construction",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "On which river is the Jakhol Sankri project (44 MW) located?",
+    "options": [
+      "Tons",
+      "Pindar",
+      "Supin",
+      "Yamuna"
+    ],
+    "correct_option": 2,
+    "explanation": "Jakhol Sankri: Supin river, Uttarkashi.",
+    "source_page": 320
+  },
+  {
+    "id": "q944",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Projects under Construction",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Which agencies are listed under the IPPS (independent power producers) for Vishnuprayag and Srinagar?",
+    "options": [
+      "THDC and NHPC",
+      "NTPC and SJVNL",
+      "L&T and Lanco",
+      "JP Hydro and GVK"
+    ],
+    "correct_option": 3,
+    "explanation": "Vishnuprayag - JP Hydro; Srinagar - GVK.",
+    "source_page": 320
+  },
+  {
+    "id": "q945",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Projects under Construction",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Which of these is a 280 MW project of Reliance Energy on the Dhauliganga?",
+    "options": [
+      "Urthing Sobla",
+      "Ram Bada",
+      "Hanol-Tyuni",
+      "Mapang Beguriar"
+    ],
+    "correct_option": 0,
+    "explanation": "Urthing Sobla: 280 MW, Dhauliganga, Pithoragarh.",
+    "source_page": 321
+  },
+  {
+    "id": "q946",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Projects under Construction",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Singoli Bhatwari (99 MW) is being built on which river?",
+    "options": [
+      "Alaknanda",
+      "Mandakini",
+      "Dhauliganga",
+      "Tons"
+    ],
+    "correct_option": 1,
+    "explanation": "Singoli Bhatwari: Mandakini, Rudraprayag (L&T).",
+    "source_page": 321
+  },
+  {
+    "id": "q947",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Projects under Construction",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "The Phata-Byung project (76 MW) is being built by which company?",
+    "options": [
+      "L&T",
+      "GMR",
+      "Lanco Kondapalli",
+      "Reliance Energy"
+    ],
+    "correct_option": 2,
+    "explanation": "Phata-Byung: Lanco Kondapalli, Mandakini, Rudraprayag.",
+    "source_page": 321
+  },
+  {
+    "id": "q948",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Projects under Construction",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Which company is building the Alaknanda (300 MW) project in Chamoli?",
+    "options": [
+      "Lanco Kondapalli",
+      "L&T",
+      "SEIL",
+      "GMR"
+    ],
+    "correct_option": 3,
+    "explanation": "Alaknanda project: GMR, Chamoli.",
+    "source_page": 321
+  },
+  {
+    "id": "q949",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Projects under Construction",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "On which river is the Hanol-Tyuni project (90 MW) located?",
+    "options": [
+      "Tons",
+      "Yamuna",
+      "Supin",
+      "Pindar"
+    ],
+    "correct_option": 0,
+    "explanation": "Hanol-Tyuni: Tons, Uttarkashi (SEIL).",
+    "source_page": 321
+  },
+  {
+    "id": "q950",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Projects under Construction",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "On which river is the Mapang Beguriar project (200 MW) located?",
+    "options": [
+      "Dhauliganga",
+      "Gauri",
+      "Mandakini",
+      "Pindar"
+    ],
+    "correct_option": 1,
+    "explanation": "Mapang Beguriar: Gauri river, Pithoragarh.",
+    "source_page": 321
+  },
+  {
+    "id": "q951",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Other Major Projects and Dams",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "What is the 'run of river' technique in hydro projects?",
+    "options": [
+      "Storing the full river in a huge dam",
+      "Pumping water uphill for storage",
+      "The river takes its path through tunnels instead of its natural course",
+      "Diverting a river to another state"
+    ],
+    "correct_option": 2,
+    "explanation": "Run-of-river uses tunnels, reducing displacement and environmental problems.",
+    "source_page": 321
+  },
+  {
+    "id": "q952",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Other Major Projects and Dams",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "How does run-of-river technology help?",
+    "options": [
+      "It increases submergence of land",
+      "It doubles reservoir size",
+      "It needs no tunnels",
+      "It reduces displacement and environmental problems and increases employment"
+    ],
+    "correct_option": 3,
+    "explanation": "Fewer displacement and environmental problems; more employment.",
+    "source_page": 321
+  },
+  {
+    "id": "q953",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Other Major Projects and Dams",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "A 16 km underground tunnel carried water of which river from Joshiyara to the Dharasu power station?",
+    "options": [
+      "Bhagirathi",
+      "Alaknanda",
+      "Dhauliganga",
+      "Sharda"
+    ],
+    "correct_option": 0,
+    "explanation": "Bhagirathi water was taken through a 16 km tunnel from Joshiyara to Dharasu.",
+    "source_page": 321
+  },
+  {
+    "id": "q954",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Other Major Projects and Dams",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "The Pancheshwar dam is proposed on which river?",
+    "options": [
+      "Ganga",
+      "Mahakali (Sharda)",
+      "Yamuna",
+      "Ramganga"
+    ],
+    "correct_option": 1,
+    "explanation": "Pancheshwar: Mahakali (Sharda).",
+    "source_page": 321
+  },
+  {
+    "id": "q955",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Other Major Projects and Dams",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "The Pancheshwar dam is based on a treaty between India and which country?",
+    "options": [
+      "Bhutan",
+      "Pakistan",
+      "Nepal",
+      "Bangladesh"
+    ],
+    "correct_option": 2,
+    "explanation": "The 1996 Mahakali treaty between India and Nepal.",
+    "source_page": 321
+  },
+  {
+    "id": "q956",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Other Major Projects and Dams",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "In which year was the Indo-Nepal treaty regarding the Pancheshwar dam signed?",
+    "options": [
+      "1976",
+      "1992",
+      "2006",
+      "1996"
+    ],
+    "correct_option": 3,
+    "explanation": "1996.",
+    "source_page": 321
+  },
+  {
+    "id": "q957",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Other Major Projects and Dams",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "In which district of Uttarakhand is the Pancheshwar dam proposed?",
+    "options": [
+      "Champawat",
+      "Pithoragarh",
+      "Almora",
+      "Bageshwar"
+    ],
+    "correct_option": 0,
+    "explanation": "At Champawat, near the confluence of the Mahakali and Saryu.",
+    "source_page": 321
+  },
+  {
+    "id": "q958",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Other Major Projects and Dams",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "The Pancheshwar dam is to be built near the confluence of the Mahakali and which other river?",
+    "options": [
+      "Ramganga",
+      "Saryu",
+      "Gori",
+      "Kali Ganga"
+    ],
+    "correct_option": 1,
+    "explanation": "Confluence of the Mahakali and Saryu rivers.",
+    "source_page": 321
+  },
+  {
+    "id": "q959",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Other Major Projects and Dams",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "How far below the Pancheshwar temple is the proposed dam site?",
+    "options": [
+      "25 km",
+      "5 km",
+      "2.5 km",
+      "1 km"
+    ],
+    "correct_option": 2,
+    "explanation": "2.5 km downstream of the temple.",
+    "source_page": 321
+  },
+  {
+    "id": "q960",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Other Major Projects and Dams",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "What is the proposed height of the Pancheshwar dam?",
+    "options": [
+      "260.5 metres",
+      "204 metres",
+      "130.6 metres",
+      "311 metres"
+    ],
+    "correct_option": 3,
+    "explanation": "311 m.",
+    "source_page": 321
+  },
+  {
+    "id": "q961",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Other Major Projects and Dams",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "What is the total installed capacity proposed for the Pancheshwar project?",
+    "options": [
+      "6480 MW",
+      "3240 MW",
+      "2400 MW",
+      "1000 MW"
+    ],
+    "correct_option": 0,
+    "explanation": "3240 MW on each bank, 6480 MW in total.",
+    "source_page": 321
+  },
+  {
+    "id": "q962",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Other Major Projects and Dams",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "How is the Pancheshwar project's electricity to be shared?",
+    "options": [
+      "Only India",
+      "Equally between India and Nepal",
+      "Mostly Nepal",
+      "One-third to Nepal"
+    ],
+    "correct_option": 1,
+    "explanation": "Used in equal quantity by both countries.",
+    "source_page": 321
+  },
+  {
+    "id": "q963",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Other Major Projects and Dams",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "How much area in India will be irrigated through the Pancheshwar project?",
+    "options": [
+      "1.7 lakh hectares",
+      "6.04 lakh hectares",
+      "2.58 lakh hectares",
+      "33,780 hectares"
+    ],
+    "correct_option": 2,
+    "explanation": "India 2.58 lakh ha; Nepal 1.7 lakh ha.",
+    "source_page": 321
+  },
+  {
+    "id": "q964",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Other Major Projects and Dams",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "How much area in Nepal will be irrigated through the Pancheshwar project?",
+    "options": [
+      "2.58 lakh hectares",
+      "6.04 lakh hectares",
+      "1.5 lakh hectares",
+      "1.7 lakh hectares"
+    ],
+    "correct_option": 3,
+    "explanation": "Nepal 1.7 lakh ha.",
+    "source_page": 321
+  },
+  {
+    "id": "q965",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Other Major Projects and Dams",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "What is the estimated cost of the Pancheshwar dam, as per the book?",
+    "options": [
+      "About 40 thousand crore rupees",
+      "About 4 thousand crore rupees",
+      "About 3966.51 crore rupees",
+      "About 582 crore rupees"
+    ],
+    "correct_option": 0,
+    "explanation": "About Rs 40,000 crore.",
+    "source_page": 321
+  },
+  {
+    "id": "q966",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Other Major Projects and Dams",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "The Pancheshwar dam project also covers areas of which districts besides Champawat?",
+    "options": [
+      "Bageshwar and Nainital",
+      "Pithoragarh and Almora",
+      "Pauri and Tehri",
+      "Udham Singh Nagar and Haridwar"
+    ],
+    "correct_option": 1,
+    "explanation": "Also covers Pithoragarh and Almora.",
+    "source_page": 321
+  },
+  {
+    "id": "q967",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Other Major Projects and Dams",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "The Lakhwar dam project is to be built on which river?",
+    "options": [
+      "Tons",
+      "Bhagirathi",
+      "Yamuna",
+      "Ganga"
+    ],
+    "correct_option": 2,
+    "explanation": "Lakhwar: Yamuna, near Lohari village, Dehradun.",
+    "source_page": 321
+  },
+  {
+    "id": "q968",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Other Major Projects and Dams",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Near which village in Dehradun is the Lakhwar dam to be built?",
+    "options": [
+      "Lakhamandal",
+      "Chakrata",
+      "Kalsi",
+      "Lohari"
+    ],
+    "correct_option": 3,
+    "explanation": "Lohari village, Dehradun.",
+    "source_page": 321
+  },
+  {
+    "id": "q969",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Other Major Projects and Dams",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Besides Uttarakhand, how many other states will benefit from the Lakhwar project?",
+    "options": [
+      "Five (Himachal Pradesh, Uttar Pradesh, Haryana, Rajasthan and Delhi)",
+      "Two",
+      "Three",
+      "Eight"
+    ],
+    "correct_option": 0,
+    "explanation": "Five states/territories also benefit.",
+    "source_page": 321
+  },
+  {
+    "id": "q970",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Other Major Projects and Dams",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "In which year was the Lakhwar project originally sanctioned?",
+    "options": [
+      "1972",
+      "1976",
+      "1992",
+      "1996"
+    ],
+    "correct_option": 1,
+    "explanation": "Sanctioned in 1976; stopped in 1992.",
+    "source_page": 322
+  },
+  {
+    "id": "q971",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Other Major Projects and Dams",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "In which year was construction of the Lakhwar project stopped?",
+    "options": [
+      "1976",
+      "1996",
+      "1992",
+      "2002"
+    ],
+    "correct_option": 2,
+    "explanation": "Construction was halted in 1992.",
+    "source_page": 322
+  },
+  {
+    "id": "q972",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Other Major Projects and Dams",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "What is the height of the Lakhwar dam?",
+    "options": [
+      "260.5 metres",
+      "311 metres",
+      "130.6 metres",
+      "204 metres"
+    ],
+    "correct_option": 3,
+    "explanation": "204 m dam, producing 300 MW.",
+    "source_page": 322
+  },
+  {
+    "id": "q973",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Other Major Projects and Dams",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "What is the cost of the Lakhwar project?",
+    "options": [
+      "Rs 3966.51 crore",
+      "Rs 582 crore",
+      "Rs 40,000 crore",
+      "Rs 197 crore"
+    ],
+    "correct_option": 0,
+    "explanation": "Total cost: Rs 3966.51 crore.",
+    "source_page": 322
+  },
+  {
+    "id": "q974",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Other Major Projects and Dams",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "What is the water storage capacity of the Lakhwar dam?",
+    "options": [
+      "354 crore cubic metres",
+      "330.66 million cubic metres",
+      "42 million cubic metres",
+      "261 crore cubic metres"
+    ],
+    "correct_option": 1,
+    "explanation": "330.66 million cubic metres.",
+    "source_page": 322
+  },
+  {
+    "id": "q975",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Other Major Projects and Dams",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "How much land can be irrigated by the Lakhwar project?",
+    "options": [
+      "1.5 lakh hectares",
+      "2.58 lakh hectares",
+      "33,780 hectares",
+      "6.04 lakh hectares"
+    ],
+    "correct_option": 2,
+    "explanation": "33,780 ha.",
+    "source_page": 322
+  },
+  {
+    "id": "q976",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Schemes and Initiatives",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "The Mukhyamantri Saur Swarozgar Yojana was started in which month and year?",
+    "options": [
+      "March 2023",
+      "August 2018",
+      "January 2008",
+      "October 2020"
+    ],
+    "correct_option": 3,
+    "explanation": "Started in October 2020 with UPCL's help (named Yojana-2021).",
+    "source_page": 322
+  },
+  {
+    "id": "q977",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Schemes and Initiatives",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "How many rural unemployed youths are targeted under the Mukhyamantri Saur Swarozgar Yojana?",
+    "options": [
+      "10 thousand",
+      "1 thousand",
+      "50 thousand",
+      "1 lakh"
+    ],
+    "correct_option": 0,
+    "explanation": "10,000 rural unemployed youths.",
+    "source_page": 322
+  },
+  {
+    "id": "q978",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Schemes and Initiatives",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "What solar plant capacity can be set up under the Mukhyamantri Saur Swarozgar Yojana?",
+    "options": [
+      "1 to 5 kW",
+      "25 to 50 kW",
+      "100 to 500 kW",
+      "5 to 25 MW"
+    ],
+    "correct_option": 1,
+    "explanation": "25 to 50 kW solar plants.",
+    "source_page": 322
+  },
+  {
+    "id": "q979",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Schemes and Initiatives",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "What is the maximum loan available under the Mukhyamantri Saur Swarozgar Yojana?",
+    "options": [
+      "Up to Rs 2 lakh",
+      "Up to Rs 50 lakh",
+      "Up to Rs 20 lakh",
+      "Up to Rs 1 crore"
+    ],
+    "correct_option": 2,
+    "explanation": "Loan up to Rs 20 lakh.",
+    "source_page": 322
+  },
+  {
+    "id": "q980",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Schemes and Initiatives",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Who buys the electricity produced under the Mukhyamantri Saur Swarozgar Yojana?",
+    "options": [
+      "UREDA",
+      "PTCUL",
+      "THDC",
+      "UPCL"
+    ],
+    "correct_option": 3,
+    "explanation": "UPCL purchases the power.",
+    "source_page": 322
+  },
+  {
+    "id": "q981",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Schemes and Initiatives",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "The state-level 'Urja Park' set up by UREDA is located at which place?",
+    "options": [
+      "Patel Nagar, Dehradun",
+      "Haldwani, Nainital",
+      "Roorkee, Haridwar",
+      "Srinagar, Pauri"
+    ],
+    "correct_option": 0,
+    "explanation": "State-level energy park at Patel Nagar, Dehradun.",
+    "source_page": 322
+  },
+  {
+    "id": "q982",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Schemes and Initiatives",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "For whom was the Kutir Jyoti Yojana started?",
+    "options": [
+      "Farmers",
+      "BPL (below poverty line) families",
+      "Government employees",
+      "Industrial units"
+    ],
+    "correct_option": 1,
+    "explanation": "To give BPL families free electricity.",
+    "source_page": 322
+  },
+  {
+    "id": "q983",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Schemes and Initiatives",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "What does the Kutir Jyoti Yojana provide to BPL families?",
+    "options": [
+      "Free solar pumps",
+      "Free LPG cylinders",
+      "Free electricity connection and supply",
+      "Free tube wells"
+    ],
+    "correct_option": 2,
+    "explanation": "Free electricity facility with emphasis on renewable sources.",
+    "source_page": 322
+  },
+  {
+    "id": "q984",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Schemes and Initiatives",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "As per the Economic Survey 2022-23, how many government buildings have grid-connected solar plants (191 kW in total)?",
+    "options": [
+      "20",
+      "34",
+      "6",
+      "14"
+    ],
+    "correct_option": 3,
+    "explanation": "14 buildings with 191 kW; the other 20 buildings (275.8 kW) are in progress.",
+    "source_page": 322
+  },
+  {
+    "id": "q985",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Schemes and Initiatives",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "What is the total capacity of grid-connected solar plants set up in 14 government buildings?",
+    "options": [
+      "191 kW",
+      "275.8 kW",
+      "20 kW",
+      "1191 kW"
+    ],
+    "correct_option": 0,
+    "explanation": "191 kW.",
+    "source_page": 322
+  },
+  {
+    "id": "q986",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Schemes and Initiatives",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "How many more government buildings have solar plants of 275.8 kW in progress?",
+    "options": [
+      "14",
+      "20",
+      "34",
+      "6"
+    ],
+    "correct_option": 1,
+    "explanation": "20 buildings, 275.8 kW.",
+    "source_page": 322
+  },
+  {
+    "id": "q987",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Schemes and Initiatives",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Where was the 'plastic to diesel' plant inaugurated in September 2022?",
+    "options": [
+      "Haldwani, Nainital",
+      "Haridwar",
+      "Bhimtal, Nainital",
+      "Almora"
+    ],
+    "correct_option": 2,
+    "explanation": "Plant at Bhimtal, Nainital.",
+    "source_page": 322
+  },
+  {
+    "id": "q988",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Schemes and Initiatives",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "How much diesel does the 'plastic to diesel' plant produce per month?",
+    "options": [
+      "5-7 thousand litres",
+      "5-7 lakh litres",
+      "50-70 litres",
+      "50-70 thousand litres"
+    ],
+    "correct_option": 3,
+    "explanation": "50-70 thousand litres per month.",
+    "source_page": 322
+  },
+  {
+    "id": "q989",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Tehri Project",
+    "difficulty": "medium",
+    "type": "statement",
+    "question": "Consider the following statements:\n1. The Tehri project is at the confluence of the Bhagirathi and Bhilangana.\n2. The Tehri dam is 260.5 m high.\n3. The first stage of the Tehri project was dedicated to the nation on 30 July 2005.\nWhich of the above statements are correct?",
+    "options": [
+      "Only 1 and 2",
+      "Only 1 and 3",
+      "Only 2 and 3",
+      "1, 2 and 3"
+    ],
+    "correct_option": 0,
+    "explanation": "Statement 3 is wrong: the date was 30 July 2006.",
+    "source_page": 318
+  },
+  {
+    "id": "q990",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Energy Policies",
+    "difficulty": "medium",
+    "type": "statement",
+    "question": "Consider the following statements:\n1. The Solar Energy Policy targets 2500 MW by 2027.\n2. The Pirul energy policy targets 100 MW by 2030.\n3. UREDA was established in February 2001.\nWhich of the above statements are correct?",
+    "options": [
+      "Only 2 and 3",
+      "Only 1 and 2",
+      "Only 1 and 3",
+      "1, 2 and 3"
+    ],
+    "correct_option": 1,
+    "explanation": "Statement 3 is wrong: UREDA was established in July 2001.",
+    "source_page": 316
+  },
+  {
+    "id": "q991",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Power Corporations and Agencies",
+    "difficulty": "medium",
+    "type": "statement",
+    "question": "Consider the following statements:\n1. PTCUL was formed on 1 June 2004.\n2. UJVNL was formed on 12 February 2001.\n3. UPCL controls transmission of 132 kV and above.\nWhich of the above statements are correct?",
+    "options": [
+      "Only 1 and 3",
+      "Only 2 and 3",
+      "Only 1 and 2",
+      "1, 2 and 3"
+    ],
+    "correct_option": 2,
+    "explanation": "Statement 3 is wrong: PTCUL handles 132 kV and above; UPCL controls stations below 132 kV.",
+    "source_page": 317
+  },
+  {
+    "id": "q992",
+    "chapter": "Uttarakhand - Energy Resources",
+    "topic": "Other Major Projects and Dams",
+    "difficulty": "medium",
+    "type": "statement",
+    "question": "Consider the following statements:\n1. The Pancheshwar dam is based on the 1996 India-Nepal treaty.\n2. It is proposed on the Mahakali river.\n3. Its proposed height is 204 metres.\nWhich of the above statements are correct?",
+    "options": [
+      "Only 2 and 3",
+      "Only 1 and 3",
+      "1, 2 and 3",
+      "Only 1 and 2"
+    ],
+    "correct_option": 3,
+    "explanation": "Statement 3 is wrong: the proposed height is 311 m (204 m is Lakhwar).",
+    "source_page": 321
   }
 ]
