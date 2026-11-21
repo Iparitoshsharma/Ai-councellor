@@ -6107,5 +6107,1085 @@
     "correct_answer": "Combined contribution of heavy southwest monsoon rainfall and seasonal glacial/snow melt",
     "explanation": "Peak river discharge in Uttarakhand occurs during the monsoon months when heavy rainfall combines with summer/monsoon snow and ice melt.",
     "source_page": 20
+  },
+  {
+    "id": "q339",
+    "chapter": "Uttarakhand - Climate, Soil and Natural Vegetation",
+    "topic": "Climate and Seasons",
+    "difficulty": "easy",
+    "type": "direct",
+    "question": "How is the climate of Uttarakhand broadly characterized due to its wide altitudinal range?",
+    "options": [
+      "Polar tundra across the entire state",
+      "Uniformly hot desert throughout the year",
+      "Equatorial wet rainforest across all districts",
+      "Temperate to sub-alpine/alpine in the hills and sub-tropical/humid subtropical in the southern plains/valleys"
+    ],
+    "correct_option": 3,
+    "correct_answer": "Temperate to sub-alpine/alpine in the hills and sub-tropical/humid subtropical in the southern plains/valleys",
+    "explanation": "Because Uttarakhand spans from the southern Tarai/Bhabar/Dun lowlands up to high alpine peaks, its climate ranges from humid sub-tropical in lower areas to temperate, sub-alpine, and alpine at higher elevations.",
+    "source_page": 25
+  },
+  {
+    "id": "q340",
+    "chapter": "Uttarakhand - Climate, Soil and Natural Vegetation",
+    "topic": "Climate and Seasons",
+    "difficulty": "easy",
+    "type": "direct",
+    "question": "In which season does Uttarakhand receive the majority of its annual rainfall?",
+    "options": [
+      "Monsoon / Rainy season (mid-June to mid-September)",
+      "Pre-monsoon dry summer (April to mid-June)",
+      "Peak winter (December to January)",
+      "Post-monsoon autumn dry spell (October to November)"
+    ],
+    "correct_option": 0,
+    "correct_answer": "Monsoon / Rainy season (mid-June to mid-September)",
+    "explanation": "The southwest monsoon (roughly mid-June to mid-September) brings the bulk of Uttarakhand's rainfall.",
+    "source_page": 25
+  },
+  {
+    "id": "q341",
+    "chapter": "Uttarakhand - Climate, Soil and Natural Vegetation",
+    "topic": "Climate and Seasons",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "What brings winter precipitation (rain in lower areas and snowfall in higher hills) to Uttarakhand between December and February?",
+    "options": [
+      "Western disturbances",
+      "Northeast trade winds",
+      "Southeasterly monsoon currents",
+      "Tropical cyclones from the Bay of Bengal"
+    ],
+    "correct_option": 0,
+    "correct_answer": "Western disturbances",
+    "explanation": "Western disturbances moving eastward from the Mediterranean/western Asia bring winter rain and high-altitude snowfall to Uttarakhand.",
+    "source_page": 25
+  },
+  {
+    "id": "q342",
+    "chapter": "Uttarakhand - Climate, Soil and Natural Vegetation",
+    "topic": "Climate and Seasons",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "What is the general relationship between altitude and temperature in Uttarakhand?",
+    "options": [
+      "Higher peaks are warmer than valley floors in summer",
+      "Temperature increases continuously up to 7,500 meters",
+      "Temperature decreases with increasing altitude (normal lapse rate)",
+      "Temperature remains constant regardless of elevation"
+    ],
+    "correct_option": 2,
+    "correct_answer": "Temperature decreases with increasing altitude (normal lapse rate)",
+    "explanation": "As elevation increases from the Tarai/plains and river valleys toward the Lesser and Greater Himalayas, air temperature drops.",
+    "source_page": 25
+  },
+  {
+    "id": "q343",
+    "chapter": "Uttarakhand - Climate, Soil and Natural Vegetation",
+    "topic": "Climate and Seasons",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which weather phenomenon causes localized thunderstorms and pre-monsoon showers in Uttarakhand during late spring/early summer?",
+    "options": [
+      "Equatorial doldrums",
+      "Local convective heating and pre-monsoon disturbances",
+      "Winter western disturbances only",
+      "Polar jet stream subsidence"
+    ],
+    "correct_option": 1,
+    "correct_answer": "Local convective heating and pre-monsoon disturbances",
+    "explanation": "Warming in spring/early summer triggers local convective thunderstorms and scattered pre-monsoon showers in the hills and valleys.",
+    "source_page": 25
+  },
+  {
+    "id": "q344",
+    "chapter": "Uttarakhand - Climate, Soil and Natural Vegetation",
+    "topic": "Climate and Seasons",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which climatic zone experiences the highest summer temperatures in Uttarakhand?",
+    "options": [
+      "Alpine bugyal zone above 3,500 m",
+      "Trans-Himalayan cold desert fringe",
+      "Greater Himalayan snowbound peaks",
+      "Southern plains and lower valleys (such as Tarai-Bhabar, Haridwar, and Udham Singh Nagar)"
+    ],
+    "correct_option": 3,
+    "correct_answer": "Southern plains and lower valleys (such as Tarai-Bhabar, Haridwar, and Udham Singh Nagar)",
+    "explanation": "Lower elevations—including the Tarai-Bhabar belt, Udham Singh Nagar, Haridwar, and deep river valleys—record the warmest summer temperatures.",
+    "source_page": 25
+  },
+  {
+    "id": "q345",
+    "chapter": "Uttarakhand - Climate, Soil and Natural Vegetation",
+    "topic": "Climate and Seasons",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Which region of Uttarakhand exhibits cold, arid-like rain-shadow characteristics due to blocking of monsoon winds by high mountain ranges?",
+    "options": [
+      "Trans-Himalayan / high northern valleys (such as upper parts of Uttarkashi, Chamoli, and Pithoragarh)",
+      "Udham Singh Nagar Tarai",
+      "Kotdwar foothills",
+      "Haridwar plain"
+    ],
+    "correct_option": 0,
+    "correct_answer": "Trans-Himalayan / high northern valleys (such as upper parts of Uttarkashi, Chamoli, and Pithoragarh)",
+    "explanation": "High mountain barriers shelter northern/Trans-Himalayan valleys from heavy monsoon moisture, creating drier, colder conditions.",
+    "source_page": 25
+  },
+  {
+    "id": "q346",
+    "chapter": "Uttarakhand - Climate, Soil and Natural Vegetation",
+    "topic": "Climate and Seasons",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Why are outer hill slopes facing monsoon winds generally wetter than sheltered interior valleys or leeward slopes?",
+    "options": [
+      "Higher soil salinity on windward slopes",
+      "Lower barometric pressure in plains",
+      "Orographic lifting of moisture-laden monsoon air on windward slopes",
+      "Absence of forests on leeward slopes"
+    ],
+    "correct_option": 2,
+    "correct_answer": "Orographic lifting of moisture-laden monsoon air on windward slopes",
+    "explanation": "Moisture-bearing monsoon winds rise along mountain slopes (orographic rainfall), condensing and releasing heavier rain on exposed slopes.",
+    "source_page": 25
+  },
+  {
+    "id": "q347",
+    "chapter": "Uttarakhand - Climate, Soil and Natural Vegetation",
+    "topic": "Climate and Seasons",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which season in Uttarakhand is typically cool, dry, and clear with pleasant visibility after the monsoon withdraws?",
+    "options": [
+      "Mid-summer (May to June)",
+      "Peak monsoon (July to August)",
+      "Autumn / Post-monsoon transition (October to November)",
+      "Deep winter (January)"
+    ],
+    "correct_option": 2,
+    "correct_answer": "Autumn / Post-monsoon transition (October to November)",
+    "explanation": "Following monsoon withdrawal in autumn (October–November), skies clear up and temperatures become cool and crisp.",
+    "source_page": 25
+  },
+  {
+    "id": "q348",
+    "chapter": "Uttarakhand - Climate, Soil and Natural Vegetation",
+    "topic": "Climate and Seasons",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "What climatic hazard is especially pronounced on steep slopes of Uttarakhand during heavy monsoon spells?",
+    "options": [
+      "Dust storms of the Thar type",
+      "Permafrost thaw-lakes in the Tarai",
+      "Landslides, slope failures, and flash floods",
+      "Tropical coral bleaching"
+    ],
+    "correct_option": 2,
+    "correct_answer": "Landslides, slope failures, and flash floods",
+    "explanation": "Intense monsoon downpours on steep, geologically young Himalayan slopes increase risks of landslides, rockfalls, and flash floods.",
+    "source_page": 25
+  },
+  {
+    "id": "q349",
+    "chapter": "Uttarakhand - Climate, Soil and Natural Vegetation",
+    "topic": "Climate and Seasons",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which months generally represent the winter season in Uttarakhand?",
+    "options": [
+      "March to May",
+      "June to August",
+      "September to October",
+      "December to February"
+    ],
+    "correct_option": 3,
+    "correct_answer": "December to February",
+    "explanation": "Winter in Uttarakhand spans roughly December through February, bringing cold weather and western-disturbance precipitation.",
+    "source_page": 25
+  },
+  {
+    "id": "q350",
+    "chapter": "Uttarakhand - Climate, Soil and Natural Vegetation",
+    "topic": "Climate and Seasons",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which months generally represent the summer season before monsoon onset in Uttarakhand?",
+    "options": [
+      "October to December",
+      "November to January",
+      "July to September",
+      "March to mid-June"
+    ],
+    "correct_option": 3,
+    "correct_answer": "March to mid-June",
+    "explanation": "Spring/summer runs from March until the arrival of the monsoon in mid-June.",
+    "source_page": 25
+  },
+  {
+    "id": "q351",
+    "chapter": "Uttarakhand - Climate, Soil and Natural Vegetation",
+    "topic": "Soils of Uttarakhand",
+    "difficulty": "easy",
+    "type": "direct",
+    "question": "Which type of soil is dominant across the hilly and mountainous terrain of Uttarakhand?",
+    "options": [
+      "Arid desert sand",
+      "Marine saline soil",
+      "Forest and mountain / hill soil",
+      "Black cotton soil (Regur)"
+    ],
+    "correct_option": 2,
+    "correct_answer": "Forest and mountain / hill soil",
+    "explanation": "Mountain/forest soils—varying in depth, texture, and organic matter with slope and elevation—predominate across Uttarakhand's hills.",
+    "source_page": 26
+  },
+  {
+    "id": "q352",
+    "chapter": "Uttarakhand - Climate, Soil and Natural Vegetation",
+    "topic": "Soils of Uttarakhand",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Where is fertile alluvial soil primarily found in Uttarakhand?",
+    "options": [
+      "Tarai belt, river valleys/duns, and southern plains (such as Udham Singh Nagar and Haridwar)",
+      "Glacial moraines above 5,000 meters",
+      "High alpine snowfields",
+      "Bare granite cliffs"
+    ],
+    "correct_option": 0,
+    "correct_answer": "Tarai belt, river valleys/duns, and southern plains (such as Udham Singh Nagar and Haridwar)",
+    "explanation": "Alluvial soils occur in the Tarai belt, flat valleys like Doon, and southern plains in districts like Udham Singh Nagar and Haridwar.",
+    "source_page": 26
+  },
+  {
+    "id": "q353",
+    "chapter": "Uttarakhand - Climate, Soil and Natural Vegetation",
+    "topic": "Soils of Uttarakhand",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "How does soil depth typically vary between steep mountain slopes and gentler valleys/terraces in Uttarakhand?",
+    "options": [
+      "Steep slopes hold deeper alluvial clay than flat valleys",
+      "Soil depth is uniform across all gradients",
+      "Glacial ridges have the deepest fertile loam",
+      "Steep slopes tend to have thinner, stonier soils, while valleys and terraced slopes hold deeper soil"
+    ],
+    "correct_option": 3,
+    "correct_answer": "Steep slopes tend to have thinner, stonier soils, while valleys and terraced slopes hold deeper soil",
+    "explanation": "Erosion on steep inclines leaves thinner, more gravelly soil, whereas valley floors and terraces accumulate deeper soil.",
+    "source_page": 26
+  },
+  {
+    "id": "q354",
+    "chapter": "Uttarakhand - Climate, Soil and Natural Vegetation",
+    "topic": "Soils of Uttarakhand",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "What characterizes soil in the Bhabar belt of Uttarakhand?",
+    "options": [
+      "Deep peat bogs",
+      "Fine black clay rich in moisture",
+      "Calcareous salt crust",
+      "Coarse boulders, gravel, and pebbles with low water retention at the surface"
+    ],
+    "correct_option": 3,
+    "correct_answer": "Coarse boulders, gravel, and pebbles with low water retention at the surface",
+    "explanation": "Bhabar soils are coarse, stony, and porous with boulders and gravel deposited at the base of the hills.",
+    "source_page": 26
+  },
+  {
+    "id": "q355",
+    "chapter": "Uttarakhand - Climate, Soil and Natural Vegetation",
+    "topic": "Soils of Uttarakhand",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "What characterizes soil in the Tarai belt south of Bhabar?",
+    "options": [
+      "Loose shifting desert dunes",
+      "Bare unweathered bedrock",
+      "Fine-grained, moist, fertile alluvial soil suited to intensive agriculture",
+      "Permanent glacial ice"
+    ],
+    "correct_option": 2,
+    "correct_answer": "Fine-grained, moist, fertile alluvial soil suited to intensive agriculture",
+    "explanation": "Tarai soil consists of finer alluvial deposits with high moisture and fertility, supporting crops like paddy, wheat, and sugarcane.",
+    "source_page": 26
+  },
+  {
+    "id": "q356",
+    "chapter": "Uttarakhand - Climate, Soil and Natural Vegetation",
+    "topic": "Soils of Uttarakhand",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Why does 'Red Clay' (Lal Mitti) occur in parts of Uttarakhand's hills such as areas around Almora, Pauri, and Nainital?",
+    "options": [
+      "Windblown sand from western Rajasthan",
+      "Recent marine coral deposits",
+      "Weathering of iron-bearing rocks and oxide accumulation on hill slopes",
+      "Volcanic basalt flows from the Deccan"
+    ],
+    "correct_option": 2,
+    "correct_answer": "Weathering of iron-bearing rocks and oxide accumulation on hill slopes",
+    "explanation": "Reddish/ferruginous hill soils arise from weathering of iron-rich parent rocks and oxidation under hill drainage conditions.",
+    "source_page": 26
+  },
+  {
+    "id": "q357",
+    "chapter": "Uttarakhand - Climate, Soil and Natural Vegetation",
+    "topic": "Soils of Uttarakhand",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "What is 'Brown Forest Soil' (Bhuri Van Mrida) in Uttarakhand generally associated with?",
+    "options": [
+      "Dry riverbeds in the plains",
+      "Forest-covered hill slopes with moderate to high organic/humus content",
+      "Industrial slag heaps",
+      "Saline coastal flats"
+    ],
+    "correct_option": 1,
+    "correct_answer": "Forest-covered hill slopes with moderate to high organic/humus content",
+    "explanation": "Brown forest soil develops beneath wooded hill slopes where leaf litter and organic matter enrich the upper soil profile.",
+    "source_page": 26
+  },
+  {
+    "id": "q358",
+    "chapter": "Uttarakhand - Climate, Soil and Natural Vegetation",
+    "topic": "Soils of Uttarakhand",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "How does decomposition rate affect alpine/high-altitude soils compared to lower forest soils in Uttarakhand?",
+    "options": [
+      "Alpine soils contain no organic matter",
+      "High heat causes rapid mineralization everywhere",
+      "Tropical bacteria break down humus instantly at 4,000 m",
+      "Cold temperatures slow microbial decomposition, leading to distinct organic/peaty or shallow alpine profiles"
+    ],
+    "correct_option": 3,
+    "correct_answer": "Cold temperatures slow microbial decomposition, leading to distinct organic/peaty or shallow alpine profiles",
+    "explanation": "Low temperatures at higher altitudes slow organic matter decomposition, shaping distinctive high-altitude/alpine soil horizons.",
+    "source_page": 26
+  },
+  {
+    "id": "q359",
+    "chapter": "Uttarakhand - Climate, Soil and Natural Vegetation",
+    "topic": "Soils of Uttarakhand",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which farming practice is widely used on sloping hill soils of Uttarakhand to reduce erosion and retain moisture?",
+    "options": [
+      "Deep-sea trawling",
+      "Flood irrigation on unbunded vertical cliffs",
+      "Shifting sand-dune grazing",
+      "Terrace farming (step/contour cultivation)"
+    ],
+    "correct_option": 3,
+    "correct_answer": "Terrace farming (step/contour cultivation)",
+    "explanation": "Terracing converts steep slopes into stepped levels that slow runoff and reduce soil erosion in the hills.",
+    "source_page": 26
+  },
+  {
+    "id": "q360",
+    "chapter": "Uttarakhand - Climate, Soil and Natural Vegetation",
+    "topic": "Soils of Uttarakhand",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Which soil type is found in river valleys and low-lying basins like Doon Valley?",
+    "options": [
+      "Alluvial/valley loam soil",
+      "Inland salt pan soil",
+      "Black cotton soil",
+      "Laterite crust of coastal plateaus"
+    ],
+    "correct_option": 0,
+    "correct_answer": "Alluvial/valley loam soil",
+    "explanation": "Valleys such as Doon contain transported alluvial/valley soils deposited by rivers and hill streams.",
+    "source_page": 26
+  },
+  {
+    "id": "q361",
+    "chapter": "Uttarakhand - Climate, Soil and Natural Vegetation",
+    "topic": "Soils of Uttarakhand",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Why is soil erosion a major agricultural and ecological concern in Uttarakhand?",
+    "options": [
+      "Steep gradients, intense monsoon rain, deforestation/land-use change, and fragile geology accelerate runoff",
+      "Glaciers cover all arable land",
+      "Flat plains prevent any water movement",
+      "Lack of rainfall causes wind erosion in all districts"
+    ],
+    "correct_option": 0,
+    "correct_answer": "Steep gradients, intense monsoon rain, deforestation/land-use change, and fragile geology accelerate runoff",
+    "explanation": "Steep terrain combined with heavy monsoon rainfall and slope disturbance makes topsoil vulnerable to erosion.",
+    "source_page": 26
+  },
+  {
+    "id": "q362",
+    "chapter": "Uttarakhand - Climate, Soil and Natural Vegetation",
+    "topic": "Soils of Uttarakhand",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Which districts contain extensive fertile plain/Tarai soils suitable for cereal and cash crops like wheat, paddy, and sugarcane?",
+    "options": [
+      "Uttarkashi and Bageshwar",
+      "Udham Singh Nagar and Haridwar",
+      "Rudraprayag and Chamoli",
+      "Pithoragarh high border ridges"
+    ],
+    "correct_option": 1,
+    "correct_answer": "Udham Singh Nagar and Haridwar",
+    "explanation": "Udham Singh Nagar and Haridwar hold major plain and Tarai agricultural tracts with fertile alluvial soils.",
+    "source_page": 26
+  },
+  {
+    "id": "q363",
+    "chapter": "Uttarakhand - Climate, Soil and Natural Vegetation",
+    "topic": "Soils of Uttarakhand",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "How does forest cover help protect soils in Uttarakhand?",
+    "options": [
+      "Forests turn soil into stone",
+      "Tree roots bind soil particles and canopies intercept heavy raindrops",
+      "Forests prevent all groundwater recharge",
+      "Forests increase slope steepness"
+    ],
+    "correct_option": 1,
+    "correct_answer": "Tree roots bind soil particles and canopies intercept heavy raindrops",
+    "explanation": "Forest canopies cushion rain impact while root networks anchor soil against slope wash and landslides.",
+    "source_page": 26
+  },
+  {
+    "id": "q364",
+    "chapter": "Uttarakhand - Climate, Soil and Natural Vegetation",
+    "topic": "Soils of Uttarakhand",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "What are 'Katyur' / valley fertile soils in Kumaon typically associated with?",
+    "options": [
+      "Mangrove swamps",
+      "Arid rocky deserts",
+      "High snowfields above 5,000 m",
+      "Fertile river/basin agricultural tracts such as the Katyur valley around Bageshwar/Baijnath"
+    ],
+    "correct_option": 3,
+    "correct_answer": "Fertile river/basin agricultural tracts such as the Katyur valley around Bageshwar/Baijnath",
+    "explanation": "Fertile valley basins in Kumaon (such as Katyur) support productive valley agriculture due to deposited alluvium and favorable microclimate.",
+    "source_page": 26
+  },
+  {
+    "id": "q365",
+    "chapter": "Uttarakhand - Climate, Soil and Natural Vegetation",
+    "topic": "Natural Vegetation and Forests",
+    "difficulty": "easy",
+    "type": "direct",
+    "question": "What primarily governs the vertical change in natural vegetation across Uttarakhand?",
+    "options": [
+      "Latitude alone across a flat plain",
+      "Proximity to ocean tides",
+      "Urban street lighting",
+      "Change in altitude (elevation) and corresponding temperature/moisture shifts"
+    ],
+    "correct_option": 3,
+    "correct_answer": "Change in altitude (elevation) and corresponding temperature/moisture shifts",
+    "explanation": "Vegetation in Uttarakhand changes markedly with altitude, progressing from lower subtropical/deciduous forests to pine, oak, sub-alpine, and alpine flora.",
+    "source_page": 27
+  },
+  {
+    "id": "q366",
+    "chapter": "Uttarakhand - Climate, Soil and Natural Vegetation",
+    "topic": "Natural Vegetation and Forests",
+    "difficulty": "easy",
+    "type": "direct",
+    "question": "Which tree species is characteristic of lower tropical/sub-tropical deciduous and foothill/Bhabar-Shivalik forests in Uttarakhand?",
+    "options": [
+      "Birch (Bhojpatra)",
+      "Rhododendron (Burans) at alpine timberline only",
+      "Sal (Shorea robusta)",
+      "Alpine moss"
+    ],
+    "correct_option": 2,
+    "correct_answer": "Sal (Shorea robusta)",
+    "explanation": "Sal is a prominent timber tree of the foothill, Bhabar, Tarai-edge, and lower Shivalik forests of Uttarakhand.",
+    "source_page": 27
+  },
+  {
+    "id": "q367",
+    "chapter": "Uttarakhand - Climate, Soil and Natural Vegetation",
+    "topic": "Natural Vegetation and Forests",
+    "difficulty": "easy",
+    "type": "direct",
+    "question": "Which conifer tree is widespread across mid-elevation slopes (roughly ~1,000 m to ~1,800–2,000 m) of Uttarakhand?",
+    "options": [
+      "Babul of arid plains",
+      "Mangrove (Rhizophora)",
+      "Chir Pine (Pinus roxburghii)",
+      "Teak of coastal plateaus"
+    ],
+    "correct_option": 2,
+    "correct_answer": "Chir Pine (Pinus roxburghii)",
+    "explanation": "Chir Pine is a hallmark species of the lower-to-mid Himalayan belt across Garhwal and Kumaon.",
+    "source_page": 27
+  },
+  {
+    "id": "q368",
+    "chapter": "Uttarakhand - Climate, Soil and Natural Vegetation",
+    "topic": "Natural Vegetation and Forests",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "What is the state tree of Uttarakhand?",
+    "options": [
+      "Sal",
+      "Burans (Rhododendron arboreum)",
+      "Banyan",
+      "Deodar"
+    ],
+    "correct_option": 1,
+    "correct_answer": "Burans (Rhododendron arboreum)",
+    "explanation": "Burans (Rhododendron arboreum) is the state tree of Uttarakhand.",
+    "source_page": 27
+  },
+  {
+    "id": "q369",
+    "chapter": "Uttarakhand - Climate, Soil and Natural Vegetation",
+    "topic": "Natural Vegetation and Forests",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which tree species is prized in temperate/higher hill forests of Uttarakhand and is traditionally associated with temples and durable timber?",
+    "options": [
+      "Babool",
+      "Coconut palm",
+      "Deodar (Cedrus deodara)",
+      "Rubber tree"
+    ],
+    "correct_option": 2,
+    "correct_answer": "Deodar (Cedrus deodara)",
+    "explanation": "Deodar is a valued temperate coniferous tree in Uttarakhand's higher hills.",
+    "source_page": 27
+  },
+  {
+    "id": "q370",
+    "chapter": "Uttarakhand - Climate, Soil and Natural Vegetation",
+    "topic": "Natural Vegetation and Forests",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which broadleaf tree group plays a vital ecological role in moisture conservation and fodder/fuelwood in mid-to-upper Himalayan forests of Uttarakhand?",
+    "options": [
+      "Mangrove",
+      "Date palm",
+      "Cactus",
+      "Oak (Banj / Quercus species)"
+    ],
+    "correct_option": 3,
+    "correct_answer": "Oak (Banj / Quercus species)",
+    "explanation": "Oak (Banj and related species) is ecologically vital in Uttarakhand's temperate/sub-alpine belts for soil moisture retention and local livelihoods.",
+    "source_page": 27
+  },
+  {
+    "id": "q371",
+    "chapter": "Uttarakhand - Climate, Soil and Natural Vegetation",
+    "topic": "Natural Vegetation and Forests",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Which tree species marks the upper sub-alpine/timberline zone and has papery bark historically used for writing?",
+    "options": [
+      "Khair",
+      "Sal",
+      "Shisham",
+      "Bhojpatra (Himalayan Birch)"
+    ],
+    "correct_option": 3,
+    "correct_answer": "Bhojpatra (Himalayan Birch)",
+    "explanation": "Bhojpatra (Betula utilis / Himalayan birch) grows near the sub-alpine/tree-line zone and is known for its peeling bark.",
+    "source_page": 27
+  },
+  {
+    "id": "q372",
+    "chapter": "Uttarakhand - Climate, Soil and Natural Vegetation",
+    "topic": "Natural Vegetation and Forests",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "What replaces trees above the timberline/tree line in the high mountains of Uttarakhand?",
+    "options": [
+      "Alpine meadows (bugyals), shrubs, lichens, and mosses",
+      "Mangrove tidal forests",
+      "Irrigated sugarcane plantations",
+      "Dense tropical sal rainforests"
+    ],
+    "correct_option": 0,
+    "correct_answer": "Alpine meadows (bugyals), shrubs, lichens, and mosses",
+    "explanation": "Above the tree line, harsh cold and short growing seasons limit growth to alpine scrub, grasses/bugyals, lichens, and mosses.",
+    "source_page": 27
+  },
+  {
+    "id": "q373",
+    "chapter": "Uttarakhand - Climate, Soil and Natural Vegetation",
+    "topic": "Natural Vegetation and Forests",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Why is the spread of Chir Pine in mid-hills often discussed alongside ecological/soil concerns in Uttarakhand?",
+    "options": [
+      "Pine trees prevent monsoon clouds from forming",
+      "Pine trees only grow underwater",
+      "Pine forests turn valleys into deserts overnight",
+      "Pine needles decompose slowly, acidify/dry topsoil, and can increase forest fire risk during dry spells"
+    ],
+    "correct_option": 3,
+    "correct_answer": "Pine needles decompose slowly, acidify/dry topsoil, and can increase forest fire risk during dry spells",
+    "explanation": "Dry fallen pine needles (pirul) are flammable in dry seasons and slow to decompose compared to broadleaf oak litter.",
+    "source_page": 27
+  },
+  {
+    "id": "q374",
+    "chapter": "Uttarakhand - Climate, Soil and Natural Vegetation",
+    "topic": "Natural Vegetation and Forests",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which species is known in Uttarakhand for its bright crimson/pink blossoms in spring and status as the state tree?",
+    "options": [
+      "Teak",
+      "Burans (Rhododendron)",
+      "Eucalyptus",
+      "Sal"
+    ],
+    "correct_option": 1,
+    "correct_answer": "Burans (Rhododendron)",
+    "explanation": "Burans (Rhododendron arboreum) is famous for its spring flowers and is Uttarakhand's state tree.",
+    "source_page": 27
+  },
+  {
+    "id": "q375",
+    "chapter": "Uttarakhand - Climate, Soil and Natural Vegetation",
+    "topic": "Natural Vegetation and Forests",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Which forest type occurs in the lower foothills, Bhabar, and Dun margins of Uttarakhand?",
+    "options": [
+      "Equatorial evergreen rainforest",
+      "Sub-arctic lichen heath",
+      "Tropical moist/dry deciduous forests (dominated by Sal and associates)",
+      "Alpine tundra"
+    ],
+    "correct_option": 2,
+    "correct_answer": "Tropical moist/dry deciduous forests (dominated by Sal and associates)",
+    "explanation": "Lower elevations and foothills support tropical deciduous vegetation led by Sal alongside species like Haldu, Khair, and Shisham.",
+    "source_page": 27
+  },
+  {
+    "id": "q376",
+    "chapter": "Uttarakhand - Climate, Soil and Natural Vegetation",
+    "topic": "Natural Vegetation and Forests",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Which of the following is a characteristic tree of lower riverine/foothill tracts in Uttarakhand?",
+    "options": [
+      "Bhojpatra",
+      "Snow lotus",
+      "Khair or Shisham",
+      "Alpine juniper at 4,500 m"
+    ],
+    "correct_option": 2,
+    "correct_answer": "Khair or Shisham",
+    "explanation": "Khair and Shisham are typical of lower riverine/foothill/alluvial tracts in Uttarakhand.",
+    "source_page": 27
+  },
+  {
+    "id": "q377",
+    "chapter": "Uttarakhand - Climate, Soil and Natural Vegetation",
+    "topic": "Natural Vegetation and Forests",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which temperate conifers are found in the higher/cooler hill forests of Uttarakhand?",
+    "options": [
+      "Baobab and Acacia nilotica",
+      "Mangrove and Casuarina",
+      "Deodar, Fir, and Spruce",
+      "Coconut and Areca nut"
+    ],
+    "correct_option": 2,
+    "correct_answer": "Deodar, Fir, and Spruce",
+    "explanation": "Deodar, Fir, and Spruce are prominent temperate/sub-alpine conifers in Uttarakhand's upper hills.",
+    "source_page": 27
+  },
+  {
+    "id": "q378",
+    "chapter": "Uttarakhand - Climate, Soil and Natural Vegetation",
+    "topic": "Natural Vegetation and Forests",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "What happens to forest density and tree height as one ascends toward the alpine zone?",
+    "options": [
+      "Trees become shorter, more stunted/wind-shaped, and eventually give way to alpine meadows and bare rock/snow",
+      "Tropical palms replace oaks at 3,500 meters",
+      "Trees grow taller and thicker all the way to the snowline",
+      "Vegetation becomes denser with taller canopies above 4,000 meters"
+    ],
+    "correct_option": 0,
+    "correct_answer": "Trees become shorter, more stunted/wind-shaped, and eventually give way to alpine meadows and bare rock/snow",
+    "explanation": "Increasing cold, wind exposure, and shorter summers stunt tree growth near the timberline before yielding to alpine vegetation.",
+    "source_page": 27
+  },
+  {
+    "id": "q379",
+    "chapter": "Uttarakhand - Climate, Soil and Natural Vegetation",
+    "topic": "Natural Vegetation and Forests",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Which ecological benefit do oak (Banj) forests provide that makes them preferred by hill communities over pure pine stands?",
+    "options": [
+      "Elimination of all seasonal variation",
+      "Higher timber prices than gold",
+      "Complete immunity to frost at sea level",
+      "Better spring/groundwater retention, fertile leaf litter, and nutritious fodder"
+    ],
+    "correct_option": 3,
+    "correct_answer": "Better spring/groundwater retention, fertile leaf litter, and nutritious fodder",
+    "explanation": "Oak forests support richer soil moisture/spring flow and provide valuable fodder for livestock.",
+    "source_page": 27
+  },
+  {
+    "id": "q380",
+    "chapter": "Uttarakhand - Climate, Soil and Natural Vegetation",
+    "topic": "Natural Vegetation and Forests",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "What are the high-altitude alpine pastures in Garhwal and Kumaon rich in seasonal herbs and grasses called?",
+    "options": [
+      "Duns",
+      "Parganas",
+      "Bhabars",
+      "Bugyals (or Payars)"
+    ],
+    "correct_option": 3,
+    "correct_answer": "Bugyals (or Payars)",
+    "explanation": "Alpine pastures above the tree line are called Bugyals (or Payars), blossoming in summer after snowmelt.",
+    "source_page": 27
+  },
+  {
+    "id": "q381",
+    "chapter": "Uttarakhand - Climate, Soil and Natural Vegetation",
+    "topic": "Natural Vegetation and Forests",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Which medicinal/alpine plant associated with high Himalayan meadows of Uttarakhand is prized in traditional medicine?",
+    "options": [
+      "Jute",
+      "Cashew",
+      "Keeda Jadi (Cordyceps sinensis / Ophiocordyceps) or high-altitude medicinal herbs",
+      "Sugarcane"
+    ],
+    "correct_option": 2,
+    "correct_answer": "Keeda Jadi (Cordyceps sinensis / Ophiocordyceps) or high-altitude medicinal herbs",
+    "explanation": "High alpine zones of Uttarakhand harbor specialized medicinal and aromatic flora/fungi.",
+    "source_page": 27
+  },
+  {
+    "id": "q382",
+    "chapter": "Uttarakhand - Climate, Soil and Natural Vegetation",
+    "topic": "Natural Vegetation and Forests",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "In which season do alpine bugyals in Uttarakhand burst into bloom with wildflowers and grasses?",
+    "options": [
+      "Never—they stay snow-covered year-round",
+      "Peak winter (January)",
+      "Mid-November snowstorms",
+      "Summer / early monsoon (after winter snow melts)"
+    ],
+    "correct_option": 3,
+    "correct_answer": "Summer / early monsoon (after winter snow melts)",
+    "explanation": "Once snow melts in late spring/summer, alpine bugyals turn green and bloom with diverse seasonal flora.",
+    "source_page": 27
+  },
+  {
+    "id": "q383",
+    "chapter": "Uttarakhand - Climate, Soil and Natural Vegetation",
+    "topic": "Forest Conservation and Movements",
+    "difficulty": "easy",
+    "type": "direct",
+    "question": "What is a 'Van Panchayat' in Uttarakhand?",
+    "options": [
+      "A meteorological weather station",
+      "A state revenue court for tax disputes",
+      "A national highway toll authority",
+      "A community-managed village forest council/institution empowered to protect and manage local forests"
+    ],
+    "correct_option": 3,
+    "correct_answer": "A community-managed village forest council/institution empowered to protect and manage local forests",
+    "explanation": "Van Panchayats are grassroots community institutions in Uttarakhand that manage and protect designated village/community forests.",
+    "source_page": 28
+  },
+  {
+    "id": "q384",
+    "chapter": "Uttarakhand - Climate, Soil and Natural Vegetation",
+    "topic": "Forest Conservation and Movements",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "In which region of undivided/hill Uttar Pradesh (now Uttarakhand) did the Van Panchayat system originate and first take formal shape?",
+    "options": [
+      "Sundarbans delta",
+      "Thar desert",
+      "Coastal Konkan",
+      "Kumaon (and Garhwal hill tracts under forest rules of the early 20th century)"
+    ],
+    "correct_option": 3,
+    "correct_answer": "Kumaon (and Garhwal hill tracts under forest rules of the early 20th century)",
+    "explanation": "Van Panchayats emerged in the Uttarakhand hills (starting in Kumaon under early 20th-century forest governance rules) to balance local needs with conservation.",
+    "source_page": 28
+  },
+  {
+    "id": "q385",
+    "chapter": "Uttarakhand - Climate, Soil and Natural Vegetation",
+    "topic": "Forest Conservation and Movements",
+    "difficulty": "easy",
+    "type": "direct",
+    "question": "What was the famous grassroots environmental movement in Uttarakhand where villagers hugged trees to prevent commercial felling?",
+    "options": [
+      "Narmada Bachao Andolan",
+      "Chipko Movement",
+      "Appiko Movement (Karnataka)",
+      "Silent Valley Movement"
+    ],
+    "correct_option": 1,
+    "correct_answer": "Chipko Movement",
+    "explanation": "The Chipko Movement originated in the Garhwal hills of Uttarakhand as a non-violent forest conservation movement.",
+    "source_page": 28
+  },
+  {
+    "id": "q386",
+    "chapter": "Uttarakhand - Climate, Soil and Natural Vegetation",
+    "topic": "Forest Conservation and Movements",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "In which present-day district of Uttarakhand is Reni village (closely associated with the Chipko Movement) located?",
+    "options": [
+      "Haridwar",
+      "Champawat",
+      "Chamoli",
+      "Udham Singh Nagar"
+    ],
+    "correct_option": 2,
+    "correct_answer": "Chamoli",
+    "explanation": "Reni village is located in Chamoli district in the Alaknanda/Dhauliganga region.",
+    "source_page": 28
+  },
+  {
+    "id": "q387",
+    "chapter": "Uttarakhand - Climate, Soil and Natural Vegetation",
+    "topic": "Forest Conservation and Movements",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which environmental activist from Uttarakhand is widely known for leadership and advocacy in the Chipko Movement and Himalayan ecology?",
+    "options": [
+      "Sunderlal Bahuguna (and Gaura Devi)",
+      "Salim Ali",
+      "Medha Patkar",
+      "M. S. Swaminathan"
+    ],
+    "correct_option": 0,
+    "correct_answer": "Sunderlal Bahuguna (and Gaura Devi)",
+    "explanation": "Sunderlal Bahuguna and Gaura Devi are iconic figures associated with Uttarakhand's Chipko movement.",
+    "source_page": 28
+  },
+  {
+    "id": "q388",
+    "chapter": "Uttarakhand - Climate, Soil and Natural Vegetation",
+    "topic": "Forest Conservation and Movements",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Roughly what share of Uttarakhand's total geographical area is recorded under forest cover?",
+    "options": [
+      "Around two-thirds (~65–71% depending on forest survey/record classification)",
+      "Less than 5%",
+      "Over 98%",
+      "Exactly 12%"
+    ],
+    "correct_option": 0,
+    "correct_answer": "Around two-thirds (~65–71% depending on forest survey/record classification)",
+    "explanation": "Forests cover roughly two-thirds of Uttarakhand's geographical area, making forestry a central pillar of its ecology and economy.",
+    "source_page": 28
+  },
+  {
+    "id": "q389",
+    "chapter": "Uttarakhand - Climate, Soil and Natural Vegetation",
+    "topic": "Forest Conservation and Movements",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Which conservation movement in Uttarakhand focused on forest regeneration, spring/water conservation, and community forestry led by activists like Jagat Singh Jungli ('Jungli')?",
+    "options": [
+      "Coastal mangrove afforestation in Gujarat",
+      "Desert canal lining in Rajasthan",
+      "Green Revolution wheat expansion in Punjab",
+      "Mixed-forest / ecological regeneration movements in Garhwal (such as Jardhar / 'Jungli' mixed-species forestry)"
+    ],
+    "correct_option": 3,
+    "correct_answer": "Mixed-forest / ecological regeneration movements in Garhwal (such as Jardhar / 'Jungli' mixed-species forestry)",
+    "explanation": "Community-led mixed-species forest restoration in Garhwal sought to replace monoculture/degraded slopes with diverse native trees.",
+    "source_page": 28
+  },
+  {
+    "id": "q390",
+    "chapter": "Uttarakhand - Climate, Soil and Natural Vegetation",
+    "topic": "Forest Conservation and Movements",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Why are forest fires a recurring concern in Uttarakhand's mid-hill forests during dry spring/early summer months?",
+    "options": [
+      "Dry accumulated leaf litter (especially pine needles), high temperatures, and dry winds",
+      "Glacial surges in Nainital",
+      "Coastal cyclones hitting Almora",
+      "Heavy monsoon flooding in May"
+    ],
+    "correct_option": 0,
+    "correct_answer": "Dry accumulated leaf litter (especially pine needles), high temperatures, and dry winds",
+    "explanation": "Dry leaf litter and warm, dry pre-monsoon weather increase forest fire susceptibility in Uttarakhand.",
+    "source_page": 28
+  },
+  {
+    "id": "q391",
+    "chapter": "Uttarakhand - Climate, Soil and Natural Vegetation",
+    "topic": "Forest Conservation and Movements",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "How do forests support Uttarakhand's economy beyond timber?",
+    "options": [
+      "Commercial shipbreaking",
+      "Diamond mining in riverbeds",
+      "Fuelwood, fodder, non-timber forest products (NTFPs), medicinal herbs, watershed protection, and eco-tourism",
+      "Offshore oil drilling"
+    ],
+    "correct_option": 2,
+    "correct_answer": "Fuelwood, fodder, non-timber forest products (NTFPs), medicinal herbs, watershed protection, and eco-tourism",
+    "explanation": "Forests supply fodder, fuelwood, medicinal plants, minor forest produce, water regulation, and eco-tourism value.",
+    "source_page": 28
+  },
+  {
+    "id": "q392",
+    "chapter": "Uttarakhand - Climate, Soil and Natural Vegetation",
+    "topic": "Forest Conservation and Movements",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "What is a major objective of joint forest management and Van Panchayats in Uttarakhand?",
+    "options": [
+      "Sustainable local resource use, protection against illicit felling/grazing, and shared community stewardship",
+      "Eliminating village participation in forest care",
+      "Converting all forest land into highways",
+      "Privatizing all alpine glaciers"
+    ],
+    "correct_option": 0,
+    "correct_answer": "Sustainable local resource use, protection against illicit felling/grazing, and shared community stewardship",
+    "explanation": "Van Panchayats empower local communities to protect forests sustainably while meeting everyday village needs.",
+    "source_page": 28
+  },
+  {
+    "id": "q393",
+    "chapter": "Uttarakhand - Climate, Soil and Natural Vegetation",
+    "topic": "Forest Conservation and Movements",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which region of India is known as the 'Water Tower of North India' partly because of Uttarakhand's forested Himalayan catchments?",
+    "options": [
+      "The Himalayan mountain system (including Uttarakhand's river basins)",
+      "The Deccan plateau interior",
+      "The Rann of Kutch",
+      "The Coromandel coast"
+    ],
+    "correct_option": 0,
+    "correct_answer": "The Himalayan mountain system (including Uttarakhand's river basins)",
+    "explanation": "Uttarakhand's forested Himalayan catchments feed major river systems that supply water across northern India.",
+    "source_page": 25
+  },
+  {
+    "id": "q394",
+    "chapter": "Uttarakhand - Climate, Soil and Natural Vegetation",
+    "topic": "Forest Conservation and Movements",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Which policy/legal framework in India governs forest conservation and diversion of forest land for non-forest purposes in states like Uttarakhand?",
+    "options": [
+      "The Negotiable Instruments Act",
+      "The Patents Act",
+      "The Forest (Conservation) Act (and Indian Forest Act framework)",
+      "The Reserve Bank of India Act"
+    ],
+    "correct_option": 2,
+    "correct_answer": "The Forest (Conservation) Act (and Indian Forest Act framework)",
+    "explanation": "Forest protection and land-use diversion in Uttarakhand operate under national and state forestry laws, including the Forest (Conservation) Act.",
+    "source_page": 28
+  },
+  {
+    "id": "q395",
+    "chapter": "Uttarakhand - Climate, Soil and Natural Vegetation",
+    "topic": "Forest Conservation and Movements",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "What role do 'Maiti' or community tree-planting traditions in Uttarakhand symbolize?",
+    "options": [
+      "Desertification",
+      "Industrial mining expansion",
+      "Cultural bonding with nature and community afforestation efforts",
+      "Urban high-rise construction"
+    ],
+    "correct_option": 2,
+    "correct_answer": "Cultural bonding with nature and community afforestation efforts",
+    "explanation": "Community tree-planting traditions in Uttarakhand weave environmental stewardship into local social and cultural life.",
+    "source_page": 28
+  },
+  {
+    "id": "q396",
+    "chapter": "Uttarakhand - Climate, Soil and Natural Vegetation",
+    "topic": "Forest Conservation and Movements",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Why is protecting upper catchment forests in Uttarakhand critical for downstream plains?",
+    "options": [
+      "It prevents monsoon clouds from reaching Delhi",
+      "It stops all rivers from flowing south",
+      "It turns plains into mountains",
+      "It regulates river flow, reduces siltation in reservoirs/canals, and moderates flood peaks"
+    ],
+    "correct_option": 3,
+    "correct_answer": "It regulates river flow, reduces siltation in reservoirs/canals, and moderates flood peaks",
+    "explanation": "Healthy hill forests moderate runoff, curb siltation, and help stabilize water supplies for downstream basins.",
+    "source_page": 25
+  },
+  {
+    "id": "q397",
+    "chapter": "Uttarakhand - Climate, Soil and Natural Vegetation",
+    "topic": "Forest Conservation and Movements",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "In which decade did the iconic Chipko protest at Reni in Uttarakhand gain wide national attention?",
+    "options": [
+      "2010s",
+      "1920s",
+      "1950s",
+      "1970s (specifically 1974 at Reni)"
+    ],
+    "correct_option": 3,
+    "correct_answer": "1970s (specifically 1974 at Reni)",
+    "explanation": "The Reni forest protest in 1974 became a defining milestone of the Chipko movement in the 1970s.",
+    "source_page": 28
+  },
+  {
+    "id": "q398",
+    "chapter": "Uttarakhand - Climate, Soil and Natural Vegetation",
+    "topic": "Forest Conservation and Movements",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which type of forest dominates the highest elevation zone just below permanent snow/glaciers in Uttarakhand?",
+    "options": [
+      "Sub-tropical sal forest",
+      "Tropical evergreen rainforest",
+      "Sub-alpine and alpine scrub/meadows",
+      "Thorny scrub of semi-arid plains"
+    ],
+    "correct_option": 2,
+    "correct_answer": "Sub-alpine and alpine scrub/meadows",
+    "explanation": "At high elevations below the permanent snowline, vegetation transitions into sub-alpine and alpine scrub and meadows.",
+    "source_page": 27
   }
 ]
