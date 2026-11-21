@@ -9167,5 +9167,1013 @@
     "correct_answer": "It supports industrial/household power demand, lowers carbon/pollution footprints, and protects fragile mountain ecosystems",
     "explanation": "Clean energy and efficient power use meet growing demand while safeguarding air, water, and forest resources.",
     "source_page": 35
+  },
+  {
+    "id": "q509",
+    "chapter": "Uttarakhand - Transport, Communication and Tourism",
+    "topic": "Road Transport and Highways",
+    "difficulty": "easy",
+    "type": "direct",
+    "question": "Which mode of transport serves as the primary lifeline for passenger and freight movement across the hilly and mountainous districts of Uttarakhand?",
+    "options": [
+      "Inland river ferries across high waterfalls",
+      "Subway metro networks in every hill village",
+      "Coastal shipping",
+      "Road transport"
+    ],
+    "correct_option": 3,
+    "explanation": "Because rail lines terminate near the foothills/valleys and rugged topography limits rail expansion, roads carry the overwhelming share of passenger and goods traffic in Uttarakhand.",
+    "source_page": 36,
+    "correct_answer": "Road transport"
+  },
+  {
+    "id": "q510",
+    "chapter": "Uttarakhand - Transport, Communication and Tourism",
+    "topic": "Road Transport and Highways",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "What is the primary goal of the Char Dham All-Weather Road Project in Uttarakhand?",
+    "options": [
+      "Building an underground sea tunnel to Mumbai",
+      "Connecting only the southern Tarai sugar mills",
+      "Providing wider, safer, all-weather road connectivity to Yamunotri, Gangotri, Kedarnath, and Badrinath",
+      "Replacing all hill roads with monorails"
+    ],
+    "correct_option": 2,
+    "explanation": "The Char Dham Pariyojana upgrades highway corridors linking the four major Himalayan shrines—Yamunotri, Gangotri, Kedarnath, and Badrinath—along with strategic border routes.",
+    "source_page": 36,
+    "correct_answer": "Providing wider, safer, all-weather road connectivity to Yamunotri, Gangotri, Kedarnath, and Badrinath"
+  },
+  {
+    "id": "q511",
+    "chapter": "Uttarakhand - Transport, Communication and Tourism",
+    "topic": "Road Transport and Highways",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which organization plays a crucial role in constructing and maintaining strategic border roads and high-altitude mountain passes in Uttarakhand?",
+    "options": [
+      "Central Silk Board",
+      "BRO (Border Roads Organisation)",
+      "Inland Waterways Authority of India",
+      "Airport Economic Regulatory Authority"
+    ],
+    "correct_option": 1,
+    "explanation": "The Border Roads Organisation (BRO) constructs and maintains vital border highways and high-altitude pass roads in Uttarakhand.",
+    "source_page": 36,
+    "correct_answer": "BRO (Border Roads Organisation)"
+  },
+  {
+    "id": "q512",
+    "chapter": "Uttarakhand - Transport, Communication and Tourism",
+    "topic": "Road Transport and Highways",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which state public transport corporation operates inter-city and hill bus services in Uttarakhand?",
+    "options": [
+      "KSRTC Kerala",
+      "BEST Mumbai",
+      "DTC Delhi only",
+      "UTC (Uttarakhand Transport Corporation)"
+    ],
+    "correct_option": 3,
+    "explanation": "Uttarakhand Transport Corporation (UTC) operates state bus services across plains, foothills, and hill routes.",
+    "source_page": 36,
+    "correct_answer": "UTC (Uttarakhand Transport Corporation)"
+  },
+  {
+    "id": "q513",
+    "chapter": "Uttarakhand - Transport, Communication and Tourism",
+    "topic": "Road Transport and Highways",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Why are rural road schemes like PMGSY (Pradhan Mantri Gram Sadak Yojana) especially transformative for Uttarakhand's hill villages?",
+    "options": [
+      "They replace all pedestrian trails with canals",
+      "They connect remote habitations to markets, schools, hospitals, and administrative centers, reducing isolation",
+      "They operate only in plain districts",
+      "They discourage rural trade"
+    ],
+    "correct_option": 1,
+    "explanation": "All-weather rural roads under PMGSY and state programs link isolated hill villages with essential services and agricultural markets.",
+    "source_page": 36,
+    "correct_answer": "They connect remote habitations to markets, schools, hospitals, and administrative centers, reducing isolation"
+  },
+  {
+    "id": "q514",
+    "chapter": "Uttarakhand - Transport, Communication and Tourism",
+    "topic": "Road Transport and Highways",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Which major National Highway corridor (under renumbered NH system) connects Delhi/Meerut/Roorkee/Haridwar toward Rishikesh, Devprayag, Rudraprayag, Karnaprayag, Joshimath, and Mana?",
+    "options": [
+      "NH-16 East Coast highway",
+      "NH-48 Mumbai–Chennai corridor",
+      "NH-58 / NH-7 (Rishikesh–Badrinath–Mana corridor)",
+      "NH-44 Srinagar–Kanyakumari coastal spur"
+    ],
+    "correct_option": 2,
+    "explanation": "The Rishikesh–Devprayag–Rudraprayag–Karnaprayag–Joshimath–Badrinath–Mana corridor (formerly NH-58, now NH-7) is one of Garhwal's most vital mountain highways.",
+    "source_page": 36,
+    "correct_answer": "NH-58 / NH-7 (Rishikesh–Badrinath–Mana corridor)"
+  },
+  {
+    "id": "q515",
+    "chapter": "Uttarakhand - Transport, Communication and Tourism",
+    "topic": "Road Transport and Highways",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Which highway corridor serves as a key arterial route into Kumaon from Rampur/Rudrapur/Haldwani/Kathgodam toward Almora, Bageshwar, and Pithoragarh?",
+    "options": [
+      "NH-27 Porbandar–Silchar route",
+      "NH-17 Konkan coastal route",
+      "NH-87 / NH-109 and NH-9 (Tanakpur–Champawat–Pithoragarh) corridors",
+      "NH-66 Malabar coast highway"
+    ],
+    "correct_option": 2,
+    "explanation": "The Haldwani–Kathgodam–Almora corridor (NH-109, old NH-87) and Tanakpur–Pithoragarh corridor (NH-9) are primary gateways into Kumaon.",
+    "source_page": 36,
+    "correct_answer": "NH-87 / NH-109 and NH-9 (Tanakpur–Champawat–Pithoragarh) corridors"
+  },
+  {
+    "id": "q516",
+    "chapter": "Uttarakhand - Transport, Communication and Tourism",
+    "topic": "Road Transport and Highways",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which major hazards frequently disrupt road transport in Uttarakhand during the monsoon and winter seasons?",
+    "options": [
+      "Volcanic lava flows in Almora",
+      "Monsoon landslides, rockfalls, cloudbursts/flash floods, and winter heavy snowfall at high passes",
+      "Tropical ocean tsunamis",
+      "Shifting sand dunes in Rishikesh"
+    ],
+    "correct_option": 1,
+    "explanation": "Monsoon slope failures/flash floods and winter snow accumulation at higher elevations regularly challenge road connectivity.",
+    "source_page": 36,
+    "correct_answer": "Monsoon landslides, rockfalls, cloudbursts/flash floods, and winter heavy snowfall at high passes"
+  },
+  {
+    "id": "q517",
+    "chapter": "Uttarakhand - Transport, Communication and Tourism",
+    "topic": "Road Transport and Highways",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Why are slope stabilization, bio-engineering, retaining walls, and proper drainage essential in Himalayan road construction?",
+    "options": [
+      "To make roads steeper and narrower",
+      "To increase rockfall frequency",
+      "To prevent hill-cut failures, soil erosion, and recurring landslides caused by runoff seeping into fractured rock slopes",
+      "To stop rainwater from ever reaching rivers"
+    ],
+    "correct_option": 2,
+    "explanation": "Scientific slope protection, drainage channels, and retaining structures reduce landslide vulnerability on young Himalayan slopes.",
+    "source_page": 36,
+    "correct_answer": "To prevent hill-cut failures, soil erosion, and recurring landslides caused by runoff seeping into fractured rock slopes"
+  },
+  {
+    "id": "q518",
+    "chapter": "Uttarakhand - Transport, Communication and Tourism",
+    "topic": "Road Transport and Highways",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which two towns act as major foothill road-and-rail gateways into the Garhwal hills?",
+    "options": [
+      "Siliguri and Guwahati",
+      "Kathgodam and Tanakpur",
+      "Haridwar/Rishikesh and Kotdwar (plus Dehradun/Vikasnagar)",
+      "Kochi and Mangaluru"
+    ],
+    "correct_option": 2,
+    "explanation": "Haridwar, Rishikesh, Dehradun, and Kotdwar serve as primary gateways into the Garhwal region.",
+    "source_page": 36,
+    "correct_answer": "Haridwar/Rishikesh and Kotdwar (plus Dehradun/Vikasnagar)"
+  },
+  {
+    "id": "q519",
+    "chapter": "Uttarakhand - Transport, Communication and Tourism",
+    "topic": "Road Transport and Highways",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which two towns act as major foothill road-and-rail gateways into the Kumaon hills?",
+    "options": [
+      "Kathgodam/Haldwani and Tanakpur (plus Ramnagar)",
+      "Joshimath and Uttarkashi",
+      "Badrinath and Kedarnath",
+      "Rishikesh and Dehradun"
+    ],
+    "correct_option": 0,
+    "explanation": "Kathgodam/Haldwani, Ramnagar, and Tanakpur serve as key foothill entry points into Kumaon.",
+    "source_page": 36,
+    "correct_answer": "Kathgodam/Haldwani and Tanakpur (plus Ramnagar)"
+  },
+  {
+    "id": "q520",
+    "chapter": "Uttarakhand - Transport, Communication and Tourism",
+    "topic": "Road Transport and Highways",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "What role do ropeways (cable cars) play in Uttarakhand's transport and tourism infrastructure?",
+    "options": [
+      "They carry ocean cargo ships over glaciers",
+      "They provide rapid, low-footprint vertical transit across steep terrain for pilgrims, tourists, and local passengers (e.g., Auli, Mussoorie, Nainital, Haridwar)",
+      "They are used exclusively for coal mining",
+      "They replace all highways in Haridwar"
+    ],
+    "correct_option": 1,
+    "explanation": "Ropeways overcome steep elevation differences efficiently with minimal road-cutting footprint in tourist and pilgrimage hubs.",
+    "source_page": 36,
+    "correct_answer": "They provide rapid, low-footprint vertical transit across steep terrain for pilgrims, tourists, and local passengers (e.g., Auli, Mussoorie, Nainital, Haridwar)"
+  },
+  {
+    "id": "q521",
+    "chapter": "Uttarakhand - Transport, Communication and Tourism",
+    "topic": "Rail and Air Transport",
+    "difficulty": "easy",
+    "type": "direct",
+    "question": "Where is the railway network of Uttarakhand primarily concentrated?",
+    "options": [
+      "Inside the Valley of Flowers",
+      "Across all 13 districts equally",
+      "Across every high-altitude peak above 4,000 meters",
+      "Southern plain and foothill/valley districts (such as Haridwar, Dehradun, Udham Singh Nagar, Nainital foothills, and Pauri foothill at Kotdwar)"
+    ],
+    "correct_option": 3,
+    "explanation": "Steep Himalayan gradients confine existing rail lines mostly to the southern plains and foothill terminals.",
+    "source_page": 37,
+    "correct_answer": "Southern plain and foothill/valley districts (such as Haridwar, Dehradun, Udham Singh Nagar, Nainital foothills, and Pauri foothill at Kotdwar)"
+  },
+  {
+    "id": "q522",
+    "chapter": "Uttarakhand - Transport, Communication and Tourism",
+    "topic": "Rail and Air Transport",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which major railway project is under construction to extend broad-gauge rail connectivity deep into the Garhwal Himalayas?",
+    "options": [
+      "Konkan Coastal Rail Link",
+      "Rishikesh–Karnaprayag Rail Link Project",
+      "Kolkata Metro East-West Line",
+      "Nilgiri Mountain Rack Railway"
+    ],
+    "correct_option": 1,
+    "explanation": "The Rishikesh–Karnaprayag rail project involves extensive tunnels and bridges to connect Devprayag, Srinagar, Rudraprayag, and Karnaprayag.",
+    "source_page": 37,
+    "correct_answer": "Rishikesh–Karnaprayag Rail Link Project"
+  },
+  {
+    "id": "q523",
+    "chapter": "Uttarakhand - Transport, Communication and Tourism",
+    "topic": "Rail and Air Transport",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which railway station in Nainital district is famously known as the major broad-gauge railhead/gateway to the Kumaon hills?",
+    "options": [
+      "Kathgodam",
+      "Rishikesh",
+      "Kotdwar",
+      "Roorkee"
+    ],
+    "correct_option": 0,
+    "explanation": "Kathgodam (near Haldwani) is the historic and primary railway terminus serving Nainital, Almora, and wider Kumaon.",
+    "source_page": 37,
+    "correct_answer": "Kathgodam"
+  },
+  {
+    "id": "q524",
+    "chapter": "Uttarakhand - Transport, Communication and Tourism",
+    "topic": "Rail and Air Transport",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which railway station in Champawat district serves as a key rail terminus near the Nepal border and eastern Kumaon foothills?",
+    "options": [
+      "Laksar",
+      "Haridwar",
+      "Tanakpur",
+      "Dehradun"
+    ],
+    "correct_option": 2,
+    "explanation": "Tanakpur in Champawat district is an important railhead for eastern Kumaon and border connectivity.",
+    "source_page": 37,
+    "correct_answer": "Tanakpur"
+  },
+  {
+    "id": "q525",
+    "chapter": "Uttarakhand - Transport, Communication and Tourism",
+    "topic": "Rail and Air Transport",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Which railway junction in Haridwar district acts as a major rail hub linking routes toward Dehradun/Haridwar and Saharanpur/Moradabad?",
+    "options": [
+      "Laksar Junction (and Roorkee/Haridwar)",
+      "Ramnagar",
+      "Kathgodam",
+      "Kotdwar"
+    ],
+    "correct_option": 0,
+    "explanation": "Laksar Junction in Haridwar district is a critical railway junction connecting Uttarakhand's rail lines to the northern Indian rail network.",
+    "source_page": 37,
+    "correct_answer": "Laksar Junction (and Roorkee/Haridwar)"
+  },
+  {
+    "id": "q526",
+    "chapter": "Uttarakhand - Transport, Communication and Tourism",
+    "topic": "Rail and Air Transport",
+    "difficulty": "easy",
+    "type": "direct",
+    "question": "Where is Uttarakhand's busiest commercial airport (Jolly Grant Airport) located?",
+    "options": [
+      "Dehradun (between Dehradun and Rishikesh)",
+      "Bageshwar",
+      "Uttarkashi",
+      "Pithoragarh"
+    ],
+    "correct_option": 0,
+    "explanation": "Jolly Grant Airport in Dehradun is Uttarakhand's primary and busiest commercial airport.",
+    "source_page": 37,
+    "correct_answer": "Dehradun (between Dehradun and Rishikesh)"
+  },
+  {
+    "id": "q527",
+    "chapter": "Uttarakhand - Transport, Communication and Tourism",
+    "topic": "Rail and Air Transport",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Where is the major airport serving the Kumaon plains/foothills located?",
+    "options": [
+      "Pantnagar (Udham Singh Nagar district)",
+      "Mussoorie",
+      "Joshimath",
+      "Kedarnath"
+    ],
+    "correct_option": 0,
+    "explanation": "Pantnagar Airport in Udham Singh Nagar serves the Kumaon foothills, industrial belt, and Nainital region.",
+    "source_page": 37,
+    "correct_answer": "Pantnagar (Udham Singh Nagar district)"
+  },
+  {
+    "id": "q528",
+    "chapter": "Uttarakhand - Transport, Communication and Tourism",
+    "topic": "Rail and Air Transport",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Which regional airports/airstrips in the hill districts support regional air connectivity and strategic/emergency operations in Uttarakhand?",
+    "options": [
+      "Bagdogra, Pakyong, and Lengpui",
+      "Kandla, Mundra, and Pipavav",
+      "Dabolim, Mopa, and Karwar",
+      "Naini Saini (Pithoragarh), Gauchar (Chamoli), and Chinyalisaur (Uttarkashi)"
+    ],
+    "correct_option": 3,
+    "explanation": "Naini Saini (Pithoragarh), Gauchar (Chamoli), and Chinyalisaur (Uttarkashi) are key hill airstrips/airports in Uttarakhand.",
+    "source_page": 37,
+    "correct_answer": "Naini Saini (Pithoragarh), Gauchar (Chamoli), and Chinyalisaur (Uttarkashi)"
+  },
+  {
+    "id": "q529",
+    "chapter": "Uttarakhand - Transport, Communication and Tourism",
+    "topic": "Rail and Air Transport",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "What vital role do helicopters and heli-services play in Uttarakhand?",
+    "options": [
+      "Crop dusting over coastal mangroves",
+      "Replacing all bicycles in Dehradun",
+      "Pilgrim shuttle services (such as Kedarnath/Char Dham), disaster rescue/relief, medical evacuation, and remote supply",
+      "Offshore oil rig crew transfer in the Arabian Sea"
+    ],
+    "correct_option": 2,
+    "explanation": "Helicopters are indispensable in Uttarakhand for pilgrimage access, disaster response, medical airlift, and reaching cut-off mountain areas.",
+    "source_page": 37,
+    "correct_answer": "Pilgrim shuttle services (such as Kedarnath/Char Dham), disaster rescue/relief, medical evacuation, and remote supply"
+  },
+  {
+    "id": "q530",
+    "chapter": "Uttarakhand - Transport, Communication and Tourism",
+    "topic": "Rail and Air Transport",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which regional connectivity scheme by the Government of India has helped expand air and heli routes to smaller airports/helipads in Uttarakhand?",
+    "options": [
+      "UDAN (Ude Desh ka Aam Nagrik)",
+      "Bharatmala Maritime",
+      "Sagarmala",
+      "Operation Flood"
+    ],
+    "correct_option": 0,
+    "explanation": "The UDAN regional connectivity scheme supports regional flights and heli-services linking hill towns and hubs in Uttarakhand.",
+    "source_page": 37,
+    "correct_answer": "UDAN (Ude Desh ka Aam Nagrik)"
+  },
+  {
+    "id": "q531",
+    "chapter": "Uttarakhand - Transport, Communication and Tourism",
+    "topic": "Rail and Air Transport",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Which railway station in Nainital district serves as the rail gateway to Jim Corbett National Park?",
+    "options": [
+      "Ramnagar",
+      "Haridwar",
+      "Roorkee",
+      "Dehradun"
+    ],
+    "correct_option": 0,
+    "explanation": "Ramnagar railway station in Nainital district is the railhead closest to Jim Corbett National Park.",
+    "source_page": 37,
+    "correct_answer": "Ramnagar"
+  },
+  {
+    "id": "q532",
+    "chapter": "Uttarakhand - Transport, Communication and Tourism",
+    "topic": "Rail and Air Transport",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Why are tunnels and viaducts extensively used in modern Himalayan rail and highway projects in Uttarakhand?",
+    "options": [
+      "To bypass unstable landslide-prone slopes, shorten winding distances, and maintain gentler gradients across mountains",
+      "To store ocean water underground",
+      "To avoid building any bridges over rivers",
+      "Because there are no mountains in Garhwal"
+    ],
+    "correct_option": 0,
+    "explanation": "Tunnels and bridges reduce alignment length, protect routes from surface rockfalls, and maintain engineering gradients.",
+    "source_page": 37,
+    "correct_answer": "To bypass unstable landslide-prone slopes, shorten winding distances, and maintain gentler gradients across mountains"
+  },
+  {
+    "id": "q533",
+    "chapter": "Uttarakhand - Transport, Communication and Tourism",
+    "topic": "Communication and Digital Connectivity",
+    "difficulty": "easy",
+    "type": "direct",
+    "question": "Why is reliable telecommunication and internet connectivity especially critical in Uttarakhand?",
+    "options": [
+      "It connects dispersed hill villages, supports disaster early warning/rescue, enables e-governance/telemedicine/education, and aids tourism",
+      "It replaces the need for drinking water",
+      "It eliminates all mountain terrain",
+      "It is used only in Haridwar"
+    ],
+    "correct_option": 0,
+    "explanation": "In rugged mountain terrain where travel takes time, telecom and digital links are vital for governance, emergency response, education, and commerce.",
+    "source_page": 38,
+    "correct_answer": "It connects dispersed hill villages, supports disaster early warning/rescue, enables e-governance/telemedicine/education, and aids tourism"
+  },
+  {
+    "id": "q534",
+    "chapter": "Uttarakhand - Transport, Communication and Tourism",
+    "topic": "Communication and Digital Connectivity",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "What topographical challenge affects mobile tower and optical fiber rollout in Uttarakhand's interior hills?",
+    "options": [
+      "Complete absence of electricity anywhere in the state",
+      "Saltwater corrosion from ocean waves",
+      "Deep valleys, ridge line-of-sight obstructions, scattered settlements, and landslide/snow damage to cables",
+      "Excessive flat desert heat"
+    ],
+    "correct_option": 2,
+    "explanation": "Mountain ridges block radio line-of-sight and rugged terrain complicates laying and maintaining fiber cables.",
+    "source_page": 38,
+    "correct_answer": "Deep valleys, ridge line-of-sight obstructions, scattered settlements, and landslide/snow damage to cables"
+  },
+  {
+    "id": "q535",
+    "chapter": "Uttarakhand - Transport, Communication and Tourism",
+    "topic": "Communication and Digital Connectivity",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "How do Common Service Centres (CSCs) and digital portals assist citizens in Uttarakhand's rural and hill areas?",
+    "options": [
+      "They deliver certificates, welfare services, banking/digital payments, and application access locally without long travel to district headquarters",
+      "They operate only in foreign countries",
+      "They replace all farming with video games",
+      "They issue international passports on glaciers"
+    ],
+    "correct_option": 0,
+    "explanation": "CSCs and e-governance portals save hill residents long journeys by bringing government and digital services to the panchayat/block level.",
+    "source_page": 38,
+    "correct_answer": "They deliver certificates, welfare services, banking/digital payments, and application access locally without long travel to district headquarters"
+  },
+  {
+    "id": "q536",
+    "chapter": "Uttarakhand - Transport, Communication and Tourism",
+    "topic": "Communication and Digital Connectivity",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "What role do All India Radio (Akashvani) and Doordarshan/community radio stations play in Uttarakhand?",
+    "options": [
+      "Controlling air traffic at sea ports",
+      "Broadcasting weather alerts, disaster advisories, agricultural/educational programs, and Garhwali/Kumaoni/Jaunsari cultural content",
+      "Mining limestone in Pithoragarh",
+      "Operating railway signals"
+    ],
+    "correct_option": 1,
+    "explanation": "Public and community radio/TV reach remote hill households with weather warnings, farming advice, and regional-language programming.",
+    "source_page": 38,
+    "correct_answer": "Broadcasting weather alerts, disaster advisories, agricultural/educational programs, and Garhwali/Kumaoni/Jaunsari cultural content"
+  },
+  {
+    "id": "q537",
+    "chapter": "Uttarakhand - Transport, Communication and Tourism",
+    "topic": "Communication and Digital Connectivity",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Which historic postal/telegraph role did hill towns like Mussoorie, Nainital, Almora, and Dehradun play during the 19th and 20th centuries?",
+    "options": [
+      "Maritime lighthouse stations",
+      "Space satellite launch pads",
+      "Early hill-station postal, telegraph, and printing/newspaper hubs linking the hills with northern India",
+      "Submarine transatlantic telegraph landings"
+    ],
+    "correct_option": 2,
+    "explanation": "Administrative and hill-station towns such as Dehradun, Mussoorie, Nainital, and Almora developed early postal, telegraph, and print media networks.",
+    "source_page": 38,
+    "correct_answer": "Early hill-station postal, telegraph, and printing/newspaper hubs linking the hills with northern India"
+  },
+  {
+    "id": "q538",
+    "chapter": "Uttarakhand - Transport, Communication and Tourism",
+    "topic": "Communication and Digital Connectivity",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Which early regional newspaper published from Almora in the 19th century became a significant voice in Kumaon's public and social awakening?",
+    "options": [
+      "Amrita Bazar Patrika (Calcutta)",
+      "The Hindu (Madras)",
+      "Bombay Samachar",
+      "Almora Akhbar"
+    ],
+    "correct_option": 3,
+    "explanation": "Almora Akhbar (started in 1871) played an important role in journalism and public discourse in Kumaon/Uttarakhand.",
+    "source_page": 38,
+    "correct_answer": "Almora Akhbar"
+  },
+  {
+    "id": "q539",
+    "chapter": "Uttarakhand - Transport, Communication and Tourism",
+    "topic": "Communication and Digital Connectivity",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "How does BharatNet / rural broadband expansion support Uttarakhand?",
+    "options": [
+      "By disconnecting district headquarters",
+      "By restricting internet solely to airports",
+      "By extending high-speed optical fiber/broadband connectivity to Gram Panchayats for schools, health centers, and digital services",
+      "By replacing all roads with copper wires"
+    ],
+    "correct_option": 2,
+    "explanation": "Rural broadband connectivity empowers Gram Panchayats, telemedicine, online learning, and digital financial inclusion.",
+    "source_page": 38,
+    "correct_answer": "By extending high-speed optical fiber/broadband connectivity to Gram Panchayats for schools, health centers, and digital services"
+  },
+  {
+    "id": "q540",
+    "chapter": "Uttarakhand - Transport, Communication and Tourism",
+    "topic": "Communication and Digital Connectivity",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Why is redundant/satellite communication important for disaster management in Uttarakhand?",
+    "options": [
+      "Terrestrial fiber and mobile towers can fail during severe landslides, earthquakes, or floods, so satellite links keep emergency responders connected",
+      "Mobile towers work underwater without power",
+      "Satellites prevent rainfall from occurring",
+      "Landslides never affect communication lines"
+    ],
+    "correct_option": 0,
+    "explanation": "Satellite phones and VSAT links provide vital backup communication when disasters damage ground telecom infrastructure.",
+    "source_page": 38,
+    "correct_answer": "Terrestrial fiber and mobile towers can fail during severe landslides, earthquakes, or floods, so satellite links keep emergency responders connected"
+  },
+  {
+    "id": "q541",
+    "chapter": "Uttarakhand - Transport, Communication and Tourism",
+    "topic": "Communication and Digital Connectivity",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "How does digital connectivity aid Uttarakhand's tourism and handicraft sectors?",
+    "options": [
+      "It eliminates hospitality jobs",
+      "It stops tourists from visiting hill stations",
+      "It closes all local markets",
+      "Online homestay/hotel bookings, digital payments, pilgrim registration/weather updates, and e-commerce access for local crafts"
+    ],
+    "correct_option": 3,
+    "explanation": "Digital platforms help homestay owners, tour operators, and artisans reach wider markets and manage visitor safety/registration.",
+    "source_page": 38,
+    "correct_answer": "Online homestay/hotel bookings, digital payments, pilgrim registration/weather updates, and e-commerce access for local crafts"
+  },
+  {
+    "id": "q542",
+    "chapter": "Uttarakhand - Transport, Communication and Tourism",
+    "topic": "Communication and Digital Connectivity",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "What role does the India Post network play in remote villages of Uttarakhand?",
+    "options": [
+      "Building hydroelectric dams",
+      "Last-mile mail, parcel delivery, savings/banking, insurance, and pension disbursements across even remote hill post offices",
+      "Managing national parks",
+      "Operating passenger airlines"
+    ],
+    "correct_option": 1,
+    "explanation": "India Post provides unmatched rural reach in Uttarakhand for communications, financial inclusion, and social benefit delivery.",
+    "source_page": 38,
+    "correct_answer": "Last-mile mail, parcel delivery, savings/banking, insurance, and pension disbursements across even remote hill post offices"
+  },
+  {
+    "id": "q543",
+    "chapter": "Uttarakhand - Transport, Communication and Tourism",
+    "topic": "Tourism and Pilgrimage Circuits",
+    "difficulty": "easy",
+    "type": "direct",
+    "question": "Why is Uttarakhand popularly known as 'Devbhoomi' (Land of the Gods)?",
+    "options": [
+      "It is famous exclusively for desert forts",
+      "Presence of numerous sacred Hindu shrines, temples, river confluences (Prayags), and pilgrimage circuits including the Char Dham",
+      "It is an island in the Indian Ocean",
+      "It has no temples or shrines"
+    ],
+    "correct_option": 1,
+    "explanation": "Uttarakhand's sacred river headwaters, Panch Prayag, Char Dham, Panch Kedar, Panch Badri, and ancient temples earn it the name Devbhoomi.",
+    "source_page": 39,
+    "correct_answer": "Presence of numerous sacred Hindu shrines, temples, river confluences (Prayags), and pilgrimage circuits including the Char Dham"
+  },
+  {
+    "id": "q544",
+    "chapter": "Uttarakhand - Transport, Communication and Tourism",
+    "topic": "Tourism and Pilgrimage Circuits",
+    "difficulty": "easy",
+    "type": "direct",
+    "question": "Which four shrines constitute the Chota Char Dham pilgrimage circuit of Uttarakhand?",
+    "options": [
+      "Haridwar, Rishikesh, Nainital, and Almora",
+      "Puri, Dwarka, Rameswaram, and Varanasi",
+      "Yamunotri, Gangotri, Kedarnath, and Badrinath",
+      "Vaishno Devi, Amarnath, Tirupati, and Somnath"
+    ],
+    "correct_option": 2,
+    "explanation": "Uttarakhand's Char Dham comprises Yamunotri, Gangotri, Kedarnath, and Badrinath in the Garhwal Himalayas.",
+    "source_page": 39,
+    "correct_answer": "Yamunotri, Gangotri, Kedarnath, and Badrinath"
+  },
+  {
+    "id": "q545",
+    "chapter": "Uttarakhand - Transport, Communication and Tourism",
+    "topic": "Tourism and Pilgrimage Circuits",
+    "difficulty": "easy",
+    "type": "direct",
+    "question": "In which districts are Yamunotri, Gangotri, Kedarnath, and Badrinath respectively located?",
+    "options": [
+      "All four in Nainital district",
+      "All four in Haridwar district",
+      "Yamunotri & Gangotri in Uttarkashi; Kedarnath in Rudraprayag; Badrinath in Chamoli",
+      "Yamunotri in Pithoragarh; Gangotri in Almora; Kedarnath in Bageshwar; Badrinath in Champawat"
+    ],
+    "correct_option": 2,
+    "explanation": "Yamunotri and Gangotri lie in Uttarkashi, Kedarnath in Rudraprayag, and Badrinath in Chamoli.",
+    "source_page": 39,
+    "correct_answer": "Yamunotri & Gangotri in Uttarkashi; Kedarnath in Rudraprayag; Badrinath in Chamoli"
+  },
+  {
+    "id": "q546",
+    "chapter": "Uttarakhand - Transport, Communication and Tourism",
+    "topic": "Tourism and Pilgrimage Circuits",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which famous Sikh pilgrimage shrine is located at high altitude in Chamoli district of Uttarakhand?",
+    "options": [
+      "Reetha Sahib (in Champawat)",
+      "Paonta Sahib (in Himachal Pradesh)",
+      "Hemkund Sahib",
+      "Nanakmatta Sahib (in Udham Singh Nagar)"
+    ],
+    "correct_option": 2,
+    "explanation": "Sri Hemkund Sahib is situated beside a glacial lake at high altitude in Chamoli district (while Nanakmatta and Reetha Sahib are also revered Sikh shrines in Kumaon).",
+    "source_page": 39,
+    "correct_answer": "Hemkund Sahib"
+  },
+  {
+    "id": "q547",
+    "chapter": "Uttarakhand - Transport, Communication and Tourism",
+    "topic": "Tourism and Pilgrimage Circuits",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which two historic hill stations in Uttarakhand are known respectively as the 'Queen of the Hills' and the 'Lake District'?",
+    "options": [
+      "Kotdwar and Ramnagar",
+      "Haridwar and Roorkee",
+      "Mussoorie ('Queen of the Hills') and Nainital ('Lake District')",
+      "Rudrapur and Kashipur"
+    ],
+    "correct_option": 2,
+    "explanation": "Mussoorie (Dehradun) is famed as the Queen of the Hills, while Nainital is celebrated for its lakes.",
+    "source_page": 39,
+    "correct_answer": "Mussoorie ('Queen of the Hills') and Nainital ('Lake District')"
+  },
+  {
+    "id": "q548",
+    "chapter": "Uttarakhand - Transport, Communication and Tourism",
+    "topic": "Tourism and Pilgrimage Circuits",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which global title is Rishikesh renowned for, attracting visitors from India and abroad?",
+    "options": [
+      "Diamond Polishing Capital",
+      "Silicon Valley of Maritime Shipping",
+      "Yoga Capital of the World (and a major hub for rafting/adventure and spiritual tourism)",
+      "Coal Mining Capital"
+    ],
+    "correct_option": 2,
+    "explanation": "Rishikesh is internationally known for yoga, meditation, ashrams, and Ganga adventure sports.",
+    "source_page": 39,
+    "correct_answer": "Yoga Capital of the World (and a major hub for rafting/adventure and spiritual tourism)"
+  },
+  {
+    "id": "q549",
+    "chapter": "Uttarakhand - Transport, Communication and Tourism",
+    "topic": "Tourism and Pilgrimage Circuits",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which major religious congregation is held every 12 years (alongside Ardh Kumbh) on the banks of the Ganga at Haridwar?",
+    "options": [
+      "Rann Utsav",
+      "Kumbh Mela",
+      "Hornbill Festival",
+      "Pushkar Camel Fair"
+    ],
+    "correct_option": 1,
+    "explanation": "Haridwar is one of the four sacred Kumbh Mela sites in India.",
+    "source_page": 39,
+    "correct_answer": "Kumbh Mela"
+  },
+  {
+    "id": "q550",
+    "chapter": "Uttarakhand - Transport, Communication and Tourism",
+    "topic": "Tourism and Pilgrimage Circuits",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which destination in Chamoli district is famous as a winter skiing resort?",
+    "options": [
+      "Auli (near Joshimath)",
+      "Haldwani",
+      "Kashipur",
+      "Haridwar"
+    ],
+    "correct_option": 0,
+    "explanation": "Auli in Chamoli district is India's premier Himalayan skiing destination.",
+    "source_page": 40,
+    "correct_answer": "Auli (near Joshimath)"
+  },
+  {
+    "id": "q551",
+    "chapter": "Uttarakhand - Transport, Communication and Tourism",
+    "topic": "Tourism and Pilgrimage Circuits",
+    "difficulty": "easy",
+    "type": "direct",
+    "question": "Which national park in Uttarakhand is India's oldest national park (established in 1936 as Hailey National Park)?",
+    "options": [
+      "Gangotri National Park",
+      "Nanda Devi National Park",
+      "Rajaji National Park",
+      "Jim Corbett National Park"
+    ],
+    "correct_option": 3,
+    "explanation": "Jim Corbett National Park (spanning Nainital and Pauri Garhwal) is India's first national park and a renowned tiger reserve.",
+    "source_page": 40,
+    "correct_answer": "Jim Corbett National Park"
+  },
+  {
+    "id": "q552",
+    "chapter": "Uttarakhand - Transport, Communication and Tourism",
+    "topic": "Tourism and Pilgrimage Circuits",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which two protected areas in Chamoli district form a UNESCO World Heritage Site celebrated for alpine flora and mountain wilderness?",
+    "options": [
+      "Nanda Devi and Valley of Flowers National Parks",
+      "Binsar and Askot Sanctuaries",
+      "Govind and Gangotri National Parks",
+      "Rajaji and Corbett National Parks"
+    ],
+    "correct_option": 0,
+    "explanation": "Nanda Devi and Valley of Flowers National Parks are inscribed together as a UNESCO Natural World Heritage Site.",
+    "source_page": 40,
+    "correct_answer": "Nanda Devi and Valley of Flowers National Parks"
+  },
+  {
+    "id": "q553",
+    "chapter": "Uttarakhand - Transport, Communication and Tourism",
+    "topic": "Tourism and Pilgrimage Circuits",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Which temple in Almora district is a major historic Shaivite temple complex set amidst dense deodar forests?",
+    "options": [
+      "Neelkanth Mahadev (near Rishikesh)",
+      "Jageshwar Temple Complex",
+      "Tapkeshwar Temple (Dehradun)",
+      "Mansa Devi Temple (Haridwar)"
+    ],
+    "correct_option": 1,
+    "explanation": "The Jageshwar group of temples in Almora district is a major cultural and heritage site surrounded by deodars.",
+    "source_page": 39,
+    "correct_answer": "Jageshwar Temple Complex"
+  },
+  {
+    "id": "q554",
+    "chapter": "Uttarakhand - Transport, Communication and Tourism",
+    "topic": "Tourism and Pilgrimage Circuits",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Which temple in Almora district is famous for its sun-temple heritage (built by Katyuri rulers)?",
+    "options": [
+      "Tungnath Temple",
+      "Bagnath Temple",
+      "Katarmal Sun Temple",
+      "Surkanda Devi Temple"
+    ],
+    "correct_option": 2,
+    "explanation": "Katarmal Sun Temple near Almora is a renowned historic sun temple in Kumaon.",
+    "source_page": 39,
+    "correct_answer": "Katarmal Sun Temple"
+  },
+  {
+    "id": "q555",
+    "chapter": "Uttarakhand - Transport, Communication and Tourism",
+    "topic": "Tourism and Pilgrimage Circuits",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Which shrine among the Panch Kedar is recognized as the highest Shiva temple in the world?",
+    "options": [
+      "Madhyamaheshwar",
+      "Tungnath (Rudraprayag district)",
+      "Rudranath",
+      "Kalpeshwar"
+    ],
+    "correct_option": 1,
+    "explanation": "Tungnath in Rudraprayag district is the highest of the Panch Kedar shrines.",
+    "source_page": 39,
+    "correct_answer": "Tungnath (Rudraprayag district)"
+  },
+  {
+    "id": "q556",
+    "chapter": "Uttarakhand - Transport, Communication and Tourism",
+    "topic": "Tourism and Pilgrimage Circuits",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which major adventure tourism activities attract visitors to Uttarakhand?",
+    "options": [
+      "Desert dune-buggy racing",
+      "Icebreaker polar cruises",
+      "Deep-sea scuba diving on coral atolls",
+      "Trekking, mountaineering, white-water river rafting (Rishikesh/Shivpuri), skiing (Auli), camping, and paragliding"
+    ],
+    "correct_option": 3,
+    "explanation": "Uttarakhand's rivers, peaks, bugyals, and slopes make it a leading destination for adventure sports.",
+    "source_page": 40,
+    "correct_answer": "Trekking, mountaineering, white-water river rafting (Rishikesh/Shivpuri), skiing (Auli), camping, and paragliding"
+  },
+  {
+    "id": "q557",
+    "chapter": "Uttarakhand - Transport, Communication and Tourism",
+    "topic": "Tourism and Pilgrimage Circuits",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which prestigious mountaineering institute is located in Uttarkashi?",
+    "options": [
+      "IISc Bengaluru",
+      "NIM (Nehru Institute of Mountaineering)",
+      "IIT Madras",
+      "National Institute of Oceanography Goa"
+    ],
+    "correct_option": 1,
+    "explanation": "The Nehru Institute of Mountaineering (NIM) at Uttarkashi is one of India's premier mountaineering training institutions.",
+    "source_page": 40,
+    "correct_answer": "NIM (Nehru Institute of Mountaineering)"
+  },
+  {
+    "id": "q558",
+    "chapter": "Uttarakhand - Transport, Communication and Tourism",
+    "topic": "Tourism and Pilgrimage Circuits",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "What is the purpose of 'Homestay' schemes (such as Deendayal Upadhyaya Griha Awas / Homestay scheme) in Uttarakhand?",
+    "options": [
+      "Converting agricultural fields into shopping malls",
+      "Enabling rural/hill families to host tourists, earn direct local income, showcase local culture/cuisine, and reduce migration without heavy hotel concrete footprints",
+      "Demolishing all village houses",
+      "Banning visitors from staying overnight"
+    ],
+    "correct_option": 1,
+    "explanation": "Homestays spread tourism earnings directly to rural households while offering authentic cultural hospitality.",
+    "source_page": 40,
+    "correct_answer": "Enabling rural/hill families to host tourists, earn direct local income, showcase local culture/cuisine, and reduce migration without heavy hotel concrete footprints"
+  },
+  {
+    "id": "q559",
+    "chapter": "Uttarakhand - Transport, Communication and Tourism",
+    "topic": "Tourism and Pilgrimage Circuits",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Which pilgrimage yatra in Pithoragarh district traverses high Himalayan passes toward Mount Kailash and Lake Mansarovar?",
+    "options": [
+      "Sabarimala Yatra",
+      "Pandharpur Wari",
+      "Kailash Mansarovar Yatra (via Lipulekh Pass route in Pithoragarh, alongside Adi Kailash / Om Parvat circuit)",
+      "Gangasagar Yatra"
+    ],
+    "correct_option": 2,
+    "explanation": "The traditional Lipulekh route in Pithoragarh—alongside Adi Kailash and Om Parvat—is a major high-Himalayan pilgrimage circuit.",
+    "source_page": 39,
+    "correct_answer": "Kailash Mansarovar Yatra (via Lipulekh Pass route in Pithoragarh, alongside Adi Kailash / Om Parvat circuit)"
+  },
+  {
+    "id": "q560",
+    "chapter": "Uttarakhand - Transport, Communication and Tourism",
+    "topic": "Tourism and Pilgrimage Circuits",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "What is 'Carrying Capacity' in the context of sustainable tourism in Uttarakhand?",
+    "options": [
+      "The volume of water in the Bay of Bengal",
+      "Unlimited construction on every river bank",
+      "The weight a single mule can carry on flat roads",
+      "The maximum number of visitors/vehicles/infrastructure a fragile hill destination or shrine route can support without environmental degradation, congestion, or safety hazards"
+    ],
+    "correct_option": 3,
+    "explanation": "Managing visitor numbers, waste, traffic, and construction within ecological carrying capacity is critical for sustainable Himalayan tourism.",
+    "source_page": 40,
+    "correct_answer": "The maximum number of visitors/vehicles/infrastructure a fragile hill destination or shrine route can support without environmental degradation, congestion, or safety hazards"
+  },
+  {
+    "id": "q561",
+    "chapter": "Uttarakhand - Transport, Communication and Tourism",
+    "topic": "Tourism and Pilgrimage Circuits",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Which Kumaon hill destinations are famous for panoramic views of Himalayan peaks (such as Nanda Devi and Trishul) and tranquil heritage tourism?",
+    "options": [
+      "Vikasnagar and Herbertpur",
+      "Kausani, Ranikhet, Almora, Binsar, Mukteshwar, and Munsiyari",
+      "Rudrapur, Sitarganj, and Khatima",
+      "Haridwar, Roorkee, and Laksar"
+    ],
+    "correct_option": 1,
+    "explanation": "Kausani, Ranikhet, Almora, Binsar, Mukteshwar, and Munsiyari are renowned scenic hill destinations in Kumaon.",
+    "source_page": 39,
+    "correct_answer": "Kausani, Ranikhet, Almora, Binsar, Mukteshwar, and Munsiyari"
+  },
+  {
+    "id": "q562",
+    "chapter": "Uttarakhand - Transport, Communication and Tourism",
+    "topic": "Tourism and Pilgrimage Circuits",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Which Garhwal hill destinations are popular for scenic beauty, meadows, or ridge views alongside Mussoorie?",
+    "options": [
+      "Kichha and Bazpur",
+      "Dhanaulti, Kanatal, Chopta, Chakrata, Lansdowne, and Khirsu",
+      "Tanakpur and Banbasa",
+      "Kashipur and Jaspur"
+    ],
+    "correct_option": 1,
+    "explanation": "Dhanaulti, Kanatal, Chopta, Chakrata, Lansdowne, and Khirsu are prominent scenic and eco-tourism destinations in Garhwal.",
+    "source_page": 39,
+    "correct_answer": "Dhanaulti, Kanatal, Chopta, Chakrata, Lansdowne, and Khirsu"
+  },
+  {
+    "id": "q563",
+    "chapter": "Uttarakhand - Transport, Communication and Tourism",
+    "topic": "Tourism and Pilgrimage Circuits",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "How does eco-tourism differ from mass unregulated tourism in Uttarakhand?",
+    "options": [
+      "Eco-tourism emphasizes nature conservation, low environmental impact, waste management, and community benefit rather than overcrowding and ecological strain",
+      "Eco-tourism encourages littering in national parks",
+      "Eco-tourism requires paving all forest trails",
+      "Eco-tourism bans local communities from participating"
+    ],
+    "correct_option": 0,
+    "explanation": "Eco-tourism aligns visitor experiences with biodiversity conservation, responsible waste/traffic practices, and local livelihoods.",
+    "source_page": 40,
+    "correct_answer": "Eco-tourism emphasizes nature conservation, low environmental impact, waste management, and community benefit rather than overcrowding and ecological strain"
+  },
+  {
+    "id": "q564",
+    "chapter": "Uttarakhand - Transport, Communication and Tourism",
+    "topic": "Tourism and Pilgrimage Circuits",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which National Park spreads across Dehradun, Haridwar, and Pauri Garhwal districts and is known for elephants and Shivalik/Terai wildlife?",
+    "options": [
+      "Gangotri National Park",
+      "Govind Pashu Vihar",
+      "Rajaji National Park (Tiger Reserve)",
+      "Valley of Flowers National Park"
+    ],
+    "correct_option": 2,
+    "explanation": "Rajaji National Park spans parts of Dehradun, Haridwar, and Pauri Garhwal.",
+    "source_page": 40,
+    "correct_answer": "Rajaji National Park (Tiger Reserve)"
   }
 ]
