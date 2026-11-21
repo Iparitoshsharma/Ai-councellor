@@ -3965,5 +3965,1085 @@
     "explanation": "The Valley of Flowers in Chamoli district is renowned for its diverse alpine flora and proximity to Hemkund Sahib.",
     "source_page": 19,
     "correct_answer": "Valley of Flowers"
+  },
+  {
+    "id": "q220",
+    "chapter": "Uttarakhand - Geographical Structure",
+    "topic": "Geographical Location and Extent",
+    "difficulty": "easy",
+    "type": "direct",
+    "question": "What is the exact latitudinal extent of Uttarakhand?",
+    "options": [
+      "28°43'N to 31°27'N",
+      "29°05'N to 32°12'N",
+      "28°10'N to 30°55'N",
+      "27°15'N to 30°42'N"
+    ],
+    "correct_option": 0,
+    "correct_answer": "28°43'N to 31°27'N",
+    "explanation": "Uttarakhand extends latitudinally from 28°43'N to 31°27'N, spanning roughly 2°44'.",
+    "source_page": 16
+  },
+  {
+    "id": "q221",
+    "chapter": "Uttarakhand - Geographical Structure",
+    "topic": "Geographical Location and Extent",
+    "difficulty": "easy",
+    "type": "direct",
+    "question": "What is the exact longitudinal extent of Uttarakhand?",
+    "options": [
+      "78°02'E to 81°30'E",
+      "77°12'E to 80°45'E",
+      "76°48'E to 80°18'E",
+      "77°34'E to 81°02'E"
+    ],
+    "correct_option": 3,
+    "correct_answer": "77°34'E to 81°02'E",
+    "explanation": "Uttarakhand extends longitudinally from 77°34'E to 81°02'E, spanning roughly 3°28'.",
+    "source_page": 16
+  },
+  {
+    "id": "q222",
+    "chapter": "Uttarakhand - Geographical Structure",
+    "topic": "Geographical Location and Extent",
+    "difficulty": "easy",
+    "type": "direct",
+    "question": "What is the total geographical area of Uttarakhand?",
+    "options": [
+      "48,920 sq. km",
+      "58,140 sq. km",
+      "51,265 sq. km",
+      "53,483 sq. km"
+    ],
+    "correct_option": 3,
+    "correct_answer": "53,483 sq. km",
+    "explanation": "The total geographical area of Uttarakhand is 53,483 sq. km.",
+    "source_page": 16
+  },
+  {
+    "id": "q223",
+    "chapter": "Uttarakhand - Geographical Structure",
+    "topic": "Geographical Location and Extent",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Approximately what percentage of India's total geographical area does Uttarakhand account for?",
+    "options": [
+      "About 3.10%",
+      "About 1.69%",
+      "About 2.45%",
+      "About 0.92%"
+    ],
+    "correct_option": 1,
+    "correct_answer": "About 1.69%",
+    "explanation": "With an area of 53,483 sq. km, Uttarakhand constitutes roughly 1.69% of India's total land area.",
+    "source_page": 16
+  },
+  {
+    "id": "q224",
+    "chapter": "Uttarakhand - Geographical Structure",
+    "topic": "Geographical Location and Extent",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "What is the approximate east-west length and north-south width of Uttarakhand?",
+    "options": [
+      "East-west ~358 km and north-south ~320 km",
+      "East-west ~290 km and north-south ~345 km",
+      "East-west ~410 km and north-south ~285 km",
+      "East-west ~320 km and north-south ~358 km"
+    ],
+    "correct_option": 0,
+    "correct_answer": "East-west ~358 km and north-south ~320 km",
+    "explanation": "Uttarakhand stretches approximately 358 km from east to west and about 320 km from north to south.",
+    "source_page": 16
+  },
+  {
+    "id": "q225",
+    "chapter": "Uttarakhand - Geographical Structure",
+    "topic": "Geographical Location and Extent",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Roughly what proportion of Uttarakhand's land area is mountainous/hilly versus plain?",
+    "options": [
+      "About 86% mountainous and about 14% plain",
+      "About 92% mountainous and about 8% plain",
+      "About 70% mountainous and about 30% plain",
+      "About 78% mountainous and about 22% plain"
+    ],
+    "correct_option": 0,
+    "correct_answer": "About 86% mountainous and about 14% plain",
+    "explanation": "Around 86% of Uttarakhand's area (about 46,035 sq. km) is hilly/mountainous, while roughly 14% (about 7,448 sq. km) is plain.",
+    "source_page": 16
+  },
+  {
+    "id": "q226",
+    "chapter": "Uttarakhand - Geographical Structure",
+    "topic": "Geographical Location and Extent",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which position does Uttarakhand hold among the Himalayan states of India in terms of being formed as a separate Himalayan state?",
+    "options": [
+      "12th Himalayan state (and 28th state of India)",
+      "9th Himalayan state (and 26th state of India)",
+      "8th Himalayan state (and 25th state of India)",
+      "11th Himalayan state (and 27th state of India)"
+    ],
+    "correct_option": 3,
+    "correct_answer": "11th Himalayan state (and 27th state of India)",
+    "explanation": "Uttarakhand is the 11th Himalayan state of India and the 27th state overall.",
+    "source_page": 16
+  },
+  {
+    "id": "q227",
+    "chapter": "Uttarakhand - Geographical Structure",
+    "topic": "Geographical Location and Extent",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "What is the approximate latitudinal and longitudinal angular span of Uttarakhand?",
+    "options": [
+      "Latitudinal span ~2°15' and longitudinal span ~4°02'",
+      "Latitudinal span ~3°10' and longitudinal span ~2°50'",
+      "Latitudinal span ~3°28' and longitudinal span ~2°44'",
+      "Latitudinal span ~2°44' and longitudinal span ~3°28'"
+    ],
+    "correct_option": 3,
+    "correct_answer": "Latitudinal span ~2°44' and longitudinal span ~3°28'",
+    "explanation": "From 28°43'N to 31°27'N is ~2°44' of latitude, and from 77°34'E to 81°02'E is ~3°28' of longitude.",
+    "source_page": 16
+  },
+  {
+    "id": "q228",
+    "chapter": "Uttarakhand - Geographical Structure",
+    "topic": "Geographical Location and Extent",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Geographically, Uttarakhand forms a part of which major division of the Indian Himalayas?",
+    "options": [
+      "Eastern Himalayas",
+      "Deccan-Himalayan transition zone",
+      "Western / Central-Western Himalayas",
+      "Purvanchal hills"
+    ],
+    "correct_option": 2,
+    "correct_answer": "Western / Central-Western Himalayas",
+    "explanation": "Uttarakhand lies in the western/central-western Himalayan region of northern India.",
+    "source_page": 16
+  },
+  {
+    "id": "q229",
+    "chapter": "Uttarakhand - Geographical Structure",
+    "topic": "Geographical Location and Extent",
+    "difficulty": "easy",
+    "type": "direct",
+    "question": "What is the general overall shape of Uttarakhand on the map?",
+    "options": [
+      "Narrow coastal strip",
+      "Roughly rectangular / quadrilateral",
+      "Equilateral triangle",
+      "Circular"
+    ],
+    "correct_option": 1,
+    "correct_answer": "Roughly rectangular / quadrilateral",
+    "explanation": "Uttarakhand has a roughly rectangular/quadrilateral geographical outline.",
+    "source_page": 16
+  },
+  {
+    "id": "q230",
+    "chapter": "Uttarakhand - Geographical Structure",
+    "topic": "International and Interstate Borders",
+    "difficulty": "easy",
+    "type": "direct",
+    "question": "Which country borders Uttarakhand to the north?",
+    "options": [
+      "Myanmar",
+      "Nepal",
+      "China (Tibet)",
+      "Bhutan"
+    ],
+    "correct_option": 2,
+    "correct_answer": "China (Tibet)",
+    "explanation": "China (Tibet) lies along the northern border of Uttarakhand.",
+    "source_page": 16
+  },
+  {
+    "id": "q231",
+    "chapter": "Uttarakhand - Geographical Structure",
+    "topic": "International and Interstate Borders",
+    "difficulty": "easy",
+    "type": "direct",
+    "question": "Which country borders Uttarakhand to the east?",
+    "options": [
+      "China (Tibet)",
+      "Afghanistan",
+      "Nepal",
+      "Bangladesh"
+    ],
+    "correct_option": 2,
+    "correct_answer": "Nepal",
+    "explanation": "Nepal shares the eastern international border with Uttarakhand.",
+    "source_page": 16
+  },
+  {
+    "id": "q232",
+    "chapter": "Uttarakhand - Geographical Structure",
+    "topic": "International and Interstate Borders",
+    "difficulty": "easy",
+    "type": "direct",
+    "question": "Which Indian state borders Uttarakhand to the northwest/west?",
+    "options": [
+      "Rajasthan",
+      "Himachal Pradesh",
+      "Punjab",
+      "Haryana"
+    ],
+    "correct_option": 1,
+    "correct_answer": "Himachal Pradesh",
+    "explanation": "Himachal Pradesh borders Uttarakhand on the northwest/west.",
+    "source_page": 16
+  },
+  {
+    "id": "q233",
+    "chapter": "Uttarakhand - Geographical Structure",
+    "topic": "International and Interstate Borders",
+    "difficulty": "easy",
+    "type": "direct",
+    "question": "Which Indian state borders Uttarakhand to the south?",
+    "options": [
+      "Uttar Pradesh",
+      "Madhya Pradesh",
+      "Himachal Pradesh",
+      "Bihar"
+    ],
+    "correct_option": 0,
+    "correct_answer": "Uttar Pradesh",
+    "explanation": "Uttar Pradesh lies along the southern boundary of Uttarakhand.",
+    "source_page": 16
+  },
+  {
+    "id": "q234",
+    "chapter": "Uttarakhand - Geographical Structure",
+    "topic": "International and Interstate Borders",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "What is the approximate total length of Uttarakhand's international border with China (Tibet) and Nepal combined?",
+    "options": [
+      "Around 625 km",
+      "Around 290 km",
+      "Around 410 km",
+      "Around 850 km"
+    ],
+    "correct_option": 0,
+    "correct_answer": "Around 625 km",
+    "explanation": "Uttarakhand shares approximately 625 km of international boundary with China (Tibet) and Nepal.",
+    "source_page": 16
+  },
+  {
+    "id": "q235",
+    "chapter": "Uttarakhand - Geographical Structure",
+    "topic": "International and Interstate Borders",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which river forms a prominent natural boundary between Uttarakhand and Nepal in the east?",
+    "options": [
+      "Kali (Mahakali / Sharda) river",
+      "Alaknanda river",
+      "Tons river",
+      "Ramganga river"
+    ],
+    "correct_option": 0,
+    "correct_answer": "Kali (Mahakali / Sharda) river",
+    "explanation": "The Kali river forms a major natural boundary along Uttarakhand's eastern border with Nepal.",
+    "source_page": 16
+  },
+  {
+    "id": "q236",
+    "chapter": "Uttarakhand - Geographical Structure",
+    "topic": "International and Interstate Borders",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which river forms a natural boundary segment between Uttarakhand and Himachal Pradesh in the west?",
+    "options": [
+      "Kali river",
+      "Saryu river",
+      "Kosi river",
+      "Tons river"
+    ],
+    "correct_option": 3,
+    "correct_answer": "Tons river",
+    "explanation": "The Tons river acts as a natural boundary along part of the western border with Himachal Pradesh.",
+    "source_page": 16
+  },
+  {
+    "id": "q237",
+    "chapter": "Uttarakhand - Geographical Structure",
+    "topic": "International and Interstate Borders",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which three districts of Uttarakhand share an international border with Nepal?",
+    "options": [
+      "Pithoragarh, Champawat, and Udham Singh Nagar",
+      "Chamoli, Uttarkashi, and Pithoragarh",
+      "Almora, Bageshwar, and Champawat",
+      "Nainital, Almora, and Udham Singh Nagar"
+    ],
+    "correct_option": 0,
+    "correct_answer": "Pithoragarh, Champawat, and Udham Singh Nagar",
+    "explanation": "Pithoragarh, Champawat, and Udham Singh Nagar share Uttarakhand's border with Nepal.",
+    "source_page": 16
+  },
+  {
+    "id": "q238",
+    "chapter": "Uttarakhand - Geographical Structure",
+    "topic": "International and Interstate Borders",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which three districts of Uttarakhand share an international border with China (Tibet)?",
+    "options": [
+      "Uttarkashi, Chamoli, and Pithoragarh",
+      "Chamoli, Bageshwar, and Pithoragarh",
+      "Dehradun, Uttarkashi, and Chamoli",
+      "Uttarkashi, Tehri, and Chamoli"
+    ],
+    "correct_option": 0,
+    "correct_answer": "Uttarkashi, Chamoli, and Pithoragarh",
+    "explanation": "Uttarkashi, Chamoli, and Pithoragarh are the three border districts adjoining China (Tibet).",
+    "source_page": 16
+  },
+  {
+    "id": "q239",
+    "chapter": "Uttarakhand - Geographical Structure",
+    "topic": "International and Interstate Borders",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Which district of Uttarakhand has the longest international boundary?",
+    "options": [
+      "Champawat",
+      "Chamoli",
+      "Uttarkashi",
+      "Pithoragarh"
+    ],
+    "correct_option": 3,
+    "correct_answer": "Pithoragarh",
+    "explanation": "Pithoragarh has the longest international boundary among Uttarakhand's districts, bordering both Tibet and Nepal.",
+    "source_page": 16
+  },
+  {
+    "id": "q240",
+    "chapter": "Uttarakhand - Geographical Structure",
+    "topic": "International and Interstate Borders",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Which four districts of Uttarakhand are completely landlocked within the state (neither touching an international border nor another state)?",
+    "options": [
+      "Almora, Nainital, Chamoli, and Pauri Garhwal",
+      "Almora, Bageshwar, Rudraprayag, and Tehri Garhwal",
+      "Tehri Garhwal, Pauri Garhwal, Haridwar, and Almora",
+      "Bageshwar, Champawat, Rudraprayag, and Tehri Garhwal"
+    ],
+    "correct_option": 1,
+    "correct_answer": "Almora, Bageshwar, Rudraprayag, and Tehri Garhwal",
+    "explanation": "Almora, Bageshwar, Rudraprayag, and Tehri Garhwal do not touch any international border or neighboring Indian state.",
+    "source_page": 16
+  },
+  {
+    "id": "q241",
+    "chapter": "Uttarakhand - Geographical Structure",
+    "topic": "International and Interstate Borders",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which two districts of Uttarakhand share a border with Himachal Pradesh?",
+    "options": [
+      "Uttarkashi and Tehri Garhwal",
+      "Dehradun and Haridwar",
+      "Uttarkashi and Dehradun",
+      "Dehradun and Tehri Garhwal"
+    ],
+    "correct_option": 2,
+    "correct_answer": "Uttarkashi and Dehradun",
+    "explanation": "Uttarkashi and Dehradun adjoin Himachal Pradesh along Uttarakhand's northwestern/western side.",
+    "source_page": 17
+  },
+  {
+    "id": "q242",
+    "chapter": "Uttarakhand - Geographical Structure",
+    "topic": "Physiographic Divisions",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "In the geological evolution of the Himalayas, Uttarakhand's rock formations reflect uplift from which ancient sea?",
+    "options": [
+      "Aral Sea",
+      "Tethys Sea",
+      "Arabian Sea",
+      "Caspian Sea"
+    ],
+    "correct_option": 1,
+    "correct_answer": "Tethys Sea",
+    "explanation": "The Himalayan ranges of Uttarakhand were uplifted from sediments of the Tethys Sea due to tectonic collision between the Indian and Eurasian plates.",
+    "source_page": 17
+  },
+  {
+    "id": "q243",
+    "chapter": "Uttarakhand - Geographical Structure",
+    "topic": "Physiographic Divisions",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Which major tectonic thrust/fault separates the Greater Himalayas from the Lesser (Middle) Himalayas?",
+    "options": [
+      "Himalayan Frontal Fault (HFF / MFT)",
+      "Main Central Thrust (MCT)",
+      "Narmada-Son Lineament",
+      "Main Boundary Thrust (MBT)"
+    ],
+    "correct_option": 1,
+    "correct_answer": "Main Central Thrust (MCT)",
+    "explanation": "The Main Central Thrust (MCT) separates the Greater Himalayas from the Lesser/Middle Himalayas.",
+    "source_page": 17
+  },
+  {
+    "id": "q244",
+    "chapter": "Uttarakhand - Geographical Structure",
+    "topic": "Physiographic Divisions",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Which major tectonic boundary separates the Lesser (Middle) Himalayas from the Shivalik range?",
+    "options": [
+      "Palghat Gap",
+      "Main Central Thrust (MCT)",
+      "Main Boundary Thrust (MBT)",
+      "Indus-Tsangpo Suture Zone (ITSZ)"
+    ],
+    "correct_option": 2,
+    "correct_answer": "Main Boundary Thrust (MBT)",
+    "explanation": "The Main Boundary Thrust (MBT) lies between the Lesser Himalayas and the Shivalik hills.",
+    "source_page": 17
+  },
+  {
+    "id": "q245",
+    "chapter": "Uttarakhand - Geographical Structure",
+    "topic": "Physiographic Divisions",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Which tectonic feature marks the southern boundary between the Shivalik foothills and the Indo-Gangetic plain?",
+    "options": [
+      "Himalayan Frontal Fault (HFF) / Main Frontal Thrust (MFT)",
+      "Aravalli Fault",
+      "Main Central Thrust (MCT)",
+      "Main Boundary Thrust (MBT)"
+    ],
+    "correct_option": 0,
+    "correct_answer": "Himalayan Frontal Fault (HFF) / Main Frontal Thrust (MFT)",
+    "explanation": "The Himalayan Frontal Fault (HFF) / Main Frontal Thrust (MFT) separates the Shivalik zone from the northern plains/Bhabar-Tarai belt.",
+    "source_page": 17
+  },
+  {
+    "id": "q246",
+    "chapter": "Uttarakhand - Geographical Structure",
+    "topic": "Tarai and Bhabar Belt",
+    "difficulty": "easy",
+    "type": "direct",
+    "question": "What happens to small mountain streams when they enter the porous Bhabar belt?",
+    "options": [
+      "They flow into saltwater lagoons",
+      "They turn into glacial lakes",
+      "They sink underground among coarse boulders and gravel and re-emerge in the Tarai",
+      "They freeze into perennial ice sheets"
+    ],
+    "correct_option": 2,
+    "correct_answer": "They sink underground among coarse boulders and gravel and re-emerge in the Tarai",
+    "explanation": "Because Bhabar consists of coarse gravel, pebbles, and boulders, smaller streams disappear beneath the surface and reappear in the Tarai belt further south.",
+    "source_page": 17
+  },
+  {
+    "id": "q247",
+    "chapter": "Uttarakhand - Geographical Structure",
+    "topic": "Tarai and Bhabar Belt",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "How does the Tarai belt differ physically from the Bhabar belt immediately to its north?",
+    "options": [
+      "Tarai is higher in elevation than the Greater Himalayas",
+      "Tarai has finer soil, higher moisture/marshiness, and re-emerging streams, whereas Bhabar is coarse, porous, and stony",
+      "Tarai consists of solid granite cliffs, whereas Bhabar is marshy clay",
+      "Tarai has alpine glaciers, whereas Bhabar is a flat river delta"
+    ],
+    "correct_option": 1,
+    "correct_answer": "Tarai has finer soil, higher moisture/marshiness, and re-emerging streams, whereas Bhabar is coarse, porous, and stony",
+    "explanation": "South of Bhabar, finer alluvial sediments and re-emerging groundwater create the moist, fertile, historically marshy Tarai belt.",
+    "source_page": 17
+  },
+  {
+    "id": "q248",
+    "chapter": "Uttarakhand - Geographical Structure",
+    "topic": "Tarai and Bhabar Belt",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which districts of Uttarakhand have prominent Tarai and Bhabar tracts?",
+    "options": [
+      "Bageshwar and Pithoragarh high ridges",
+      "Chamoli, Uttarkashi, and Rudraprayag",
+      "Udham Singh Nagar, Nainital, Champawat, Pauri, and Haridwar/Dehradun margins",
+      "Tehri and Chamoli alpine zones"
+    ],
+    "correct_option": 2,
+    "correct_answer": "Udham Singh Nagar, Nainital, Champawat, Pauri, and Haridwar/Dehradun margins",
+    "explanation": "Bhabar and Tarai belts occur along the southern foothill margins such as Udham Singh Nagar, Nainital, Champawat, Pauri, Dehradun, and Haridwar.",
+    "source_page": 17
+  },
+  {
+    "id": "q249",
+    "chapter": "Uttarakhand - Geographical Structure",
+    "topic": "Physiographic Divisions",
+    "difficulty": "easy",
+    "type": "direct",
+    "question": "What are the longitudinal valleys situated between the Shivalik range and the Lesser Himalayas locally called in Garhwal?",
+    "options": [
+      "Ghats",
+      "Chors",
+      "Bugyals",
+      "Duns (such as Dehradun)"
+    ],
+    "correct_option": 3,
+    "correct_answer": "Duns (such as Dehradun)",
+    "explanation": "Flat-bottomed structural valleys between the Shivaliks and Lesser Himalayas are known as Duns (e.g., Dehradun, Kotli Dun, Patli Dun).",
+    "source_page": 17
+  },
+  {
+    "id": "q250",
+    "chapter": "Uttarakhand - Geographical Structure",
+    "topic": "Physiographic Divisions",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which is the largest and best-known Dun valley in Uttarakhand?",
+    "options": [
+      "Chaukham Dun",
+      "Dehradun",
+      "Kothari Dun",
+      "Har Ki Dun"
+    ],
+    "correct_option": 1,
+    "correct_answer": "Dehradun",
+    "explanation": "Dehradun is the largest and most prominent Dun valley between the Shivalik hills and the Lesser Himalayas.",
+    "source_page": 17
+  },
+  {
+    "id": "q251",
+    "chapter": "Uttarakhand - Geographical Structure",
+    "topic": "Physiographic Divisions",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which mountain range lies immediately north of the Bhabar/Dun zone and south of the Lesser Himalayas?",
+    "options": [
+      "Trans-Himalaya",
+      "Shivalik range (Outer Himalayas)",
+      "Karakoram range",
+      "Zanskar range"
+    ],
+    "correct_option": 1,
+    "correct_answer": "Shivalik range (Outer Himalayas)",
+    "explanation": "The Shivalik range (Outer Himalayas) forms the youngest, lowest southern mountain belt of Uttarakhand.",
+    "source_page": 17
+  },
+  {
+    "id": "q252",
+    "chapter": "Uttarakhand - Geographical Structure",
+    "topic": "Physiographic Divisions",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which range is also known as the 'Manak Parvat' or 'Mainak Parvat' in ancient texts?",
+    "options": [
+      "Nanda Devi range",
+      "Doodhatoli range",
+      "Panchachuli range",
+      "Shivalik range"
+    ],
+    "correct_option": 3,
+    "correct_answer": "Shivalik range",
+    "explanation": "The Shivalik range is traditionally referred to in texts as Manak Parvat / Mainak Parvat.",
+    "source_page": 17
+  },
+  {
+    "id": "q253",
+    "chapter": "Uttarakhand - Geographical Structure",
+    "topic": "Physiographic Divisions",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "What are high-altitude alpine summer pastures called in Uttarakhand?",
+    "options": [
+      "Bugyals or Payars",
+      "Parganas or Pattis",
+      "Bhabars or Tarais",
+      "Duns or Dwars"
+    ],
+    "correct_option": 0,
+    "correct_answer": "Bugyals or Payars",
+    "explanation": "High-altitude alpine meadows in Uttarakhand are locally called Bugyals or Payars (e.g., Bedni Bugyal, Ali Bugyal, Dayara Bugyal, Auli).",
+    "source_page": 17
+  },
+  {
+    "id": "q254",
+    "chapter": "Uttarakhand - Geographical Structure",
+    "topic": "Physiographic Divisions",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "In which district is the well-known Doodhatoli range located?",
+    "options": [
+      "Haridwar",
+      "Udham Singh Nagar",
+      "Nainital",
+      "Pauri Garhwal (bordering Chamoli and Almora)"
+    ],
+    "correct_option": 3,
+    "correct_answer": "Pauri Garhwal (bordering Chamoli and Almora)",
+    "explanation": "The Doodhatoli range is situated in Pauri Garhwal (adjoining Chamoli and Almora) and is an important water divide/source area for several streams.",
+    "source_page": 18
+  },
+  {
+    "id": "q255",
+    "chapter": "Uttarakhand - Geographical Structure",
+    "topic": "Physiographic Divisions",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which physiographic division of Uttarakhand lies north of the Greater Himalayas along the Tibetan border?",
+    "options": [
+      "Trans-Himalaya (Tethys Himalaya)",
+      "Shivalik hills",
+      "Tarai plain",
+      "Bhabar tract"
+    ],
+    "correct_option": 0,
+    "correct_answer": "Trans-Himalaya (Tethys Himalaya)",
+    "explanation": "The Trans-Himalayan (Tethyan) zone lies north of the main Greater Himalayan crest along the northern border with Tibet.",
+    "source_page": 17
+  },
+  {
+    "id": "q256",
+    "chapter": "Uttarakhand - Geographical Structure",
+    "topic": "Mountain Peaks and Passes",
+    "difficulty": "easy",
+    "type": "direct",
+    "question": "What is the approximate height of Nanda Devi (West), the highest peak wholly inside Uttarakhand?",
+    "options": [
+      "6,904 m",
+      "7,756 m",
+      "7,138 m",
+      "7,817 m (or ~7,816 m)"
+    ],
+    "correct_option": 3,
+    "correct_answer": "7,817 m (or ~7,816 m)",
+    "explanation": "Nanda Devi (West) rises to about 7,817 m (7,816 m) and is the highest peak located entirely within Uttarakhand.",
+    "source_page": 18
+  },
+  {
+    "id": "q257",
+    "chapter": "Uttarakhand - Geographical Structure",
+    "topic": "Mountain Peaks and Passes",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "In which district is Nanda Devi peak located?",
+    "options": [
+      "Uttarkashi",
+      "Pithoragarh",
+      "Chamoli",
+      "Bageshwar"
+    ],
+    "correct_option": 2,
+    "correct_answer": "Chamoli",
+    "explanation": "Nanda Devi is located in Chamoli district (within the Nanda Devi Biosphere Reserve).",
+    "source_page": 18
+  },
+  {
+    "id": "q258",
+    "chapter": "Uttarakhand - Geographical Structure",
+    "topic": "Mountain Peaks and Passes",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "What is the approximate height of Kamet peak in Chamoli district, making it the second-highest peak in Uttarakhand?",
+    "options": [
+      "7,817 m",
+      "7,756 m",
+      "6,861 m",
+      "7,120 m"
+    ],
+    "correct_option": 1,
+    "correct_answer": "7,756 m",
+    "explanation": "Kamet stands at roughly 7,756 m in Chamoli district, ranking just behind Nanda Devi in Uttarakhand.",
+    "source_page": 18
+  },
+  {
+    "id": "q259",
+    "chapter": "Uttarakhand - Geographical Structure",
+    "topic": "Mountain Peaks and Passes",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Where are the Panchachuli peaks located in Uttarakhand?",
+    "options": [
+      "Tehri Garhwal district",
+      "Dehradun district",
+      "Pithoragarh district",
+      "Uttarkashi district"
+    ],
+    "correct_option": 2,
+    "correct_answer": "Pithoragarh district",
+    "explanation": "The five Panchachuli peaks are located in Pithoragarh district near the eastern border.",
+    "source_page": 18
+  },
+  {
+    "id": "q260",
+    "chapter": "Uttarakhand - Geographical Structure",
+    "topic": "Mountain Peaks and Passes",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "In which district is Bandarpunch peak located?",
+    "options": [
+      "Pithoragarh",
+      "Almora",
+      "Champawat",
+      "Uttarkashi"
+    ],
+    "correct_option": 3,
+    "correct_answer": "Uttarkashi",
+    "explanation": "Bandarpunch is situated in Uttarkashi district in the western Garhwal Himalayas.",
+    "source_page": 18
+  },
+  {
+    "id": "q261",
+    "chapter": "Uttarakhand - Geographical Structure",
+    "topic": "Mountain Peaks and Passes",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which well-known peak group is located in Chamoli district and associated with the Alaknanda/Bhagirathi headwaters region?",
+    "options": [
+      "Panchachuli",
+      "Om Parvat",
+      "Chaukhamba (and Nilkantha / Trishul)",
+      "Adi Kailash"
+    ],
+    "correct_option": 2,
+    "correct_answer": "Chaukhamba (and Nilkantha / Trishul)",
+    "explanation": "Chaukhamba, Nilkantha, and Trishul are prominent high peaks in Chamoli district.",
+    "source_page": 18
+  },
+  {
+    "id": "q262",
+    "chapter": "Uttarakhand - Geographical Structure",
+    "topic": "Mountain Peaks and Passes",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Where is Om Parvat (known for natural snow formations resembling the syllable 'Om') located?",
+    "options": [
+      "Rudraprayag district",
+      "Pithoragarh district",
+      "Uttarkashi district",
+      "Chamoli district"
+    ],
+    "correct_option": 1,
+    "correct_answer": "Pithoragarh district",
+    "explanation": "Om Parvat is located in Pithoragarh district along the high Himalayan border zone.",
+    "source_page": 18
+  },
+  {
+    "id": "q263",
+    "chapter": "Uttarakhand - Geographical Structure",
+    "topic": "Mountain Peaks and Passes",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "In which district is Kedarnath peak/dome located?",
+    "options": [
+      "Rudraprayag (and Chamoli border)",
+      "Almora",
+      "Pithoragarh",
+      "Nainital"
+    ],
+    "correct_option": 0,
+    "correct_answer": "Rudraprayag (and Chamoli border)",
+    "explanation": "Kedarnath peak/dome is located in the Rudraprayag/Chamoli high Himalayan zone.",
+    "source_page": 18
+  },
+  {
+    "id": "q264",
+    "chapter": "Uttarakhand - Geographical Structure",
+    "topic": "Mountain Peaks and Passes",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which pass connects Chamoli district in Uttarakhand with Tibet?",
+    "options": [
+      "Muling La",
+      "Mana Pass (or Niti Pass)",
+      "Traill's Pass",
+      "Lipulekh Pass"
+    ],
+    "correct_option": 1,
+    "correct_answer": "Mana Pass (or Niti Pass)",
+    "explanation": "Mana Pass and Niti Pass in Chamoli district link Uttarakhand with Tibet.",
+    "source_page": 18
+  },
+  {
+    "id": "q265",
+    "chapter": "Uttarakhand - Geographical Structure",
+    "topic": "Mountain Peaks and Passes",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which pass connects Uttarkashi district in Uttarakhand with Tibet?",
+    "options": [
+      "Kungri Bingri",
+      "Lipulekh Pass",
+      "Traill's Pass",
+      "Thaga La / Muling La / Nelang area passes"
+    ],
+    "correct_option": 3,
+    "correct_answer": "Thaga La / Muling La / Nelang area passes",
+    "explanation": "High passes such as Thaga La and Muling La in Uttarkashi connect the district with Tibet.",
+    "source_page": 18
+  },
+  {
+    "id": "q266",
+    "chapter": "Uttarakhand - Geographical Structure",
+    "topic": "Mountain Peaks and Passes",
+    "difficulty": "easy",
+    "type": "direct",
+    "question": "In which district is Lipulekh Pass located?",
+    "options": [
+      "Rudraprayag",
+      "Pithoragarh",
+      "Chamoli",
+      "Uttarkashi"
+    ],
+    "correct_option": 1,
+    "correct_answer": "Pithoragarh",
+    "explanation": "Lipulekh Pass is located in Pithoragarh district near the India-Nepal-Tibet tri-junction.",
+    "source_page": 18
+  },
+  {
+    "id": "q267",
+    "chapter": "Uttarakhand - Geographical Structure",
+    "topic": "Mountain Peaks and Passes",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Which pass connects Bageshwar district with Pithoragarh district?",
+    "options": [
+      "Mana Pass",
+      "Traill's Pass",
+      "Lipulekh Pass",
+      "Shalshal Pass"
+    ],
+    "correct_option": 1,
+    "correct_answer": "Traill's Pass",
+    "explanation": "Traill's Pass (named after British commissioner George William Traill) links Bageshwar and Pithoragarh.",
+    "source_page": 18
+  },
+  {
+    "id": "q268",
+    "chapter": "Uttarakhand - Geographical Structure",
+    "topic": "Mountain Peaks and Passes",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Which of the following passes is located in Pithoragarh district?",
+    "options": [
+      "Lampiya Dhura / Unta Dhura / Kungri Bingri",
+      "Kingri Bingri in Chamoli only",
+      "Niti Pass",
+      "Mana Pass"
+    ],
+    "correct_option": 0,
+    "correct_answer": "Lampiya Dhura / Unta Dhura / Kungri Bingri",
+    "explanation": "Passes such as Lipulekh, Lampiya Dhura, Unta Dhura, and Kungri Bingri are associated with Pithoragarh.",
+    "source_page": 18
+  },
+  {
+    "id": "q269",
+    "chapter": "Uttarakhand - Geographical Structure",
+    "topic": "Mountain Peaks and Passes",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Which pass lies in Chamoli district along the border with Tibet?",
+    "options": [
+      "Lipulekh Pass",
+      "Traill's Pass",
+      "Kingri Bingri / Balcha Dhura / Mana / Niti",
+      "Lampiya Dhura"
+    ],
+    "correct_option": 2,
+    "correct_answer": "Kingri Bingri / Balcha Dhura / Mana / Niti",
+    "explanation": "Mana, Niti, Kingri Bingri, and Balcha Dhura are passes associated with Chamoli district.",
+    "source_page": 18
+  },
+  {
+    "id": "q270",
+    "chapter": "Uttarakhand - Geographical Structure",
+    "topic": "Mountain Peaks and Passes",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Why are high Himalayan passes like Mana, Niti, and Lipulekh historically and strategically significant?",
+    "options": [
+      "They are low-lying coastal harbors",
+      "They are volcanic craters in the plains",
+      "They lie in the southern Tarai agricultural belt",
+      "They served as traditional trade/pilgrimage routes and hold strategic border importance"
+    ],
+    "correct_option": 3,
+    "correct_answer": "They served as traditional trade/pilgrimage routes and hold strategic border importance",
+    "explanation": "High passes across the northern/eastern frontier served historical trans-Himalayan trade and pilgrimage routes and carry strategic significance.",
+    "source_page": 18
+  },
+  {
+    "id": "q271",
+    "chapter": "Uttarakhand - Geographical Structure",
+    "topic": "Mountain Peaks and Passes",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "In which district is Kalindi Khal (a high-altitude mountain pass linking Gangotri and Badrinath areas) located?",
+    "options": [
+      "Between Haridwar and Dehradun",
+      "Between Uttarkashi and Chamoli",
+      "Between Champawat and Udham Singh Nagar",
+      "Between Nainital and Almora"
+    ],
+    "correct_option": 1,
+    "correct_answer": "Between Uttarkashi and Chamoli",
+    "explanation": "Kalindi Khal is a high-altitude pass situated between Uttarkashi and Chamoli.",
+    "source_page": 18
+  },
+  {
+    "id": "q272",
+    "chapter": "Uttarakhand - Geographical Structure",
+    "topic": "Glaciers and Valleys",
+    "difficulty": "easy",
+    "type": "direct",
+    "question": "In which district is the Gangotri Glacier located?",
+    "options": [
+      "Bageshwar",
+      "Uttarkashi",
+      "Chamoli",
+      "Pithoragarh"
+    ],
+    "correct_option": 1,
+    "correct_answer": "Uttarkashi",
+    "explanation": "The Gangotri Glacier is located in Uttarkashi district and is the primary source of the Bhagirathi river.",
+    "source_page": 19
+  },
+  {
+    "id": "q273",
+    "chapter": "Uttarakhand - Geographical Structure",
+    "topic": "Glaciers and Valleys",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which glacier in Uttarkashi district is the source of the Yamuna river?",
+    "options": [
+      "Kafni Glacier",
+      "Yamunotri Glacier (near Bandarpunch)",
+      "Milam Glacier",
+      "Sunderdhunga Glacier"
+    ],
+    "correct_option": 1,
+    "correct_answer": "Yamunotri Glacier (near Bandarpunch)",
+    "explanation": "The Yamunotri Glacier in Uttarkashi district (near Bandarpunch) is the source of the Yamuna river.",
+    "source_page": 19
+  },
+  {
+    "id": "q274",
+    "chapter": "Uttarakhand - Geographical Structure",
+    "topic": "Glaciers and Valleys",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "In which district are the Milam, Namik, and Ralam glaciers located?",
+    "options": [
+      "Uttarkashi",
+      "Rudraprayag",
+      "Tehri Garhwal",
+      "Pithoragarh"
+    ],
+    "correct_option": 3,
+    "correct_answer": "Pithoragarh",
+    "explanation": "Milam, Namik, and Ralam glaciers are located in Pithoragarh district (the Gori Ganga originates from Milam Glacier).",
+    "source_page": 19
+  },
+  {
+    "id": "q275",
+    "chapter": "Uttarakhand - Geographical Structure",
+    "topic": "Glaciers and Valleys",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which glaciers are situated in Bageshwar district?",
+    "options": [
+      "Pindari, Kafni, and Sunderdhunga glaciers",
+      "Gangotri and Yamunotri glaciers",
+      "Satopanth and Bhagirath Kharak glaciers",
+      "Khatling Glacier"
+    ],
+    "correct_option": 0,
+    "correct_answer": "Pindari, Kafni, and Sunderdhunga glaciers",
+    "explanation": "Pindari, Kafni, and Sunderdhunga glaciers are located in Bageshwar district.",
+    "source_page": 19
+  },
+  {
+    "id": "q276",
+    "chapter": "Uttarakhand - Geographical Structure",
+    "topic": "Glaciers and Valleys",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which glaciers are located in Chamoli district?",
+    "options": [
+      "Yamunotri Glacier",
+      "Satopanth and Bhagirath Kharak glaciers",
+      "Milam and Ralam glaciers",
+      "Kafni and Sunderdhunga glaciers"
+    ],
+    "correct_option": 1,
+    "correct_answer": "Satopanth and Bhagirath Kharak glaciers",
+    "explanation": "Satopanth and Bhagirath Kharak glaciers are located in Chamoli district near the Alaknanda headwaters.",
+    "source_page": 19
+  },
+  {
+    "id": "q277",
+    "chapter": "Uttarakhand - Geographical Structure",
+    "topic": "Glaciers and Valleys",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "In which district is Khatling Glacier (source of the Bhilangna river) located?",
+    "options": [
+      "Champawat",
+      "Pithoragarh",
+      "Tehri Garhwal (bordering Uttarkashi/Rudraprayag)",
+      "Almora"
+    ],
+    "correct_option": 2,
+    "correct_answer": "Tehri Garhwal (bordering Uttarkashi/Rudraprayag)",
+    "explanation": "Khatling Glacier is located in Tehri Garhwal and feeds the Bhilangna river.",
+    "source_page": 19
+  },
+  {
+    "id": "q278",
+    "chapter": "Uttarakhand - Geographical Structure",
+    "topic": "Glaciers and Valleys",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which valley in Pithoragarh district is famous for its hot springs and scenic beauty, and is also known as 'Mini Kashmir'?",
+    "options": [
+      "Saur Valley",
+      "Darma / Johar / Munsiyari valley area",
+      "Valley of Flowers",
+      "Doon Valley"
+    ],
+    "correct_option": 1,
+    "correct_answer": "Darma / Johar / Munsiyari valley area",
+    "explanation": "Pithoragarh features high valleys such as Johar, Darma, and Byans, and Munsiyari serves as a gateway to Milam and Ralam glaciers.",
+    "source_page": 19
+  },
+  {
+    "id": "q279",
+    "chapter": "Uttarakhand - Geographical Structure",
+    "topic": "Glaciers and Valleys",
+    "difficulty": "easy",
+    "type": "direct",
+    "question": "In which district is the Valley of Flowers located?",
+    "options": [
+      "Nainital",
+      "Uttarkashi",
+      "Pithoragarh",
+      "Chamoli"
+    ],
+    "correct_option": 3,
+    "correct_answer": "Chamoli",
+    "explanation": "The Valley of Flowers is located in Chamoli district in the upper Garhwal Himalayas.",
+    "source_page": 19
   }
 ]
