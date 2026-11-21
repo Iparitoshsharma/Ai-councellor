@@ -1477,5 +1477,941 @@
     "correct_option": 2,
     "explanation": "The current Advocate General in the book: Surya Narayan Babulkar (from March 2017).",
     "source_page": 11
+  },
+  {
+    "id": "q088",
+    "chapter": "Uttarakhand - Political & Administrative Structure",
+    "topic": "Administrative Divisions and Districts",
+    "difficulty": "easy",
+    "type": "direct",
+    "question": "How many districts are included in the Kumaon division of Uttarakhand?",
+    "options": [
+      "5",
+      "7",
+      "8",
+      "6"
+    ],
+    "correct_option": 3,
+    "correct_answer": "6",
+    "explanation": "Kumaon division comprises 6 districts: Nainital, Almora, Pithoragarh, Udham Singh Nagar, Bageshwar, and Champawat.",
+    "source_page": 6
+  },
+  {
+    "id": "q089",
+    "chapter": "Uttarakhand - Political & Administrative Structure",
+    "topic": "Administrative Divisions and Districts",
+    "difficulty": "easy",
+    "type": "direct",
+    "question": "Since which year has the headquarters of the Kumaon division been located in Nainital?",
+    "options": [
+      "1891",
+      "1840",
+      "1854-55",
+      "1969"
+    ],
+    "correct_option": 2,
+    "correct_answer": "1854-55",
+    "explanation": "The headquarters of the Kumaon division has been in Nainital since 1854-55.",
+    "source_page": 6
+  },
+  {
+    "id": "q090",
+    "chapter": "Uttarakhand - Political & Administrative Structure",
+    "topic": "Administrative Divisions and Districts",
+    "difficulty": "easy",
+    "type": "direct",
+    "question": "How many districts are included in the Garhwal division of Uttarakhand?",
+    "options": [
+      "6",
+      "5",
+      "8",
+      "7"
+    ],
+    "correct_option": 3,
+    "correct_answer": "7",
+    "explanation": "Garhwal division comprises 7 districts: Chamoli, Uttarkashi, Dehradun, Pauri Garhwal, Tehri Garhwal, Haridwar, and Rudraprayag.",
+    "source_page": 6
+  },
+  {
+    "id": "q091",
+    "chapter": "Uttarakhand - Political & Administrative Structure",
+    "topic": "Administrative Divisions and Districts",
+    "difficulty": "easy",
+    "type": "direct",
+    "question": "Since which year has the headquarters of the Garhwal division been located in Pauri?",
+    "options": [
+      "1854-55",
+      "1949",
+      "1969",
+      "1960"
+    ],
+    "correct_option": 2,
+    "correct_answer": "1969",
+    "explanation": "The headquarters of the Garhwal division has been in Pauri since 1969.",
+    "source_page": 6
+  },
+  {
+    "id": "q092",
+    "chapter": "Uttarakhand - Political & Administrative Structure",
+    "topic": "Administrative Divisions and Districts",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which district of Uttarakhand was established in 1840?",
+    "options": [
+      "Dehradun",
+      "Almora",
+      "Nainital",
+      "Pauri Garhwal"
+    ],
+    "correct_option": 3,
+    "correct_answer": "Pauri Garhwal",
+    "explanation": "Pauri Garhwal district was established in 1840 with its headquarters at Pauri.",
+    "source_page": 6
+  },
+  {
+    "id": "q093",
+    "chapter": "Uttarakhand - Political & Administrative Structure",
+    "topic": "Administrative Divisions and Districts",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "In which year was Dehradun district established?",
+    "options": [
+      "1840",
+      "1949",
+      "1891",
+      "1871"
+    ],
+    "correct_option": 3,
+    "correct_answer": "1871",
+    "explanation": "Dehradun district was established in 1871 with its headquarters at Dehradun.",
+    "source_page": 6
+  },
+  {
+    "id": "q094",
+    "chapter": "Uttarakhand - Political & Administrative Structure",
+    "topic": "Administrative Divisions and Districts",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which pair of districts was established in 1891?",
+    "options": [
+      "Rudraprayag and Champawat",
+      "Pithoragarh and Uttarkashi",
+      "Almora and Nainital",
+      "Tehri Garhwal and Haridwar"
+    ],
+    "correct_option": 2,
+    "correct_answer": "Almora and Nainital",
+    "explanation": "Both Almora and Nainital districts were established in 1891.",
+    "source_page": 6
+  },
+  {
+    "id": "q095",
+    "chapter": "Uttarakhand - Political & Administrative Structure",
+    "topic": "Administrative Divisions and Districts",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "In which year was Tehri Garhwal district established?",
+    "options": [
+      "1960",
+      "1995",
+      "1949",
+      "1988"
+    ],
+    "correct_option": 2,
+    "correct_answer": "1949",
+    "explanation": "Tehri Garhwal district was established in 1949 with its headquarters at New Tehri.",
+    "source_page": 6
+  },
+  {
+    "id": "q096",
+    "chapter": "Uttarakhand - Political & Administrative Structure",
+    "topic": "Administrative Divisions and Districts",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which three districts of Uttarakhand were established in 1960?",
+    "options": [
+      "Pithoragarh, Uttarkashi, and Chamoli",
+      "Haridwar, Udham Singh Nagar, and Tehri Garhwal",
+      "Rudraprayag, Champawat, and Bageshwar",
+      "Dehradun, Nainital, and Almora"
+    ],
+    "correct_option": 0,
+    "correct_answer": "Pithoragarh, Uttarkashi, and Chamoli",
+    "explanation": "Pithoragarh, Uttarkashi, and Chamoli were all established in 1960.",
+    "source_page": 6
+  },
+  {
+    "id": "q097",
+    "chapter": "Uttarakhand - Political & Administrative Structure",
+    "topic": "Administrative Divisions and Districts",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "What is the district headquarters of Chamoli?",
+    "options": [
+      "Joshimath",
+      "Karnaprayag",
+      "Gopeshwar",
+      "Chamoli"
+    ],
+    "correct_option": 2,
+    "correct_answer": "Gopeshwar",
+    "explanation": "Chamoli district (established in 1960) has its headquarters at Gopeshwar.",
+    "source_page": 6
+  },
+  {
+    "id": "q098",
+    "chapter": "Uttarakhand - Political & Administrative Structure",
+    "topic": "Administrative Divisions and Districts",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "In which year was Haridwar district established?",
+    "options": [
+      "1997",
+      "1995",
+      "1960",
+      "1988"
+    ],
+    "correct_option": 3,
+    "correct_answer": "1988",
+    "explanation": "Haridwar district was established in 1988 with its headquarters at Haridwar.",
+    "source_page": 6
+  },
+  {
+    "id": "q099",
+    "chapter": "Uttarakhand - Political & Administrative Structure",
+    "topic": "Administrative Divisions and Districts",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "In which year was Udham Singh Nagar district established?",
+    "options": [
+      "1949",
+      "1997",
+      "1988",
+      "1995"
+    ],
+    "correct_option": 3,
+    "correct_answer": "1995",
+    "explanation": "Udham Singh Nagar district was established in 1995.",
+    "source_page": 6
+  },
+  {
+    "id": "q100",
+    "chapter": "Uttarakhand - Political & Administrative Structure",
+    "topic": "Administrative Divisions and Districts",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which three districts of Uttarakhand were established in 1997?",
+    "options": [
+      "Tehri Garhwal, Rudraprayag, and Bageshwar",
+      "Pithoragarh, Uttarkashi, and Chamoli",
+      "Rudraprayag, Champawat, and Bageshwar",
+      "Haridwar, Udham Singh Nagar, and Champawat"
+    ],
+    "correct_option": 2,
+    "correct_answer": "Rudraprayag, Champawat, and Bageshwar",
+    "explanation": "Rudraprayag, Champawat, and Bageshwar were established in 1997.",
+    "source_page": 6
+  },
+  {
+    "id": "q101",
+    "chapter": "Uttarakhand - Political & Administrative Structure",
+    "topic": "Administrative Divisions and Districts",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "According to the State Statistical Diary 2022-23 table on page 6, what is the area of Chamoli district in square kilometers?",
+    "options": [
+      "7090",
+      "5329",
+      "8016",
+      "8030"
+    ],
+    "correct_option": 3,
+    "correct_answer": "8030",
+    "explanation": "Chamoli district has an area of 8,030 sq. km according to the State Statistical Diary 2022-23.",
+    "source_page": 6
+  },
+  {
+    "id": "q102",
+    "chapter": "Uttarakhand - Political & Administrative Structure",
+    "topic": "Legislative Assembly and Lok Sabha",
+    "difficulty": "easy",
+    "type": "direct",
+    "question": "How many assembly constituencies are there in Dehradun district?",
+    "options": [
+      "10",
+      "11",
+      "6",
+      "9"
+    ],
+    "correct_option": 0,
+    "correct_answer": "10",
+    "explanation": "Dehradun district has 10 assembly constituencies.",
+    "source_page": 6
+  },
+  {
+    "id": "q103",
+    "chapter": "Uttarakhand - Political & Administrative Structure",
+    "topic": "Legislative Assembly and Lok Sabha",
+    "difficulty": "easy",
+    "type": "direct",
+    "question": "How many assembly constituencies are there in Haridwar district?",
+    "options": [
+      "6",
+      "11",
+      "9",
+      "10"
+    ],
+    "correct_option": 1,
+    "correct_answer": "11",
+    "explanation": "Haridwar district has 11 assembly constituencies.",
+    "source_page": 6
+  },
+  {
+    "id": "q104",
+    "chapter": "Uttarakhand - Political & Administrative Structure",
+    "topic": "Legislative Assembly and Lok Sabha",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which constituency in Dehradun district is reserved for Scheduled Tribes (ST)?",
+    "options": [
+      "Rajpur",
+      "Dharampur",
+      "Vikas Nagar",
+      "Chakrata"
+    ],
+    "correct_option": 3,
+    "correct_answer": "Chakrata",
+    "explanation": "Chakrata in Dehradun district is a Scheduled Tribe (ST) reserved assembly constituency.",
+    "source_page": 6
+  },
+  {
+    "id": "q105",
+    "chapter": "Uttarakhand - Political & Administrative Structure",
+    "topic": "Legislative Assembly and Lok Sabha",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which constituency in Udham Singh Nagar district is reserved for Scheduled Tribes (ST)?",
+    "options": [
+      "Sitarganj",
+      "Rudrapur",
+      "Nanakmatta",
+      "Khatima"
+    ],
+    "correct_option": 2,
+    "correct_answer": "Nanakmatta",
+    "explanation": "Nanakmatta in Udham Singh Nagar district is reserved for Scheduled Tribes (ST), while Sitarganj is reserved for SC.",
+    "source_page": 6
+  },
+  {
+    "id": "q106",
+    "chapter": "Uttarakhand - Political & Administrative Structure",
+    "topic": "Legislative Assembly and Lok Sabha",
+    "difficulty": "easy",
+    "type": "direct",
+    "question": "How many assembly constituencies are there in Udham Singh Nagar district?",
+    "options": [
+      "6",
+      "11",
+      "10",
+      "9"
+    ],
+    "correct_option": 3,
+    "correct_answer": "9",
+    "explanation": "Udham Singh Nagar district has 9 assembly constituencies.",
+    "source_page": 6
+  },
+  {
+    "id": "q107",
+    "chapter": "Uttarakhand - Political & Administrative Structure",
+    "topic": "Legislative Assembly and Lok Sabha",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "How many assembly constituencies are in Bageshwar, Rudraprayag, and Champawat districts respectively?",
+    "options": [
+      "2, 2, and 2",
+      "3, 2, and 2",
+      "2, 3, and 2",
+      "3, 3, and 2"
+    ],
+    "correct_option": 0,
+    "correct_answer": "2, 2, and 2",
+    "explanation": "Bageshwar (Kapkot, Bageshwar [SC]), Rudraprayag (Rudraprayag, Kedarnath), and Champawat (Champawat, Lohaghat) each have 2 assembly constituencies.",
+    "source_page": 6
+  },
+  {
+    "id": "q108",
+    "chapter": "Uttarakhand - Political & Administrative Structure",
+    "topic": "Tehsils and Development Blocks",
+    "difficulty": "easy",
+    "type": "direct",
+    "question": "How many tehsils and development blocks are there in Uttarakhand according to page 7?",
+    "options": [
+      "110 tehsils and 95 blocks",
+      "105 tehsils and 95 blocks",
+      "110 tehsils and 90 blocks",
+      "95 tehsils and 110 blocks"
+    ],
+    "correct_option": 0,
+    "correct_answer": "110 tehsils and 95 blocks",
+    "explanation": "Page 7 lists 110 tehsils and 95 development blocks across the state.",
+    "source_page": 7
+  },
+  {
+    "id": "q109",
+    "chapter": "Uttarakhand - Political & Administrative Structure",
+    "topic": "Tehsils and Development Blocks",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "How many tehsils are in Almora district according to page 7?",
+    "options": [
+      "12",
+      "6",
+      "8",
+      "13"
+    ],
+    "correct_option": 0,
+    "correct_answer": "12",
+    "explanation": "Almora district has 12 tehsils listed on page 7.",
+    "source_page": 7
+  },
+  {
+    "id": "q110",
+    "chapter": "Uttarakhand - Political & Administrative Structure",
+    "topic": "Tehsils and Development Blocks",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "How many tehsils are in Pithoragarh district according to page 7?",
+    "options": [
+      "12",
+      "9",
+      "11",
+      "13"
+    ],
+    "correct_option": 3,
+    "correct_answer": "13",
+    "explanation": "Pithoragarh district has 13 tehsils listed on page 7.",
+    "source_page": 7
+  },
+  {
+    "id": "q111",
+    "chapter": "Uttarakhand - Political & Administrative Structure",
+    "topic": "Tehsils and Development Blocks",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "How many tehsils are in Haridwar district according to page 7?",
+    "options": [
+      "5",
+      "3",
+      "4",
+      "6"
+    ],
+    "correct_option": 2,
+    "correct_answer": "4",
+    "explanation": "Haridwar district has 4 tehsils: Haridwar, Laksar, Roorkee, and Bhagwanpur.",
+    "source_page": 7
+  },
+  {
+    "id": "q112",
+    "chapter": "Uttarakhand - Political & Administrative Structure",
+    "topic": "Tehsils and Development Blocks",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "How many development blocks are in Pauri Garhwal district according to page 7?",
+    "options": [
+      "11",
+      "15",
+      "12",
+      "9"
+    ],
+    "correct_option": 1,
+    "correct_answer": "15",
+    "explanation": "Pauri Garhwal has 15 development blocks listed on page 7.",
+    "source_page": 7
+  },
+  {
+    "id": "q113",
+    "chapter": "Uttarakhand - Political & Administrative Structure",
+    "topic": "State Formation and Symbols",
+    "difficulty": "easy",
+    "type": "direct",
+    "question": "On which date was the Uttaranchal State Bill passed by the Lok Sabha?",
+    "options": [
+      "10 August 2000",
+      "9 November 2000",
+      "1 August 2000",
+      "28 August 2000"
+    ],
+    "correct_option": 2,
+    "correct_answer": "1 August 2000",
+    "explanation": "The Uttaranchal State Bill was passed by the Lok Sabha on 1 August 2000.",
+    "source_page": 8
+  },
+  {
+    "id": "q114",
+    "chapter": "Uttarakhand - Political & Administrative Structure",
+    "topic": "State Formation and Symbols",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "On which date was the Uttaranchal State Bill passed by the Rajya Sabha?",
+    "options": [
+      "9 November 2000",
+      "8 August 2000",
+      "1 August 2000",
+      "10 August 2000"
+    ],
+    "correct_option": 3,
+    "correct_answer": "10 August 2000",
+    "explanation": "Page 8 notes that the Uttaranchal State Bill was passed by the Rajya Sabha on 10 August 2000.",
+    "source_page": 8
+  },
+  {
+    "id": "q115",
+    "chapter": "Uttarakhand - Political & Administrative Structure",
+    "topic": "State Formation and Symbols",
+    "difficulty": "easy",
+    "type": "direct",
+    "question": "When was the state of Uttaranchal formally formed?",
+    "options": [
+      "1 January 2007",
+      "1 August 2000",
+      "9 November 2000",
+      "8 June 2020"
+    ],
+    "correct_option": 2,
+    "correct_answer": "9 November 2000",
+    "explanation": "Uttaranchal was formed on 9 November 2000 as the 27th state of the Indian Republic.",
+    "source_page": 8
+  },
+  {
+    "id": "q116",
+    "chapter": "Uttarakhand - Political & Administrative Structure",
+    "topic": "State Formation and Symbols",
+    "difficulty": "easy",
+    "type": "direct",
+    "question": "When did the state's official name change from Uttaranchal to Uttarakhand?",
+    "options": [
+      "4 May 2001",
+      "9 November 2000",
+      "1 January 2007",
+      "8 June 2020"
+    ],
+    "correct_option": 2,
+    "correct_answer": "1 January 2007",
+    "explanation": "The state was named Uttaranchal until 31-12-2006 and became Uttarakhand from 1-1-2007.",
+    "source_page": 8
+  },
+  {
+    "id": "q117",
+    "chapter": "Uttarakhand - Political & Administrative Structure",
+    "topic": "State Formation and Symbols",
+    "difficulty": "easy",
+    "type": "direct",
+    "question": "Since which date has Gairsain been designated as the summer capital of Uttarakhand?",
+    "options": [
+      "8 June 2020",
+      "1 January 2007",
+      "9 November 2000",
+      "17 November 2017"
+    ],
+    "correct_option": 0,
+    "correct_answer": "8 June 2020",
+    "explanation": "Gairsain became the summer capital of Uttarakhand from 8 June 2020.",
+    "source_page": 8
+  },
+  {
+    "id": "q118",
+    "chapter": "Uttarakhand - Political & Administrative Structure",
+    "topic": "State Formation and Symbols",
+    "difficulty": "easy",
+    "type": "direct",
+    "question": "What are the first and second official languages of Uttarakhand?",
+    "options": [
+      "Hindi (I) and Kumaoni (II)",
+      "Hindi (I) and Sanskrit (II)",
+      "Sanskrit (I) and Hindi (II)",
+      "Hindi (I) and Garhwali (II)"
+    ],
+    "correct_option": 1,
+    "correct_answer": "Hindi (I) and Sanskrit (II)",
+    "explanation": "Hindi is the first official language and Sanskrit (added in Jan 2010) is the second official language.",
+    "source_page": 8
+  },
+  {
+    "id": "q119",
+    "chapter": "Uttarakhand - Political & Administrative Structure",
+    "topic": "State Formation and Symbols",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "In which year was Football declared the state sport of Uttarakhand?",
+    "options": [
+      "2011",
+      "2010",
+      "2016",
+      "2015"
+    ],
+    "correct_option": 0,
+    "correct_answer": "2011",
+    "explanation": "Football was declared the state sport of Uttarakhand in 2011.",
+    "source_page": 8
+  },
+  {
+    "id": "q120",
+    "chapter": "Uttarakhand - Political & Administrative Structure",
+    "topic": "State Formation and Symbols",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which instrument was declared the state instrument (Rajya Vadya) of Uttarakhand in 2015?",
+    "options": [
+      "Dhol",
+      "Damau",
+      "Mashakbeen",
+      "Turhi"
+    ],
+    "correct_option": 0,
+    "correct_answer": "Dhol",
+    "explanation": "Dhol was declared the state instrument of Uttarakhand in 2015.",
+    "source_page": 8
+  },
+  {
+    "id": "q121",
+    "chapter": "Uttarakhand - Political & Administrative Structure",
+    "topic": "State Formation and Symbols",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which butterfly is the state butterfly of Uttarakhand, declared in 2016?",
+    "options": [
+      "Blue Mormon",
+      "Atlas Moth",
+      "Common Peacock",
+      "Malabar Rose"
+    ],
+    "correct_option": 2,
+    "correct_answer": "Common Peacock",
+    "explanation": "Common Peacock was declared the state butterfly of Uttarakhand in 2016.",
+    "source_page": 8
+  },
+  {
+    "id": "q122",
+    "chapter": "Uttarakhand - Political & Administrative Structure",
+    "topic": "State Formation and Symbols",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Who wrote the state song of Uttarakhand ('Uttarakhand Devbhumi, Matribhumi, Shat-Shat Vandan...'), declared in February 2016?",
+    "options": [
+      "Narendra Singh Negi",
+      "Manglesh Dangwal",
+      "Hemant Bisht",
+      "Shailesh Matiyani"
+    ],
+    "correct_option": 2,
+    "correct_answer": "Hemant Bisht",
+    "explanation": "The state song of Uttarakhand was written by Hemant Bisht and declared in February 2016.",
+    "source_page": 8
+  },
+  {
+    "id": "q123",
+    "chapter": "Uttarakhand - Political & Administrative Structure",
+    "topic": "State Symbols - Flora and Fauna",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "What is the scientific name of the state flower Brahma Kamal?",
+    "options": [
+      "Rhododendron arboreum",
+      "Moschus chrysogaster",
+      "Lophophorus impejanus",
+      "Saussurea obvallata"
+    ],
+    "correct_option": 3,
+    "correct_answer": "Saussurea obvallata",
+    "explanation": "The scientific name of Brahma Kamal is Saussurea obvallata.",
+    "source_page": 8
+  },
+  {
+    "id": "q124",
+    "chapter": "Uttarakhand - Political & Administrative Structure",
+    "topic": "State Symbols - Flora and Fauna",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "What is Brahma Kamal called in the Mahabharata, and how many species are found in Uttarakhand?",
+    "options": [
+      "Kamal Pushpa; 18 species",
+      "Saugandhik Pushpa; 24 species",
+      "Him Pushpa; 32 species",
+      "Divya Pushpa; 12 species"
+    ],
+    "correct_option": 1,
+    "correct_answer": "Saugandhik Pushpa; 24 species",
+    "explanation": "In the Mahabharata, Brahma Kamal is called Saugandhik Pushpa, and 24 species are found in Uttarakhand.",
+    "source_page": 8
+  },
+  {
+    "id": "q125",
+    "chapter": "Uttarakhand - Political & Administrative Structure",
+    "topic": "State Symbols - Flora and Fauna",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "What is the scientific name of the state animal Musk Deer (Kasturi Mrig)?",
+    "options": [
+      "Moschus chrysogaster",
+      "Rhododendron arboreum",
+      "Saussurea obvallata",
+      "Panthera uncia"
+    ],
+    "correct_option": 0,
+    "correct_answer": "Moschus chrysogaster",
+    "explanation": "The scientific name of the state animal Musk Deer is Moschus chrysogaster.",
+    "source_page": 8
+  },
+  {
+    "id": "q126",
+    "chapter": "Uttarakhand - Political & Administrative Structure",
+    "topic": "State Symbols - Flora and Fauna",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "How much musk is obtained from a male musk deer at one time, and when/where was the first conservation effort made in the state?",
+    "options": [
+      "10 to 20 grams; 1982 in Pithoragarh",
+      "30 to 45 grams; 1972 in Chamoli",
+      "25 to 35 grams; 1968 in Chamoli",
+      "50 to 60 grams; 1972 in Uttarkashi"
+    ],
+    "correct_option": 1,
+    "correct_answer": "30 to 45 grams; 1972 in Chamoli",
+    "explanation": "Musk is obtained only from the male deer—30 to 45 grams at a time—and the first conservation/breeding effort in the state began in 1972 in Chamoli.",
+    "source_page": 9
+  },
+  {
+    "id": "q127",
+    "chapter": "Uttarakhand - Political & Administrative Structure",
+    "topic": "State Symbols - Flora and Fauna",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "What is the botanical name of the state tree Burans (Rhododendron)?",
+    "options": [
+      "Cedrus deodara",
+      "Saussurea obvallata",
+      "Quercus leucotrichophora",
+      "Rhododendron arboreum"
+    ],
+    "correct_option": 3,
+    "correct_answer": "Rhododendron arboreum",
+    "explanation": "The botanical name of Burans is Rhododendron arboreum, and it is an evergreen mountain tree.",
+    "source_page": 9
+  },
+  {
+    "id": "q128",
+    "chapter": "Uttarakhand - Political & Administrative Structure",
+    "topic": "Governor, Legislature, and Elections",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Under which article of the Indian Constitution is there a provision for a Governor for states, and how is the Governor appointed?",
+    "options": [
+      "Article 155; appointed by the Prime Minister",
+      "Article 214; appointed by the Chief Justice",
+      "Article 153; appointed by the President",
+      "Article 164; elected by the Legislative Assembly"
+    ],
+    "correct_option": 2,
+    "correct_answer": "Article 153; appointed by the President",
+    "explanation": "Article 153 provides for the Governor of a state, and the Governor is appointed by the President.",
+    "source_page": 9
+  },
+  {
+    "id": "q129",
+    "chapter": "Uttarakhand - Political & Administrative Structure",
+    "topic": "Governor, Legislature, and Elections",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "For how many days (the shortest in the country) was President's Rule under Article 356 imposed in Uttarakhand in 2016?",
+    "options": [
+      "30 days (1 April to 1 May 2016)",
+      "60 days (27 March to 26 May 2016)",
+      "46 days (27 March to 12 May 2016)",
+      "52 days (20 March to 11 May 2016)"
+    ],
+    "correct_option": 2,
+    "correct_answer": "46 days (27 March to 12 May 2016)",
+    "explanation": "President's Rule under Article 356 lasted 46 days in Uttarakhand from 27 March to 12 May 2016, noted as the shortest in the country.",
+    "source_page": 9
+  },
+  {
+    "id": "q130",
+    "chapter": "Uttarakhand - Political & Administrative Structure",
+    "topic": "Governor, Legislature, and Elections",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "What is the name of the second/summer Assembly complex at Bhararisain, Gairsain (Chamoli), and which other states have two Assembly buildings?",
+    "options": [
+      "Hemwati Nandan Bahuguna Assembly Complex; Maharashtra and West Bengal",
+      "Pt. Govind Ballabh Pant Assembly Complex; Uttar Pradesh and Bihar",
+      "Indramani Badoni Assembly Complex; Himachal Pradesh and Rajasthan",
+      "Veer Chandra Singh Garhwali Assembly Complex; Maharashtra and Jammu & Kashmir"
+    ],
+    "correct_option": 3,
+    "correct_answer": "Veer Chandra Singh Garhwali Assembly Complex; Maharashtra and Jammu & Kashmir",
+    "explanation": "The Assembly complex at Bhararisain, Gairsain is named Veer Chandra Singh Garhwali Assembly Complex, and Maharashtra and Jammu & Kashmir also have two Assembly buildings.",
+    "source_page": 9
+  },
+  {
+    "id": "q131",
+    "chapter": "Uttarakhand - Political & Administrative Structure",
+    "topic": "Governor, Legislature, and Elections",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "How many members were in the first (interim) Legislative Assembly constituted on 9 November 2000, and when did the Uttarakhand Assembly launch its own website (first in the country)?",
+    "options": [
+      "35 members; 9 November 2000",
+      "30 members; 4 May 2001",
+      "22 members; 14 February 2002",
+      "70 members; 9 January 2001"
+    ],
+    "correct_option": 1,
+    "correct_answer": "30 members; 4 May 2001",
+    "explanation": "The interim Legislative Assembly constituted on 9 November 2000 had 30 members, and the Assembly launched its own website on 4 May 2001 (first in the country).",
+    "source_page": 9
+  },
+  {
+    "id": "q132",
+    "chapter": "Uttarakhand - Political & Administrative Structure",
+    "topic": "Governor, Legislature, and Elections",
+    "difficulty": "easy",
+    "type": "direct",
+    "question": "How many total elected seats are there in the Uttarakhand Legislative Assembly after delimitation?",
+    "options": [
+      "60",
+      "70",
+      "90",
+      "80"
+    ],
+    "correct_option": 1,
+    "correct_answer": "70",
+    "explanation": "After delimitation (5 November 2001 and February 2008), the Uttarakhand Legislative Assembly has 70 elected seats.",
+    "source_page": 9
+  },
+  {
+    "id": "q133",
+    "chapter": "Uttarakhand - Political & Administrative Structure",
+    "topic": "Governor, Legislature, and Elections",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which two assembly constituencies are reserved for Scheduled Tribes (ST) in Uttarakhand?",
+    "options": [
+      "Jwalapur (Haridwar) and Bageshwar (Bageshwar)",
+      "Chakrata (Dehradun) and Nanakmatta (Udham Singh Nagar)",
+      "Pauri (Pauri) and Gangolihat (Pithoragarh)",
+      "Rajpur (Dehradun) and Sitarganj (Udham Singh Nagar)"
+    ],
+    "correct_option": 1,
+    "correct_answer": "Chakrata (Dehradun) and Nanakmatta (Udham Singh Nagar)",
+    "explanation": "The 2 ST-reserved assembly seats are Chakrata (Dehradun) and Nanakmatta (Udham Singh Nagar).",
+    "source_page": 9
+  },
+  {
+    "id": "q134",
+    "chapter": "Uttarakhand - Political & Administrative Structure",
+    "topic": "Legislative Assembly and Lok Sabha",
+    "difficulty": "easy",
+    "type": "direct",
+    "question": "How many Lok Sabha seats does Uttarakhand have, and which one is reserved for Scheduled Castes (SC)?",
+    "options": [
+      "5 seats; Pauri Garhwal is reserved for SC",
+      "5 seats; Haridwar is reserved for SC",
+      "3 seats; Almora is reserved for SC",
+      "5 seats; Almora is reserved for SC"
+    ],
+    "correct_option": 3,
+    "correct_answer": "5 seats; Almora is reserved for SC",
+    "explanation": "Uttarakhand has 5 Lok Sabha seats (Tehri, Pauri, Almora, Nainital, Haridwar), of which 1 seat (Almora) is reserved for SC.",
+    "source_page": 10
+  },
+  {
+    "id": "q135",
+    "chapter": "Uttarakhand - Political & Administrative Structure",
+    "topic": "Legislative Assembly and Lok Sabha",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which Lok Sabha constituency in Uttarakhand is smallest by area but largest by number of voters, and vice versa?",
+    "options": [
+      "Pauri Garhwal (smallest area, largest voters); Haridwar (largest area, smallest voters)",
+      "Almora (smallest area, largest voters); Tehri (largest area, smallest voters)",
+      "Haridwar (smallest area, largest voters); Pauri Garhwal (largest area, smallest voters)",
+      "Nainital (smallest area, largest voters); Almora (largest area, smallest voters)"
+    ],
+    "correct_option": 2,
+    "correct_answer": "Haridwar (smallest area, largest voters); Pauri Garhwal (largest area, smallest voters)",
+    "explanation": "Haridwar is the smallest by area yet largest by voters, whereas Pauri Garhwal is the largest by area yet smallest by voters.",
+    "source_page": 10
+  },
+  {
+    "id": "q136",
+    "chapter": "Uttarakhand - Political & Administrative Structure",
+    "topic": "Legislative Assembly and Lok Sabha",
+    "difficulty": "easy",
+    "type": "direct",
+    "question": "How many Rajya Sabha seats are allocated to Uttarakhand?",
+    "options": [
+      "2",
+      "3",
+      "5",
+      "1"
+    ],
+    "correct_option": 1,
+    "correct_answer": "3",
+    "explanation": "Uttarakhand has 3 Rajya Sabha seats.",
+    "source_page": 10
+  },
+  {
+    "id": "q137",
+    "chapter": "Uttarakhand - Political & Administrative Structure",
+    "topic": "Judiciary, Police, and Revenue Administration",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Under which constitutional article is there a High Court for states, and when/where was the Uttarakhand High Court established?",
+    "options": [
+      "Article 153; 9 November 2000 in Dehradun (20th in the country)",
+      "Article 214; 1 January 2007 in Nainital (18th in the country)",
+      "Article 226; 9 January 2001 in Nainital (19th in the country)",
+      "Article 214; 9 November 2000 in Nainital (18th in the country)"
+    ],
+    "correct_option": 3,
+    "correct_answer": "Article 214; 9 November 2000 in Nainital (18th in the country)",
+    "explanation": "Article 214 provides for a High Court for states, and the Uttarakhand High Court was established on 9 November 2000 at Nainital as the 18th High Court in India.",
+    "source_page": 10
+  },
+  {
+    "id": "q138",
+    "chapter": "Uttarakhand - Political & Administrative Structure",
+    "topic": "Judiciary, Police, and Revenue Administration",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "How many parganas and pattis existed in Kumaon and Garhwal respectively during British rule?",
+    "options": [
+      "Kumaon: 18 parganas and 110 pattis; Garhwal: 12 parganas and 80 pattis",
+      "Kumaon: 11 parganas and 86 pattis; Garhwal: 19 parganas and 125 pattis",
+      "Kumaon: 26 parganas and 120 pattis; Garhwal: 13 parganas and 90 pattis",
+      "Kumaon: 19 parganas and 125 pattis; Garhwal: 11 parganas and 86 pattis"
+    ],
+    "correct_option": 3,
+    "correct_answer": "Kumaon: 19 parganas and 125 pattis; Garhwal: 11 parganas and 86 pattis",
+    "explanation": "During British rule, Kumaon had 19 parganas and 125 pattis, while Garhwal had 11 parganas and 86 pattis.",
+    "source_page": 10
+  },
+  {
+    "id": "q139",
+    "chapter": "Uttarakhand - Political & Administrative Structure",
+    "topic": "Judiciary, Police, and Revenue Administration",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Where were the state's first and second cyber police stations established, and when?",
+    "options": [
+      "First in Nainital (25 March 2015) and second in Dehradun (1 Jan 2021)",
+      "First in Haridwar (25 March 2015) and second in Dehradun (2018)",
+      "First in Dehradun (1 Jan 2021) and second in Haldwani (Oct 2021)",
+      "First in Dehradun (25 March 2015) and second in Rudrapur (1 Jan 2021)"
+    ],
+    "correct_option": 3,
+    "correct_answer": "First in Dehradun (25 March 2015) and second in Rudrapur (1 Jan 2021)",
+    "explanation": "The state's first cyber police station opened in Dehradun on 25 March 2015, and the second opened in Rudrapur on 1 January 2021.",
+    "source_page": 10
   }
 ]
