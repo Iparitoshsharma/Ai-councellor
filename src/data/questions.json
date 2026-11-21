@@ -10895,5 +10895,851 @@
     "explanation": "Holistic human development in Uttarakhand pairs cultural vitality, education, health, and welfare with ecological sustainability.",
     "source_page": 44,
     "correct_answer": "Achieving equitable, resilient, and sustainable well-being where cultural identity and ecological health thrive alongside opportunity"
+  },
+  {
+    "id": "q605",
+    "chapter": "Uttarakhand - Polity, Administration, Districts and Current Governance",
+    "topic": "State Formation and Constitutional Setup",
+    "difficulty": "easy",
+    "type": "direct",
+    "question": "On which date was Uttarakhand carved out of Uttar Pradesh as the 27th state of the Republic of India?",
+    "options": [
+      "26 January 2002",
+      "15 August 1998",
+      "1 November 2000",
+      "9 November 2000"
+    ],
+    "correct_option": 3,
+    "explanation": "Uttarakhand (originally named Uttaranchal) was formed on 9 November 2000 as the 27th state of India.",
+    "source_page": 45,
+    "correct_answer": "9 November 2000"
+  },
+  {
+    "id": "q606",
+    "chapter": "Uttarakhand - Polity, Administration, Districts and Current Governance",
+    "topic": "State Formation and Constitutional Setup",
+    "difficulty": "easy",
+    "type": "direct",
+    "question": "In which year was the official name of the state changed from 'Uttaranchal' to 'Uttarakhand'?",
+    "options": [
+      "2001",
+      "2010",
+      "2007 (effective 1 January 2007)",
+      "2014"
+    ],
+    "correct_option": 2,
+    "explanation": "Following the Uttaranchal (Alteration of Name) Act, 2006, the state was officially renamed Uttarakhand on 1 January 2007.",
+    "source_page": 45,
+    "correct_answer": "2007 (effective 1 January 2007)"
+  },
+  {
+    "id": "q607",
+    "chapter": "Uttarakhand - Polity, Administration, Districts and Current Governance",
+    "topic": "State Formation and Constitutional Setup",
+    "difficulty": "easy",
+    "type": "direct",
+    "question": "Which cities serve as the provisional/main capital and the summer capital of Uttarakhand respectively?",
+    "options": [
+      "Roorkee and Haldwani",
+      "Dehradun (main/winter capital) and Gairsain / Bhararisain in Chamoli (summer capital)",
+      "Almora and Pithoragarh",
+      "Haridwar and Nainital"
+    ],
+    "correct_option": 1,
+    "explanation": "Dehradun serves as the main administrative capital, while Bhararisain (Gairsain) in Chamoli district was declared the summer capital in 2020.",
+    "source_page": 45,
+    "correct_answer": "Dehradun (main/winter capital) and Gairsain / Bhararisain in Chamoli (summer capital)"
+  },
+  {
+    "id": "q608",
+    "chapter": "Uttarakhand - Polity, Administration, Districts and Current Governance",
+    "topic": "State Formation and Constitutional Setup",
+    "difficulty": "easy",
+    "type": "direct",
+    "question": "Where is the High Court of Uttarakhand located?",
+    "options": [
+      "Dehradun",
+      "Nainital",
+      "Haridwar",
+      "Almora"
+    ],
+    "correct_option": 1,
+    "explanation": "The High Court of Uttarakhand is located in Nainital (established on 9 November 2000).",
+    "source_page": 45,
+    "correct_answer": "Nainital"
+  },
+  {
+    "id": "q609",
+    "chapter": "Uttarakhand - Polity, Administration, Districts and Current Governance",
+    "topic": "State Formation and Constitutional Setup",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "What is the structure and total elected strength of the Uttarakhand Legislative Assembly (Vidhan Sabha)?",
+    "options": [
+      "Bicameral legislature with 250 members",
+      "Bicameral legislature with 100 members",
+      "Unicameral legislature with 40 members",
+      "Unicameral legislature with 70 elected members (MLAs)"
+    ],
+    "correct_option": 3,
+    "explanation": "Uttarakhand has a unicameral Legislative Assembly consisting of 70 elected members.",
+    "source_page": 45,
+    "correct_answer": "Unicameral legislature with 70 elected members (MLAs)"
+  },
+  {
+    "id": "q610",
+    "chapter": "Uttarakhand - Polity, Administration, Districts and Current Governance",
+    "topic": "State Formation and Constitutional Setup",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "How many Lok Sabha (Lower House) and Rajya Sabha (Upper House) seats represent Uttarakhand in the Parliament of India?",
+    "options": [
+      "2 Lok Sabha seats and 1 Rajya Sabha seat",
+      "7 Lok Sabha seats and 4 Rajya Sabha seats",
+      "10 Lok Sabha seats and 5 Rajya Sabha seats",
+      "5 Lok Sabha seats and 3 Rajya Sabha seats"
+    ],
+    "correct_option": 3,
+    "explanation": "Uttarakhand sends 5 members to the Lok Sabha and 3 members to the Rajya Sabha.",
+    "source_page": 45,
+    "correct_answer": "5 Lok Sabha seats and 3 Rajya Sabha seats"
+  },
+  {
+    "id": "q611",
+    "chapter": "Uttarakhand - Polity, Administration, Districts and Current Governance",
+    "topic": "State Formation and Constitutional Setup",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Which five Parliamentary (Lok Sabha) constituencies exist in Uttarakhand?",
+    "options": [
+      "Dehradun, Mussoorie, Rishikesh, Roorkee, and Kotdwar",
+      "Nainital, Haldwani, Kashipur, Rudrapur, and Tanakpur",
+      "Tehri Garhwal, Garhwal (Pauri), Almora (SC), Nainital–Udhamsingh Nagar, and Haridwar",
+      "Uttarkashi, Chamoli, Rudraprayag, Bageshwar, and Champawat"
+    ],
+    "correct_option": 2,
+    "explanation": "Uttarakhand's five Lok Sabha constituencies are Tehri Garhwal, Garhwal, Almora (reserved for SC), Nainital–Udhamsingh Nagar, and Haridwar.",
+    "source_page": 45,
+    "correct_answer": "Tehri Garhwal, Garhwal (Pauri), Almora (SC), Nainital–Udhamsingh Nagar, and Haridwar"
+  },
+  {
+    "id": "q612",
+    "chapter": "Uttarakhand - Polity, Administration, Districts and Current Governance",
+    "topic": "State Formation and Constitutional Setup",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "How many seats in the 70-member Uttarakhand Legislative Assembly are reserved for Scheduled Castes (SC) and Scheduled Tribes (ST)?",
+    "options": [
+      "5 seats for SC and 5 seats for ST",
+      "8 seats for SC and 4 for ST",
+      "13 seats reserved for SC and 2 seats reserved for ST (total 15 reserved seats)",
+      "20 seats for SC and 0 for ST"
+    ],
+    "correct_option": 2,
+    "explanation": "Out of 70 Vidhan Sabha constituencies, 13 are reserved for Scheduled Castes and 2 (Chakrata and Nanakmatta) for Scheduled Tribes.",
+    "source_page": 45,
+    "correct_answer": "13 seats reserved for SC and 2 seats reserved for ST (total 15 reserved seats)"
+  },
+  {
+    "id": "q613",
+    "chapter": "Uttarakhand - Polity, Administration, Districts and Current Governance",
+    "topic": "State Formation and Constitutional Setup",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Who were the first Governor and the first Chief Minister of Uttarakhand upon its formation in November 2000?",
+    "options": [
+      "Surjit Singh Barnala (first Governor) and Nityanand Swami (first Chief Minister)",
+      "Narayan Datt Tiwari and Bhagat Singh Koshyari",
+      "B.C. Khanduri and Ramesh Pokhriyal",
+      "Sudarshan Agarwal and Harish Rawat"
+    ],
+    "correct_option": 0,
+    "explanation": "Surjit Singh Barnala took oath as the first Governor and Nityanand Swami as the first Chief Minister of the new state.",
+    "source_page": 45,
+    "correct_answer": "Surjit Singh Barnala (first Governor) and Nityanand Swami (first Chief Minister)"
+  },
+  {
+    "id": "q614",
+    "chapter": "Uttarakhand - Polity, Administration, Districts and Current Governance",
+    "topic": "State Formation and Constitutional Setup",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which are the official state symbols of Uttarakhand (Animal, Bird, Tree, and Flower)?",
+    "options": [
+      "Snow Leopard, Black-necked Crane, Deodar, and Blue Poppy",
+      "Bengal Tiger, Indian Peacock, Banyan, and Lotus",
+      "Alpine Musk Deer (Animal), Himalayan Monal (Bird), Buransh / Rhododendron arboreum (Tree), and Brahma Kamal (Flower)",
+      "Asiatic Lion, Great Indian Bustard, Sal, and Marigold"
+    ],
+    "correct_option": 2,
+    "explanation": "Uttarakhand's state symbols are Alpine Musk Deer, Himalayan Monal, Buransh, and Brahma Kamal.",
+    "source_page": 45,
+    "correct_answer": "Alpine Musk Deer (Animal), Himalayan Monal (Bird), Buransh / Rhododendron arboreum (Tree), and Brahma Kamal (Flower)"
+  },
+  {
+    "id": "q615",
+    "chapter": "Uttarakhand - Polity, Administration, Districts and Current Governance",
+    "topic": "State Formation and Constitutional Setup",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Which two languages hold official language status in Uttarakhand (primary and second official language)?",
+    "options": [
+      "English and Urdu",
+      "Hindi (primary official language) and Sanskrit (second official language, adopted in 2010)",
+      "Garhwali and Bengali",
+      "Punjabi and Nepali"
+    ],
+    "correct_option": 1,
+    "explanation": "Hindi is the primary official language of Uttarakhand, and Sanskrit was accorded second official language status in 2010.",
+    "source_page": 45,
+    "correct_answer": "Hindi (primary official language) and Sanskrit (second official language, adopted in 2010)"
+  },
+  {
+    "id": "q616",
+    "chapter": "Uttarakhand - Polity, Administration, Districts and Current Governance",
+    "topic": "State Formation and Constitutional Setup",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which constitutional head appoints the Chief Minister and Council of Ministers of Uttarakhand?",
+    "options": [
+      "The Governor of Uttarakhand",
+      "The Chief Justice of the High Court",
+      "The District Magistrate of Dehradun",
+      "The Speaker of Lok Sabha"
+    ],
+    "correct_option": 0,
+    "explanation": "Under Article 164 of the Constitution of India, the Governor appoints the Chief Minister and other Ministers on the CM's advice.",
+    "source_page": 45,
+    "correct_answer": "The Governor of Uttarakhand"
+  },
+  {
+    "id": "q617",
+    "chapter": "Uttarakhand - Polity, Administration, Districts and Current Governance",
+    "topic": "State Formation and Constitutional Setup",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Which important constitutional/statutory bodies oversee recruitment, audit, elections, and rights protection at the state level in Uttarakhand?",
+    "options": [
+      "Securities and Exchange Board of India",
+      "UKPSC (Uttarakhand Public Service Commission, Haridwar), State Election Commission, State Human Rights Commission, State Information Commission, and Lokayukta",
+      "UPSC New Delhi only",
+      "Reserve Bank of India Monetary Policy Committee"
+    ],
+    "correct_option": 1,
+    "explanation": "State constitutional and statutory commissions such as UKPSC (located at Haridwar), SEC, SHRC, and SIC uphold governance and accountability.",
+    "source_page": 45,
+    "correct_answer": "UKPSC (Uttarakhand Public Service Commission, Haridwar), State Election Commission, State Human Rights Commission, State Information Commission, and Lokayukta"
+  },
+  {
+    "id": "q618",
+    "chapter": "Uttarakhand - Polity, Administration, Districts and Current Governance",
+    "topic": "State Formation and Constitutional Setup",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Where is the headquarters of the Uttarakhand Public Service Commission (UKPSC) located?",
+    "options": [
+      "Almora",
+      "Pauri",
+      "Nainital",
+      "Haridwar"
+    ],
+    "correct_option": 3,
+    "explanation": "The Uttarakhand Public Service Commission (UKPSC) is headquartered in Haridwar.",
+    "source_page": 45,
+    "correct_answer": "Haridwar"
+  },
+  {
+    "id": "q619",
+    "chapter": "Uttarakhand - Polity, Administration, Districts and Current Governance",
+    "topic": "State Formation and Constitutional Setup",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "What major demand led to the Uttarakhand statehood movement culminating in 2000?",
+    "options": [
+      "Demand for a coastal naval port",
+      "Demand to merge with Rajasthan",
+      "Need for hill-focused governance, decentralized administration, tailored mountain development policies, and preservation of regional cultural identity",
+      "Opposition to all roads and schools"
+    ],
+    "correct_option": 2,
+    "explanation": "The statehood movement sought dedicated mountain-sensitive planning and responsive governance for the Himalayan districts.",
+    "source_page": 45,
+    "correct_answer": "Need for hill-focused governance, decentralized administration, tailored mountain development policies, and preservation of regional cultural identity"
+  },
+  {
+    "id": "q620",
+    "chapter": "Uttarakhand - Polity, Administration, Districts and Current Governance",
+    "topic": "Administrative Divisions and Districts",
+    "difficulty": "easy",
+    "type": "direct",
+    "question": "Into how many administrative divisions and total districts is Uttarakhand divided?",
+    "options": [
+      "2 administrative divisions (Garhwal and Kumaon) and 13 districts",
+      "1 division and 8 districts",
+      "4 divisions and 25 districts",
+      "3 divisions and 10 districts"
+    ],
+    "correct_option": 0,
+    "explanation": "Uttarakhand comprises 2 administrative divisions—Garhwal (7 districts) and Kumaon (6 districts)—making 13 districts in total.",
+    "source_page": 46,
+    "correct_answer": "2 administrative divisions (Garhwal and Kumaon) and 13 districts"
+  },
+  {
+    "id": "q621",
+    "chapter": "Uttarakhand - Polity, Administration, Districts and Current Governance",
+    "topic": "Administrative Divisions and Districts",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which 7 districts belong to the Garhwal division of Uttarakhand?",
+    "options": [
+      "Chamoli, Dehradun, Haridwar, Pauri Garhwal, Rudraprayag, Tehri Garhwal, and Uttarkashi",
+      "Dehradun, Nainital, Almora, Haridwar, Pauri, Chamoli, and Bageshwar",
+      "Uttarkashi, Chamoli, Pithoragarh, Bageshwar, Almora, Champawat, and Nainital",
+      "Almora, Bageshwar, Champawat, Nainital, Pithoragarh, and Udham Singh Nagar"
+    ],
+    "correct_option": 0,
+    "explanation": "Garhwal division consists of 7 districts: Chamoli, Dehradun, Haridwar, Pauri Garhwal, Rudraprayag, Tehri Garhwal, and Uttarkashi.",
+    "source_page": 46,
+    "correct_answer": "Chamoli, Dehradun, Haridwar, Pauri Garhwal, Rudraprayag, Tehri Garhwal, and Uttarkashi"
+  },
+  {
+    "id": "q622",
+    "chapter": "Uttarakhand - Polity, Administration, Districts and Current Governance",
+    "topic": "Administrative Divisions and Districts",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which 6 districts belong to the Kumaon division of Uttarakhand?",
+    "options": [
+      "Uttarkashi, Chamoli, Pithoragarh, Haridwar, Dehradun, and Nainital",
+      "Dehradun, Haridwar, Pauri, Tehri, Rudraprayag, and Chamoli",
+      "Almora, Pauri, Tehri, Bageshwar, Haridwar, and Champawat",
+      "Almora, Bageshwar, Champawat, Nainital, Pithoragarh, and Udham Singh Nagar"
+    ],
+    "correct_option": 3,
+    "explanation": "Kumaon division consists of 6 districts: Almora, Bageshwar, Champawat, Nainital, Pithoragarh, and Udham Singh Nagar.",
+    "source_page": 46,
+    "correct_answer": "Almora, Bageshwar, Champawat, Nainital, Pithoragarh, and Udham Singh Nagar"
+  },
+  {
+    "id": "q623",
+    "chapter": "Uttarakhand - Polity, Administration, Districts and Current Governance",
+    "topic": "Administrative Divisions and Districts",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Where are the divisional headquarters of Garhwal division and Kumaon division located respectively?",
+    "options": [
+      "Rishikesh and Almora",
+      "Dehradun and Haldwani",
+      "Pauri (Garhwal division HQ) and Nainital (Kumaon division HQ)",
+      "Haridwar and Rudrapur"
+    ],
+    "correct_option": 2,
+    "explanation": "Pauri town is the headquarters of Garhwal division, and Nainital is the headquarters of Kumaon division.",
+    "source_page": 46,
+    "correct_answer": "Pauri (Garhwal division HQ) and Nainital (Kumaon division HQ)"
+  },
+  {
+    "id": "q624",
+    "chapter": "Uttarakhand - Polity, Administration, Districts and Current Governance",
+    "topic": "Administrative Divisions and Districts",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Which districts have district headquarters whose town name differs from the district name?",
+    "options": [
+      "Almora, Bageshwar, and Pithoragarh",
+      "Dehradun, Haridwar, and Nainital",
+      "Uttarkashi, Rudraprayag, and Champawat",
+      "Chamoli (HQ: Gopeshwar), Udham Singh Nagar (HQ: Rudrapur), and Tehri Garhwal (HQ: New Tehri)"
+    ],
+    "correct_option": 3,
+    "explanation": "Chamoli's headquarters is at Gopeshwar, Udham Singh Nagar's at Rudrapur, and Tehri Garhwal's at New Tehri.",
+    "source_page": 46,
+    "correct_answer": "Chamoli (HQ: Gopeshwar), Udham Singh Nagar (HQ: Rudrapur), and Tehri Garhwal (HQ: New Tehri)"
+  },
+  {
+    "id": "q625",
+    "chapter": "Uttarakhand - Polity, Administration, Districts and Current Governance",
+    "topic": "Administrative Divisions and Districts",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which districts of Uttarakhand are the largest and smallest by geographical area respectively?",
+    "options": [
+      "Nainital is largest and Pithoragarh is smallest",
+      "Chamoli (or Uttarkashi, both ~8,000+ sq km; Chamoli slightly larger at ~8,030 sq km) is largest, and Champawat (~1,766 sq km) is smallest",
+      "Dehradun is largest and Uttarkashi is smallest",
+      "Haridwar is largest and Chamoli is smallest"
+    ],
+    "correct_option": 1,
+    "explanation": "Chamoli (~8,030 sq km, closely followed by Uttarkashi ~8,016 sq km) is the largest district by area, while Champawat (~1,766 sq km) is the smallest.",
+    "source_page": 46,
+    "correct_answer": "Chamoli (or Uttarkashi, both ~8,000+ sq km; Chamoli slightly larger at ~8,030 sq km) is largest, and Champawat (~1,766 sq km) is smallest"
+  },
+  {
+    "id": "q626",
+    "chapter": "Uttarakhand - Polity, Administration, Districts and Current Governance",
+    "topic": "Administrative Divisions and Districts",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which districts of Uttarakhand have the highest and lowest total population respectively (as per Census 2011)?",
+    "options": [
+      "Rudraprayag (highest) and Dehradun (lowest)",
+      "Bageshwar (highest) and Haridwar (lowest)",
+      "Haridwar (highest population) and Rudraprayag (lowest population)",
+      "Champawat (highest) and Udham Singh Nagar (lowest)"
+    ],
+    "correct_option": 2,
+    "explanation": "Haridwar is the most populous district (~18.9 lakh in Census 2011), whereas Rudraprayag has the smallest population (~2.42 lakh).",
+    "source_page": 46,
+    "correct_answer": "Haridwar (highest population) and Rudraprayag (lowest population)"
+  },
+  {
+    "id": "q627",
+    "chapter": "Uttarakhand - Polity, Administration, Districts and Current Governance",
+    "topic": "Administrative Divisions and Districts",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Which district of Uttarakhand shares boundaries with the maximum number of other districts within the state (7 districts)?",
+    "options": [
+      "Haridwar",
+      "Pauri Garhwal",
+      "Champawat",
+      "Udham Singh Nagar"
+    ],
+    "correct_option": 1,
+    "explanation": "Pauri Garhwal borders 7 districts of Uttarakhand (Dehradun, Tehri, Rudraprayag, Chamoli, Almora, Nainital, and Haridwar).",
+    "source_page": 46,
+    "correct_answer": "Pauri Garhwal"
+  },
+  {
+    "id": "q628",
+    "chapter": "Uttarakhand - Polity, Administration, Districts and Current Governance",
+    "topic": "Administrative Divisions and Districts",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "What is the unique historic feature of Uttarakhand's Revenue Police ('Patwari Police') system in remote hill areas?",
+    "options": [
+      "It applies only to international airports",
+      "Revenue officials (Patwaris/Kanoongos) traditionally exercised civil policing powers in interior hill villages, though high-crime/tourism zones are progressively transitioning to regular police",
+      "It operates solely in metropolitan subways",
+      "It is a naval coast guard force"
+    ],
+    "correct_option": 1,
+    "explanation": "Introduced in the 19th century, the Revenue Police system operated in sparsely populated hill areas, with modern reforms gradually bringing more areas under regular state police.",
+    "source_page": 46,
+    "correct_answer": "Revenue officials (Patwaris/Kanoongos) traditionally exercised civil policing powers in interior hill villages, though high-crime/tourism zones are progressively transitioning to regular police"
+  },
+  {
+    "id": "q629",
+    "chapter": "Uttarakhand - Polity, Administration, Districts and Current Governance",
+    "topic": "Administrative Divisions and Districts",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which three-tier rural local self-government institutions operate in Uttarakhand under the 73rd Constitutional Amendment?",
+    "options": [
+      "Gram Panchayat (village level), Kshetra Panchayat (block level), and Zila Panchayat (district level)",
+      "Lok Sabha, Rajya Sabha, and Vidhan Parishad",
+      "High Court, District Court, and Nyaya Parishad",
+      "Nagar Nigam, Nagar Palika, and Nagar Panchayat"
+    ],
+    "correct_option": 0,
+    "explanation": "Rural local governance follows the three-tier Panchayati Raj structure: Gram Panchayat, Kshetra Panchayat, and Zila Panchayat.",
+    "source_page": 46,
+    "correct_answer": "Gram Panchayat (village level), Kshetra Panchayat (block level), and Zila Panchayat (district level)"
+  },
+  {
+    "id": "q630",
+    "chapter": "Uttarakhand - Polity, Administration, Districts and Current Governance",
+    "topic": "Administrative Divisions and Districts",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which three types of urban local bodies (ULBs) function in Uttarakhand under the 74th Constitutional Amendment?",
+    "options": [
+      "Zila Parishad and Block Samiti",
+      "Gram Sabha, Van Panchayat, and Nyaya Panchayat",
+      "Nagar Nigam (Municipal Corporation), Nagar Palika Parishad (Municipal Council), and Nagar Panchayat",
+      "Cantonment Boards only"
+    ],
+    "correct_option": 2,
+    "explanation": "Urban local governance in Uttarakhand operates through Nagar Nigams (e.g., Dehradun, Haridwar, Haldwani, Rudrapur, Kashipur, Roorkee, Rishikesh, Kotdwar, Srinagar, Almora, Pithoragarh), Nagar Palika Parishads, and Nagar Panchayats.",
+    "source_page": 46,
+    "correct_answer": "Nagar Nigam (Municipal Corporation), Nagar Palika Parishad (Municipal Council), and Nagar Panchayat"
+  },
+  {
+    "id": "q631",
+    "chapter": "Uttarakhand - Polity, Administration, Districts and Current Governance",
+    "topic": "Administrative Divisions and Districts",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "What percentage of seats are reserved for women in Panchayati Raj Institutions (PRIs) in Uttarakhand?",
+    "options": [
+      "10% reservation",
+      "25% reservation",
+      "50% reservation for women",
+      "0% reservation"
+    ],
+    "correct_option": 2,
+    "explanation": "Uttarakhand provides 50% reservation for women in Panchayati Raj Institutions, strengthening female leadership in village governance.",
+    "source_page": 46,
+    "correct_answer": "50% reservation for women"
+  },
+  {
+    "id": "q632",
+    "chapter": "Uttarakhand - Polity, Administration, Districts and Current Governance",
+    "topic": "Administrative Divisions and Districts",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Which distinct community forest governance institution—unique to Uttarakhand—manages village-level forest commons?",
+    "options": [
+      "Port Trust",
+      "Van Panchayat (Forest Council)",
+      "Stock Exchange Board",
+      "Railway Recruitment Board"
+    ],
+    "correct_option": 1,
+    "explanation": "Van Panchayats are statutory community-managed forest institutions in Uttarakhand with roots going back to the 1930s.",
+    "source_page": 46,
+    "correct_answer": "Van Panchayat (Forest Council)"
+  },
+  {
+    "id": "q633",
+    "chapter": "Uttarakhand - Polity, Administration, Districts and Current Governance",
+    "topic": "Administrative Divisions and Districts",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which two districts of Uttarakhand are predominantly plain/Tarai-Bhabar districts with the highest industrial and agricultural density?",
+    "options": [
+      "Tehri Garhwal and Almora",
+      "Haridwar and Udham Singh Nagar",
+      "Chamoli and Uttarkashi",
+      "Rudraprayag and Bageshwar"
+    ],
+    "correct_option": 1,
+    "explanation": "Haridwar and Udham Singh Nagar lie predominantly in the plains and account for major industrial estates and intensive agriculture.",
+    "source_page": 46,
+    "correct_answer": "Haridwar and Udham Singh Nagar"
+  },
+  {
+    "id": "q634",
+    "chapter": "Uttarakhand - Polity, Administration, Districts and Current Governance",
+    "topic": "Governance Initiatives and Sustainable Development",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which specialized state agency coordinates disaster preparedness, mitigation, search-and-rescue, and relief in Uttarakhand?",
+    "options": [
+      "Marine Products Export Development Authority",
+      "ISRO Satellite Launch Centre",
+      "USDMA (Uttarakhand State Disaster Management Authority) along with SDRF (State Disaster Response Force)",
+      "Central Electricity Regulatory Commission"
+    ],
+    "correct_option": 2,
+    "explanation": "USDMA and the SDRF lead disaster risk reduction, early warning dissemination, mountain rescue, and emergency response in Uttarakhand.",
+    "source_page": 47,
+    "correct_answer": "USDMA (Uttarakhand State Disaster Management Authority) along with SDRF (State Disaster Response Force)"
+  },
+  {
+    "id": "q635",
+    "chapter": "Uttarakhand - Polity, Administration, Districts and Current Governance",
+    "topic": "Governance Initiatives and Sustainable Development",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which landmark constitutional/legislative step made Uttarakhand the first state in independent India to enact a uniform civil law framework in 2024–2025?",
+    "options": [
+      "Merger with Himachal Pradesh",
+      "Creation of a coastal maritime zone",
+      "Abolition of Panchayati Raj",
+      "Enactment and implementation of the Uniform Civil Code (UCC) of Uttarakhand"
+    ],
+    "correct_option": 3,
+    "explanation": "Uttarakhand enacted the Uniform Civil Code (UCC) Act, 2024 (implemented in January 2025), becoming the first state in post-independence India to implement a UCC.",
+    "source_page": 47,
+    "correct_answer": "Enactment and implementation of the Uniform Civil Code (UCC) of Uttarakhand"
+  },
+  {
+    "id": "q636",
+    "chapter": "Uttarakhand - Polity, Administration, Districts and Current Governance",
+    "topic": "Governance Initiatives and Sustainable Development",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "How do e-governance initiatives such as 'Apuni Sarkar' portal and CM Helpline (1905) improve public service delivery in Uttarakhand?",
+    "options": [
+      "They allow citizens to apply online for certificates/services, track applications transparently, and register grievances from remote areas",
+      "They restrict services only to foreign tourists",
+      "They eliminate internet usage",
+      "They close all district offices permanently"
+    ],
+    "correct_option": 0,
+    "explanation": "Digital portals like Apuni Sarkar and the 1905 CM Helpline reduce travel burdens for hill citizens and improve grievance redressal.",
+    "source_page": 47,
+    "correct_answer": "They allow citizens to apply online for certificates/services, track applications transparently, and register grievances from remote areas"
+  },
+  {
+    "id": "q637",
+    "chapter": "Uttarakhand - Polity, Administration, Districts and Current Governance",
+    "topic": "Governance Initiatives and Sustainable Development",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "What is the core objective of Uttarakhand's 'Gross Environment Product (GEP)' accounting initiative?",
+    "options": [
+      "Replacing all environmental laws with mining permits",
+      "Ignoring glacier and spring health",
+      "Measuring the ecological contributions of forests, water, soil, and air alongside GDP so environmental conservation is valued in policy and budgeting",
+      "Calculating only automobile sales"
+    ],
+    "correct_option": 2,
+    "explanation": "Uttarakhand pioneered Gross Environment Product (GEP) tracking to quantify ecological services and balance growth with sustainability.",
+    "source_page": 47,
+    "correct_answer": "Measuring the ecological contributions of forests, water, soil, and air alongside GDP so environmental conservation is valued in policy and budgeting"
+  },
+  {
+    "id": "q638",
+    "chapter": "Uttarakhand - Polity, Administration, Districts and Current Governance",
+    "topic": "Governance Initiatives and Sustainable Development",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "What is the purpose of the 'Lakhpati Didi' / rural women's enterprise push in Uttarakhand?",
+    "options": [
+      "Closing rural banks",
+      "Banning women from forming SHGs",
+      "Empowering women in Self-Help Groups (SHGs) to achieve sustainable annual household incomes of ₹1 lakh or more through agro-processing, crafts, homestays, and micro-enterprises",
+      "Limiting women to unpaid labor"
+    ],
+    "correct_option": 2,
+    "explanation": "SHG-linked livelihood and value-chain programs help rural women build profitable micro-enterprises in food processing, handicrafts, and rural tourism.",
+    "source_page": 47,
+    "correct_answer": "Empowering women in Self-Help Groups (SHGs) to achieve sustainable annual household incomes of ₹1 lakh or more through agro-processing, crafts, homestays, and micro-enterprises"
+  },
+  {
+    "id": "q639",
+    "chapter": "Uttarakhand - Polity, Administration, Districts and Current Governance",
+    "topic": "Governance Initiatives and Sustainable Development",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Which commission/program specifically studies hill out-migration and recommends village-level livelihood and infrastructure interventions in Uttarakhand?",
+    "options": [
+      "Rural Development and Migration Commission (Palayan Nivaran Aayog) and Mukhyamantri Palayan Roktham Yojana",
+      "Tariff Commission of India",
+      "Indigo Commission of 1860",
+      "Coastal Zone Management Authority"
+    ],
+    "correct_option": 0,
+    "explanation": "The Rural Development and Migration Commission tracks village migration trends and guides targeted livelihood and infrastructure schemes in vulnerable blocks.",
+    "source_page": 47,
+    "correct_answer": "Rural Development and Migration Commission (Palayan Nivaran Aayog) and Mukhyamantri Palayan Roktham Yojana"
+  },
+  {
+    "id": "q640",
+    "chapter": "Uttarakhand - Polity, Administration, Districts and Current Governance",
+    "topic": "Governance Initiatives and Sustainable Development",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "How does the 'One District Two Products (ODTP)' / GI-tagging policy promote local economies in Uttarakhand?",
+    "options": [
+      "By restricting sales to a single village",
+      "By importing identical mass-produced plastic goods",
+      "By branding, quality-certifying, packaging, and marketing signature district crafts and agricultural specialties (such as Aipan, Ringal craft, Tejpatta, Munsiyari Rajma, Tamta copperware, and Kumaoni Chyura oil)",
+      "By banning traditional handicrafts"
+    ],
+    "correct_option": 2,
+    "explanation": "ODTP and Geographical Indication (GI) tags boost farmer and artisan incomes by protecting authenticity and expanding national/export markets.",
+    "source_page": 47,
+    "correct_answer": "By branding, quality-certifying, packaging, and marketing signature district crafts and agricultural specialties (such as Aipan, Ringal craft, Tejpatta, Munsiyari Rajma, Tamta copperware, and Kumaoni Chyura oil)"
+  },
+  {
+    "id": "q641",
+    "chapter": "Uttarakhand - Polity, Administration, Districts and Current Governance",
+    "topic": "Governance Initiatives and Sustainable Development",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Which traditional Kumaoni floor-and-wall ritual art form has received Geographical Indication (GI) recognition?",
+    "options": [
+      "Madhubani",
+      "Aipan",
+      "Pattachitra",
+      "Warli"
+    ],
+    "correct_option": 1,
+    "explanation": "Aipan, the distinctive red-ochre and white rice-paste folk art of Kumaon, holds GI tag status.",
+    "source_page": 47,
+    "correct_answer": "Aipan"
+  },
+  {
+    "id": "q642",
+    "chapter": "Uttarakhand - Polity, Administration, Districts and Current Governance",
+    "topic": "Governance Initiatives and Sustainable Development",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Why is scientific town planning and land-subsidence/slope-stability zoning critical for hill towns such as Joshimath, Nainital, Mussoorie, and Uttarkashi?",
+    "options": [
+      "Drainage has no effect on mountain slopes",
+      "Earthquakes never occur in the Himalayas",
+      "Unregulated multi-storey construction, poor drainage, and road cutting on fragile Himalayan slopes heighten landslide and subsidence risks",
+      "Hill towns have unlimited flat bedrock"
+    ],
+    "correct_option": 2,
+    "explanation": "Seismic Zone IV/V sensitivity and fragile slopes require strict building codes, carrying-capacity norms, and proper stormwater/sewerage drainage.",
+    "source_page": 47,
+    "correct_answer": "Unregulated multi-storey construction, poor drainage, and road cutting on fragile Himalayan slopes heighten landslide and subsidence risks"
+  },
+  {
+    "id": "q643",
+    "chapter": "Uttarakhand - Polity, Administration, Districts and Current Governance",
+    "topic": "Governance Initiatives and Sustainable Development",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Which seismic zones cover Uttarakhand, making earthquake-resistant construction mandatory in governance and urban planning?",
+    "options": [
+      "Seismic Zone I only (zero risk)",
+      "Seismic Zone II only",
+      "Seismic Zones IV and V (high to very high seismic hazard zones)",
+      "Non-seismic shield zone"
+    ],
+    "correct_option": 2,
+    "explanation": "All districts of Uttarakhand fall in Seismic Zones IV or V, making earthquake-resilient design and retrofitting vital.",
+    "source_page": 47,
+    "correct_answer": "Seismic Zones IV and V (high to very high seismic hazard zones)"
+  },
+  {
+    "id": "q644",
+    "chapter": "Uttarakhand - Polity, Administration, Districts and Current Governance",
+    "topic": "Governance Initiatives and Sustainable Development",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "How does 'House of Himalayas' (an umbrella brand launched by the state) support rural producers in Uttarakhand?",
+    "options": [
+      "It operates only coal mines",
+      "It aggregates, standardizes, packages, and markets organic hill produce, millets, honey, spices, and handicrafts under a unified premium brand",
+      "It restricts farmers from selling their crops",
+      "It sells imported electronics only"
+    ],
+    "correct_option": 1,
+    "explanation": "House of Himalayas connects SHGs, farmers, and artisans with national and global retail/e-commerce markets.",
+    "source_page": 47,
+    "correct_answer": "It aggregates, standardizes, packages, and markets organic hill produce, millets, honey, spices, and handicrafts under a unified premium brand"
+  },
+  {
+    "id": "q645",
+    "chapter": "Uttarakhand - Polity, Administration, Districts and Current Governance",
+    "topic": "Governance Initiatives and Sustainable Development",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Why is springshed rejuvenation ('Dhara' and 'Naula' conservation) a key governance priority in Uttarakhand?",
+    "options": [
+      "Villages never use spring water",
+      "Springs exist only in ocean beds",
+      "Natural mountain springs supply drinking and irrigation water to a vast majority of hill villages, and forest/recharge conservation prevents them from drying up",
+      "Concrete paving increases spring recharge"
+    ],
+    "correct_option": 2,
+    "explanation": "Protecting recharge zones, planting broad-leaved species, and reviving traditional Naulas and Dharas secures rural water resilience.",
+    "source_page": 47,
+    "correct_answer": "Natural mountain springs supply drinking and irrigation water to a vast majority of hill villages, and forest/recharge conservation prevents them from drying up"
+  },
+  {
+    "id": "q646",
+    "chapter": "Uttarakhand - Polity, Administration, Districts and Current Governance",
+    "topic": "Governance Initiatives and Sustainable Development",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "How do 'Vibrant Villages Programme' initiatives benefit border villages in Uttarkashi, Chamoli, and Pithoragarh?",
+    "options": [
+      "By banning all infrastructure near borders",
+      "By upgrading roads, telecom, housing, renewable energy, healthcare, and tourism livelihoods in high-altitude border habitations",
+      "By converting border valleys into industrial landfills",
+      "By evacuating and abandoning all border villages"
+    ],
+    "correct_option": 1,
+    "explanation": "Border area development programs strengthen infrastructure, livelihoods, and reverse migration in strategic northern villages.",
+    "source_page": 47,
+    "correct_answer": "By upgrading roads, telecom, housing, renewable energy, healthcare, and tourism livelihoods in high-altitude border habitations"
+  },
+  {
+    "id": "q647",
+    "chapter": "Uttarakhand - Polity, Administration, Districts and Current Governance",
+    "topic": "Governance Initiatives and Sustainable Development",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which balanced development model best summarizes the overarching theme of Uttarakhand's governance across all chapters?",
+    "options": [
+      "Abandoning disaster preparedness",
+      "Ecology and Economy ('Paryavaran aur Vikas') advancing together through sustainable tourism, clean energy, resilient infrastructure, organic agro-horticulture, and inclusive human development",
+      "Rapid deforestation for short-term revenue",
+      "Ignoring hill districts in favor of plains alone"
+    ],
+    "correct_option": 1,
+    "explanation": "Uttarakhand's long-term vision centers on harmonizing ecological protection with inclusive, resilient economic and social progress.",
+    "source_page": 47,
+    "correct_answer": "Ecology and Economy ('Paryavaran aur Vikas') advancing together through sustainable tourism, clean energy, resilient infrastructure, organic agro-horticulture, and inclusive human development"
+  },
+  {
+    "id": "q648",
+    "chapter": "Uttarakhand - Polity, Administration, Districts and Current Governance",
+    "topic": "Governance Initiatives and Sustainable Development",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Which single-window investment and ease-of-doing-business system facilitates industrial and service-sector projects in Uttarakhand?",
+    "options": [
+      "Deep-Sea Mining Authority",
+      "Desert Locust Control Board",
+      "Port Congestion Portal",
+      "Invest Uttarakhand / Single Window Clearance System"
+    ],
+    "correct_option": 3,
+    "explanation": "Invest Uttarakhand streamlines approvals, land/incentive facilitation, and investor support across clean manufacturing, tourism, wellness, IT, and agro-processing.",
+    "source_page": 47,
+    "correct_answer": "Invest Uttarakhand / Single Window Clearance System"
+  },
+  {
+    "id": "q649",
+    "chapter": "Uttarakhand - Polity, Administration, Districts and Current Governance",
+    "topic": "Governance Initiatives and Sustainable Development",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "What role does youth entrepreneurship and startup incubation play in Uttarakhand's future economy?",
+    "options": [
+      "Encouraging local innovation in eco-tourism, agritech, herbal/aromatic products, renewable energy, and digital services so youth become job creators",
+      "Discouraging all new enterprises",
+      "Limiting startups to heavy polluting industries",
+      "Requiring all graduates to leave the state"
+    ],
+    "correct_option": 0,
+    "explanation": "Startup policies, incubation centers, and skill training foster sustainable entrepreneurship tailored to Uttarakhand's strengths.",
+    "source_page": 47,
+    "correct_answer": "Encouraging local innovation in eco-tourism, agritech, herbal/aromatic products, renewable energy, and digital services so youth become job creators"
+  },
+  {
+    "id": "q650",
+    "chapter": "Uttarakhand - Polity, Administration, Districts and Current Governance",
+    "topic": "Governance Initiatives and Sustainable Development",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Why is coordination between district administration, Van Panchayats, PRIs, and scientific institutions vital in Uttarakhand?",
+    "options": [
+      "Because scientific data is irrelevant to mountain planning",
+      "Because districts operate without any coordination",
+      "Because local communities have no role in governance",
+      "Because complex Himalayan challenges—forest fires, landslides, water security, waste management, and rural livelihoods—require both local community stewardship and technical expertise"
+    ],
+    "correct_option": 3,
+    "explanation": "Combining grassroots institutions (PRIs, Van Panchayats, SHGs) with scientific agencies ensures grounded, sustainable governance.",
+    "source_page": 47,
+    "correct_answer": "Because complex Himalayan challenges—forest fires, landslides, water security, waste management, and rural livelihoods—require both local community stewardship and technical expertise"
+  },
+  {
+    "id": "q651",
+    "chapter": "Uttarakhand - Polity, Administration, Districts and Current Governance",
+    "topic": "Governance Initiatives and Sustainable Development",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which annual day is celebrated across the state as Uttarakhand Foundation Day ('Uttarakhand Rajya Sthapana Diwas')?",
+    "options": [
+      "9 November",
+      "15 January",
+      "5 June",
+      "2 October"
+    ],
+    "correct_option": 0,
+    "explanation": "Uttarakhand Foundation Day is celebrated every year on 9 November commemorating the state's formation in 2000.",
+    "source_page": 45,
+    "correct_answer": "9 November"
   }
 ]
