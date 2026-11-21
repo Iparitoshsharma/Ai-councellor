@@ -11741,5 +11741,905 @@
     "explanation": "Uttarakhand Foundation Day is celebrated every year on 9 November commemorating the state's formation in 2000.",
     "source_page": 45,
     "correct_answer": "9 November"
+  },
+  {
+    "id": "q652",
+    "chapter": "Uttarakhand - Economy, Industries, Energy and Sustainable Development",
+    "topic": "Economy, Agriculture and Horticulture",
+    "difficulty": "easy",
+    "type": "direct",
+    "question": "Which sectors drive economic growth in Uttarakhand alongside traditional agriculture and forestry?",
+    "options": [
+      "Large-scale coal and diamond mining",
+      "Desert oasis date farming only",
+      "Tourism/hospitality, manufacturing/industrial estates (especially in plains), services, hydropower/clean energy, and horticulture/agro-processing",
+      "Deep-sea oil drilling and coastal shipping"
+    ],
+    "correct_option": 2,
+    "explanation": "Uttarakhand's economy blends service/tourism and industrial manufacturing (concentrated in plain/foothill belts) with hill agriculture, horticulture, and clean energy.",
+    "source_page": 48,
+    "correct_answer": "Tourism/hospitality, manufacturing/industrial estates (especially in plains), services, hydropower/clean energy, and horticulture/agro-processing"
+  },
+  {
+    "id": "q653",
+    "chapter": "Uttarakhand - Economy, Industries, Energy and Sustainable Development",
+    "topic": "Economy, Agriculture and Horticulture",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Why does net sown area and mechanization differ sharply between Uttarakhand's plain districts (Haridwar, Udham Singh Nagar) and its hill districts?",
+    "options": [
+      "Soil fertility is identical everywhere",
+      "Hill farmers use giant combine harvesters on steep cliffs",
+      "Sloping mountain terrain, small fragmented terraced fields, and forest cover restrict large-scale farm machinery in the hills, whereas flat fertile plains support intensive mechanized farming",
+      "Plains have zero rainfall and no rivers"
+    ],
+    "correct_option": 2,
+    "explanation": "Terraced hill plots and steep slopes limit heavy machinery and large contiguous holdings compared to the Tarai-Bhabar and plain tracts.",
+    "source_page": 48,
+    "correct_answer": "Sloping mountain terrain, small fragmented terraced fields, and forest cover restrict large-scale farm machinery in the hills, whereas flat fertile plains support intensive mechanized farming"
+  },
+  {
+    "id": "q654",
+    "chapter": "Uttarakhand - Economy, Industries, Energy and Sustainable Development",
+    "topic": "Economy, Agriculture and Horticulture",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which major staple/food crops are grown prominently in Uttarakhand's plain and valley agricultural belts?",
+    "options": [
+      "Wheat, paddy (rice), sugarcane, maize, and pulses",
+      "Coffee, rubber, and cashews as main crops",
+      "Saffron fields covering entire valleys",
+      "Bananas and coconuts in snow zones"
+    ],
+    "correct_option": 0,
+    "explanation": "Wheat, paddy, sugarcane, maize, and pulses are key crops across Uttarakhand's plains and river valleys.",
+    "source_page": 48,
+    "correct_answer": "Wheat, paddy (rice), sugarcane, maize, and pulses"
+  },
+  {
+    "id": "q655",
+    "chapter": "Uttarakhand - Economy, Industries, Energy and Sustainable Development",
+    "topic": "Economy, Agriculture and Horticulture",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which hill millets are promoted in Uttarakhand for nutrition, climate resilience, and rainfed hill farming?",
+    "options": [
+      "Mandua (finger millet) and Jhangora (barnyard millet)",
+      "Soybean-only monoculture",
+      "Sugar beet on glaciers",
+      "Sorghum-free desert cactus"
+    ],
+    "correct_option": 0,
+    "explanation": "Mandua and Jhangora are hardy, nutritious traditional hill millets well suited to rainfed slopes and sustainable diets.",
+    "source_page": 48,
+    "correct_answer": "Mandua (finger millet) and Jhangora (barnyard millet)"
+  },
+  {
+    "id": "q656",
+    "chapter": "Uttarakhand - Economy, Industries, Energy and Sustainable Development",
+    "topic": "Economy, Agriculture and Horticulture",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which temperate/stone fruits and orchard crops are characteristic of Uttarakhand's hill horticulture?",
+    "options": [
+      "Apples, peaches, plums, apricots (khumani), pears, and walnuts",
+      "Mangoes and litchis only at 3,500 meters",
+      "Dates and olives in every river gorge",
+      "Pineapples and coconuts in alpine snow"
+    ],
+    "correct_option": 0,
+    "explanation": "Cooler hill climates support temperate orchards including apples, peaches, plums, apricots, pears, and walnuts.",
+    "source_page": 48,
+    "correct_answer": "Apples, peaches, plums, apricots (khumani), pears, and walnuts"
+  },
+  {
+    "id": "q657",
+    "chapter": "Uttarakhand - Economy, Industries, Energy and Sustainable Development",
+    "topic": "Economy, Agriculture and Horticulture",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Which citrus fruit is a celebrated specialty of Uttarakhand's hills (especially in Kumaon and Garhwal orchard belts)?",
+    "options": [
+      "Pomegranate-only orchards",
+      "Malta and hill lemon/galgal (alongside oranges/kinnow)",
+      "Avocado plantations in glaciers",
+      "Cranberries in Tarai"
+    ],
+    "correct_option": 1,
+    "explanation": "Malta, hill lemon/galgal, and citrus fruits are important horticultural produce in Uttarakhand.",
+    "source_page": 48,
+    "correct_answer": "Malta and hill lemon/galgal (alongside oranges/kinnow)"
+  },
+  {
+    "id": "q658",
+    "chapter": "Uttarakhand - Economy, Industries, Energy and Sustainable Development",
+    "topic": "Economy, Agriculture and Horticulture",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Which high-value spice, seed, or vegetable crops are known from specific pockets of Uttarakhand?",
+    "options": [
+      "Cardamom grown on dry sand dunes",
+      "Munsiyari Rajma (kidney beans), Tejpatta (bay leaf), ginger, turmeric, garlic, off-season vegetables, and peas/potatoes",
+      "Vanilla from glacier ice",
+      "Cinnamon bark from coral reefs"
+    ],
+    "correct_option": 1,
+    "explanation": "Off-season vegetables, potatoes, ginger, Tejpatta, and specialty pulses like Munsiyari Rajma add high value for hill growers.",
+    "source_page": 48,
+    "correct_answer": "Munsiyari Rajma (kidney beans), Tejpatta (bay leaf), ginger, turmeric, garlic, off-season vegetables, and peas/potatoes"
+  },
+  {
+    "id": "q659",
+    "chapter": "Uttarakhand - Economy, Industries, Energy and Sustainable Development",
+    "topic": "Economy, Agriculture and Horticulture",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Why is 'Off-Season Vegetable' cultivation advantageous for hill farmers in Uttarakhand?",
+    "options": [
+      "It requires zero water even in drought",
+      "Cooler hill temperatures allow summer/monsoon production of vegetables when plains crops are out of season or scarce, fetching better market prices",
+      "It eliminates transport costs automatically",
+      "It prevents crops from growing in summer"
+    ],
+    "correct_option": 1,
+    "explanation": "Seasonal complementarity with the plains lets hill farmers supply vegetables during high-demand windows when properly linked to markets.",
+    "source_page": 48,
+    "correct_answer": "Cooler hill temperatures allow summer/monsoon production of vegetables when plains crops are out of season or scarce, fetching better market prices"
+  },
+  {
+    "id": "q660",
+    "chapter": "Uttarakhand - Economy, Industries, Energy and Sustainable Development",
+    "topic": "Economy, Agriculture and Horticulture",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "What are key post-harvest and marketing challenges faced by hill farmers and orchardists in Uttarakhand?",
+    "options": [
+      "Excessive cold storage on every cliff",
+      "Zero wildlife in forest fringes",
+      "Instant free air transport from every terrace",
+      "Perishability/cold-storage and grading/packaging gaps, fragmented road access, wild animal crop damage, and price volatility"
+    ],
+    "correct_option": 3,
+    "explanation": "Addressing post-harvest losses, grading/processing, cold chain, and wildlife-farm conflict is vital to raising farm incomes.",
+    "source_page": 48,
+    "correct_answer": "Perishability/cold-storage and grading/packaging gaps, fragmented road access, wild animal crop damage, and price volatility"
+  },
+  {
+    "id": "q661",
+    "chapter": "Uttarakhand - Economy, Industries, Energy and Sustainable Development",
+    "topic": "Economy, Agriculture and Horticulture",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Why does Uttarakhand have strong potential for 'Organic Farming' and medicinal/aromatic plants?",
+    "options": [
+      "Complete absence of soil microbes",
+      "Lower baseline chemical input in many hill areas, rich biodiversity, and agro-climatic zones suited to herbs, spices, and organic crops",
+      "Lack of biodiversity",
+      "High industrial smoke across all hill valleys"
+    ],
+    "correct_option": 1,
+    "explanation": "Traditional low-input hill farming and varied altitudes support organic certification, medicinal/aromatic plants, and value-added agro-products.",
+    "source_page": 48,
+    "correct_answer": "Lower baseline chemical input in many hill areas, rich biodiversity, and agro-climatic zones suited to herbs, spices, and organic crops"
+  },
+  {
+    "id": "q662",
+    "chapter": "Uttarakhand - Economy, Industries, Energy and Sustainable Development",
+    "topic": "Economy, Agriculture and Horticulture",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Which traditional oil-bearing tree of Kumaon/Uttarakhand is valued for its seed oil, medicinal/culinary uses, and ecological role?",
+    "options": [
+      "Baobab",
+      "Redwood",
+      "Teakwood only",
+      "Chyura (Indian butter tree - Diploknema butyracea)"
+    ],
+    "correct_option": 3,
+    "explanation": "Chyura is a culturally and economically significant multipurpose tree in Uttarakhand's hills.",
+    "source_page": 48,
+    "correct_answer": "Chyura (Indian butter tree - Diploknema butyracea)"
+  },
+  {
+    "id": "q663",
+    "chapter": "Uttarakhand - Economy, Industries, Energy and Sustainable Development",
+    "topic": "Economy, Agriculture and Horticulture",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "How do Farmer Producer Organisations (FPOs) and cooperatives help small hill farmers in Uttarakhand?",
+    "options": [
+      "By replacing all seeds with plastic",
+      "By forbidding farmers from cooperating",
+      "By pooling produce for collective bargaining, quality grading, processing, and direct linkage with institutional/retail buyers",
+      "By reducing farm output to zero"
+    ],
+    "correct_option": 2,
+    "explanation": "FPOs and cooperatives give smallholders scale economies in inputs, processing, branding, and market access.",
+    "source_page": 48,
+    "correct_answer": "By pooling produce for collective bargaining, quality grading, processing, and direct linkage with institutional/retail buyers"
+  },
+  {
+    "id": "q664",
+    "chapter": "Uttarakhand - Economy, Industries, Energy and Sustainable Development",
+    "topic": "Economy, Agriculture and Horticulture",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "What role does livestock and dairy play in rural livelihoods of Uttarakhand?",
+    "options": [
+      "Livestock are banned in all villages",
+      "Dairy animals produce salt water",
+      "Provides milk/dairy income, organic manure for terraced fields, wool/fiber in high valleys, and household nutrition",
+      "Livestock have no link to hill agriculture"
+    ],
+    "correct_option": 2,
+    "explanation": "Cattle, buffaloes, goats, and sheep form an integral part of mixed hill farming and rural livelihoods.",
+    "source_page": 48,
+    "correct_answer": "Provides milk/dairy income, organic manure for terraced fields, wool/fiber in high valleys, and household nutrition"
+  },
+  {
+    "id": "q665",
+    "chapter": "Uttarakhand - Economy, Industries, Energy and Sustainable Development",
+    "topic": "Economy, Agriculture and Horticulture",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Which bamboo-like hill grass/reed is used by artisans in Uttarakhand to weave baskets, winnowing fans, and handicrafts?",
+    "options": [
+      "Ringal (hill bamboo)",
+      "Papyrus from Egypt",
+      "Seaweed kelp",
+      "Sugarcane bagasse only"
+    ],
+    "correct_option": 0,
+    "explanation": "Ringal craft is a traditional skill producing baskets, mats, and decorative items in Uttarakhand.",
+    "source_page": 48,
+    "correct_answer": "Ringal (hill bamboo)"
+  },
+  {
+    "id": "q666",
+    "chapter": "Uttarakhand - Economy, Industries, Energy and Sustainable Development",
+    "topic": "Economy, Agriculture and Horticulture",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Why is 'Aromatic and Medicinal Plants (MAPs)' cultivation promising for Uttarakhand?",
+    "options": [
+      "Medicinal plants are heavier than iron ore",
+      "High value-to-weight ratio suits mountain transport, while diverse altitudinal zones support demand in Ayurveda, wellness, perfumery, and herbal industries",
+      "Wellness industries have no demand for natural ingredients",
+      "Herbs cannot grow at any altitude in the Himalayas"
+    ],
+    "correct_option": 1,
+    "explanation": "High-value herbs and aromatics fit compact hill holdings and transport economics when sustainably cultivated.",
+    "source_page": 48,
+    "correct_answer": "High value-to-weight ratio suits mountain transport, while diverse altitudinal zones support demand in Ayurveda, wellness, perfumery, and herbal industries"
+  },
+  {
+    "id": "q667",
+    "chapter": "Uttarakhand - Economy, Industries, Energy and Sustainable Development",
+    "topic": "Economy, Agriculture and Horticulture",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "How does integrated farming (combining crops, horticulture, dairy, beekeeping/apiculture, and fodder) benefit hill households?",
+    "options": [
+      "Increases dependency on a single risky crop",
+      "Eliminates fodder availability",
+      "Diversifies income sources, improves soil health via organic nutrient cycling, and reduces risk if a single crop or season falters",
+      "Wastes all organic matter"
+    ],
+    "correct_option": 2,
+    "explanation": "Integrated farming builds household resilience and nutrient recycling across small hill holdings.",
+    "source_page": 48,
+    "correct_answer": "Diversifies income sources, improves soil health via organic nutrient cycling, and reduces risk if a single crop or season falters"
+  },
+  {
+    "id": "q668",
+    "chapter": "Uttarakhand - Economy, Industries, Energy and Sustainable Development",
+    "topic": "Economy, Agriculture and Horticulture",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Why is 'Beekeeping (Apiculture)' well suited to Uttarakhand's orchards, forests, and meadows?",
+    "options": [
+      "Abundant flowering trees/crops provide nectar/pollen while honeybees simultaneously improve pollination and fruit/seed set",
+      "Flowers never bloom in Uttarakhand",
+      "Bees destroy all fruit blossoms",
+      "Honey cannot be harvested in hills"
+    ],
+    "correct_option": 0,
+    "explanation": "Beekeeping boosts supplementary income and enhances pollination in orchards and hill crops.",
+    "source_page": 48,
+    "correct_answer": "Abundant flowering trees/crops provide nectar/pollen while honeybees simultaneously improve pollination and fruit/seed set"
+  },
+  {
+    "id": "q669",
+    "chapter": "Uttarakhand - Economy, Industries, Energy and Sustainable Development",
+    "topic": "Economy, Agriculture and Horticulture",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "What is the key benefit of 'Value Addition and Agro-Processing' (such as fruit juices, jams, chutneys, millet flour/cookies, and spice packaging) at the local/cluster level?",
+    "options": [
+      "Causes fresh produce to spoil faster",
+      "Eliminates local employment",
+      "Lowers product quality intentionally",
+      "Extends shelf life, reduces post-harvest spoilage, captures higher value locally, and creates rural jobs"
+    ],
+    "correct_option": 3,
+    "explanation": "Local processing and packaging help convert seasonal hill produce into higher-margin market-ready goods.",
+    "source_page": 48,
+    "correct_answer": "Extends shelf life, reduces post-harvest spoilage, captures higher value locally, and creates rural jobs"
+  },
+  {
+    "id": "q670",
+    "chapter": "Uttarakhand - Economy, Industries, Energy and Sustainable Development",
+    "topic": "Industries and Industrial Corridors",
+    "difficulty": "easy",
+    "type": "direct",
+    "question": "Where are Uttarakhand's major industrial estates and large manufacturing hubs primarily concentrated?",
+    "options": [
+      "Inside protected national park core zones",
+      "Every remote alpine ridge",
+      "High-altitude glaciers above 4,200 meters",
+      "Plain and foothill districts such as Haridwar (SIDCUL), Udham Singh Nagar (Pantnagar/Rudrapur/Kashipur/Sitarganj), and Dehradun/Selaqui"
+    ],
+    "correct_option": 3,
+    "explanation": "Flat land, rail/highway access, power, and supply chains concentrate large industries in SIDCUL estates across Haridwar, Udham Singh Nagar, and Dehradun.",
+    "source_page": 49,
+    "correct_answer": "Plain and foothill districts such as Haridwar (SIDCUL), Udham Singh Nagar (Pantnagar/Rudrapur/Kashipur/Sitarganj), and Dehradun/Selaqui"
+  },
+  {
+    "id": "q671",
+    "chapter": "Uttarakhand - Economy, Industries, Energy and Sustainable Development",
+    "topic": "Industries and Industrial Corridors",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which agency develops and manages integrated industrial estates (Integrated Industrial Estates / IIEs) in Uttarakhand?",
+    "options": [
+      "SIIDCUL (State Infrastructure and Industrial Development Corporation of Uttarakhand Limited)",
+      "National Highways Authority of India",
+      "Indian Council of Medical Research",
+      "Border Security Force"
+    ],
+    "correct_option": 0,
+    "explanation": "SIIDCUL has developed major industrial hubs such as Haridwar, Pantnagar, Sitarganj, and Selaqui (Dehradun).",
+    "source_page": 49,
+    "correct_answer": "SIIDCUL (State Infrastructure and Industrial Development Corporation of Uttarakhand Limited)"
+  },
+  {
+    "id": "q672",
+    "chapter": "Uttarakhand - Economy, Industries, Energy and Sustainable Development",
+    "topic": "Industries and Industrial Corridors",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which major manufacturing sectors have a strong presence in Uttarakhand's industrial estates?",
+    "options": [
+      "Diamond mining and deep-sea oil refining",
+      "Shipbuilding and nuclear submarines",
+      "Heavy steel blast furnaces on mountain peaks",
+      "Pharmaceuticals, automobiles and auto components, food and beverages, fast-moving consumer goods (FMCG), electronics/electricals, and packaging"
+    ],
+    "correct_option": 3,
+    "explanation": "Pharmaceuticals, auto/auto-ancillaries, FMCG, food processing, and light engineering/electronics anchor industrial output.",
+    "source_page": 49,
+    "correct_answer": "Pharmaceuticals, automobiles and auto components, food and beverages, fast-moving consumer goods (FMCG), electronics/electricals, and packaging"
+  },
+  {
+    "id": "q673",
+    "chapter": "Uttarakhand - Economy, Industries, Energy and Sustainable Development",
+    "topic": "Industries and Industrial Corridors",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Why are 'Green / Clean / Non-Polluting' and light/MSME industries prioritized in Uttarakhand's industrial policy?",
+    "options": [
+      "Because heavy smoke improves hill views",
+      "To protect fragile Himalayan ecosystems, rivers, air/water quality, and tourism appeal while generating employment",
+      "To ignore environmental regulations",
+      "Because pollution helps mountain glaciers grow"
+    ],
+    "correct_option": 1,
+    "explanation": "Balancing industrial growth with ecological sensitivity favors clean manufacturing, wellness, IT, food processing, and MSMEs.",
+    "source_page": 49,
+    "correct_answer": "To protect fragile Himalayan ecosystems, rivers, air/water quality, and tourism appeal while generating employment"
+  },
+  {
+    "id": "q674",
+    "chapter": "Uttarakhand - Economy, Industries, Energy and Sustainable Development",
+    "topic": "Industries and Industrial Corridors",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "What role do Micro, Small, and Medium Enterprises (MSMEs) play in Uttarakhand?",
+    "options": [
+      "They replace all small shops with mines",
+      "They operate only outside the state",
+      "They drive decentralized employment, local value addition, ancillary supply chains, traditional crafts, and entrepreneurship across districts",
+      "They have no role in job creation"
+    ],
+    "correct_option": 2,
+    "explanation": "MSMEs are vital for broad-based employment and local enterprise in both hill and plain districts.",
+    "source_page": 49,
+    "correct_answer": "They drive decentralized employment, local value addition, ancillary supply chains, traditional crafts, and entrepreneurship across districts"
+  },
+  {
+    "id": "q675",
+    "chapter": "Uttarakhand - Economy, Industries, Energy and Sustainable Development",
+    "topic": "Industries and Industrial Corridors",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Which traditional metalcraft/coppersmithing tradition of Kumaon (especially around Almora/Pithoragarh areas) is celebrated as a heritage craft?",
+    "options": [
+      "Glassblowing in glaciers",
+      "Bronze casting in desert dunes",
+      "Platinum jewelry from sea shells",
+      "Tamta / copperware craftsmanship"
+    ],
+    "correct_option": 3,
+    "explanation": "Traditional copperware/metalwork (Tamta craft) reflects skilled artisan heritage in Uttarakhand.",
+    "source_page": 49,
+    "correct_answer": "Tamta / copperware craftsmanship"
+  },
+  {
+    "id": "q676",
+    "chapter": "Uttarakhand - Economy, Industries, Energy and Sustainable Development",
+    "topic": "Industries and Industrial Corridors",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Which traditional wool/handloom weaving craft is associated with high-altitude/border communities (such as Bhotiya valleys and Munsiyari/Pithoragarh/Chamoli)?",
+    "options": [
+      "Pashmina, thulma, dan, and woolen shawls/rugs/tweeds",
+      "Denim jeans from cactus fiber",
+      "Silk sarees woven from ocean algae",
+      "Asbestos blankets"
+    ],
+    "correct_option": 0,
+    "explanation": "Warm woolen textiles such as thulma, dan, shawls, and tweeds are traditional handicrafts suited to cold mountain climates.",
+    "source_page": 49,
+    "correct_answer": "Pashmina, thulma, dan, and woolen shawls/rugs/tweeds"
+  },
+  {
+    "id": "q677",
+    "chapter": "Uttarakhand - Economy, Industries, Energy and Sustainable Development",
+    "topic": "Industries and Industrial Corridors",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "What challenges can hamper industrial expansion in Uttarakhand's interior hill districts compared to the plains?",
+    "options": [
+      "Proximity to ocean seaports",
+      "Lack of mountain slopes",
+      "Higher logistics/transport costs on winding roads, limited flat land, power/skill gaps, and ecological/landslide constraints",
+      "Excessive flat land and zero transport costs"
+    ],
+    "correct_option": 2,
+    "explanation": "Terrain, logistics costs, and land availability make hill industrialization distinct from plain industrial estates, favoring localized/agro/tourism/MSME clusters.",
+    "source_page": 49,
+    "correct_answer": "Higher logistics/transport costs on winding roads, limited flat land, power/skill gaps, and ecological/landslide constraints"
+  },
+  {
+    "id": "q678",
+    "chapter": "Uttarakhand - Economy, Industries, Energy and Sustainable Development",
+    "topic": "Industries and Industrial Corridors",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "How do 'Growth Centres' and 'Industrial Clusters' support balanced regional development?",
+    "options": [
+      "By closing all training centers",
+      "By scattering factories randomly without roads or power",
+      "By prohibiting small businesses from accessing common facilities",
+      "By concentrating common infrastructure (roads, power, testing/warehousing, skill support) in designated nodes to attract enterprises and jobs"
+    ],
+    "correct_option": 3,
+    "explanation": "Cluster and growth-centre approaches pool shared infrastructure and market linkages for local enterprises.",
+    "source_page": 49,
+    "correct_answer": "By concentrating common infrastructure (roads, power, testing/warehousing, skill support) in designated nodes to attract enterprises and jobs"
+  },
+  {
+    "id": "q679",
+    "chapter": "Uttarakhand - Economy, Industries, Energy and Sustainable Development",
+    "topic": "Industries and Industrial Corridors",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Why is 'Ayush, Herbal and Wellness' a natural fit for Uttarakhand's industrial and service economy?",
+    "options": [
+      "Lack of any wellness or herbal tradition in the state",
+      "Requirement of tropical coral reefs",
+      "Absence of visitors to the state",
+      "Combination of rich medicinal flora, yoga/naturopathy heritage (such as Rishikesh/Haridwar/hills), and rising demand for natural health and wellness products/services"
+    ],
+    "correct_option": 3,
+    "explanation": "Uttarakhand's herbal resources and yoga/Ayurveda reputation support wellness tourism and herbal/Ayush enterprises.",
+    "source_page": 49,
+    "correct_answer": "Combination of rich medicinal flora, yoga/naturopathy heritage (such as Rishikesh/Haridwar/hills), and rising demand for natural health and wellness products/services"
+  },
+  {
+    "id": "q680",
+    "chapter": "Uttarakhand - Economy, Industries, Energy and Sustainable Development",
+    "topic": "Industries and Industrial Corridors",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which industrial estate in Dehradun district is a major hub for pharmaceuticals and manufacturing?",
+    "options": [
+      "Hemkund lake",
+      "Kedar valley glacier",
+      "Selaqui Industrial Area",
+      "Nanda Devi peak"
+    ],
+    "correct_option": 2,
+    "explanation": "Selaqui in Dehradun district is a prominent industrial hub in Garhwal.",
+    "source_page": 49,
+    "correct_answer": "Selaqui Industrial Area"
+  },
+  {
+    "id": "q681",
+    "chapter": "Uttarakhand - Economy, Industries, Energy and Sustainable Development",
+    "topic": "Industries and Industrial Corridors",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Which industrial hubs in Udham Singh Nagar district form key pillars of Kumaon's industrial economy?",
+    "options": [
+      "Gangotri, Yamunotri, and Kedarnath",
+      "Pantnagar, Rudrapur, Kashipur, and Sitarganj",
+      "Joshimath and Tapovan",
+      "Badrinath and Mana"
+    ],
+    "correct_option": 1,
+    "explanation": "Pantnagar, Rudrapur, Kashipur, and Sitarganj in Udham Singh Nagar host major automotive, FMCG, pharma, and manufacturing units.",
+    "source_page": 49,
+    "correct_answer": "Pantnagar, Rudrapur, Kashipur, and Sitarganj"
+  },
+  {
+    "id": "q682",
+    "chapter": "Uttarakhand - Economy, Industries, Energy and Sustainable Development",
+    "topic": "Industries and Industrial Corridors",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "What is the role of 'Skill Development and Technical Training' in linking local youth to industrial and service jobs?",
+    "options": [
+      "Replaces all technical knowledge with guesswork",
+      "Applies only to retired workers",
+      "Bridges the gap between workforce skills and employer requirements in manufacturing, hospitality, healthcare, IT, and modern trades",
+      "Makes graduates unemployable"
+    ],
+    "correct_option": 2,
+    "explanation": "Targeted technical and vocational training improves employability and wages for Uttarakhand's youth.",
+    "source_page": 49,
+    "correct_answer": "Bridges the gap between workforce skills and employer requirements in manufacturing, hospitality, healthcare, IT, and modern trades"
+  },
+  {
+    "id": "q683",
+    "chapter": "Uttarakhand - Economy, Industries, Energy and Sustainable Development",
+    "topic": "Industries and Industrial Corridors",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "How can 'Circular Economy and Waste Management' strengthen sustainable industry in Uttarakhand?",
+    "options": [
+      "By dumping untreated waste into mountain streams",
+      "By burning all plastics openly in valleys",
+      "By recycling industrial/plastic/organic waste, treating effluents properly, and conserving raw materials to protect rivers and hill landscapes",
+      "By ignoring resource efficiency"
+    ],
+    "correct_option": 2,
+    "explanation": "Effluent treatment, solid waste management, and resource circularity safeguard river basins like the Ganga and its tributaries.",
+    "source_page": 49,
+    "correct_answer": "By recycling industrial/plastic/organic waste, treating effluents properly, and conserving raw materials to protect rivers and hill landscapes"
+  },
+  {
+    "id": "q684",
+    "chapter": "Uttarakhand - Economy, Industries, Energy and Sustainable Development",
+    "topic": "Industries and Industrial Corridors",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Why is 'Logistics and Supply Chain Connectivity' critical for Uttarakhand's industries and agriculture?",
+    "options": [
+      "Markets never depend on supply chains",
+      "Smooth freight movement lowers input and finished-goods costs, connects factories/farms to national markets, and prevents spoilage",
+      "Freight costs do not affect prices",
+      "Slow, blocked transport increases competitiveness"
+    ],
+    "correct_option": 1,
+    "explanation": "Reliable road, rail, and warehousing links reduce transaction costs for both producers and consumers.",
+    "source_page": 49,
+    "correct_answer": "Smooth freight movement lowers input and finished-goods costs, connects factories/farms to national markets, and prevents spoilage"
+  },
+  {
+    "id": "q685",
+    "chapter": "Uttarakhand - Economy, Industries, Energy and Sustainable Development",
+    "topic": "Industries and Industrial Corridors",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Which balanced strategy helps preserve artisan crafts while scaling income in Uttarakhand?",
+    "options": [
+      "Design innovation, quality standards, fair pricing, GI/brand protection, and direct digital/fair market access without losing authentic craftsmanship",
+      "Replacing skilled artisans with cheap counterfeit imports",
+      "Hiding craft origins from buyers",
+      "Underpaying weavers and potters"
+    ],
+    "correct_option": 0,
+    "explanation": "Supporting artisans with market access, quality certification, and fair returns sustains cultural heritage and rural livelihoods.",
+    "source_page": 49,
+    "correct_answer": "Design innovation, quality standards, fair pricing, GI/brand protection, and direct digital/fair market access without losing authentic craftsmanship"
+  },
+  {
+    "id": "q686",
+    "chapter": "Uttarakhand - Economy, Industries, Energy and Sustainable Development",
+    "topic": "Energy and Sustainable Development",
+    "difficulty": "easy",
+    "type": "direct",
+    "question": "Why does Uttarakhand have significant potential for 'Hydroelectric Power (Hydropower)' generation?",
+    "options": [
+      "Flat ocean tides along sandy beaches",
+      "Absence of elevation change in rivers",
+      "Large coal reserves beneath every hill",
+      "Steep mountain gradients, high elevation drops, and perennial snow- and rain-fed Himalayan river systems (such as Bhagirathi, Alaknanda, Kali/Sharda, and their tributaries)"
+    ],
+    "correct_option": 3,
+    "explanation": "Steep river gradients and perennial Himalayan discharge give Uttarakhand substantial hydroelectric potential.",
+    "source_page": 50,
+    "correct_answer": "Steep mountain gradients, high elevation drops, and perennial snow- and rain-fed Himalayan river systems (such as Bhagirathi, Alaknanda, Kali/Sharda, and their tributaries)"
+  },
+  {
+    "id": "q687",
+    "chapter": "Uttarakhand - Economy, Industries, Energy and Sustainable Development",
+    "topic": "Energy and Sustainable Development",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which major multipurpose dam and hydropower project is built on the Bhagirathi River (near Tehri) in Uttarakhand?",
+    "options": [
+      "Tehri Dam / Tehri Hydro Power Complex",
+      "Hirakud Dam on Mahanadi",
+      "Bhakra Nangal Dam on Sutlej",
+      "Nagarjuna Sagar Dam on Krishna"
+    ],
+    "correct_option": 0,
+    "explanation": "The Tehri Hydro Power Complex on the Bhagirathi River in Tehri Garhwal is a flagship hydropower and water-storage project in Uttarakhand.",
+    "source_page": 50,
+    "correct_answer": "Tehri Dam / Tehri Hydro Power Complex"
+  },
+  {
+    "id": "q688",
+    "chapter": "Uttarakhand - Economy, Industries, Energy and Sustainable Development",
+    "topic": "Energy and Sustainable Development",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Besides electricity generation, what additional roles does a major project like the Tehri complex play?",
+    "options": [
+      "Saltwater desalination for coral reefs",
+      "Water storage/regulation, irrigation and drinking water supply support, flood moderation, and pumped-storage grid balancing",
+      "Deep-sea oil extraction",
+      "Desert sand dune stabilization"
+    ],
+    "correct_option": 1,
+    "explanation": "Major storage and pumped-storage projects support power generation, water supply/regulation, and grid stability.",
+    "source_page": 50,
+    "correct_answer": "Water storage/regulation, irrigation and drinking water supply support, flood moderation, and pumped-storage grid balancing"
+  },
+  {
+    "id": "q689",
+    "chapter": "Uttarakhand - Economy, Industries, Energy and Sustainable Development",
+    "topic": "Energy and Sustainable Development",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Why are 'Small Hydro Projects (SHPs)' and 'Solar / Decentralized Renewable Energy' especially valuable in remote hill villages of Uttarakhand?",
+    "options": [
+      "They can supply clean electricity locally near demand centers with lower transmission loss and higher resilience when long grid lines are disrupted by weather/landslides",
+      "They require burning millions of tons of coal",
+      "They cannot power rural schools or homes",
+      "They work only when grid lines are broken"
+    ],
+    "correct_option": 0,
+    "explanation": "Decentralized solar rooftops/micro-grids and small hydro improve energy reliability and clean power access in mountain areas.",
+    "source_page": 50,
+    "correct_answer": "They can supply clean electricity locally near demand centers with lower transmission loss and higher resilience when long grid lines are disrupted by weather/landslides"
+  },
+  {
+    "id": "q690",
+    "chapter": "Uttarakhand - Economy, Industries, Energy and Sustainable Development",
+    "topic": "Energy and Sustainable Development",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "What environmental and social safeguards are essential when planning and operating hydropower and infrastructure projects in the Himalayas?",
+    "options": [
+      "Drying up riverbeds completely",
+      "Ignoring seismic risk and dumping excavation muck into rivers",
+      "Bypassing environmental impact reviews",
+      "Cumulative impact assessment, ecological river flow ('e-flow'), seismic safety, slope/muck disposal management, biodiversity protection, and fair rehabilitation/resettlement"
+    ],
+    "correct_option": 3,
+    "explanation": "Himalayan hydropower requires rigorous geological/seismic caution, environmental flow maintenance, muck management, and local stakeholder safeguards.",
+    "source_page": 50,
+    "correct_answer": "Cumulative impact assessment, ecological river flow ('e-flow'), seismic safety, slope/muck disposal management, biodiversity protection, and fair rehabilitation/resettlement"
+  },
+  {
+    "id": "q691",
+    "chapter": "Uttarakhand - Economy, Industries, Energy and Sustainable Development",
+    "topic": "Energy and Sustainable Development",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "How does 'Solar Energy' expansion (such as rooftop solar, solar micro-grids, and solar pumps) benefit Uttarakhand?",
+    "options": [
+      "Blocks sunlight from reaching valleys",
+      "Increases carbon emissions from hill villages",
+      "Replaces all rivers with solar panels",
+      "Provides clean, scalable renewable power, reduces grid dependence and daytime power costs, and supports irrigation/livelihoods"
+    ],
+    "correct_option": 3,
+    "explanation": "Solar power complements hydropower and helps diversify Uttarakhand's clean energy mix, including during lean river-flow months.",
+    "source_page": 50,
+    "correct_answer": "Provides clean, scalable renewable power, reduces grid dependence and daytime power costs, and supports irrigation/livelihoods"
+  },
+  {
+    "id": "q692",
+    "chapter": "Uttarakhand - Economy, Industries, Energy and Sustainable Development",
+    "topic": "Energy and Sustainable Development",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Why does river discharge in Himalayan hydropower systems vary seasonally across the year?",
+    "options": [
+      "Monsoon rains never reach Uttarakhand",
+      "Glaciers melt faster in mid-winter than in July",
+      "River flow is frozen solid for 11 months every year",
+      "Higher flows occur during summer snow/glacial melt and monsoon rains, whereas winter and pre-monsoon lean months have lower natural runoff"
+    ],
+    "correct_option": 3,
+    "explanation": "Seasonal hydrology—snowmelt, monsoon rainfall, and lean winter/spring flows—shapes hydropower generation and storage/grid planning.",
+    "source_page": 50,
+    "correct_answer": "Higher flows occur during summer snow/glacial melt and monsoon rains, whereas winter and pre-monsoon lean months have lower natural runoff"
+  },
+  {
+    "id": "q693",
+    "chapter": "Uttarakhand - Economy, Industries, Energy and Sustainable Development",
+    "topic": "Energy and Sustainable Development",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "What is 'Bio-energy / Biogas / Pine-needle (Chir pine) energy' potential in Uttarakhand?",
+    "options": [
+      "Importing fossil coal by helicopter",
+      "Converting agricultural residues, livestock waste, and forest biomass (such as fallen Chir pine needles) into clean energy/briquettes while reducing forest-fire fuel loads",
+      "Ignoring biomass completely",
+      "Cutting down all oak and deodar forests for fuel"
+    ],
+    "correct_option": 1,
+    "explanation": "Utilizing agricultural/livestock waste and dry pine needles (pirul) for briquettes/bio-energy supports clean fuel and reduces forest fire risk.",
+    "source_page": 50,
+    "correct_answer": "Converting agricultural residues, livestock waste, and forest biomass (such as fallen Chir pine needles) into clean energy/briquettes while reducing forest-fire fuel loads"
+  },
+  {
+    "id": "q694",
+    "chapter": "Uttarakhand - Economy, Industries, Energy and Sustainable Development",
+    "topic": "Energy and Sustainable Development",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Why is 'Forest Fire Prevention and Management' critical for Uttarakhand's economy, ecology, and water security?",
+    "options": [
+      "Burning topsoil increases water retention",
+      "Forest fires protect rare orchids and wildlife",
+      "Smoke improves mountain air quality",
+      "Fires destroy biodiversity, timber/non-timber forest produce, wildlife habitat, and soil/watershed cover, while generating smoke and carbon emissions"
+    ],
+    "correct_option": 3,
+    "explanation": "Preventing and controlling forest fires—especially in dry summer months—protects forest livelihoods, biodiversity, and watershed health.",
+    "source_page": 50,
+    "correct_answer": "Fires destroy biodiversity, timber/non-timber forest produce, wildlife habitat, and soil/watershed cover, while generating smoke and carbon emissions"
+  },
+  {
+    "id": "q695",
+    "chapter": "Uttarakhand - Economy, Industries, Energy and Sustainable Development",
+    "topic": "Energy and Sustainable Development",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "What is the 'Carbon Credit / Ecosystem Services' significance of Uttarakhand's dense forest cover?",
+    "options": [
+      "Forests have no role in water or climate regulation",
+      "Carbon sinks only exist in deserts",
+      "Forests emit more carbon than coal power plants",
+      "Uttarakhand's forests sequester carbon, regulate regional water cycles, and protect biodiversity, creating opportunities to value ecological stewardship alongside development"
+    ],
+    "correct_option": 3,
+    "explanation": "High forest cover makes ecosystem services and green financing/carbon mechanisms relevant to Uttarakhand's sustainable development.",
+    "source_page": 50,
+    "correct_answer": "Uttarakhand's forests sequester carbon, regulate regional water cycles, and protect biodiversity, creating opportunities to value ecological stewardship alongside development"
+  },
+  {
+    "id": "q696",
+    "chapter": "Uttarakhand - Economy, Industries, Energy and Sustainable Development",
+    "topic": "Energy and Sustainable Development",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "How does 'Climate Change' affect Uttarakhand's mountain economy and environment?",
+    "options": [
+      "Eliminates extreme weather events",
+      "Stops glaciers from ever melting",
+      "Accelerates glacial retreat, alters rainfall/snowfall patterns, increases extreme cloudburst/landslide events, and shifts crop/ecological zones",
+      "Makes mountain weather completely static forever"
+    ],
+    "correct_option": 2,
+    "explanation": "Glacial changes, erratic precipitation, and extreme weather events require climate-resilient infrastructure, farming, and disaster preparedness.",
+    "source_page": 50,
+    "correct_answer": "Accelerates glacial retreat, alters rainfall/snowfall patterns, increases extreme cloudburst/landslide events, and shifts crop/ecological zones"
+  },
+  {
+    "id": "q697",
+    "chapter": "Uttarakhand - Economy, Industries, Energy and Sustainable Development",
+    "topic": "Energy and Sustainable Development",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Why is 'Watershed and Spring Conservation' vital for both agriculture and drinking water in Uttarakhand?",
+    "options": [
+      "Healthy upper catchments and forest/soil cover recharge mountain springs and streams that sustain villages, terraced farms, and downstream rivers",
+      "Springs are unrelated to rainfall or forest cover",
+      "Degraded bare slopes hold more groundwater than vegetated watersheds",
+      "Waterfalls create water out of thin air without catchment recharge"
+    ],
+    "correct_option": 0,
+    "explanation": "Protecting watersheds and recharge zones sustains spring flow, soil moisture, and river baseflows.",
+    "source_page": 50,
+    "correct_answer": "Healthy upper catchments and forest/soil cover recharge mountain springs and streams that sustain villages, terraced farms, and downstream rivers"
+  },
+  {
+    "id": "q698",
+    "chapter": "Uttarakhand - Economy, Industries, Energy and Sustainable Development",
+    "topic": "Energy and Sustainable Development",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "What is 'Sustainable Development' in the context of Uttarakhand's economy, industries, and energy?",
+    "options": [
+      "Treating mountain resources as infinite",
+      "Stopping all economic activity and livelihoods",
+      "Maximizing short-term extraction regardless of ecological collapse",
+      "Meeting present economic and livelihood needs without depleting natural capital, harming fragile mountain ecology, or compromising future generations' well-being"
+    ],
+    "correct_option": 3,
+    "explanation": "Sustainable development in Uttarakhand seeks durable livelihoods and clean growth within Himalayan ecological limits.",
+    "source_page": 50,
+    "correct_answer": "Meeting present economic and livelihood needs without depleting natural capital, harming fragile mountain ecology, or compromising future generations' well-being"
+  },
+  {
+    "id": "q699",
+    "chapter": "Uttarakhand - Economy, Industries, Energy and Sustainable Development",
+    "topic": "Energy and Sustainable Development",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Which combination of pillars best supports a resilient, inclusive future for Uttarakhand as outlined across the book?",
+    "options": [
+      "Relying solely on a single seasonal activity with no conservation",
+      "Climate-resilient infrastructure, sustainable tourism & eco-homestays, hill agriculture/millets/horticulture/GI crafts, clean energy, quality education/health, and community-led conservation",
+      "Unplanned construction, over-extraction, and neglect of rural hills",
+      "Ignoring disaster risk and local institutions"
+    ],
+    "correct_option": 1,
+    "explanation": "An integrated approach across infrastructure, livelihoods, clean energy, human capital, and ecology supports long-term prosperity in Uttarakhand.",
+    "source_page": 50,
+    "correct_answer": "Climate-resilient infrastructure, sustainable tourism & eco-homestays, hill agriculture/millets/horticulture/GI crafts, clean energy, quality education/health, and community-led conservation"
+  },
+  {
+    "id": "q700",
+    "chapter": "Uttarakhand - Economy, Industries, Energy and Sustainable Development",
+    "topic": "Energy and Sustainable Development",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "How does 'Energy Efficiency and Clean Cooking' (such as improved cookstoves, LPG/clean fuel access, and efficient appliances) help hill households?",
+    "options": [
+      "Increases indoor smoke exposure for women and children",
+      "Reduces indoor air pollution and health hazards, saves time spent collecting firewood, and lowers pressure on surrounding forests",
+      "Requires cutting more green timber every day",
+      "Has no effect on household health or forests"
+    ],
+    "correct_option": 1,
+    "explanation": "Cleaner cooking and energy efficiency improve rural health, ease drudgery, and reduce fuelwood pressure on forests.",
+    "source_page": 50,
+    "correct_answer": "Reduces indoor air pollution and health hazards, saves time spent collecting firewood, and lowers pressure on surrounding forests"
+  },
+  {
+    "id": "q701",
+    "chapter": "Uttarakhand - Economy, Industries, Energy and Sustainable Development",
+    "topic": "Energy and Sustainable Development",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Why must large infrastructure and energy projects in Uttarakhand integrate 'Disaster Risk Reduction (DRR)' from the design stage?",
+    "options": [
+      "Because active tectonic uplift, steep slopes, glacial lakes (GLOFs), and intense monsoon bursts make hazard-resilient engineering essential to prevent losses and lock-in risk",
+      "Because mountain slopes are completely static",
+      "Because adding safety features increases disaster risk",
+      "Because geological hazards never interact with built infrastructure"
+    ],
+    "correct_option": 0,
+    "explanation": "Embedding hazard mapping, slope stability, early warning, and resilient design reduces vulnerability in a dynamic mountain environment.",
+    "source_page": 50,
+    "correct_answer": "Because active tectonic uplift, steep slopes, glacial lakes (GLOFs), and intense monsoon bursts make hazard-resilient engineering essential to prevent losses and lock-in risk"
   }
 ]
