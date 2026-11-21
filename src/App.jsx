@@ -27,19 +27,12 @@ export default function App() {
     })
   }, [])
 
-  // Special pool: the Chapter 1 questionnaire file (pages 6-15), tagged on
-  // each question with set: 'chapter1' when it was loaded.
-  const chapter1Pool = useMemo(
-    () => allQuestions.filter((q) => q.set === 'chapter1'),
-    []
-  )
-
   // Every pool the app can start a test from.
   const pools = useMemo(() => {
-    const map = { full: allQuestions, chapter1: chapter1Pool }
+    const map = { full: allQuestions }
     for (const ch of chapters) map[ch.id] = ch.questions
     return map
-  }, [chapters, chapter1Pool])
+  }, [chapters])
 
   function startTest(poolKey = 'full') {
     // Pick random questions from the chosen pool (never more than it has).
@@ -68,7 +61,6 @@ export default function App() {
           settings={settings}
           totalInBank={allQuestions.length}
           chapters={chapters}
-          chapter1Count={chapter1Pool.length}
           onStart={startTest}
           onSelectPool={(poolKey) => startTest(poolKey)}
           goSettings={() => setScreen('settings')}
