@@ -7187,5 +7187,1049 @@
     "correct_answer": "Sub-alpine and alpine scrub/meadows",
     "explanation": "At high elevations below the permanent snowline, vegetation transitions into sub-alpine and alpine scrub and meadows.",
     "source_page": 27
+  },
+  {
+    "id": "q399",
+    "chapter": "Uttarakhand - Agriculture, Irrigation and Horticulture",
+    "topic": "Agricultural Overview and Cropping Pattern",
+    "difficulty": "easy",
+    "type": "direct",
+    "question": "Why is agriculture in Uttarakhand broadly divided into distinct hill and plain/valley farming patterns?",
+    "options": [
+      "Absence of rainfall in the southern districts",
+      "Uniform flat topography across all 13 districts",
+      "Identical crop calendars above 4,500 meters and in Tarai",
+      "Marked differences in altitude, slope steepness, soil depth, irrigation availability, and climate between hills and plains/valleys"
+    ],
+    "correct_option": 3,
+    "correct_answer": "Marked differences in altitude, slope steepness, soil depth, irrigation availability, and climate between hills and plains/valleys",
+    "explanation": "Elevation, slope, soil profile, temperature, and irrigation vary sharply between southern plains/Tarai/valleys and hill/mountain tracts, shaping distinct farming systems.",
+    "source_page": 29
+  },
+  {
+    "id": "q400",
+    "chapter": "Uttarakhand - Agriculture, Irrigation and Horticulture",
+    "topic": "Agricultural Overview and Cropping Pattern",
+    "difficulty": "easy",
+    "type": "direct",
+    "question": "What are the two primary agricultural crop seasons in Uttarakhand?",
+    "options": [
+      "Kharif (monsoon/summer) and Rabi (winter/spring), alongside Zaid/summer crops in irrigated pockets",
+      "Autumn and Pre-monsoon only without seasonal crop names",
+      "Monsoon-only and Winter-only with no second harvest",
+      "Glacial season and Tidal season"
+    ],
+    "correct_option": 0,
+    "correct_answer": "Kharif (monsoon/summer) and Rabi (winter/spring), alongside Zaid/summer crops in irrigated pockets",
+    "explanation": "Uttarakhand follows the Kharif and Rabi cropping seasons, supplemented by Zaid/off-season/horticultural crops in irrigated and valley/hill zones.",
+    "source_page": 29
+  },
+  {
+    "id": "q401",
+    "chapter": "Uttarakhand - Agriculture, Irrigation and Horticulture",
+    "topic": "Agricultural Overview and Cropping Pattern",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which crops are major Kharif crops in Uttarakhand?",
+    "options": [
+      "Paddy (rice), maize, jowar/bajra/millets (mandua/jhangora), and pulses/soybean in suitable zones",
+      "Apples and walnuts harvested in winter snow",
+      "Cotton and jute grown above 3,800 meters",
+      "Wheat, barley, mustard, and gram sown in late autumn"
+    ],
+    "correct_option": 0,
+    "correct_answer": "Paddy (rice), maize, jowar/bajra/millets (mandua/jhangora), and pulses/soybean in suitable zones",
+    "explanation": "Kharif crops in Uttarakhand include paddy (rice), maize, traditional millets like mandua and jhangora, and kharif pulses/oilseeds.",
+    "source_page": 29
+  },
+  {
+    "id": "q402",
+    "chapter": "Uttarakhand - Agriculture, Irrigation and Horticulture",
+    "topic": "Agricultural Overview and Cropping Pattern",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which crops are major Rabi crops in Uttarakhand?",
+    "options": [
+      "Wheat, barley, mustard/rapeseed, and pulses/masoor/gram",
+      "Mandua, jhangora, and rainy-season paddy",
+      "Alpine bugyal grasses",
+      "Litchi and mango"
+    ],
+    "correct_option": 0,
+    "correct_answer": "Wheat, barley, mustard/rapeseed, and pulses/masoor/gram",
+    "explanation": "Rabi crops in Uttarakhand include wheat, barley, mustard, and winter pulses/oilseeds.",
+    "source_page": 29
+  },
+  {
+    "id": "q403",
+    "chapter": "Uttarakhand - Agriculture, Irrigation and Horticulture",
+    "topic": "Agricultural Overview and Cropping Pattern",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which two traditional millets are staple/nutritious coarse grains in Uttarakhand's rainfed hill agriculture?",
+    "options": [
+      "Mandua (ragi / finger millet) and Jhangora (barnyard millet)",
+      "Sugarcane and tea",
+      "Cardamom and black pepper",
+      "Wheat and basmati rice"
+    ],
+    "correct_option": 0,
+    "correct_answer": "Mandua (ragi / finger millet) and Jhangora (barnyard millet)",
+    "explanation": "Mandua and Jhangora are hardy rainfed millets central to traditional hill food systems and nutrition in Uttarakhand.",
+    "source_page": 29
+  },
+  {
+    "id": "q404",
+    "chapter": "Uttarakhand - Agriculture, Irrigation and Horticulture",
+    "topic": "Agricultural Overview and Cropping Pattern",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which districts account for the largest share of commercial grain and cash-crop production (like wheat, paddy, and sugarcane) in Uttarakhand?",
+    "options": [
+      "Bageshwar and Pithoragarh high ridges",
+      "Udham Singh Nagar and Haridwar (plus valley/foothill pockets of Dehradun and Nainital)",
+      "Uttarkashi and Tehri alpine zones",
+      "Rudraprayag and Chamoli"
+    ],
+    "correct_option": 1,
+    "correct_answer": "Udham Singh Nagar and Haridwar (plus valley/foothill pockets of Dehradun and Nainital)",
+    "explanation": "Fertile plains, Tarai tracts, and assured irrigation in Udham Singh Nagar and Haridwar drive large-scale cereal and cash-crop output.",
+    "source_page": 29
+  },
+  {
+    "id": "q405",
+    "chapter": "Uttarakhand - Agriculture, Irrigation and Horticulture",
+    "topic": "Agricultural Overview and Cropping Pattern",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Why is a large share of hill agriculture in Uttarakhand rainfed rather than canal-irrigated?",
+    "options": [
+      "Hill districts receive zero rainfall throughout the year",
+      "All hill farms are located below sea level",
+      "Rivers often flow in deep gorges below cultivable terraces and fragmented hill plots limit large canal networks",
+      "Canal water flows uphill naturally in the Himalayas"
+    ],
+    "correct_option": 2,
+    "correct_answer": "Rivers often flow in deep gorges below cultivable terraces and fragmented hill plots limit large canal networks",
+    "explanation": "Deep river valleys/gorges, undulating topography, and small terraced holdings make large-scale gravity canals difficult across much of the hills.",
+    "source_page": 29
+  },
+  {
+    "id": "q406",
+    "chapter": "Uttarakhand - Agriculture, Irrigation and Horticulture",
+    "topic": "Agricultural Overview and Cropping Pattern",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which characteristic typifies landholdings in the hill districts of Uttarakhand?",
+    "options": [
+      "Uniform rectangular desert farms",
+      "Vast unfragmented prairie estates of thousands of hectares",
+      "Submerged coastal delta plots",
+      "Small, fragmented, and terraced holdings along hill slopes and narrow valleys"
+    ],
+    "correct_option": 3,
+    "correct_answer": "Small, fragmented, and terraced holdings along hill slopes and narrow valleys",
+    "explanation": "Hill landholdings in Uttarakhand are typically small, scattered/fragmented, and carved into contour/stepped terraces.",
+    "source_page": 29
+  },
+  {
+    "id": "q407",
+    "chapter": "Uttarakhand - Agriculture, Irrigation and Horticulture",
+    "topic": "Agricultural Overview and Cropping Pattern",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Which traditional crop combination is associated with Uttarakhand's rainfed hill farming system ('Baranaja')?",
+    "options": [
+      "Mixed multi-cropping of millets, pulses, and oilseeds sown together on rainfed fields to spread risk",
+      "Single-crop monoculture of rubber",
+      "Irrigated winter wheat alone",
+      "Hydroponic glasshouse farming"
+    ],
+    "correct_option": 0,
+    "correct_answer": "Mixed multi-cropping of millets, pulses, and oilseeds sown together on rainfed fields to spread risk",
+    "explanation": "Baranaja represents traditional mixed cropping (traditionally 'twelve grains' or diverse legumes/millets/oilseeds) that enhances soil health and reduces crop-failure risk.",
+    "source_page": 29
+  },
+  {
+    "id": "q408",
+    "chapter": "Uttarakhand - Agriculture, Irrigation and Horticulture",
+    "topic": "Agricultural Overview and Cropping Pattern",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which pulse/legume crop is traditionally grown on hill slopes of Uttarakhand and used in local cuisine (such as chainsoo/phanu)?",
+    "options": [
+      "Coffee bean",
+      "Oil palm",
+      "Cashew nut",
+      "Gahat (horse gram) / Urad / Bhat (black soybean)"
+    ],
+    "correct_option": 3,
+    "correct_answer": "Gahat (horse gram) / Urad / Bhat (black soybean)",
+    "explanation": "Pulses and legumes such as Gahat, Urad, and Bhat are integral to Uttarakhand's hill agriculture and traditional dishes.",
+    "source_page": 29
+  },
+  {
+    "id": "q409",
+    "chapter": "Uttarakhand - Agriculture, Irrigation and Horticulture",
+    "topic": "Agricultural Overview and Cropping Pattern",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "What is 'Upraon' and 'Talaon' land classification traditionally known for in Uttarakhand's hill revenue/land terminology?",
+    "options": [
+      "There is no distinction between valley and slope land",
+      "Upraon means alpine glacier; Talaon means desert sand",
+      "Upraon refers to upland/rainfed terraced fields (often first/second class), while Talaon refers to lower valley/irrigated fertile land",
+      "Upraon means forest reserve; Talaon means cantonment"
+    ],
+    "correct_option": 2,
+    "correct_answer": "Upraon refers to upland/rainfed terraced fields (often first/second class), while Talaon refers to lower valley/irrigated fertile land",
+    "explanation": "In traditional hill land terminology, Talaon denotes lower fertile/irrigable valley land and Upraon denotes upper/sloping agricultural land.",
+    "source_page": 29
+  },
+  {
+    "id": "q410",
+    "chapter": "Uttarakhand - Agriculture, Irrigation and Horticulture",
+    "topic": "Agricultural Overview and Cropping Pattern",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Why are millets like Mandua and Jhangora gaining renewed policy and market emphasis in Uttarakhand?",
+    "options": [
+      "Climate resilience, low water/input needs, high nutritional value, and hill farmer income support",
+      "Inability to grow in hill climates",
+      "High water consumption in arid deserts",
+      "Replacement of all food crops with timber"
+    ],
+    "correct_option": 0,
+    "correct_answer": "Climate resilience, low water/input needs, high nutritional value, and hill farmer income support",
+    "explanation": "Millets require less water, adapt well to variable hill weather, and carry strong nutritional and market potential.",
+    "source_page": 29
+  },
+  {
+    "id": "q411",
+    "chapter": "Uttarakhand - Agriculture, Irrigation and Horticulture",
+    "topic": "Irrigation Systems and Projects",
+    "difficulty": "easy",
+    "type": "direct",
+    "question": "What are 'Gools' (गूल) in the hill districts of Uttarakhand?",
+    "options": [
+      "Traditional community-built gravity irrigation channels that divert stream/spring water to terraced fields",
+      "Stone temples dedicated to local deities",
+      "Forestry check-posts",
+      "High-altitude glacial lakes"
+    ],
+    "correct_option": 0,
+    "correct_answer": "Traditional community-built gravity irrigation channels that divert stream/spring water to terraced fields",
+    "explanation": "Gools are traditional gravity-fed irrigation channels constructed and maintained by hill communities to channel water from streams/springs to fields.",
+    "source_page": 30
+  },
+  {
+    "id": "q412",
+    "chapter": "Uttarakhand - Agriculture, Irrigation and Horticulture",
+    "topic": "Irrigation Systems and Projects",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "How is irrigation in the southern plains/Tarai of Uttarakhand different from irrigation in the hills?",
+    "options": [
+      "Plains have zero irrigation infrastructure",
+      "Hills use large-scale flood irrigation on flat plains",
+      "Both regions rely exclusively on glacial meltwater canals",
+      "Plains/Tarai rely more on major canals, tube wells/pumpsets, and reservoirs, whereas hills rely heavily on rainfed farming, gools, and small lift/spring schemes"
+    ],
+    "correct_option": 3,
+    "correct_answer": "Plains/Tarai rely more on major canals, tube wells/pumpsets, and reservoirs, whereas hills rely heavily on rainfed farming, gools, and small lift/spring schemes",
+    "explanation": "Flat terrain and deeper alluvial aquifers in the southern plains/Tarai support canals and tube wells, while steep hill topography relies on gools, springs, and rainfed agriculture.",
+    "source_page": 30
+  },
+  {
+    "id": "q413",
+    "chapter": "Uttarakhand - Agriculture, Irrigation and Horticulture",
+    "topic": "Irrigation Systems and Projects",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which major multipurpose dam project on the Bhagirathi/Bhilangna system in Tehri Garhwal provides irrigation, drinking water, and hydropower?",
+    "options": [
+      "Koteshwar-only scheme",
+      "Tehri Dam Project",
+      "Baur Dam",
+      "Nanak Sagar Project"
+    ],
+    "correct_option": 1,
+    "correct_answer": "Tehri Dam Project",
+    "explanation": "The Tehri Dam Project in Tehri Garhwal is a flagship multipurpose project supporting power generation, irrigation, and water supply.",
+    "source_page": 30
+  },
+  {
+    "id": "q414",
+    "chapter": "Uttarakhand - Agriculture, Irrigation and Horticulture",
+    "topic": "Irrigation Systems and Projects",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "In which district is the Nanak Sagar dam/reservoir located?",
+    "options": [
+      "Rudraprayag",
+      "Udham Singh Nagar",
+      "Chamoli",
+      "Uttarkashi"
+    ],
+    "correct_option": 1,
+    "correct_answer": "Udham Singh Nagar",
+    "explanation": "Nanak Sagar is a major irrigation reservoir in Udham Singh Nagar district.",
+    "source_page": 30
+  },
+  {
+    "id": "q415",
+    "chapter": "Uttarakhand - Agriculture, Irrigation and Horticulture",
+    "topic": "Irrigation Systems and Projects",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Where is the Ramganga (Kalagarh) Dam located, and what is one of its key functions?",
+    "options": [
+      "On the Tons river in Uttarkashi; provides marine fishing",
+      "On the Saryu in Bageshwar; provides tidal power",
+      "On the Ramganga river near Kalagarh; provides irrigation and hydropower",
+      "On the Mandakini in Chamoli; provides desert irrigation"
+    ],
+    "correct_option": 2,
+    "correct_answer": "On the Ramganga river near Kalagarh; provides irrigation and hydropower",
+    "explanation": "The Ramganga/Kalagarh project regulates river flow for irrigation and hydroelectric power generation.",
+    "source_page": 30
+  },
+  {
+    "id": "q416",
+    "chapter": "Uttarakhand - Agriculture, Irrigation and Horticulture",
+    "topic": "Irrigation Systems and Projects",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Which historic canal originates near Haridwar from the Ganga river?",
+    "options": [
+      "Indira Gandhi Canal",
+      "Upper Ganga Canal",
+      "Narmada Main Canal",
+      "Tungabhadra Canal"
+    ],
+    "correct_option": 1,
+    "correct_answer": "Upper Ganga Canal",
+    "explanation": "The Upper Ganga Canal takes off from the Ganga near Haridwar and is a landmark irrigation canal system.",
+    "source_page": 30
+  },
+  {
+    "id": "q417",
+    "chapter": "Uttarakhand - Agriculture, Irrigation and Horticulture",
+    "topic": "Irrigation Systems and Projects",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Which canal system draws water from the Sharda/Kali river near Tanakpur/Banbasa in the Kumaon foothills?",
+    "options": [
+      "Mahanadi Canal",
+      "Western Yamuna Canal",
+      "Sharda Canal system",
+      "Sone Canal"
+    ],
+    "correct_option": 2,
+    "correct_answer": "Sharda Canal system",
+    "explanation": "The Sharda Canal system utilizes water from the Sharda (Kali) river in the Kumaon foothill region.",
+    "source_page": 30
+  },
+  {
+    "id": "q418",
+    "chapter": "Uttarakhand - Agriculture, Irrigation and Horticulture",
+    "topic": "Irrigation Systems and Projects",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Why are micro-irrigation (such as sprinklers and drip irrigation) and rainwater harvesting promoted in Uttarakhand?",
+    "options": [
+      "To flood hill terraces continuously",
+      "To increase evaporation from open reservoirs",
+      "Because water is wasted in alpine glaciers",
+      "To improve water-use efficiency where water availability is limited or slopes/soils require controlled moisture"
+    ],
+    "correct_option": 3,
+    "correct_answer": "To improve water-use efficiency where water availability is limited or slopes/soils require controlled moisture",
+    "explanation": "Sprinklers, drip systems, and check-dams/rainwater harvesting help conserve water and deliver moisture evenly across undulating or water-scarce plots.",
+    "source_page": 30
+  },
+  {
+    "id": "q419",
+    "chapter": "Uttarakhand - Agriculture, Irrigation and Horticulture",
+    "topic": "Irrigation Systems and Projects",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Which dam/reservoir is located in Udham Singh Nagar on a river/stream feeding Tarai irrigation (alongside Nanak Sagar)?",
+    "options": [
+      "Vishnuprayag Barrage",
+      "Maneri Bhali Reservoir",
+      "Baur / Tumaria / Haripura reservoirs",
+      "Tehri Reservoir"
+    ],
+    "correct_option": 2,
+    "correct_answer": "Baur / Tumaria / Haripura reservoirs",
+    "explanation": "Udham Singh Nagar/Tarai irrigation relies on multiple reservoirs and barrages such as Nanak Sagar, Baur, and Tumaria.",
+    "source_page": 30
+  },
+  {
+    "id": "q420",
+    "chapter": "Uttarakhand - Agriculture, Irrigation and Horticulture",
+    "topic": "Irrigation Systems and Projects",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "What happens to traditional gools in Uttarakhand if catchment forests or springs degrade?",
+    "options": [
+      "Gools turn into navigable shipping canals",
+      "Discharge in gools declines during dry months, reducing assured irrigation for hill fields",
+      "Gools become immune to seasonal changes",
+      "Discharge automatically triples in summer"
+    ],
+    "correct_option": 1,
+    "correct_answer": "Discharge in gools declines during dry months, reducing assured irrigation for hill fields",
+    "explanation": "Because gools depend on hill streams and springs, spring depletion or catchment degradation reduces dry-season water supply.",
+    "source_page": 30
+  },
+  {
+    "id": "q421",
+    "chapter": "Uttarakhand - Agriculture, Irrigation and Horticulture",
+    "topic": "Irrigation Systems and Projects",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "What is 'Lift Irrigation' commonly used for in the hilly districts of Uttarakhand?",
+    "options": [
+      "Pumping water from lower river valleys/streams up to higher agricultural terraces or villages",
+      "Lifting boats over mountain peaks",
+      "Raising underground coal seams",
+      "Pumping seawater into hill ponds"
+    ],
+    "correct_option": 0,
+    "correct_answer": "Pumping water from lower river valleys/streams up to higher agricultural terraces or villages",
+    "explanation": "Because major rivers often flow well below cultivable terraces, lift irrigation schemes raise water to higher elevations for farming and drinking supply.",
+    "source_page": 30
+  },
+  {
+    "id": "q422",
+    "chapter": "Uttarakhand - Agriculture, Irrigation and Horticulture",
+    "topic": "Irrigation Systems and Projects",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which crop benefits significantly from assured canal and tube-well irrigation in the plains of Uttarakhand?",
+    "options": [
+      "Glacial ice",
+      "Sugarcane, wheat, and high-yielding paddy",
+      "Sub-arctic lichen",
+      "Alpine edelweiss"
+    ],
+    "correct_option": 1,
+    "correct_answer": "Sugarcane, wheat, and high-yielding paddy",
+    "explanation": "Assured irrigation in the plains/Tarai supports water-demanding and commercial crops such as sugarcane, wheat, and paddy.",
+    "source_page": 30
+  },
+  {
+    "id": "q423",
+    "chapter": "Uttarakhand - Agriculture, Irrigation and Horticulture",
+    "topic": "Irrigation Systems and Projects",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "What is a 'Chal' or 'Khal' in traditional Uttarakhand water conservation practice?",
+    "options": [
+      "A forest timber auction",
+      "A state legislative committee",
+      "A small traditional rainwater/runoff harvesting pond or depression dug in the hills to recharge groundwater and moisture",
+      "A high Himalayan mountain pass"
+    ],
+    "correct_option": 2,
+    "correct_answer": "A small traditional rainwater/runoff harvesting pond or depression dug in the hills to recharge groundwater and moisture",
+    "explanation": "Chals/Khals are traditional small ponds/depressions in the hills that capture rainwater and snowmelt to recharge springs and soil moisture.",
+    "source_page": 30
+  },
+  {
+    "id": "q424",
+    "chapter": "Uttarakhand - Agriculture, Irrigation and Horticulture",
+    "topic": "Irrigation Systems and Projects",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which hydro/multipurpose project lies downstream of Tehri Dam on the Bhagirathi river?",
+    "options": [
+      "Nanak Sagar Project",
+      "Koteshwar Dam Project",
+      "Tanakpur Project",
+      "Kalagarh Dam Project"
+    ],
+    "correct_option": 1,
+    "correct_answer": "Koteshwar Dam Project",
+    "explanation": "Koteshwar Dam is located downstream of Tehri on the Bhagirathi river in Tehri Garhwal.",
+    "source_page": 30
+  },
+  {
+    "id": "q425",
+    "chapter": "Uttarakhand - Agriculture, Irrigation and Horticulture",
+    "topic": "Irrigation Systems and Projects",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Which region of Uttarakhand has the highest proportion of net irrigated area relative to net sown area?",
+    "options": [
+      "Southern plain districts (especially Udham Singh Nagar and Haridwar)",
+      "High alpine/border districts like Chamoli and Pithoragarh",
+      "Uninhabited forest ridges",
+      "Glacial zones above 4,000 meters"
+    ],
+    "correct_option": 0,
+    "correct_answer": "Southern plain districts (especially Udham Singh Nagar and Haridwar)",
+    "explanation": "Flat plain districts—particularly Udham Singh Nagar and Haridwar—have much higher irrigation coverage than rugged hill districts.",
+    "source_page": 30
+  },
+  {
+    "id": "q426",
+    "chapter": "Uttarakhand - Agriculture, Irrigation and Horticulture",
+    "topic": "Irrigation Systems and Projects",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Why is siltation a challenge for reservoirs and canal headworks in Uttarakhand?",
+    "options": [
+      "Hard basalt bedrock preventing sediment transport",
+      "Absence of flowing water in rivers",
+      "Lack of rainfall in the Himalayas",
+      "High sediment load carried by Himalayan rivers during monsoon erosion and landslides"
+    ],
+    "correct_option": 3,
+    "correct_answer": "High sediment load carried by Himalayan rivers during monsoon erosion and landslides",
+    "explanation": "Steep slopes, intense monsoon runoff, and geological erosion generate heavy silt loads that can accumulate in reservoirs and canals.",
+    "source_page": 30
+  },
+  {
+    "id": "q427",
+    "chapter": "Uttarakhand - Agriculture, Irrigation and Horticulture",
+    "topic": "Horticulture and Cash Crops",
+    "difficulty": "easy",
+    "type": "direct",
+    "question": "Why is horticulture (fruits, vegetables, flowers, spices) considered a high-potential sector for Uttarakhand's hill economy?",
+    "options": [
+      "Only rice can grow in Uttarakhand",
+      "Hill slopes cannot support any fruit or vegetable trees",
+      "Diverse agro-climatic zones from subtropical valleys to temperate/cold hills suit a wide variety of high-value crops",
+      "Horticulture requires zero sunlight and zero soil"
+    ],
+    "correct_option": 2,
+    "correct_answer": "Diverse agro-climatic zones from subtropical valleys to temperate/cold hills suit a wide variety of high-value crops",
+    "explanation": "Uttarakhand's varied elevations and climates allow cultivation of subtropical fruits, temperate orchard fruits, off-season vegetables, spices, and flowers.",
+    "source_page": 31
+  },
+  {
+    "id": "q428",
+    "chapter": "Uttarakhand - Agriculture, Irrigation and Horticulture",
+    "topic": "Horticulture and Cash Crops",
+    "difficulty": "easy",
+    "type": "direct",
+    "question": "Which temperate fruit is widely grown in cooler hill belts of Uttarakhand such as Harsil (Uttarkashi), Joshimath/Auli area (Chamoli), and Ramgarh/Mukteshwar area (Nainital)?",
+    "options": [
+      "Rubber",
+      "Cashew",
+      "Apple",
+      "Coconut"
+    ],
+    "correct_option": 2,
+    "correct_answer": "Apple",
+    "explanation": "Apple is a major temperate orchard crop in cooler upper-hill belts of Garhwal and Kumaon.",
+    "source_page": 31
+  },
+  {
+    "id": "q429",
+    "chapter": "Uttarakhand - Agriculture, Irrigation and Horticulture",
+    "topic": "Horticulture and Cash Crops",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which temperate/stone fruits are grown in Uttarakhand's mid-to-upper hill orchards alongside apples?",
+    "options": [
+      "Mangosteen, durian, and oil palm",
+      "Coconut and areca nut",
+      "Dates and figs of arid deserts only",
+      "Peach, plum, apricot (khubani), and pear (nashpati)"
+    ],
+    "correct_option": 3,
+    "correct_answer": "Peach, plum, apricot (khubani), and pear (nashpati)",
+    "explanation": "Peach, plum, apricot, and pear thrive in Uttarakhand's temperate and cool hill climates.",
+    "source_page": 31
+  },
+  {
+    "id": "q430",
+    "chapter": "Uttarakhand - Agriculture, Irrigation and Horticulture",
+    "topic": "Horticulture and Cash Crops",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which citrus fruits are well known in Uttarakhand's subtropical/mid-hill belts?",
+    "options": [
+      "Cranberry and blueberry of tundra",
+      "Arabica coffee beans only",
+      "Malta (sweet orange), lemon/galgal, and kagzi lime",
+      "Vanilla pods"
+    ],
+    "correct_option": 2,
+    "correct_answer": "Malta (sweet orange), lemon/galgal, and kagzi lime",
+    "explanation": "Citrus fruits including Malta, Galgal, and Kagzi lime are prominent in Uttarakhand's fruit cultivation.",
+    "source_page": 31
+  },
+  {
+    "id": "q431",
+    "chapter": "Uttarakhand - Agriculture, Irrigation and Horticulture",
+    "topic": "Horticulture and Cash Crops",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which subtropical fruits are grown in lower valleys, foothills, and warm pockets of Uttarakhand?",
+    "options": [
+      "Mango and litchi (especially in lower valleys/Doon/plains/foothills)",
+      "Reindeer moss",
+      "Glacial ice",
+      "Alpine birch"
+    ],
+    "correct_option": 0,
+    "correct_answer": "Mango and litchi (especially in lower valleys/Doon/plains/foothills)",
+    "explanation": "Warm lower valleys, Doon, and foothill/plain zones of Uttarakhand support mango and litchi cultivation.",
+    "source_page": 31
+  },
+  {
+    "id": "q432",
+    "chapter": "Uttarakhand - Agriculture, Irrigation and Horticulture",
+    "topic": "Horticulture and Cash Crops",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "What are 'Off-Season Vegetables' (such as peas, cabbage, cauliflower, and potato) in Uttarakhand's hills?",
+    "options": [
+      "Vegetables grown in hills during summer/monsoon when plains are too hot or between plain cropping cycles, fetching good market prices",
+      "Vegetables grown exclusively inside deep caves",
+      "Non-edible ornamental weeds",
+      "Vegetables harvested once every ten years"
+    ],
+    "correct_option": 0,
+    "correct_answer": "Vegetables grown in hills during summer/monsoon when plains are too hot or between plain cropping cycles, fetching good market prices",
+    "explanation": "Cooler summer temperatures in the hills allow vegetable production when plain markets face summer shortages or price peaks.",
+    "source_page": 31
+  },
+  {
+    "id": "q433",
+    "chapter": "Uttarakhand - Agriculture, Irrigation and Horticulture",
+    "topic": "Horticulture and Cash Crops",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Which spice crop is traditionally cultivated in hill districts of Uttarakhand and has earned GI recognition for Uttarakhand?",
+    "options": [
+      "Uttarakhand Tejpat (cinnamon leaf / bay leaf) — along with crops like garlic/ginger/chillies",
+      "Cloves of tropical islands only",
+      "Saffron of Kashmir plains only",
+      "Star anise of coral reefs"
+    ],
+    "correct_option": 0,
+    "correct_answer": "Uttarakhand Tejpat (cinnamon leaf / bay leaf) — along with crops like garlic/ginger/chillies",
+    "explanation": "Tejpat and hill spices/condiments (such as ginger, garlic, and local chillies) are important high-value crops in Uttarakhand.",
+    "source_page": 31
+  },
+  {
+    "id": "q434",
+    "chapter": "Uttarakhand - Agriculture, Irrigation and Horticulture",
+    "topic": "Horticulture and Cash Crops",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which plantation beverage crop has historic roots and renewed state promotion in select pockets of Uttarakhand (such as Almora/Kausani/Bhimtal/Nainital)?",
+    "options": [
+      "Cocoa",
+      "Tea",
+      "Guarana",
+      "Yerba mate"
+    ],
+    "correct_option": 1,
+    "correct_answer": "Tea",
+    "explanation": "Tea cultivation in Uttarakhand dates back to the 19th century and is promoted through state tea development initiatives in suitable hill areas.",
+    "source_page": 31
+  },
+  {
+    "id": "q435",
+    "chapter": "Uttarakhand - Agriculture, Irrigation and Horticulture",
+    "topic": "Horticulture and Cash Crops",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Which potato variety or seed-potato advantage is notable in higher/cooler hill zones of Uttarakhand?",
+    "options": [
+      "Zero potato cultivation anywhere in the state",
+      "Using potato only as building bricks",
+      "Growing potato underwater in flooded marshes",
+      "Production of healthy seed potato and hill potato crops in cooler climates with lower vector pressure"
+    ],
+    "correct_option": 3,
+    "correct_answer": "Production of healthy seed potato and hill potato crops in cooler climates with lower vector pressure",
+    "explanation": "Cooler hill climates in Uttarakhand support potato and seed-potato production in several districts.",
+    "source_page": 31
+  },
+  {
+    "id": "q436",
+    "chapter": "Uttarakhand - Agriculture, Irrigation and Horticulture",
+    "topic": "Horticulture and Cash Crops",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "What is 'Floriculture' in the context of Uttarakhand's horticulture?",
+    "options": [
+      "Timber logging in national parks",
+      "Mapping river deltas",
+      "Study of fossilized fish",
+      "Commercial cultivation of flowers (such as gladiolus, marigold, rose, carnation, and gerbera) for market and decor"
+    ],
+    "correct_option": 3,
+    "correct_answer": "Commercial cultivation of flowers (such as gladiolus, marigold, rose, carnation, and gerbera) for market and decor",
+    "explanation": "Floriculture involves growing cut and loose flowers in favorable climates or polyhouses to diversify farm income.",
+    "source_page": 31
+  },
+  {
+    "id": "q437",
+    "chapter": "Uttarakhand - Agriculture, Irrigation and Horticulture",
+    "topic": "Horticulture and Cash Crops",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "How do polyhouses / protected cultivation help horticulture farmers in Uttarakhand?",
+    "options": [
+      "They turn hills into flat deserts",
+      "They moderate temperature/moisture, extend growing seasons, and protect high-value crops like capsicum, tomatoes, and flowers from harsh weather",
+      "They eliminate the need for sunlight or care",
+      "They convert soil into solid concrete"
+    ],
+    "correct_option": 1,
+    "correct_answer": "They moderate temperature/moisture, extend growing seasons, and protect high-value crops like capsicum, tomatoes, and flowers from harsh weather",
+    "explanation": "Polyhouses create a controlled microclimate that boosts yields and protects sensitive vegetables and flowers from frost, hail, or heavy rain.",
+    "source_page": 31
+  },
+  {
+    "id": "q438",
+    "chapter": "Uttarakhand - Agriculture, Irrigation and Horticulture",
+    "topic": "Horticulture and Cash Crops",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which medicinal/aromatic plant is widely cultivated or harvested in Uttarakhand for herbal/essential-oil value?",
+    "options": [
+      "Asbestos fiber",
+      "Industrial PVC resin",
+      "Aromatic/medicinal herbs such as Lemongrass, Mentha/Mint, Ashwagandha, or high-altitude medicinal flora",
+      "Crude petroleum"
+    ],
+    "correct_option": 2,
+    "correct_answer": "Aromatic/medicinal herbs such as Lemongrass, Mentha/Mint, Ashwagandha, or high-altitude medicinal flora",
+    "explanation": "Aromatic and medicinal plants offer alternative income streams in rural and hill areas of Uttarakhand.",
+    "source_page": 31
+  },
+  {
+    "id": "q439",
+    "chapter": "Uttarakhand - Agriculture, Irrigation and Horticulture",
+    "topic": "Horticulture and Cash Crops",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Which fruit is famously associated with the Harsil valley area in Uttarkashi district?",
+    "options": [
+      "Date palm",
+      "Jackfruit only",
+      "Coconut",
+      "Apple"
+    ],
+    "correct_option": 3,
+    "correct_answer": "Apple",
+    "explanation": "Harsil in Uttarkashi district is well known for apple orchards.",
+    "source_page": 31
+  },
+  {
+    "id": "q440",
+    "chapter": "Uttarakhand - Agriculture, Irrigation and Horticulture",
+    "topic": "Horticulture and Cash Crops",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Which fruit belt is well known in Nainital district around Ramgarh and Mukteshwar?",
+    "options": [
+      "Tropical coconut",
+      "Mangrove fruit",
+      "Temperate orchard fruits (such as apples, peaches, plums, and pears)",
+      "Desert cactus fruit"
+    ],
+    "correct_option": 2,
+    "correct_answer": "Temperate orchard fruits (such as apples, peaches, plums, and pears)",
+    "explanation": "Ramgarh and Mukteshwar in Nainital district are renowned temperate fruit-growing belts.",
+    "source_page": 31
+  },
+  {
+    "id": "q441",
+    "chapter": "Uttarakhand - Agriculture, Irrigation and Horticulture",
+    "topic": "Horticulture and Cash Crops",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "What major post-harvest challenge affects horticultural produce in the hills of Uttarakhand?",
+    "options": [
+      "Lack of any consumer demand for fresh food",
+      "Perishability of fruits/vegetables combined with steep terrain, road disruptions, and cold-storage/processing gaps",
+      "Absence of perishable traits in ripe fruit",
+      "Excessive shelf life of fresh peaches at room temperature for three years"
+    ],
+    "correct_option": 1,
+    "correct_answer": "Perishability of fruits/vegetables combined with steep terrain, road disruptions, and cold-storage/processing gaps",
+    "explanation": "Fresh fruits and vegetables spoil quickly, so transport links, cold chain/storage, grading, and processing are vital to prevent post-harvest losses.",
+    "source_page": 31
+  },
+  {
+    "id": "q442",
+    "chapter": "Uttarakhand - Agriculture, Irrigation and Horticulture",
+    "topic": "Horticulture and Cash Crops",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "How can fruit processing (such as jams, juices, squashes, and dried fruit products) benefit Uttarakhand's horticulture sector?",
+    "options": [
+      "It prevents farmers from selling produce",
+      "It increases spoilage during transport",
+      "It destroys all nutritional value in every case",
+      "It reduces post-harvest wastage, adds value to surplus/grade-B fruit, and creates local employment"
+    ],
+    "correct_option": 3,
+    "correct_answer": "It reduces post-harvest wastage, adds value to surplus/grade-B fruit, and creates local employment",
+    "explanation": "Value addition and processing help absorb seasonal gluts, cut losses, and raise returns for growers.",
+    "source_page": 31
+  },
+  {
+    "id": "q443",
+    "chapter": "Uttarakhand - Agriculture, Irrigation and Horticulture",
+    "topic": "Livestock and Agricultural Challenges",
+    "difficulty": "easy",
+    "type": "direct",
+    "question": "Why is livestock rearing closely integrated with agriculture in Uttarakhand's hills?",
+    "options": [
+      "Livestock are kept exclusively inside submarines",
+      "Livestock replace all rainfall",
+      "Livestock provide milk/dairy, draft/manure for soil fertility, and livelihood support alongside crop farming",
+      "Hill farmers never use manure or dairy"
+    ],
+    "correct_option": 2,
+    "correct_answer": "Livestock provide milk/dairy, draft/manure for soil fertility, and livelihood support alongside crop farming",
+    "explanation": "Mixed farming combining crops and livestock supplies nutrition, farmyard manure for hill soils, and supplementary income.",
+    "source_page": 32
+  },
+  {
+    "id": "q444",
+    "chapter": "Uttarakhand - Agriculture, Irrigation and Horticulture",
+    "topic": "Livestock and Agricultural Challenges",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "What is 'Transhumance' (seasonal migration) practiced by pastoral communities like Bhotiyas/Gujjars in Uttarakhand?",
+    "options": [
+      "Drilling wells in desert dunes",
+      "Seasonal movement of herds/flocks between high summer alpine pastures (bugyals) and lower winter valleys/foothills",
+      "Migrating birds flying across oceans only",
+      "Permanent relocation of cities every week"
+    ],
+    "correct_option": 1,
+    "correct_answer": "Seasonal movement of herds/flocks between high summer alpine pastures (bugyals) and lower winter valleys/foothills",
+    "explanation": "Pastoralists move livestock seasonally to utilize summer alpine pastures and escape deep winter snow by descending to lower elevations.",
+    "source_page": 32
+  },
+  {
+    "id": "q445",
+    "chapter": "Uttarakhand - Agriculture, Irrigation and Horticulture",
+    "topic": "Livestock and Agricultural Challenges",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which livestock species are commonly reared in Uttarakhand for wool, meat, milk, and pack transport in high/hill areas?",
+    "options": [
+      "Kangaroos and koalas",
+      "Cattle (cows/bullocks), buffaloes, goats, sheep, and mules/horses in hilly/mountain routes",
+      "Penguins and walruses",
+      "Camels in glacial ice caves"
+    ],
+    "correct_option": 1,
+    "correct_answer": "Cattle (cows/bullocks), buffaloes, goats, sheep, and mules/horses in hilly/mountain routes",
+    "explanation": "Cattle, buffaloes, goats, sheep, and pack animals like mules are kept across Uttarakhand depending on altitude and terrain.",
+    "source_page": 32
+  },
+  {
+    "id": "q446",
+    "chapter": "Uttarakhand - Agriculture, Irrigation and Horticulture",
+    "topic": "Livestock and Agricultural Challenges",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which dairy/cooperative network supports milk collection and marketing in Uttarakhand?",
+    "options": [
+      "Maritime port trust",
+      "Reserve bank clearing house",
+      "State cooperative milk union / Aanchal dairy network",
+      "National space agency"
+    ],
+    "correct_option": 2,
+    "correct_answer": "State cooperative milk union / Aanchal dairy network",
+    "explanation": "Dairy cooperatives (such as the Aanchal brand/cooperative network) link rural milk producers with processing and urban markets.",
+    "source_page": 32
+  },
+  {
+    "id": "q447",
+    "chapter": "Uttarakhand - Agriculture, Irrigation and Horticulture",
+    "topic": "Livestock and Agricultural Challenges",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Which fish/aquaculture activity is notable in cooler hill rivers/streams and trout farms of Uttarakhand?",
+    "options": [
+      "Coral reef pearl diving",
+      "Deep-sea whale harvesting",
+      "Cold-water fisheries (such as trout farming) alongside warm-water fisheries in plains/reservoirs",
+      "Saltwater shark farming in deserts"
+    ],
+    "correct_option": 2,
+    "correct_answer": "Cold-water fisheries (such as trout farming) alongside warm-water fisheries in plains/reservoirs",
+    "explanation": "Uttarakhand supports cold-water fisheries (like trout in clean hill waters) as well as warm-water aquaculture in plains and reservoirs.",
+    "source_page": 32
+  },
+  {
+    "id": "q448",
+    "chapter": "Uttarakhand - Agriculture, Irrigation and Horticulture",
+    "topic": "Livestock and Agricultural Challenges",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "What is 'Human-Wildlife Conflict' in the context of Uttarakhand's farming villages?",
+    "options": [
+      "Conflicts between two planets",
+      "Crop raiding and livestock/human safety issues caused by wild animals (such as wild boars, monkeys/langurs, leopards, or elephants near forest edges)",
+      "Absence of any wildlife in forest fringe areas",
+      "Disputes over smartphone chargers"
+    ],
+    "correct_option": 1,
+    "correct_answer": "Crop raiding and livestock/human safety issues caused by wild animals (such as wild boars, monkeys/langurs, leopards, or elephants near forest edges)",
+    "explanation": "Because forest cover is extensive and villages border forests, crop damage by wild animals and predator encounters are serious concerns for hill farmers.",
+    "source_page": 32
+  },
+  {
+    "id": "q449",
+    "chapter": "Uttarakhand - Agriculture, Irrigation and Horticulture",
+    "topic": "Livestock and Agricultural Challenges",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "How does wildlife crop raiding affect cropping choices in Uttarakhand's hill villages?",
+    "options": [
+      "It turns hill farms into airports",
+      "Some farmers shift away from crops heavily raided by wild animals/monkeys/boars, contributing to fallow land and migration",
+      "Farmers plant crops that wild animals prefer most so they eat all of them",
+      "It has zero effect on land use"
+    ],
+    "correct_option": 1,
+    "correct_answer": "Some farmers shift away from crops heavily raided by wild animals/monkeys/boars, contributing to fallow land and migration",
+    "explanation": "Repeated crop damage by wildlife—alongside low returns and terrain constraints—encourages leaving fields fallow or migrating for work.",
+    "source_page": 32
+  },
+  {
+    "id": "q450",
+    "chapter": "Uttarakhand - Agriculture, Irrigation and Horticulture",
+    "topic": "Livestock and Agricultural Challenges",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "What does 'Reverse Migration' policy/discussion in Uttarakhand aim to address?",
+    "options": [
+      "Moving all hill residents permanently out of India",
+      "Closing all schools in Uttarakhand",
+      "Encouraging people who migrated out of hill villages to return and build sustainable livelihoods in agriculture, horticulture, enterprises, and local services",
+      "Banning all farming in the state"
+    ],
+    "correct_option": 2,
+    "correct_answer": "Encouraging people who migrated out of hill villages to return and build sustainable livelihoods in agriculture, horticulture, enterprises, and local services",
+    "explanation": "Reverse-migration initiatives seek to create local economic opportunities in hill villages so former migrants can return and sustain rural communities.",
+    "source_page": 32
+  },
+  {
+    "id": "q451",
+    "chapter": "Uttarakhand - Agriculture, Irrigation and Horticulture",
+    "topic": "Livestock and Agricultural Challenges",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Why is 'Fodder Scarcity' a recurring challenge for hill livestock owners in Uttarakhand?",
+    "options": [
+      "Seasonal dry periods, degradation of oak/grassland resources, and restricted grazing in some protected areas",
+      "Excessive snow in July across Haridwar",
+      "Overabundance of green grass in mid-winter at 4,000 meters",
+      "Lack of animals in the state"
+    ],
+    "correct_option": 0,
+    "correct_answer": "Seasonal dry periods, degradation of oak/grassland resources, and restricted grazing in some protected areas",
+    "explanation": "Dry spells, winter snow cover at higher elevations, and degraded grazing/fodder patches constrain year-round fodder availability.",
+    "source_page": 32
+  },
+  {
+    "id": "q452",
+    "chapter": "Uttarakhand - Agriculture, Irrigation and Horticulture",
+    "topic": "Livestock and Agricultural Challenges",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Which farming approach combines trees, crops, and livestock on the same land unit to improve sustainability in Uttarakhand?",
+    "options": [
+      "Agroforestry / integrated hill farming systems",
+      "Unregulated clear-felling",
+      "Open-pit coal mining",
+      "Monoculture paving"
+    ],
+    "correct_option": 0,
+    "correct_answer": "Agroforestry / integrated hill farming systems",
+    "explanation": "Agroforestry and integrated farming combine woody perennials, crops, and livestock to diversify income and protect soil and water.",
+    "source_page": 32
+  },
+  {
+    "id": "q453",
+    "chapter": "Uttarakhand - Agriculture, Irrigation and Horticulture",
+    "topic": "Livestock and Agricultural Challenges",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "What is 'Organic Farming' promotion in Uttarakhand focused on?",
+    "options": [
+      "Reducing synthetic chemical inputs, leveraging traditional/natural practices, and tapping premium health-conscious markets",
+      "Eliminating all soil microbes",
+      "Producing plastic fertilizers",
+      "Spraying maximum chemical pesticides on every square meter"
+    ],
+    "correct_option": 0,
+    "correct_answer": "Reducing synthetic chemical inputs, leveraging traditional/natural practices, and tapping premium health-conscious markets",
+    "explanation": "Uttarakhand promotes organic and low-input farming in suitable areas to protect soil/water health and capture higher value for produce.",
+    "source_page": 32
+  },
+  {
+    "id": "q454",
+    "chapter": "Uttarakhand - Agriculture, Irrigation and Horticulture",
+    "topic": "Livestock and Agricultural Challenges",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Why is farm mechanization often more limited in hill terraces than in plain districts like Udham Singh Nagar?",
+    "options": [
+      "Plain districts have steeper cliffs than the Himalayas",
+      "Narrow, sloping, and fragmented terrace plots restrict large heavy tractors/harvesters",
+      "Hill farmers prefer larger combine harvesters on 50-hectare fields",
+      "Machinery cannot operate above 100 meters"
+    ],
+    "correct_option": 1,
+    "correct_answer": "Narrow, sloping, and fragmented terrace plots restrict large heavy tractors/harvesters",
+    "explanation": "Small, stepped hill terraces suit light/compact tools rather than heavy plain-land machinery, though light tools and equipment help ease labor.",
+    "source_page": 32
+  },
+  {
+    "id": "q455",
+    "chapter": "Uttarakhand - Agriculture, Irrigation and Horticulture",
+    "topic": "Livestock and Agricultural Challenges",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "How do weather extremes (such as unseasonal rain, hailstorms, or drought spells) impact Uttarakhand's agriculture?",
+    "options": [
+      "They guarantee bumper harvests every single year without exception",
+      "They can damage standing crops, blossoms/orchards, and harvests, raising yield uncertainty",
+      "They keep temperatures at an exact 25°C year-round",
+      "They only affect ocean ships"
+    ],
+    "correct_option": 1,
+    "correct_answer": "They can damage standing crops, blossoms/orchards, and harvests, raising yield uncertainty",
+    "explanation": "Hailstorms, untimely rain during harvest, or dry spells can hurt field crops and fruit orchards, making climate-resilient practices important.",
+    "source_page": 29
+  },
+  {
+    "id": "q456",
+    "chapter": "Uttarakhand - Agriculture, Irrigation and Horticulture",
+    "topic": "Livestock and Agricultural Challenges",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "What is a key goal of modernizing agriculture and horticulture in Uttarakhand?",
+    "options": [
+      "Converting all farmland into barren stone",
+      "Raising farmer incomes, improving irrigation/market access, promoting high-value/millets/organic crops, and curbing out-migration",
+      "Abandoning all rural livelihoods",
+      "Stopping all agricultural research"
+    ],
+    "correct_option": 1,
+    "correct_answer": "Raising farmer incomes, improving irrigation/market access, promoting high-value/millets/organic crops, and curbing out-migration",
+    "explanation": "Strengthening irrigation, market linkages, value addition, and climate-resilient crops helps make farming more viable and curb distress migration.",
+    "source_page": 32
   }
 ]
