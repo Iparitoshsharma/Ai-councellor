@@ -12641,5 +12641,851 @@
     "explanation": "Embedding hazard mapping, slope stability, early warning, and resilient design reduces vulnerability in a dynamic mountain environment.",
     "source_page": 50,
     "correct_answer": "Because active tectonic uplift, steep slopes, glacial lakes (GLOFs), and intense monsoon bursts make hazard-resilient engineering essential to prevent losses and lock-in risk"
+  },
+  {
+    "id": "q702",
+    "chapter": "Uttarakhand - Polity, Governance, Administration, Welfare Schemes and Current Affairs",
+    "topic": "Polity, Legislature and Executive",
+    "difficulty": "easy",
+    "type": "direct",
+    "question": "How is the head of state (constitutional head) of Uttarakhand appointed?",
+    "options": [
+      "Selected by the Chief Justice of the Uttarakhand High Court",
+      "Appointed by the President of India as the Governor of Uttarakhand",
+      "Elected directly by citizens of Uttarakhand in a statewide ballot",
+      "Appointed by the Speaker of the Lok Sabha"
+    ],
+    "correct_option": 1,
+    "explanation": "Like other Indian states, Uttarakhand's constitutional head is the Governor, appointed by the President of India.",
+    "source_page": 51,
+    "correct_answer": "Appointed by the President of India as the Governor of Uttarakhand"
+  },
+  {
+    "id": "q703",
+    "chapter": "Uttarakhand - Polity, Governance, Administration, Welfare Schemes and Current Affairs",
+    "topic": "Polity, Legislature and Executive",
+    "difficulty": "easy",
+    "type": "direct",
+    "question": "What kind of state legislature does Uttarakhand have under India's Constitution?",
+    "options": [
+      "No state legislative assembly",
+      "A single-house council appointed entirely by the Governor",
+      "Bicameral legislature with both a Vidhan Sabha and a Vidhan Parishad",
+      "Unicameral legislature consisting of the Governor and the Legislative Assembly (Vidhan Sabha)"
+    ],
+    "correct_option": 3,
+    "explanation": "Uttarakhand has a unicameral Legislative Assembly (Vidhan Sabha) along with the Governor.",
+    "source_page": 51,
+    "correct_answer": "Unicameral legislature consisting of the Governor and the Legislative Assembly (Vidhan Sabha)"
+  },
+  {
+    "id": "q704",
+    "chapter": "Uttarakhand - Polity, Governance, Administration, Welfare Schemes and Current Affairs",
+    "topic": "Polity, Legislature and Executive",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Who exercises real executive authority in Uttarakhand at the head of the Council of Ministers?",
+    "options": [
+      "The Chief Minister, supported by the Council of Ministers collectively responsible to the Legislative Assembly",
+      "The Chairperson of the Finance Commission",
+      "The District Magistrate of Dehradun acting alone",
+      "The Comptroller and Auditor General of India"
+    ],
+    "correct_option": 0,
+    "explanation": "In a parliamentary state system, the Chief Minister leads the Council of Ministers, which is collectively responsible to the Vidhan Sabha.",
+    "source_page": 51,
+    "correct_answer": "The Chief Minister, supported by the Council of Ministers collectively responsible to the Legislative Assembly"
+  },
+  {
+    "id": "q705",
+    "chapter": "Uttarakhand - Polity, Governance, Administration, Welfare Schemes and Current Affairs",
+    "topic": "Polity, Legislature and Executive",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "How many Lok Sabha (House of the People) constituencies are allocated to Uttarakhand?",
+    "options": [
+      "12 parliamentary constituencies",
+      "2 parliamentary constituencies",
+      "80 parliamentary constituencies",
+      "5 parliamentary constituencies (Tehri Garhwal, Garhwal, Almora [SC], Nainital-Udhamsingh Nagar, and Haridwar)"
+    ],
+    "correct_option": 3,
+    "explanation": "Uttarakhand elects 5 members to the Lok Sabha across its five parliamentary constituencies.",
+    "source_page": 51,
+    "correct_answer": "5 parliamentary constituencies (Tehri Garhwal, Garhwal, Almora [SC], Nainital-Udhamsingh Nagar, and Haridwar)"
+  },
+  {
+    "id": "q706",
+    "chapter": "Uttarakhand - Polity, Governance, Administration, Welfare Schemes and Current Affairs",
+    "topic": "Polity, Legislature and Executive",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "How many seats does Uttarakhand have in the Rajya Sabha (Council of States)?",
+    "options": [
+      "3 Rajya Sabha seats",
+      "10 Rajya Sabha seats",
+      "1 Rajya Sabha seat",
+      "18 Rajya Sabha seats"
+    ],
+    "correct_option": 0,
+    "explanation": "Uttarakhand is represented by 3 members in the Rajya Sabha.",
+    "source_page": 51,
+    "correct_answer": "3 Rajya Sabha seats"
+  },
+  {
+    "id": "q707",
+    "chapter": "Uttarakhand - Polity, Governance, Administration, Welfare Schemes and Current Affairs",
+    "topic": "Polity, Legislature and Executive",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "How many elected member seats comprise the Uttarakhand Legislative Assembly (Vidhan Sabha)?",
+    "options": [
+      "70 elected assembly constituencies",
+      "120 elected assembly constituencies",
+      "403 elected assembly constituencies",
+      "30 elected assembly constituencies"
+    ],
+    "correct_option": 0,
+    "explanation": "The Uttarakhand Legislative Assembly has 70 elected member constituencies.",
+    "source_page": 51,
+    "correct_answer": "70 elected assembly constituencies"
+  },
+  {
+    "id": "q708",
+    "chapter": "Uttarakhand - Polity, Governance, Administration, Welfare Schemes and Current Affairs",
+    "topic": "Polity, Legislature and Executive",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "How are assembly seats in the Uttarakhand Vidhan Sabha reserved for Scheduled Castes (SC) and Scheduled Tribes (ST)?",
+    "options": [
+      "Zero seats reserved in the state assembly",
+      "13 seats reserved for SC and 2 seats reserved for ST out of 70 assembly constituencies",
+      "All 70 seats reserved exclusively for ST",
+      "25 seats reserved for ST and 1 seat for SC"
+    ],
+    "correct_option": 1,
+    "explanation": "Out of 70 Vidhan Sabha seats in Uttarakhand, 13 are reserved for Scheduled Castes and 2 are reserved for Scheduled Tribes.",
+    "source_page": 51,
+    "correct_answer": "13 seats reserved for SC and 2 seats reserved for ST out of 70 assembly constituencies"
+  },
+  {
+    "id": "q709",
+    "chapter": "Uttarakhand - Polity, Governance, Administration, Welfare Schemes and Current Affairs",
+    "topic": "Polity, Legislature and Executive",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which location in Uttarakhand serves as the summer capital alongside Dehradun as the winter/primary administrative capital?",
+    "options": [
+      "Bhararisain (Gairsain) in Chamoli district",
+      "Haldwani in Nainital",
+      "Kotdwara in Pauri Garhwal",
+      "Rishikesh in Dehradun district"
+    ],
+    "correct_option": 0,
+    "explanation": "Bhararisain (Gairsain) in Chamoli district is designated as Uttarakhand's summer capital.",
+    "source_page": 51,
+    "correct_answer": "Bhararisain (Gairsain) in Chamoli district"
+  },
+  {
+    "id": "q710",
+    "chapter": "Uttarakhand - Polity, Governance, Administration, Welfare Schemes and Current Affairs",
+    "topic": "Polity, Legislature and Executive",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "What is the normal term of members of the Uttarakhand Legislative Assembly unless dissolved earlier?",
+    "options": [
+      "One year renewable",
+      "Two years fixed",
+      "Five years from the date appointed for its first meeting",
+      "Ten years fixed"
+    ],
+    "correct_option": 2,
+    "explanation": "Like other state legislative assemblies in India, the Vidhan Sabha has a standard five-year term unless dissolved sooner.",
+    "source_page": 51,
+    "correct_answer": "Five years from the date appointed for its first meeting"
+  },
+  {
+    "id": "q711",
+    "chapter": "Uttarakhand - Polity, Governance, Administration, Welfare Schemes and Current Affairs",
+    "topic": "Polity, Legislature and Executive",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Who presides over sittings of the Uttarakhand Legislative Assembly and maintains order in the House?",
+    "options": [
+      "The Director General of Police",
+      "The Speaker (or Deputy Speaker in the Speaker's absence)",
+      "The Chief Electoral Officer",
+      "The Advocate General of Uttarakhand"
+    ],
+    "correct_option": 1,
+    "explanation": "The Speaker of the Vidhan Sabha presides over assembly proceedings and regulates House business.",
+    "source_page": 51,
+    "correct_answer": "The Speaker (or Deputy Speaker in the Speaker's absence)"
+  },
+  {
+    "id": "q712",
+    "chapter": "Uttarakhand - Polity, Governance, Administration, Welfare Schemes and Current Affairs",
+    "topic": "Polity, Legislature and Executive",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Who serves as the highest legal officer of the state of Uttarakhand to advise the state government on legal matters?",
+    "options": [
+      "The Tehsildar",
+      "The Advocate General of Uttarakhand",
+      "The Attorney General of India",
+      "The Block Development Officer"
+    ],
+    "correct_option": 1,
+    "explanation": "Under Article 165 of the Constitution, each state has an Advocate General appointed by the Governor as its chief legal advisor.",
+    "source_page": 51,
+    "correct_answer": "The Advocate General of Uttarakhand"
+  },
+  {
+    "id": "q713",
+    "chapter": "Uttarakhand - Polity, Governance, Administration, Welfare Schemes and Current Affairs",
+    "topic": "Polity, Legislature and Executive",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which body conducts recruitment examinations for state civil/administrative and technical services in Uttarakhand?",
+    "options": [
+      "Uttarakhand Public Service Commission (UKPSC) and Uttarakhand Subordinate Services Selection Commission (UKSSSC)",
+      "Union Public Service Commission only for patwari posts",
+      "National Green Tribunal",
+      "Reserve Bank of India"
+    ],
+    "correct_option": 0,
+    "explanation": "UKPSC and UKSSSC are key recruitment bodies for state public services and subordinate posts in Uttarakhand.",
+    "source_page": 51,
+    "correct_answer": "Uttarakhand Public Service Commission (UKPSC) and Uttarakhand Subordinate Services Selection Commission (UKSSSC)"
+  },
+  {
+    "id": "q714",
+    "chapter": "Uttarakhand - Polity, Governance, Administration, Welfare Schemes and Current Affairs",
+    "topic": "Polity, Legislature and Executive",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "How does the separation of powers work between the legislature, executive, and judiciary in Uttarakhand?",
+    "options": [
+      "Police stations draft constitutional amendments",
+      "The Vidhan Sabha makes state laws on State/Concurrent subjects, the executive implements policies and administration, and the High Court/subordinate courts interpret law and adjudicate disputes independently",
+      "The Chief Minister commands the High Court bench",
+      "The Governor judges criminal trials in person"
+    ],
+    "correct_option": 1,
+    "explanation": "India's constitutional framework divides lawmaking, executive execution, and judicial adjudication across distinct institutions.",
+    "source_page": 51,
+    "correct_answer": "The Vidhan Sabha makes state laws on State/Concurrent subjects, the executive implements policies and administration, and the High Court/subordinate courts interpret law and adjudicate disputes independently"
+  },
+  {
+    "id": "q715",
+    "chapter": "Uttarakhand - Polity, Governance, Administration, Welfare Schemes and Current Affairs",
+    "topic": "Polity, Legislature and Executive",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Why are 'State List' and 'Concurrent List' subjects under the Seventh Schedule of the Constitution important for Uttarakhand's governance?",
+    "options": [
+      "They replace all local municipal laws",
+      "They apply only to foreign embassies",
+      "They eliminate state-level budgets",
+      "They define legislative and administrative jurisdiction over areas like agriculture, land, forests, local government, public health, and education"
+    ],
+    "correct_option": 3,
+    "explanation": "Constitutional lists allocate lawmaking and policy authority between the Union and states across key development sectors.",
+    "source_page": 51,
+    "correct_answer": "They define legislative and administrative jurisdiction over areas like agriculture, land, forests, local government, public health, and education"
+  },
+  {
+    "id": "q716",
+    "chapter": "Uttarakhand - Polity, Governance, Administration, Welfare Schemes and Current Affairs",
+    "topic": "Polity, Legislature and Executive",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "What is the role of the State Election Commission in Uttarakhand?",
+    "options": [
+      "Conducting Lok Sabha and Rajya Sabha elections",
+      "Appointing High Court judges",
+      "Auditing state treasury accounts",
+      "Superintending, directing, and controlling elections to Panchayati Raj institutions and urban local bodies (municipalities)"
+    ],
+    "correct_option": 3,
+    "explanation": "State Election Commissions conduct local self-government elections (panchayats and urban local bodies).",
+    "source_page": 51,
+    "correct_answer": "Superintending, directing, and controlling elections to Panchayati Raj institutions and urban local bodies (municipalities)"
+  },
+  {
+    "id": "q717",
+    "chapter": "Uttarakhand - Polity, Governance, Administration, Welfare Schemes and Current Affairs",
+    "topic": "Polity, Legislature and Executive",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "What is the function of the State Finance Commission in relation to Panchayats and Municipalities in Uttarakhand?",
+    "options": [
+      "Issuing passports to citizens",
+      "Managing railway timetables",
+      "Setting international exchange rates",
+      "Reviewing the financial position of Panchayats and urban local bodies and recommending principles for tax devolution, grants-in-aid, and municipal/panchayat finances"
+    ],
+    "correct_option": 3,
+    "explanation": "Under Articles 243-I and 243-Y, the State Finance Commission recommends fiscal transfers and strengthening measures for local bodies.",
+    "source_page": 51,
+    "correct_answer": "Reviewing the financial position of Panchayats and urban local bodies and recommending principles for tax devolution, grants-in-aid, and municipal/panchayat finances"
+  },
+  {
+    "id": "q718",
+    "chapter": "Uttarakhand - Polity, Governance, Administration, Welfare Schemes and Current Affairs",
+    "topic": "Administration and Panchayati Raj",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which administrative divisions exist in Uttarakhand, and how many districts belong to each?",
+    "options": [
+      "Garhwal division (6 districts) and Kumaon division (7 districts)",
+      "Garhwal division (10 districts) and Kumaon division (3 districts)",
+      "Single undivided state division",
+      "Three divisions: Garhwal, Kumaon, and Tarai"
+    ],
+    "correct_option": 0,
+    "explanation": "Garhwal division has 6 districts and Kumaon division has 7 districts, totaling 13 districts.",
+    "source_page": 52,
+    "correct_answer": "Garhwal division (6 districts) and Kumaon division (7 districts)"
+  },
+  {
+    "id": "q719",
+    "chapter": "Uttarakhand - Polity, Governance, Administration, Welfare Schemes and Current Affairs",
+    "topic": "Administration and Panchayati Raj",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Who serves as the chief executive and revenue/law-and-order coordinator at the district level in Uttarakhand?",
+    "options": [
+      "The District Magistrate (DM) / Collector",
+      "The Chief Secretary of India",
+      "The Ward Member",
+      "The Gram Pradhan"
+    ],
+    "correct_option": 0,
+    "explanation": "The District Magistrate heads district administration, coordinating revenue, magistracy, disaster response, and development oversight.",
+    "source_page": 52,
+    "correct_answer": "The District Magistrate (DM) / Collector"
+  },
+  {
+    "id": "q720",
+    "chapter": "Uttarakhand - Polity, Governance, Administration, Welfare Schemes and Current Affairs",
+    "topic": "Administration and Panchayati Raj",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "What are the three tiers of Panchayati Raj Institutions (PRIs) in Uttarakhand?",
+    "options": [
+      "Tehsil, Mandal, and Ward only",
+      "Lok Sabha, Rajya Sabha, and Vidhan Sabha",
+      "Gram Panchayat (village level), Kshetra Panchayat / Panchayat Samiti (block level), and Zila Panchayat (district level)",
+      "High Court, Session Court, and Nyaya Panchayat only"
+    ],
+    "correct_option": 2,
+    "explanation": "Uttarakhand's Panchayati Raj system follows a three-tier structure: Gram Panchayat, Kshetra Panchayat (block), and Zila Panchayat (district).",
+    "source_page": 52,
+    "correct_answer": "Gram Panchayat (village level), Kshetra Panchayat / Panchayat Samiti (block level), and Zila Panchayat (district level)"
+  },
+  {
+    "id": "q721",
+    "chapter": "Uttarakhand - Polity, Governance, Administration, Welfare Schemes and Current Affairs",
+    "topic": "Administration and Panchayati Raj",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "What notable provision applies to women's representation in Panchayati Raj institutions in Uttarakhand?",
+    "options": [
+      "Women are barred from contesting Panchayat elections",
+      "50% reservation of seats for women in Panchayati Raj institutions under Uttarakhand's Panchayati Raj legal framework",
+      "Zero reservation for women in local bodies",
+      "Reservation applies only to men"
+    ],
+    "correct_option": 1,
+    "explanation": "Uttarakhand provides 50% reservation for women in Panchayati Raj institutions to strengthen grassroots participation and leadership.",
+    "source_page": 52,
+    "correct_answer": "50% reservation of seats for women in Panchayati Raj institutions under Uttarakhand's Panchayati Raj legal framework"
+  },
+  {
+    "id": "q722",
+    "chapter": "Uttarakhand - Polity, Governance, Administration, Welfare Schemes and Current Affairs",
+    "topic": "Administration and Panchayati Raj",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "What is a distinctive historical-administrative feature of revenue/policing in many hill tracts of Uttarakhand?",
+    "options": [
+      "Maritime coast guard patrols in every village",
+      "Subway metro police in alpine meadows",
+      "Absence of any land records",
+      "The traditional Patwari / Revenue Police system alongside regular civil police in designated hill areas"
+    ],
+    "correct_option": 3,
+    "explanation": "Hill revenue administration has historically involved Patwaris/revenue officials in land records and rural law-and-order functions, with gradual transition/integration toward regular police in areas.",
+    "source_page": 52,
+    "correct_answer": "The traditional Patwari / Revenue Police system alongside regular civil police in designated hill areas"
+  },
+  {
+    "id": "q723",
+    "chapter": "Uttarakhand - Polity, Governance, Administration, Welfare Schemes and Current Affairs",
+    "topic": "Administration and Panchayati Raj",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which administrative unit sits below the district for revenue, land records, and executive/magisterial sub-divisions?",
+    "options": [
+      "Parliamentary constituency",
+      "National park buffer",
+      "Sub-division / Tehsil (led by SDM / Tehsildar)",
+      "International border post"
+    ],
+    "correct_option": 2,
+    "explanation": "Districts are divided into sub-divisions and tehsils for land revenue, land records, and sub-divisional administration.",
+    "source_page": 52,
+    "correct_answer": "Sub-division / Tehsil (led by SDM / Tehsildar)"
+  },
+  {
+    "id": "q724",
+    "chapter": "Uttarakhand - Polity, Governance, Administration, Welfare Schemes and Current Affairs",
+    "topic": "Administration and Panchayati Raj",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which administrative/development unit implements rural development schemes and coordinates Gram Panchayats at the block level?",
+    "options": [
+      "Cantonment Board only",
+      "Development Block (Vikas Khand), headed by a Block Development Officer (BDO), alongside the Kshetra Panchayat",
+      "State Secretariat",
+      "High Court Registry"
+    ],
+    "correct_option": 1,
+    "explanation": "Development blocks and Kshetra Panchayats coordinate rural development programs and block-level planning.",
+    "source_page": 52,
+    "correct_answer": "Development Block (Vikas Khand), headed by a Block Development Officer (BDO), alongside the Kshetra Panchayat"
+  },
+  {
+    "id": "q725",
+    "chapter": "Uttarakhand - Polity, Governance, Administration, Welfare Schemes and Current Affairs",
+    "topic": "Administration and Panchayati Raj",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "What is the role of the 'Gram Sabha' in rural governance under Panchayati Raj?",
+    "options": [
+      "A private club for retired officials",
+      "The body of all registered voters of a village/Gram Panchayat that reviews development plans, budgets, social audits, and local priorities",
+      "A court that hears High Court appeals",
+      "A national tax authority"
+    ],
+    "correct_option": 1,
+    "explanation": "The Gram Sabha enables participatory local democracy, transparency, and social accountability at the village level.",
+    "source_page": 52,
+    "correct_answer": "The body of all registered voters of a village/Gram Panchayat that reviews development plans, budgets, social audits, and local priorities"
+  },
+  {
+    "id": "q726",
+    "chapter": "Uttarakhand - Polity, Governance, Administration, Welfare Schemes and Current Affairs",
+    "topic": "Administration and Panchayati Raj",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which types of urban local bodies (ULBs) govern towns and cities in Uttarakhand?",
+    "options": [
+      "Gram Panchayat, Kshetra Panchayat, and Zila Panchayat only",
+      "Forest ranges only",
+      "Cantonment courts only",
+      "Nagar Nigam (Municipal Corporation), Nagar Palika Parishad (Municipal Council), and Nagar Panchayat"
+    ],
+    "correct_option": 3,
+    "explanation": "Urban local governance in Uttarakhand operates through Nagar Nigams, Nagar Palika Parishads, and Nagar Panchayats depending on urban scale and criteria.",
+    "source_page": 52,
+    "correct_answer": "Nagar Nigam (Municipal Corporation), Nagar Palika Parishad (Municipal Council), and Nagar Panchayat"
+  },
+  {
+    "id": "q727",
+    "chapter": "Uttarakhand - Polity, Governance, Administration, Welfare Schemes and Current Affairs",
+    "topic": "Administration and Panchayati Raj",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Why is 'E-Governance and Citizen Service Delivery' (such as digital certificates, online portals, and grievance redressal) important in Uttarakhand?",
+    "options": [
+      "It eliminates digital access completely",
+      "It reduces travel time and cost for hill residents across dispersed settlements and improves transparency and speed in public services",
+      "It replaces all physical infrastructure with paper",
+      "It forces citizens to travel farther for basic records"
+    ],
+    "correct_option": 1,
+    "explanation": "Digital service portals help overcome distance and terrain friction in mountain districts while improving accountability.",
+    "source_page": 52,
+    "correct_answer": "It reduces travel time and cost for hill residents across dispersed settlements and improves transparency and speed in public services"
+  },
+  {
+    "id": "q728",
+    "chapter": "Uttarakhand - Polity, Governance, Administration, Welfare Schemes and Current Affairs",
+    "topic": "Administration and Panchayati Raj",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Why is 'Disaster Management Governance' (SDMA at the state level and DDMA at the district level) central to administration in Uttarakhand?",
+    "options": [
+      "Because disaster response happens only after decades",
+      "Because natural hazards never occur in the Himalayas",
+      "Because landslides, cloudbursts, flash floods, earthquakes, and forest fires require rapid inter-agency coordination, early warning, relief, and resilient recovery",
+      "Because district administrations do not coordinate emergencies"
+    ],
+    "correct_option": 2,
+    "explanation": "State and District Disaster Management Authorities coordinate preparedness, warning, emergency response, and mitigation in Uttarakhand.",
+    "source_page": 52,
+    "correct_answer": "Because landslides, cloudbursts, flash floods, earthquakes, and forest fires require rapid inter-agency coordination, early warning, relief, and resilient recovery"
+  },
+  {
+    "id": "q729",
+    "chapter": "Uttarakhand - Polity, Governance, Administration, Welfare Schemes and Current Affairs",
+    "topic": "Administration and Panchayati Raj",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "How do 'Border Area Development' priorities affect districts along Uttarakhand's northern and eastern international frontiers?",
+    "options": [
+      "They close all roads near international borders",
+      "They apply only to coastal islands",
+      "They focus on strategic road/telecom connectivity, border village ('Vibrant Village') livelihoods, health/education access, and local retention to strengthen security and well-being",
+      "They ignore border communities completely"
+    ],
+    "correct_option": 2,
+    "explanation": "Border districts like Uttarkashi, Chamoli, and Pithoragarh benefit from connectivity, livelihood support, and essential services for frontier habitations.",
+    "source_page": 52,
+    "correct_answer": "They focus on strategic road/telecom connectivity, border village ('Vibrant Village') livelihoods, health/education access, and local retention to strengthen security and well-being"
+  },
+  {
+    "id": "q730",
+    "chapter": "Uttarakhand - Polity, Governance, Administration, Welfare Schemes and Current Affairs",
+    "topic": "Administration and Panchayati Raj",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "What is the role of the 'Chief Secretary' in the state secretariat administration of Uttarakhand?",
+    "options": [
+      "Leader of the Opposition",
+      "Elected member of the Rajya Sabha",
+      "Chief Justice of the High Court",
+      "Administrative head of the state civil service and secretariat, coordinating inter-departmental policy implementation and advising the Chief Minister"
+    ],
+    "correct_option": 3,
+    "explanation": "The Chief Secretary leads the state bureaucracy and coordinates across departments to execute government policies.",
+    "source_page": 52,
+    "correct_answer": "Administrative head of the state civil service and secretariat, coordinating inter-departmental policy implementation and advising the Chief Minister"
+  },
+  {
+    "id": "q731",
+    "chapter": "Uttarakhand - Polity, Governance, Administration, Welfare Schemes and Current Affairs",
+    "topic": "Administration and Panchayati Raj",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "How does 'Social Audit and Citizen Grievance Redressal' strengthen public administration?",
+    "options": [
+      "By verifying actual public service/scheme delivery at the community level and offering structured channels to resolve citizen complaints",
+      "By hiding project spending from citizens",
+      "By delaying service delivery intentionally",
+      "By ignoring public feedback"
+    ],
+    "correct_option": 0,
+    "explanation": "Transparent grievance mechanisms and social audits promote responsiveness, accountability, and effective implementation.",
+    "source_page": 52,
+    "correct_answer": "By verifying actual public service/scheme delivery at the community level and offering structured channels to resolve citizen complaints"
+  },
+  {
+    "id": "q732",
+    "chapter": "Uttarakhand - Polity, Governance, Administration, Welfare Schemes and Current Affairs",
+    "topic": "Administration and Panchayati Raj",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Why is 'Decentralized Planning' (integrating Gram Panchayat, block, and district plans) valuable in Uttarakhand?",
+    "options": [
+      "Every village in Uttarakhand has identical terrain and water availability",
+      "Local micro-climates, slope conditions, water sources, and village needs vary sharply across short distances in the hills, requiring tailored local solutions",
+      "Top-down uniform rules fit every ridge without adjustment",
+      "Local residents have no knowledge of local springs or paths"
+    ],
+    "correct_option": 1,
+    "explanation": "Mountain heterogeneity makes bottom-up local planning essential for relevant water, road, livelihood, and conservation projects.",
+    "source_page": 52,
+    "correct_answer": "Local micro-climates, slope conditions, water sources, and village needs vary sharply across short distances in the hills, requiring tailored local solutions"
+  },
+  {
+    "id": "q733",
+    "chapter": "Uttarakhand - Polity, Governance, Administration, Welfare Schemes and Current Affairs",
+    "topic": "Welfare Schemes and Current Affairs",
+    "difficulty": "easy",
+    "type": "direct",
+    "question": "What is the primary goal of state and centrally sponsored 'Welfare Schemes' in Uttarakhand?",
+    "options": [
+      "Funding luxury yachts only",
+      "Excluding rural and low-income households from support",
+      "Replacing all schools and hospitals",
+      "Supporting vulnerable groups—such as women, children, senior citizens, persons with disabilities, Scheduled Castes/Scheduled Tribes, farmers, and low-income families—with social security, livelihoods, health, and education"
+    ],
+    "correct_option": 3,
+    "explanation": "Welfare programs aim to reduce poverty, protect vulnerable citizens, and expand opportunity across hill and plain districts.",
+    "source_page": 53,
+    "correct_answer": "Supporting vulnerable groups—such as women, children, senior citizens, persons with disabilities, Scheduled Castes/Scheduled Tribes, farmers, and low-income families—with social security, livelihoods, health, and education"
+  },
+  {
+    "id": "q734",
+    "chapter": "Uttarakhand - Polity, Governance, Administration, Welfare Schemes and Current Affairs",
+    "topic": "Welfare Schemes and Current Affairs",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "How do 'Women Empowerment and Self-Help Group (SHG)' initiatives (such as livelihood collectives and Lakhpati/enterprise support) benefit rural Uttarakhand?",
+    "options": [
+      "They eliminate community savings",
+      "They restrict women from owning bank accounts or enterprises",
+      "They enable women to access credit, skills, local enterprises (food processing, crafts, homestays, agriculture), financial independence, and community voice",
+      "They apply only to corporate executives"
+    ],
+    "correct_option": 2,
+    "explanation": "Women's SHGs and enterprise collectives are major drivers of rural income, resilience, and leadership in Uttarakhand.",
+    "source_page": 53,
+    "correct_answer": "They enable women to access credit, skills, local enterprises (food processing, crafts, homestays, agriculture), financial independence, and community voice"
+  },
+  {
+    "id": "q735",
+    "chapter": "Uttarakhand - Polity, Governance, Administration, Welfare Schemes and Current Affairs",
+    "topic": "Welfare Schemes and Current Affairs",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "What role do 'Social Security Pensions' (for old age, widows, and persons with disabilities) play in state welfare policy?",
+    "options": [
+      "Replace all healthcare services",
+      "Provide regular income support to help vulnerable individuals meet basic living and health needs with dignity",
+      "Act as taxes collected from pensioners",
+      "Apply only to central cabinet ministers"
+    ],
+    "correct_option": 1,
+    "explanation": "Social pensions offer essential income security for elderly, widowed, and differently abled citizens.",
+    "source_page": 53,
+    "correct_answer": "Provide regular income support to help vulnerable individuals meet basic living and health needs with dignity"
+  },
+  {
+    "id": "q736",
+    "chapter": "Uttarakhand - Polity, Governance, Administration, Welfare Schemes and Current Affairs",
+    "topic": "Welfare Schemes and Current Affairs",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Why are 'Health and Education Infrastructure' in hill districts key focus areas of Uttarakhand's social policy?",
+    "options": [
+      "Because remote villages need zero schools or clinics",
+      "To improve access to quality schools, colleges, primary/referral healthcare, and specialists in remote areas so families do not have to migrate solely for basic services",
+      "Because health and education have no link to human development",
+      "Because tertiary care is already available on every mountain peak"
+    ],
+    "correct_option": 1,
+    "explanation": "Accessible education and healthcare strengthen human capital and reduce distress migration from hill villages.",
+    "source_page": 53,
+    "correct_answer": "To improve access to quality schools, colleges, primary/referral healthcare, and specialists in remote areas so families do not have to migrate solely for basic services"
+  },
+  {
+    "id": "q737",
+    "chapter": "Uttarakhand - Polity, Governance, Administration, Welfare Schemes and Current Affairs",
+    "topic": "Welfare Schemes and Current Affairs",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "How does 'Homestay and Rural Tourism Promotion' connect welfare/livelihoods with cultural and environmental conservation in Uttarakhand?",
+    "options": [
+      "It requires demolishing all traditional hill houses and forests",
+      "It allows local families—often women and youth—to earn direct tourism income while showcasing local cuisine, traditions, and nature conservation",
+      "It bans visitors from experiencing local culture",
+      "It diverts all tourism revenue outside the state"
+    ],
+    "correct_option": 1,
+    "explanation": "Community-based homestays retain value locally, diversify rural income, and encourage stewardship of local heritage and environment.",
+    "source_page": 53,
+    "correct_answer": "It allows local families—often women and youth—to earn direct tourism income while showcasing local cuisine, traditions, and nature conservation"
+  },
+  {
+    "id": "q738",
+    "chapter": "Uttarakhand - Polity, Governance, Administration, Welfare Schemes and Current Affairs",
+    "topic": "Welfare Schemes and Current Affairs",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "What is 'Reverse Migration' in the context of Uttarakhand's socio-economic and policy discussions?",
+    "options": [
+      "Former migrants returning to their home villages in the hills to start local enterprises, farming, horticulture, or homestays—supported when livelihoods, connectivity, and basic services are viable",
+      "Migration of birds only in Antarctica",
+      "Movement of glaciers uphill",
+      "A ban on travel between districts"
+    ],
+    "correct_option": 0,
+    "explanation": "Addressing out-migration and supporting sustainable return/local livelihood opportunities is a prominent theme in Uttarakhand's development policy.",
+    "source_page": 53,
+    "correct_answer": "Former migrants returning to their home villages in the hills to start local enterprises, farming, horticulture, or homestays—supported when livelihoods, connectivity, and basic services are viable"
+  },
+  {
+    "id": "q739",
+    "chapter": "Uttarakhand - Polity, Governance, Administration, Welfare Schemes and Current Affairs",
+    "topic": "Welfare Schemes and Current Affairs",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Why is 'Direct Benefit Transfer (DBT) and Digital Financial Inclusion' significant in implementing welfare schemes?",
+    "options": [
+      "It increases cash leakage and middlemen delays",
+      "It prevents citizens from receiving entitlements",
+      "It replaces all banking access",
+      "It helps transfer subsidies/assistance directly to eligible beneficiaries' accounts, reducing leakage, delays, and intermediary friction when paired with accurate targeting and support"
+    ],
+    "correct_option": 3,
+    "explanation": "DBT streamlines benefit delivery and improves auditability when backed by clean beneficiary lists and accessible banking points.",
+    "source_page": 53,
+    "correct_answer": "It helps transfer subsidies/assistance directly to eligible beneficiaries' accounts, reducing leakage, delays, and intermediary friction when paired with accurate targeting and support"
+  },
+  {
+    "id": "q740",
+    "chapter": "Uttarakhand - Polity, Governance, Administration, Welfare Schemes and Current Affairs",
+    "topic": "Welfare Schemes and Current Affairs",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Which combination of 'Current Affairs' themes should an aspirant preparing for Uttarakhand state exams track regularly?",
+    "options": [
+      "State budget & economic survey highlights, major infrastructure/connectivity/clean-energy projects, welfare & livelihood schemes, environmental/disaster updates, sports/culture awards, and key appointments/legislation",
+      "Only fictional movie trivia",
+      "Ancient history alone with zero current developments",
+      "Unverified rumors without official context"
+    ],
+    "correct_option": 0,
+    "explanation": "State exams test current developments across budgets, policies/schemes, infrastructure, ecology/disasters, culture/sports, and governance.",
+    "source_page": 53,
+    "correct_answer": "State budget & economic survey highlights, major infrastructure/connectivity/clean-energy projects, welfare & livelihood schemes, environmental/disaster updates, sports/culture awards, and key appointments/legislation"
+  },
+  {
+    "id": "q741",
+    "chapter": "Uttarakhand - Polity, Governance, Administration, Welfare Schemes and Current Affairs",
+    "topic": "Welfare Schemes and Current Affairs",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "How do 'Youth, Skill, Innovation and Startup' initiatives support economic diversification in Uttarakhand?",
+    "options": [
+      "By ignoring vocational training",
+      "By limiting youth opportunities to a single sector",
+      "By discouraging young entrepreneurs from building skills",
+      "By equipping young people with market-relevant skills, entrepreneurship support, and digital/technical capabilities across tourism, agro-tech, wellness, IT, and MSMEs"
+    ],
+    "correct_option": 3,
+    "explanation": "Skill building and startup/enterprise support help create local employment and modern value-added ventures.",
+    "source_page": 53,
+    "correct_answer": "By equipping young people with market-relevant skills, entrepreneurship support, and digital/technical capabilities across tourism, agro-tech, wellness, IT, and MSMEs"
+  },
+  {
+    "id": "q742",
+    "chapter": "Uttarakhand - Polity, Governance, Administration, Welfare Schemes and Current Affairs",
+    "topic": "Welfare Schemes and Current Affairs",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "Why is 'Child Welfare, Nutrition and Girl Child Education' a priority in social sector schemes?",
+    "options": [
+      "Early childhood nutrition, safe schooling, and retention of girls build lifelong health, human capital, gender equality, and family well-being",
+      "Child nutrition has no impact on learning or health",
+      "Girl child education lowers household resilience",
+      "Social schemes only target adults"
+    ],
+    "correct_option": 0,
+    "explanation": "Investments in child health/nutrition and girls' education yield strong long-term social and economic returns.",
+    "source_page": 53,
+    "correct_answer": "Early childhood nutrition, safe schooling, and retention of girls build lifelong health, human capital, gender equality, and family well-being"
+  },
+  {
+    "id": "q743",
+    "chapter": "Uttarakhand - Polity, Governance, Administration, Welfare Schemes and Current Affairs",
+    "topic": "Welfare Schemes and Current Affairs",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "How do 'Farmer Income Support, Crop Insurance and Soil/Water Schemes' assist agriculture in Uttarakhand?",
+    "options": [
+      "They prohibit irrigation and soil care",
+      "They guarantee crop failure during normal rain",
+      "They cushion weather/yield risks, support inputs and irrigation/water harvesting, and encourage sustainable practices suited to hill and plain farms",
+      "They apply only to industrial steel plants"
+    ],
+    "correct_option": 2,
+    "explanation": "Risk mitigation, water conservation, and input/market support help stabilize farm incomes amid weather and terrain challenges.",
+    "source_page": 53,
+    "correct_answer": "They cushion weather/yield risks, support inputs and irrigation/water harvesting, and encourage sustainable practices suited to hill and plain farms"
+  },
+  {
+    "id": "q744",
+    "chapter": "Uttarakhand - Polity, Governance, Administration, Welfare Schemes and Current Affairs",
+    "topic": "Welfare Schemes and Current Affairs",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "What is the importance of 'Sports and Cultural Promotion' in Uttarakhand's public policy and current affairs?",
+    "options": [
+      "Cultural heritage is preserved by forgetting traditional arts",
+      "Sports policy applies only to professional stadiums outside India",
+      "Sports and culture have zero value for youth or communities",
+      "It nurtures athletic talent (including mountaineering, adventure, and mainstream sports), preserves folk arts/languages/festivals, and promotes youth engagement and state identity"
+    ],
+    "correct_option": 3,
+    "explanation": "Supporting sports infrastructure, athletes, and cultural heritage strengthens youth engagement and preserves Uttarakhand's identity.",
+    "source_page": 53,
+    "correct_answer": "It nurtures athletic talent (including mountaineering, adventure, and mainstream sports), preserves folk arts/languages/festivals, and promotes youth engagement and state identity"
+  },
+  {
+    "id": "q745",
+    "chapter": "Uttarakhand - Polity, Governance, Administration, Welfare Schemes and Current Affairs",
+    "topic": "Welfare Schemes and Current Affairs",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Why must 'Scheme Implementation' emphasize last-mile reach and convergence across departments?",
+    "options": [
+      "Because last-mile villages never need access to services",
+      "Because convergence prevents beneficiaries from receiving help",
+      "Because duplicating work without coordination always saves money",
+      "Because overlapping or siloed programs can leave remote households underserved unless departments coordinate delivery, eligibility awareness, and local infrastructure"
+    ],
+    "correct_option": 3,
+    "explanation": "Inter-departmental convergence and last-mile outreach ensure schemes actually reach intended families in remote areas.",
+    "source_page": 53,
+    "correct_answer": "Because overlapping or siloed programs can leave remote households underserved unless departments coordinate delivery, eligibility awareness, and local infrastructure"
+  },
+  {
+    "id": "q746",
+    "chapter": "Uttarakhand - Polity, Governance, Administration, Welfare Schemes and Current Affairs",
+    "topic": "Welfare Schemes and Current Affairs",
+    "difficulty": "medium",
+    "type": "direct",
+    "question": "How should an exam candidate connect static chapters (geography, history, culture, economy, polity) with 'Current Affairs' for Uttarakhand?",
+    "options": [
+      "By linking news events—such as new schemes, infrastructure projects, court/legislative updates, or ecological initiatives—to their underlying geographical, constitutional, or economic concepts",
+      "By memorizing isolated headlines without understanding context",
+      "By ignoring static fundamentals completely",
+      "By treating current events as unrelated to the state"
+    ],
+    "correct_option": 0,
+    "explanation": "Connecting current affairs to static concepts deepens retention and helps answer analytical and application-based exam questions.",
+    "source_page": 53,
+    "correct_answer": "By linking news events—such as new schemes, infrastructure projects, court/legislative updates, or ecological initiatives—to their underlying geographical, constitutional, or economic concepts"
+  },
+  {
+    "id": "q747",
+    "chapter": "Uttarakhand - Polity, Governance, Administration, Welfare Schemes and Current Affairs",
+    "topic": "Welfare Schemes and Current Affairs",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "Why is 'Affordable Housing and Basic Civic Amenities' (clean drinking water, sanitation, electricity, connectivity) vital for inclusive development?",
+    "options": [
+      "Basic amenities directly improve public health, safety, dignity, and economic productivity for low-income and rural/urban households",
+      "Civic amenities only benefit high-income households",
+      "Lack of safe water and sanitation improves community health",
+      "Housing has no effect on family stability"
+    ],
+    "correct_option": 0,
+    "explanation": "Safe housing, clean water, sanitation, and reliable utilities form the foundation of inclusive living standards.",
+    "source_page": 53,
+    "correct_answer": "Basic amenities directly improve public health, safety, dignity, and economic productivity for low-income and rural/urban households"
+  },
+  {
+    "id": "q748",
+    "chapter": "Uttarakhand - Polity, Governance, Administration, Welfare Schemes and Current Affairs",
+    "topic": "Welfare Schemes and Current Affairs",
+    "difficulty": "hard",
+    "type": "direct",
+    "question": "What overarching principle ties together Polity, Governance, Welfare Schemes, and Current Affairs in Chapter 12?",
+    "options": [
+      "Operating administration without accountability or rules",
+      "Concentrating all public attention on a single city while ignoring citizen welfare and law",
+      "Treating governance and welfare as completely separate from citizens' lives",
+      "Responsive, transparent, and inclusive governance that delivers constitutional rights, public services, and welfare sustainably across Uttarakhand's diverse hill and plain regions"
+    ],
+    "correct_option": 3,
+    "explanation": "Effective governance translates constitutional institutions and public policies into equitable, sustainable outcomes for citizens.",
+    "source_page": 53,
+    "correct_answer": "Responsive, transparent, and inclusive governance that delivers constitutional rights, public services, and welfare sustainably across Uttarakhand's diverse hill and plain regions"
   }
 ]
